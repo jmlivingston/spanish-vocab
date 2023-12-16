@@ -1,0 +1,33 @@
+.test-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  text-align: center;
+}
+
+main.content {
+  font-size: 36px;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+header,
+footer {
+  height: 50px;
+}
+
+header,
+footer {
+  margin: 0px auto;
+}
+
+header,
+footer {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}

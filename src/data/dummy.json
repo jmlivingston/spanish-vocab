@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "question": "que",
+    "questionDetails": "Así que respeta las limitaciones que ese sobreviviente pueda tener.",
+    "answer": "that, which, who",
+    "answerDetails": "So respect those limitations that that survivor may have."
+  },
+  {
+    "id": 2,
+    "question": "no",
+    "questionDetails": "Tratar los síntomas y no la causa.",
+    "answer": "not, does it",
+    "answerDetails": "Treating the symptoms and not the cause."
+  },
+  {
+    "id": 3,
+    "question": "a",
+    "questionDetails": "Puede ser que sea lo que me pasó a mi.",
+    "answer": "to",
+    "answerDetails": "Maybe that’s what happened to me."
+  },
+  {
+    "id": 4,
+    "question": "de",
+    "questionDetails": "Este tipo de libro.",
+    "answer": "of, to, in",
+    "answerDetails": "This type of book."
+  },
+  {
+    "id": 5,
+    "question": "la",
+    "questionDetails": "La parte superior de un autobús.",
+    "answer": "the, it",
+    "answerDetails": "The top of a bus."
+  },
+  {
+    "id": 6,
+    "question": "y",
+    "questionDetails": "Y te preocupa rías.",
+    "answer": "and",
+    "answerDetails": "And you would worry."
+  },
+  {
+    "id": 7,
+    "question": "me",
+    "questionDetails": "Voy a quitarme la chaqueta porque tengo mucho calor.",
+    "answer": "my",
+    "answerDetails": "I’m going to take off my jacket because I’m really hot."
+  },
+  {
+    "id": 8,
+    "question": "es",
+    "questionDetails": "Me gusta esta cafetera. Es fácil de usar.",
+    "answer": "it is, you are, he is",
+    "answerDetails": "I like this coffee maker. It is easy to use."
+  },
+  {
+    "id": 9,
+    "question": "lo",
+    "questionDetails": "No tengo planes establecidos y estoy abierto a lo.",
+    "answer": "what, it",
+    "answerDetails": "I have no set plans and am open to whatevs."
+  },
+  {
+    "id": 10,
+    "question": "qué",
+    "answer": "that"
+  }
+]
