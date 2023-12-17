@@ -1,0 +1,686 @@
+[
+  {
+    "id": 4601,
+    "question": "isla",
+    "questionDetails": "La isla de Man.",
+    "answer": "isle",
+    "answerDetails": "The Isle of Man."
+  },
+  {
+    "id": 4602,
+    "question": "jodiendo",
+    "questionDetails": "Eso apesta a ti jodiendo con la gente.",
+    "answer": "screwing, kidding, kidding me",
+    "answerDetails": "It just reeks of you screwing with people."
+  },
+  {
+    "id": 4603,
+    "question": "tranquilas",
+    "questionDetails": "Se quedaron tranquilas, sus mandíbulas de trabajo.",
+    "answer": "quiet, calm, tranquil",
+    "answerDetails": "They stood quiet, their jaws working."
+  },
+  {
+    "id": 4604,
+    "question": "cagada",
+    "questionDetails": "Traes el parabrisas lleno de cagadas de paloma.",
+    "answer": "crap",
+    "answerDetails": "Your windshield is covered in pigeon crap."
+  },
+  {
+    "id": 4605,
+    "question": "párate",
+    "questionDetails": "Párate junto a la puerta.",
+    "answer": "stand",
+    "answerDetails": "Stand against the door."
+  },
+  {
+    "id": 4606,
+    "question": "escondiendo",
+    "questionDetails": "Debes estas escondiendo algo.",
+    "answer": "hiding, hidin’, stashing",
+    "answerDetails": "You must be hiding something."
+  },
+  {
+    "id": 4607,
+    "question": "debiste",
+    "questionDetails": "Le debiste de dar su lugar.",
+    "answer": "should",
+    "answerDetails": "You should give it to her instead."
+  },
+  {
+    "id": 4608,
+    "question": "incendio",
+    "questionDetails": "El incendio se descontroló y se quemaron 2 fábricas cercanas.",
+    "answer": "fire, blaze",
+    "answerDetails": "The fire got out of control and burned two nearby factories."
+  },
+  {
+    "id": 4609,
+    "question": "servirle",
+    "questionDetails": "Si desea servirle, baje la bandera …",
+    "answer": "serve",
+    "answerDetails": "If you wish to serve it, take down that flag …"
+  },
+  {
+    "id": 4610,
+    "question": "traicionar",
+    "questionDetails": "No debo traicionar esa confianza.",
+    "answer": "betray",
+    "answerDetails": "I must not betray that trust."
+  },
+  {
+    "id": 4611,
+    "question": "acompáñeme",
+    "answer": "Join me"
+  },
+  {
+    "id": 4612,
+    "question": "agradecida",
+    "questionDetails": "Te estaré eternamente agradecida.",
+    "answer": "grateful, thankful, appreciative",
+    "answerDetails": "I will be eternally grateful to you."
+  },
+  {
+    "id": 4613,
+    "question": "suéltalo",
+    "answer": "Release it"
+  },
+  {
+    "id": 4614,
+    "question": "limón",
+    "questionDetails": "Y té con limón.",
+    "answer": "lemon",
+    "answerDetails": "And tea with lemon."
+  },
+  {
+    "id": 4615,
+    "question": "confundida",
+    "questionDetails": "Pero quizás solo estaba confundida en este nuevo ambiente.",
+    "answer": "confused, confounded, mistaken",
+    "answerDetails": "But maybe she’s just confused in this new environment."
+  },
+  {
+    "id": 4616,
+    "question": "andamos",
+    "questionDetails": "Cuando nosotros andamos en caminos de pecado.",
+    "answer": "walk",
+    "answerDetails": "When we walk on roads of sin."
+  },
+  {
+    "id": 4617,
+    "question": "raya",
+    "questionDetails": "Las cebras tienen rayas blancas y negras.",
+    "answer": "stripe, streak, ray",
+    "answerDetails": "Zebras have black and white stripes."
+  },
+  {
+    "id": 4618,
+    "question": "sospechar",
+    "questionDetails": "Si el doble se cae, todos empezarán a sospechar.",
+    "answer": "suspect",
+    "answerDetails": "If the double faIls off, everyone will suspect."
+  },
+  {
+    "id": 4619,
+    "question": "casarte",
+    "questionDetails": "Puedes casarte con quien quieras.",
+    "answer": "marry, get married",
+    "answerDetails": "You can marry anybody you like."
+  },
+  {
+    "id": 4620,
+    "question": "asustada",
+    "questionDetails": "Yo estaba más asustada de eso.",
+    "answer": "scared, frightened, afraid",
+    "answerDetails": "I was more scared of that."
+  },
+  {
+    "id": 4621,
+    "question": "reto",
+    "questionDetails": "El espadachín aceptó el reto de su rival.",
+    "answer": "challenge, dare",
+    "answerDetails": "The swordsman took up his rival’s challenge."
+  },
+  {
+    "id": 4622,
+    "question": "deseos",
+    "questionDetails": "Brisas amistosas, ayuden los deseos de los buenos corazones.",
+    "answer": "desires, wishes, lusts",
+    "answerDetails": "Friendly breezes, favor the desires of such good hearts."
+  },
+  {
+    "id": 4623,
+    "question": "cristo",
+    "answer": "Christ"
+  },
+  {
+    "id": 4624,
+    "question": "oreja",
+    "questionDetails": "¡ Caramba! ¡ Mira qué orejas más grandes tiene!.",
+    "answer": "lug",
+    "answerDetails": "Blimey, look at the size of those lugs!."
+  },
+  {
+    "id": 4625,
+    "question": "injusticia",
+    "questionDetails": "Lo que te hicieron fue una injusticia papá.",
+    "answer": "injustice",
+    "answerDetails": "What they did to you was an injustice, dad."
+  },
+  {
+    "id": 4626,
+    "question": "actividades",
+    "questionDetails": "Tienen actividades excelentes para los aspirantes.",
+    "answer": "activities, efforts",
+    "answerDetails": "They have great activities for prospective freshmen."
+  },
+  {
+    "id": 4627,
+    "question": "estuviéramos",
+    "questionDetails": "Como si estuviéramos malditos.",
+    "answer": "were",
+    "answerDetails": "As if it were cursed."
+  },
+  {
+    "id": 4628,
+    "question": "desgraciadamente",
+    "questionDetails": "Desgraciadamente, murieron en el accidente.",
+    "answer": "unfortunately, sadly",
+    "answerDetails": "Unfortunately, they died in the accident."
+  },
+  {
+    "id": 4629,
+    "question": "exagerado",
+    "questionDetails": "El informe exagerado de ganancias llevó a un aumento injustificado en el precio de las acciones de la compañía.",
+    "answer": "inflated",
+    "answerDetails": "The inflated earnings report led to an unjustified increase in the company’s stock price."
+  },
+  {
+    "id": 4630,
+    "question": "prepare",
+    "questionDetails": "Se prepare para moverse.",
+    "answer": "prepare, prep",
+    "answerDetails": "Prepare to be moved."
+  },
+  {
+    "id": 4631,
+    "question": "conste",
+    "questionDetails": "conste que encontrar el defensor público …",
+    "answer": "record",
+    "answerDetails": "record i find the public defender …"
+  },
+  {
+    "id": 4632,
+    "question": "equivocando",
+    "questionDetails": "Estás equivocando tu amabilidad con debilidad.",
+    "answer": "wrong",
+    "answerDetails": "You wrong your kindness for weakness."
+  },
+  {
+    "id": 4633,
+    "question": "preferido",
+    "questionDetails": "La fuerza no es nuestro modo preferido de manejar estas situaciones.",
+    "answer": "preferred, favored",
+    "answerDetails": "Force is not our preferred way to handle these situations."
+  },
+  {
+    "id": 4634,
+    "question": "autobús",
+    "questionDetails": "Tomamos el autobús de las 7 am a Santiago de Chile.",
+    "answer": "coach, bus",
+    "answerDetails": "We took the 7 A.M. coach to Santiago in Chile."
+  },
+  {
+    "id": 4635,
+    "question": "celebración",
+    "questionDetails": "La celebración de fin de año promete ser espectacular.",
+    "answer": "celebration, festivity",
+    "answerDetails": "The year-end celebration promises to be spectacular."
+  },
+  {
+    "id": 4636,
+    "question": "valga",
+    "questionDetails": "Espero que valga la pena.",
+    "answer": "worth",
+    "answerDetails": "Hope it was worth it."
+  },
+  {
+    "id": 4637,
+    "question": "ciudadano",
+    "questionDetails": "Todo ciudadano tiene sus derechos.",
+    "answer": "citizen",
+    "answerDetails": "Every citizen has rights."
+  },
+  {
+    "id": 4638,
+    "question": "asesinado",
+    "questionDetails": "Yo era el socio del hombre asesinado.",
+    "answer": "murdered, killed, assassinated",
+    "answerDetails": "I was the murdered man’s partner."
+  },
+  {
+    "id": 4639,
+    "question": "ayudara",
+    "questionDetails": "Sería una bendición si nos ayudara.",
+    "answer": "help",
+    "answerDetails": "It will be a blessing if you help us."
+  },
+  {
+    "id": 4640,
+    "question": "cultura",
+    "questionDetails": "La cultura griega es rica en historia y tradición.",
+    "answer": "culture, education, arts",
+    "answerDetails": "Greek culture is rich with history and tradition."
+  },
+  {
+    "id": 4641,
+    "question": "muevo",
+    "questionDetails": "Me muevo más rápido solo.",
+    "answer": "move",
+    "answerDetails": "I move faster alone."
+  },
+  {
+    "id": 4642,
+    "question": "cuidarme",
+    "questionDetails": "… están aquí, querían cuidarme.",
+    "answer": "take care",
+    "answerDetails": "… are here, they wanted to take care."
+  },
+  {
+    "id": 4643,
+    "question": "promesas",
+    "questionDetails": "Las promesas en el futuro serán aún más impredecibles.",
+    "answer": "promises, pledges, vows",
+    "answerDetails": "The future promises to be even more unpredictable."
+  },
+  {
+    "id": 4644,
+    "question": "salidas",
+    "questionDetails": "Cables y salidas del amplificador.",
+    "answer": "outputs, exits, departures",
+    "answerDetails": "Cables and amplifier outputs."
+  },
+  {
+    "id": 4645,
+    "question": "conversaciones",
+    "questionDetails": "El propósito de las conversaciones es llegar a un acuerdo sobre el tema nuclear.",
+    "answer": "talks",
+    "answerDetails": "The purpose of the talks was to come to an agreement over the nuclear issue."
+  },
+  {
+    "id": 4646,
+    "question": "recuperación",
+    "questionDetails": "Las condiciones climáticas dificultaron la recuperación de los cuerpos de los dos montañeros.",
+    "answer": "retrieval, recovery, recuperation",
+    "answerDetails": "Weather conditions have hindered the retrieval of the two mountaineers’ bodies."
+  },
+  {
+    "id": 4647,
+    "question": "masa",
+    "questionDetails": "Una masa de nubarrones anunciaba la llegada de una tormenta.",
+    "answer": "mass, body, batter",
+    "answerDetails": "A mass of grey clouds announced the coming of a storm."
+  },
+  {
+    "id": 4648,
+    "question": "indicado",
+    "questionDetails": "Este gel es muy suave, e indicado para todos los tipos de piel.",
+    "answer": "suitable",
+    "answerDetails": "This gel is very gentle and suitable for all skin types."
+  },
+  {
+    "id": 4649,
+    "question": "querrá",
+    "questionDetails": "Sé que querrá una taza de café cuando despierte, así que déjeme mostrarle dónde está la cafetera.",
+    "answer": "you will want",
+    "answerDetails": "I know you will want a cup of coffee when you wake up, so let me show you where the coffee maker is."
+  },
+  {
+    "id": 4650,
+    "question": "receta",
+    "questionDetails": "No hay una receta para la felicidad.",
+    "answer": "recipe",
+    "answerDetails": "There is no recipe for happiness."
+  },
+  {
+    "id": 4651,
+    "question": "protegido",
+    "questionDetails": "Las plantas necesitan un lugar sombreado y protegido en el jardín.",
+    "answer": "sheltered",
+    "answerDetails": "The plants need a shady, sheltered spot in the garden."
+  },
+  {
+    "id": 4652,
+    "question": "sígueme",
+    "questionDetails": "Si no sabes el camino, sígueme en el coche.",
+    "answer": "follow me",
+    "answerDetails": "If you don’t know the way, follow me in the car."
+  },
+  {
+    "id": 4653,
+    "question": "reconocimiento",
+    "questionDetails": "Los sistemas de identificación pueden incluir el reconocimiento de imágenes y rostros.",
+    "answer": "recognition, appreciation, acknowledgment",
+    "answerDetails": "Identification systems can include the recognition of images and faces."
+  },
+  {
+    "id": 4654,
+    "question": "raíz",
+    "questionDetails": "Para poder curarla, necesitamos averiguar cuál es la raíz de la enfermedad.",
+    "answer": "root cause",
+    "answerDetails": "To be able to cure it, we need to figure out what the root cause of the illness is."
+  },
+  {
+    "id": 4655,
+    "question": "pensaría",
+    "questionDetails": "Pero la gente pensaría que lo hiciste.",
+    "answer": "think",
+    "answerDetails": "But people will think you did."
+  },
+  {
+    "id": 4656,
+    "question": "principales",
+    "questionDetails": "Los motores principales comienzan en cuatro minutos.",
+    "answer": "main, major, principal",
+    "answerDetails": "Main engines start in four minutes."
+  },
+  {
+    "id": 4657,
+    "question": "falleció",
+    "answer": "Died"
+  },
+  {
+    "id": 4658,
+    "question": "hilo",
+    "questionDetails": "Ella puso su aguja y el hilo de distancia.",
+    "answer": "thread, wire, strand",
+    "answerDetails": "She put her needle and thread away."
+  },
+  {
+    "id": 4659,
+    "question": "mínima",
+    "questionDetails": "Apunto de cruzar altura mínima de crucero.",
+    "answer": "minimum, min, lowest",
+    "answerDetails": "About to cross minimum cruise height."
+  },
+  {
+    "id": 4660,
+    "question": "bajes",
+    "questionDetails": "Será mejor que la bajes, amigo.",
+    "answer": "down",
+    "answerDetails": "Better put it down then, mate."
+  },
+  {
+    "id": 4661,
+    "question": "harán",
+    "questionDetails": "Te harán pagar extra para la entrega.",
+    "answer": "they will make",
+    "answerDetails": "They will make you pay extra for delivery."
+  },
+  {
+    "id": 4662,
+    "question": "arreglarlo",
+    "questionDetails": "Llama a alguien que venga a arreglarlo.",
+    "answer": "fix it",
+    "answerDetails": "Call someone to come over and fix it."
+  },
+  {
+    "id": 4663,
+    "question": "efectos",
+    "questionDetails": "Después de sobrevivir el huracán, todos sus efectos personales cabían en una sola caja.",
+    "answer": "effects",
+    "answerDetails": "After surviving the hurricane, all his personal effects could fit into one Box."
+  },
+  {
+    "id": 4664,
+    "question": "naciste",
+    "questionDetails": "Tú que naciste ciego deberías entender la empatía …",
+    "answer": "born",
+    "answerDetails": "You of all people, born blind should understand empathy …"
+  },
+  {
+    "id": 4665,
+    "question": "roba",
+    "questionDetails": "Ya sabes, la que roba niños.",
+    "answer": "steals, robs",
+    "answerDetails": "You know, who steals children."
+  },
+  {
+    "id": 4666,
+    "question": "impacto",
+    "questionDetails": "En el momento del impacto.",
+    "answer": "impact",
+    "answerDetails": "On impact."
+  },
+  {
+    "id": 4667,
+    "question": "causas",
+    "questionDetails": "El héroe de causas perdidas.",
+    "answer": "causes, reasons, cases",
+    "answerDetails": "The hero of lost causes."
+  },
+  {
+    "id": 4668,
+    "question": "ventanas",
+    "answer": "Windows"
+  },
+  {
+    "id": 4669,
+    "question": "volveremos",
+    "questionDetails": "Volveremos con comida para los hambrientos.",
+    "answer": "we will return",
+    "answerDetails": "We will return with food for the hungry."
+  },
+  {
+    "id": 4670,
+    "question": "pisar",
+    "questionDetails": "Deberías pisar con cuidado.",
+    "answer": "tread",
+    "answerDetails": "You should tread carefully."
+  },
+  {
+    "id": 4671,
+    "question": "regalado",
+    "questionDetails": "Pensé que la habías regalado.",
+    "answer": "given, gifted",
+    "answerDetails": "I thought you’d given it."
+  },
+  {
+    "id": 4672,
+    "question": "neta",
+    "questionDetails": "No hay suficiente fuerza neta para alcanzar el levantamiento aerodinámico.",
+    "answer": "net",
+    "answerDetails": "Not enough net force to achieve aerodynamic lift."
+  },
+  {
+    "id": 4673,
+    "question": "pará",
+    "answer": "Pará"
+  },
+  {
+    "id": 4674,
+    "question": "franco",
+    "questionDetails": "El candidato principal es un Franco detractor del sistema público de salud.",
+    "answer": "outspoken",
+    "answerDetails": "The primary candidate is an outspoken critic of the healthcare system."
+  },
+  {
+    "id": 4675,
+    "question": "entendés",
+    "questionDetails": "Y además yo siempre le digo,¿entendés?",
+    "answer": "understand",
+    "answerDetails": "I always tell her, do you understand?"
+  },
+  {
+    "id": 4676,
+    "question": "selva",
+    "questionDetails": "Política de poder reflejaba la ley de la selva.",
+    "answer": "jungle, forest",
+    "answerDetails": "Power politics reflected the law of the jungle."
+  },
+  {
+    "id": 4677,
+    "question": "sobrina",
+    "questionDetails": "Su sobrina no sabía nada de hombres.",
+    "answer": "niece",
+    "answerDetails": "Your niece knew nothing of such men."
+  },
+  {
+    "id": 4678,
+    "question": "candidato",
+    "questionDetails": "Ni un solo candidato aceptable.",
+    "answer": "candidate",
+    "answerDetails": "Not one acceptable candidate."
+  },
+  {
+    "id": 4679,
+    "question": "tequila",
+    "questionDetails": "Tú hueles a tequila.",
+    "answer": "tequila",
+    "answerDetails": "You smell like tequila."
+  },
+  {
+    "id": 4680,
+    "question": "galán",
+    "questionDetails": "Marlon es sólo un empleado de oficina, pero se esfuerza por vestirse siempre como un galán.",
+    "answer": "beau",
+    "answerDetails": "Marlon is just a clerk in an office, but he strives to always dress like a beau."
+  },
+  {
+    "id": 4681,
+    "question": "amiguita",
+    "questionDetails": "Esto es todo lo que queda de tu amiguita.",
+    "answer": "girlfriend, playmate",
+    "answerDetails": "This is all that’s left of your girlfriend."
+  },
+  {
+    "id": 4682,
+    "question": "soldados",
+    "questionDetails": "Tuvimos que destinar más de 2, 000 soldados al extranjero para ayudar con el esfuerzo bélico.",
+    "answer": "troops",
+    "answerDetails": "We had to deploy over 2,000 troops abroad to aid in the war effort."
+  },
+  {
+    "id": 4683,
+    "question": "espéreme",
+    "questionDetails": "Usted solo espéreme aquí en la mesa.",
+    "answer": "wait",
+    "answerDetails": "You just wait here at the table."
+  },
+  {
+    "id": 4684,
+    "question": "gimnasio",
+    "questionDetails": "Repito, apoyo al gimnasio.",
+    "answer": "gymnasium",
+    "answerDetails": "I repeat, backup in the gymnasium!"
+  },
+  {
+    "id": 4685,
+    "question": "nieta",
+    "questionDetails": "Mi nieta tenía un demonio.",
+    "answer": "granddaughter",
+    "answerDetails": "My granddaughter had a demon in her."
+  },
+  {
+    "id": 4686,
+    "question": "suéltala",
+    "questionDetails": "Suéltala y muéstreme sus manos.",
+    "answer": "drop",
+    "answerDetails": "Drop it and show me your hands."
+  },
+  {
+    "id": 4687,
+    "question": "cancha",
+    "questionDetails": "Mi complejo residencial tiene una cancha de tenis.",
+    "answer": "court",
+    "answerDetails": "My apartment complex has a tennis court."
+  },
+  {
+    "id": 4688,
+    "question": "pizza",
+    "questionDetails": "Gracias por la pizza.",
+    "answer": "pizza",
+    "answerDetails": "Thanks for the pizza."
+  },
+  {
+    "id": 4689,
+    "question": "préstamo",
+    "questionDetails": "Pagamos el préstamo bancario antes de la fecha estipulada en el contrato.",
+    "answer": "loan",
+    "answerDetails": "We repaid the bank loan before the date agreed on in the contract."
+  },
+  {
+    "id": 4690,
+    "question": "maquillaje",
+    "questionDetails": "Taylor se pone maquillaje todas las mañanas antes de salir de la casa.",
+    "answer": "makeup",
+    "answerDetails": "Taylor puts her makeup on every morning before leaving the house."
+  },
+  {
+    "id": 4691,
+    "question": "armados",
+    "questionDetails": "Los sospechosos están probablemente armados y son peligrosos.",
+    "answer": "armed, armoured",
+    "answerDetails": "Suspects are possibly armed and dangerous."
+  },
+  {
+    "id": 4692,
+    "question": "mosca",
+    "questionDetails": "Y la vida de una mosca es aún más corta.",
+    "answer": "fly",
+    "answerDetails": "And the life of a fly is even shorter."
+  },
+  {
+    "id": 4693,
+    "question": "fan",
+    "answer": "fan"
+  },
+  {
+    "id": 4694,
+    "question": "materiales",
+    "questionDetails": "Yo deseo pedir los materiales para hacer un testamento.",
+    "answer": "materials",
+    "answerDetails": "I wish to request materials to make a will."
+  },
+  {
+    "id": 4695,
+    "question": "trabaje",
+    "answer": "Work"
+  },
+  {
+    "id": 4696,
+    "question": "posiblemente",
+    "questionDetails": "¿Vas a venir a mi fiesta de cumpleaños?-Posiblemente.",
+    "answer": "maybe",
+    "answerDetails": "Are you coming to my birthday party?-Maybe."
+  },
+  {
+    "id": 4697,
+    "question": "novela",
+    "questionDetails": "En su última novela, la autora exploró el feminismo y la sexualidad.",
+    "answer": "novel",
+    "answerDetails": "In her last novel, the author explored feminism and sexuality."
+  },
+  {
+    "id": 4698,
+    "question": "trates",
+    "questionDetails": "No trates de librarte de mí.",
+    "answer": "try, treat, tryto",
+    "answerDetails": "Do not try to weasel out on me."
+  },
+  {
+    "id": 4699,
+    "question": "prepárate",
+    "questionDetails": "Prepárate, Janet. Nos vamos en 5 minutos.",
+    "answer": "get ready",
+    "answerDetails": "Get ready, Janet. We’re leaving in five minutes."
+  },
+  {
+    "id": 4700,
+    "question": "explosión",
+    "questionDetails": "Dio salida a toda su frustración en una explosión de ira.",
+    "answer": "explosion, burst",
+    "answerDetails": "All her frustration came out in an explosion of anger."
+  }
+]

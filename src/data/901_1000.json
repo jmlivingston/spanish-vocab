@@ -1,0 +1,684 @@
+[
+  {
+    "id": 901,
+    "question": "cae",
+    "questionDetails": "Cada vez que cae una dinastía.",
+    "answer": "falls, drops, tumbles",
+    "answerDetails": "Each time a dynasty falls."
+  },
+  {
+    "id": 902,
+    "question": "tenían",
+    "questionDetails": "Después del silbato del comienzo se tenían que ir todos.",
+    "answer": "had",
+    "answerDetails": "After the initial whistle all had to leave."
+  },
+  {
+    "id": 903,
+    "question": "llamaba",
+    "answer": "Called"
+  },
+  {
+    "id": 904,
+    "question": "alma",
+    "questionDetails": "Llorar es bueno para el alma.",
+    "answer": "soul, heart, spirit",
+    "answerDetails": "Crying is good for the soul."
+  },
+  {
+    "id": 905,
+    "question": "escúchame",
+    "questionDetails": "Sólo escúchame y responde.",
+    "answer": "listen",
+    "answerDetails": "Just listen and answer."
+  },
+  {
+    "id": 906,
+    "question": "lindo",
+    "questionDetails": "Los dos hermanos eran lo suficientemente lindos para encontrar un par de mujeres ricas y casarse con ellos.",
+    "answer": "cute",
+    "answerDetails": "The two brothers were cute enough to find a couple of rich women and marry them."
+  },
+  {
+    "id": 907,
+    "question": "interesa",
+    "questionDetails": "Pero a ambos les interesa.",
+    "answer": "interested, interest, care",
+    "answerDetails": "But you two are interested."
+  },
+  {
+    "id": 908,
+    "question": "vuelva",
+    "questionDetails": "Vuelva aquí en una hora, por favor.",
+    "answer": "be back, he comes back",
+    "answerDetails": "Be back here in an hour, please."
+  },
+  {
+    "id": 909,
+    "question": "irme",
+    "questionDetails": "Si me obligan a irme.",
+    "answer": "go, leave",
+    "answerDetails": "And if you make me go."
+  },
+  {
+    "id": 910,
+    "question": "solos",
+    "questionDetails": "¿Quieren seguirme?-No, gracias. Sabemos llegar solos.",
+    "answer": "on our own, by themselves, by ourselves",
+    "answerDetails": "Do you want to follow me?-No, thanks. We know how to get there on our own."
+  },
+  {
+    "id": 911,
+    "question": "ninguno",
+    "questionDetails": "Usted no conoce a ninguno de mis amigos.",
+    "answer": "any",
+    "answerDetails": "You don’t know any of my friends."
+  },
+  {
+    "id": 912,
+    "question": "daba",
+    "answer": "i would give"
+  },
+  {
+    "id": 913,
+    "question": "negocio",
+    "questionDetails": "¿Cómo va el negocio?",
+    "answer": "business, deal",
+    "answerDetails": "How’s business?"
+  },
+  {
+    "id": 914,
+    "question": "linda",
+    "answer": "Linda, cutest, prettier"
+  },
+  {
+    "id": 915,
+    "question": "grave",
+    "questionDetails": "Fue un choque espeluznante, pero su estado no es grave.",
+    "answer": "serious, severe, acute",
+    "answerDetails": "It was a bad crash, but his condition is not serious."
+  },
+  {
+    "id": 916,
+    "question": "hacerle",
+    "questionDetails": "Su mano saldrá y podrá hacerle una pregunta.",
+    "answer": "ask, make",
+    "answerDetails": "Their hand comes out and you can ask it questions."
+  },
+  {
+    "id": 917,
+    "question": "traigo",
+    "questionDetails": "Esta semana me traigo el cachorro nuevo a casa.",
+    "answer": "i am bringing",
+    "answerDetails": "I am bringing my new puppy home this week."
+  },
+  {
+    "id": 918,
+    "question": "mando",
+    "questionDetails": "Hay un mando en la parte superior izquierda del horno con el que puedes programar el reloj automático.",
+    "answer": "knob, officer",
+    "answerDetails": "There is a knob at the top left of the oven which allows you to set the timer."
+  },
+  {
+    "id": 919,
+    "question": "tantas",
+    "answer": "as many"
+  },
+  {
+    "id": 920,
+    "question": "secreto",
+    "questionDetails": "Revelar or contar un secreto a alguien.",
+    "answer": "secret, secrecy",
+    "answerDetails": "To let somebody into a secret."
+  },
+  {
+    "id": 921,
+    "question": "minuto",
+    "questionDetails": "Deja reposar el huevo en agua hervida por 10 minutos.",
+    "answer": "minute",
+    "answerDetails": "Let the egg sit in boiled water for 10 Minutes."
+  },
+  {
+    "id": 922,
+    "question": "vista",
+    "questionDetails": "Es aconsejable no dejar bolsos a la vista.",
+    "answer": "view, sight, eye",
+    "answerDetails": "It is advisable not to leave handbags on view."
+  },
+  {
+    "id": 923,
+    "question": "fuego",
+    "questionDetails": "La policía devolvió el fuego y lo hirió.",
+    "answer": "fire, heat, flame",
+    "answerDetails": "Police returned fire and wounded him."
+  },
+  {
+    "id": 924,
+    "question": "dejan",
+    "questionDetails": "Los que nos dejan.",
+    "answer": "leave, let, cease",
+    "answerDetails": "Those that leave us."
+  },
+  {
+    "id": 925,
+    "question": "éramos",
+    "questionDetails": "Dijiste que éramos investigadores.",
+    "answer": "were",
+    "answerDetails": "You said we were investigators."
+  },
+  {
+    "id": 926,
+    "question": "cárcel",
+    "questionDetails": "Puedes acabar en la cárcel por robo.",
+    "answer": "jail, prison",
+    "answerDetails": "You can end up in jail for robbery."
+  },
+  {
+    "id": 927,
+    "question": "preocupe",
+    "questionDetails": "O quizá eso no te preocupe.",
+    "answer": "worry",
+    "answerDetails": "Or maybe that doesn’t worry you."
+  },
+  {
+    "id": 928,
+    "question": "decirte",
+    "questionDetails": "Muero por decirte lo que pasó en mi cita Anoche.",
+    "answer": "tell you",
+    "answerDetails": "I’m dying to tell you what happened on my date last night."
+  },
+  {
+    "id": 929,
+    "question": "habitación",
+    "questionDetails": "Comparto la habitación con mi hermana pequeña.",
+    "answer": "bedroom",
+    "answerDetails": "I share my bedroom with my little sister."
+  },
+  {
+    "id": 930,
+    "question": "explicar",
+    "questionDetails": "Explicarse.",
+    "answer": "explain",
+    "answerDetails": "To explain oneself."
+  },
+  {
+    "id": 931,
+    "question": "nota",
+    "questionDetails": "Es un vino sutil con notas de vainilla y limón.",
+    "answer": "note, memo, statement",
+    "answerDetails": "It’s a subtle wine with notes of Vanilla and lemon."
+  },
+  {
+    "id": 932,
+    "question": "quise",
+    "questionDetails": "Alguna vez lo quise, pero ya no.",
+    "answer": "i loved",
+    "answerDetails": "There was a time when I loved him, but I don’t anymore."
+  },
+  {
+    "id": 933,
+    "question": "accidente",
+    "questionDetails": "Es un milagro que nadie saliera herido del accidente de avión.",
+    "answer": "crash, wreck",
+    "answerDetails": "It’s a miracle that no one was injured in the plane crash."
+  },
+  {
+    "id": 934,
+    "question": "quédate",
+    "questionDetails": "Quédate justo sobre mis manos.",
+    "answer": "stay, stick",
+    "answerDetails": "Stay right on my hands."
+  },
+  {
+    "id": 935,
+    "question": "dirección",
+    "questionDetails": "“Venerable” era la forma habitual de la dirección de un sacerdote en ese momento.",
+    "answer": "address, direction, directorate",
+    "answerDetails": "‘Venerable’ was the usual form of address for a priest at that time."
+  },
+  {
+    "id": 936,
+    "question": "momentos",
+    "answer": "Moments"
+  },
+  {
+    "id": 937,
+    "question": "correr",
+    "questionDetails": "Debo correr, llego tarde.",
+    "answer": "dash",
+    "answerDetails": "I must dash, I’m late."
+  },
+  {
+    "id": 938,
+    "question": "compañeros",
+    "questionDetails": "Los gatos son excelentes compañeros.",
+    "answer": "companions, fellows, classmates",
+    "answerDetails": "Cats make wonderful companions."
+  },
+  {
+    "id": 939,
+    "question": "subir",
+    "questionDetails": "Este archivo está tardando mucho en subir.",
+    "answer": "upload, climb",
+    "answerDetails": "This file is taking ages to upload."
+  },
+  {
+    "id": 940,
+    "question": "llena",
+    "questionDetails": "Anhelo que su estadía este llena de iluminación.",
+    "answer": "filled, full, crowded",
+    "answerDetails": "I hope your stay is filled with much enlightenment."
+  },
+  {
+    "id": 941,
+    "question": "total",
+    "questionDetails": "Intentar convencerla fue una pérdida de tiempo total.",
+    "answer": "complete, overall",
+    "answerDetails": "Trying to convince her was a complete waste of time."
+  },
+  {
+    "id": 942,
+    "question": "idiota",
+    "questionDetails": "Arañé el carro de alguien y no le dejé una nota.-Eres idiota.",
+    "answer": "schmuck",
+    "answerDetails": "I scratched someone’s car and didn’t leave a note.-You schmuck."
+  },
+  {
+    "id": 943,
+    "question": "jugando",
+    "questionDetails": "Todos jugando al mismo juego.",
+    "answer": "playing, toying, playin’",
+    "answerDetails": "All playing the same game."
+  },
+  {
+    "id": 944,
+    "question": "vergüenza",
+    "questionDetails": "La gente hoy no lo considera una vergüenza.",
+    "answer": "shame, embarrassment, disgrace",
+    "answerDetails": "People today don’t consider it a shame."
+  },
+  {
+    "id": 945,
+    "question": "propio",
+    "questionDetails": "Por derecho propio.",
+    "answer": "own, proper",
+    "answerDetails": "In one’s own right."
+  },
+  {
+    "id": 946,
+    "question": "salido",
+    "questionDetails": "Nunca hemos salido realmente.",
+    "answer": "out",
+    "answerDetails": "We were never really going out."
+  },
+  {
+    "id": 947,
+    "question": "golpe",
+    "questionDetails": "José le dio un golpe a Tom en la nariz.",
+    "answer": "strike, stroke, swipe",
+    "answerDetails": "Jose landed a strike on Tom’s nose."
+  },
+  {
+    "id": 948,
+    "question": "pasan",
+    "questionDetails": "Los días pasan siempre iguales.",
+    "answer": "pass, spend, happen",
+    "answerDetails": "The days pass, always the same."
+  },
+  {
+    "id": 949,
+    "question": "mirando",
+    "questionDetails": "Yo le vi mirando.",
+    "answer": "looking, watching, staring",
+    "answerDetails": "I saw you looking."
+  },
+  {
+    "id": 950,
+    "question": "oiga",
+    "answer": "Hey, hear, listen"
+  },
+  {
+    "id": 951,
+    "question": "sepa",
+    "questionDetails": "Busquen a gente que sepa.",
+    "answer": "know",
+    "answerDetails": "Seek out people who know."
+  },
+  {
+    "id": 952,
+    "question": "hable",
+    "answer": "Talk"
+  },
+  {
+    "id": 953,
+    "question": "placer",
+    "questionDetails": "Le preguntó si podría tener el placer de llevarla a almorzar.",
+    "answer": "pleasure, treat, joy",
+    "answerDetails": "He asked if he might have the pleasure of taking her to lunch."
+  },
+  {
+    "id": 954,
+    "question": "hagan",
+    "questionDetails": "Hagan lo que puedan.",
+    "answer": "do, make",
+    "answerDetails": "Do the best you can."
+  },
+  {
+    "id": 955,
+    "question": "habías",
+    "questionDetails": "Pensé que lo habías hecho.",
+    "answer": "you",
+    "answerDetails": "I thought you did it."
+  },
+  {
+    "id": 956,
+    "question": "pareja",
+    "questionDetails": "Mi pareja y yo estamos pensando en comprar una casa juntos.",
+    "answer": "partner, mate",
+    "answerDetails": "My partner and I are considering buying a house together."
+  },
+  {
+    "id": 957,
+    "question": "volvió",
+    "questionDetails": "Volvió de su viaje de servicio con una perspectiva del mundo muy diferente.",
+    "answer": "she returned",
+    "answerDetails": "She returned from her service trip with a very different perspective on the world."
+  },
+  {
+    "id": 958,
+    "question": "conocí",
+    "questionDetails": "Nunca lo conocí en la vida real.",
+    "answer": "met, knew",
+    "answerDetails": "I never met the man in my life."
+  },
+  {
+    "id": 959,
+    "question": "broma",
+    "questionDetails": "Los otros estaban jugando una broma en su.",
+    "answer": "joke, prank, gag",
+    "answerDetails": "The others were playing a joke on her."
+  },
+  {
+    "id": 960,
+    "question": "derecha",
+    "questionDetails": "Hicieron una serie ordenada de pases por encima de la derecha.",
+    "answer": "right, forehand",
+    "answerDetails": "They made a neat series of passes over on the right."
+  },
+  {
+    "id": 961,
+    "question": "perdóname",
+    "questionDetails": "Perdóname. No era mi intención hacerte daño.",
+    "answer": "forgive me, pardon me",
+    "answerDetails": "Forgive me. I didn’t mean to hurt you."
+  },
+  {
+    "id": 962,
+    "question": "rico",
+    "questionDetails": "La carga de impuestos sobre los ricos.",
+    "answer": "wealthy, delicious",
+    "answerDetails": "The burden of taxation on the wealthy."
+  },
+  {
+    "id": 963,
+    "question": "terminó",
+    "questionDetails": "El encantamiento empezó y terminó en el jardín.",
+    "answer": "ended, ended up, finished",
+    "answerDetails": "The enchantment began and ended in the grove."
+  },
+  {
+    "id": 964,
+    "question": "cocina",
+    "questionDetails": "Pasamos la noche probando la cocina local.",
+    "answer": "cuisine, stove",
+    "answerDetails": "We spent the evening sampling the local cuisine."
+  },
+  {
+    "id": 965,
+    "question": "varias",
+    "questionDetails": "Existen varias razones para que esto suceda.",
+    "answer": "several",
+    "answerDetails": "There are several reasons for this."
+  },
+  {
+    "id": 966,
+    "question": "gustaba",
+    "questionDetails": "Me gustaba la composición.",
+    "answer": "liked, enjoyed",
+    "answerDetails": "I liked the arrangement."
+  },
+  {
+    "id": 967,
+    "question": "hotel",
+    "questionDetails": "Ese era el camarero del hotel.",
+    "answer": "hotel",
+    "answerDetails": "That was the waiter from the hotel."
+  },
+  {
+    "id": 968,
+    "question": "resulta",
+    "questionDetails": "Pero ya ves, cada cosa resulta de lo mejor.",
+    "answer": "turns out, resulting, is",
+    "answerDetails": "But you see, every thing turns out for the best."
+  },
+  {
+    "id": 969,
+    "question": "hermanos",
+    "questionDetails": "Mis hermanos siempre me toman el pelo.",
+    "answer": "brothers, siblings",
+    "answerDetails": "My brothers are always teasing me."
+  },
+  {
+    "id": 970,
+    "question": "perdona",
+    "questionDetails": "Algunos dicen olvida y perdona.",
+    "answer": "forgive, sorry, excuse me",
+    "answerDetails": "Some people say forgive and forget."
+  },
+  {
+    "id": 971,
+    "question": "yendo",
+    "questionDetails": "El contrato que mencionó antes está yendo bien.",
+    "answer": "going, leaving, heading",
+    "answerDetails": "The contract that you mentioned earlier is going well."
+  },
+  {
+    "id": 972,
+    "question": "totalmente",
+    "questionDetails": "Estaba totalmente agotado cuando regresamos a casa del Aeropuerto.",
+    "answer": "fully, totally, completely",
+    "answerDetails": "I was fully exhausted when we got home from the airport."
+  },
+  {
+    "id": 973,
+    "question": "conocido",
+    "questionDetails": "Estarás trabajando con Fernando en este proyecto. ¿Lo conoces?-Sí, somos conocidos.",
+    "answer": "acquainted",
+    "answerDetails": "You’ll be working with Fernando on this project. Do you know him?-Yes, we’re acquainted."
+  },
+  {
+    "id": 974,
+    "question": "parecía",
+    "questionDetails": "Parecía más flaca con ese vestido.",
+    "answer": "she looked, he appeared, it looked like",
+    "answerDetails": "She looked skinnier in that dress."
+  },
+  {
+    "id": 975,
+    "question": "quisiera",
+    "questionDetails": "Quisiera ganar la lotería para no tener que trabajar más.",
+    "answer": "i would like",
+    "answerDetails": "I would like to win the lottery so that I don’t have to work anymore."
+  },
+  {
+    "id": 976,
+    "question": "trato",
+    "questionDetails": "Hacer un trato.",
+    "answer": "deal, bargain",
+    "answerDetails": "To do a deal."
+  },
+  {
+    "id": 977,
+    "question": "disculpe",
+    "questionDetails": "Disculpe, ¿es este el tren para ir a Nueva York?",
+    "answer": "excuse me, pardon me, forgive me",
+    "answerDetails": "Excuse me. Is this the right train for New York?"
+  },
+  {
+    "id": 978,
+    "question": "pidiendo",
+    "questionDetails": "Nadie le está pidiendo que lo haga.",
+    "answer": "asking, requesting, begging",
+    "answerDetails": "And no one is asking you to."
+  },
+  {
+    "id": 979,
+    "question": "pies",
+    "questionDetails": "Ah, tengo los pies hinchados.",
+    "answer": "feet",
+    "answerDetails": "My feet are swelling."
+  },
+  {
+    "id": 980,
+    "question": "asunto",
+    "questionDetails": "Los británicos se les da la preeminencia en el asunto del té.",
+    "answer": "matter, subject, issue",
+    "answerDetails": "The British are given pre-eminence in the matter of tea."
+  },
+  {
+    "id": 981,
+    "question": "cargo",
+    "questionDetails": "La acusación presentó los cargos al jurado.",
+    "answer": "charge, office, position",
+    "answerDetails": "The prosecution presented the charges to the jury."
+  },
+  {
+    "id": 982,
+    "question": "precisamente",
+    "questionDetails": "Tienes que decirnos precisamente lo que quieres que hagamos, para que no nos equivoquemos.",
+    "answer": "precisely",
+    "answerDetails": "You have to tell us precisely what you want us to do, so we don’t make mistakes."
+  },
+  {
+    "id": 983,
+    "question": "arreglar",
+    "questionDetails": "Te arreglaré con una habitación.",
+    "answer": "fix, mend",
+    "answerDetails": "I’ll fix you up with a room."
+  },
+  {
+    "id": 984,
+    "question": "reunión",
+    "questionDetails": "Se convocó una reunión del personal docente para discutir el presupuesto.",
+    "answer": "conference, reunion",
+    "answerDetails": "A Staff Conference was convened to discuss the budget."
+  },
+  {
+    "id": 985,
+    "question": "pedí",
+    "questionDetails": "Le pedí ver sus informes psiquiátricos.",
+    "answer": "asked, ordered",
+    "answerDetails": "I asked to see his psychiatric reports."
+  },
+  {
+    "id": 986,
+    "question": "manda",
+    "questionDetails": "Ana dejó una manda de 100 hectáreas a sus nietos.",
+    "answer": "bequest",
+    "answerDetails": "Ana left a bequest of 100 hectares to her grandchildren."
+  },
+  {
+    "id": 987,
+    "question": "haría",
+    "questionDetails": "Me imagino que las haría.",
+    "answer": "would",
+    "answerDetails": "I imagine it would."
+  },
+  {
+    "id": 988,
+    "question": "tiro",
+    "questionDetails": "Cada uno de sus tiros alcanzó al plato.",
+    "answer": "shot, throw, kick",
+    "answerDetails": "Every one of his shots hit a clay pigeon."
+  },
+  {
+    "id": 989,
+    "question": "viviendo",
+    "questionDetails": "Mi padre cree que viviendo experiencias difíciles una persona se vuelve más fuerte.",
+    "answer": "by having",
+    "answerDetails": "My father believes that by having difficult experiences, a person becomes stronger."
+  },
+  {
+    "id": 990,
+    "question": "público",
+    "questionDetails": "Todo oficial público recibirá un aguinaldo de 5000 pesos.",
+    "answer": "public",
+    "answerDetails": "All public servants will receive a Christmas bonus of 5000 pesos."
+  },
+  {
+    "id": 991,
+    "question": "pago",
+    "questionDetails": "Impago M.",
+    "answer": "payment, payout",
+    "answerDetails": "Non payment."
+  },
+  {
+    "id": 992,
+    "question": "locura",
+    "questionDetails": "La locura de mi padre evolucionaba a medida que envejecía.",
+    "answer": "madness, insanity, folly",
+    "answerDetails": "My father’s madness progressed as he got older."
+  },
+  {
+    "id": 993,
+    "question": "tomando",
+    "answer": "by having"
+  },
+  {
+    "id": 994,
+    "question": "real",
+    "questionDetails": "La estimación era mucho menor que el costo real.",
+    "answer": "actual, royal, true",
+    "answerDetails": "The estimate was much less than the actual cost."
+  },
+  {
+    "id": 995,
+    "question": "pequeña",
+    "questionDetails": "De pequeña, me encantaba escuchar sus cuentos.",
+    "answer": "little girl, petite",
+    "answerDetails": "When I was a little girl I loved to hear her stories."
+  },
+  {
+    "id": 996,
+    "question": "oficina",
+    "questionDetails": "Fue expulsado de la oficina en 1988.",
+    "answer": "office, bureau",
+    "answerDetails": "He was ejected from office in 1988."
+  },
+  {
+    "id": 997,
+    "question": "siga",
+    "answer": "drive on"
+  },
+  {
+    "id": 998,
+    "question": "guerra",
+    "questionDetails": "La guerra ha costado las vidas de miles de soldados y civiles.",
+    "answer": "war",
+    "answerDetails": "The war has cost thousands of soldiers and civilians their lives."
+  },
+  {
+    "id": 999,
+    "question": "imbécil",
+    "questionDetails": "Oye, algún imbécil está meando en el pasillo de tu edificio.",
+    "answer": "dickhead, prick",
+    "answerDetails": "Hey, some dickhead is peeing in the hallway of your building."
+  },
+  {
+    "id": 1000,
+    "question": "aparte",
+    "questionDetails": "Bromas aparte, hacen un trabajo realmente notable.",
+    "answer": "apart, aside, separate",
+    "answerDetails": "Joking apart, they do a really remarkable job."
+  }
+]

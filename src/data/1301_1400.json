@@ -1,0 +1,688 @@
+[
+  {
+    "id": 1301,
+    "question": "compañero",
+    "questionDetails": "Era mi compañero en el furgón.",
+    "answer": "partner",
+    "answerDetails": "He was my partner in the truck."
+  },
+  {
+    "id": 1302,
+    "question": "nuevas",
+    "answer": "New"
+  },
+  {
+    "id": 1303,
+    "question": "dormido",
+    "questionDetails": "Pronto se quedó dormido.",
+    "answer": "asleep",
+    "answerDetails": "He soon fell asleep."
+  },
+  {
+    "id": 1304,
+    "question": "llevaba",
+    "questionDetails": "Ella llevaba un vestido de diseñador cuando le tomaron la foto.",
+    "answer": "she wore, he carried, i was wearing",
+    "answerDetails": "She wore a designer gown when they took her picture."
+  },
+  {
+    "id": 1305,
+    "question": "sube",
+    "answer": "he puts on"
+  },
+  {
+    "id": 1306,
+    "question": "segundos",
+    "questionDetails": "Hace dos segundos estaba relajado.",
+    "answer": "seconds, sec",
+    "answerDetails": "I was relaxed about two seconds ago."
+  },
+  {
+    "id": 1307,
+    "question": "ventana",
+    "questionDetails": "Acércate a la ventana y mírame.",
+    "answer": "window",
+    "answerDetails": "Go to the window and look at me."
+  },
+  {
+    "id": 1308,
+    "question": "pa",
+    "questionDetails": "Todo porque pa te convenció.",
+    "answer": "pa, AP, BP",
+    "answerDetails": "Everything because pa convinced you."
+  },
+  {
+    "id": 1309,
+    "question": "espere",
+    "answer": "Wait"
+  },
+  {
+    "id": 1310,
+    "question": "oficial",
+    "questionDetails": "Los miembros sabrían cuando la acción industrial es oficial.",
+    "answer": "official, officer",
+    "answerDetails": "Members would know when industrial action is official."
+  },
+  {
+    "id": 1311,
+    "question": "embarazada",
+    "questionDetails": "Yo ya estaba embarazada cuando salió de la cárcel.",
+    "answer": "pregnant",
+    "answerDetails": "I was already pregnant when he got out of prison."
+  },
+  {
+    "id": 1312,
+    "question": "acaso",
+    "questionDetails": "Señora, acaso vernos os ha sorprendido.",
+    "answer": "perhaps",
+    "answerDetails": "Perhaps madame is surprised to see us!"
+  },
+  {
+    "id": 1313,
+    "question": "cenar",
+    "questionDetails": "Cenaron pavo, relleno y verduras asadas en su festín del Día de Acción de Gracias.",
+    "answer": "dine, eat dinner",
+    "answerDetails": "They dined on turkey, stuffing, and roasted vegetables for their Thanksgiving feast."
+  },
+  {
+    "id": 1314,
+    "question": "exacto",
+    "questionDetails": "Los detalles exactos todavía estaban siendo elaborado.",
+    "answer": "exact",
+    "answerDetails": "The exact details were still being worked out."
+  },
+  {
+    "id": 1315,
+    "question": "contento",
+    "questionDetails": "Estoy contento de saber que al final perdonaste a tu hermano.",
+    "answer": "glad, satisfied",
+    "answerDetails": "I’m glad to know that in the end you forgave your brother."
+  },
+  {
+    "id": 1316,
+    "question": "salgo",
+    "questionDetails": "… una buena idea que salgo con gente de mi edad.",
+    "answer": "hang out, out",
+    "answerDetails": "… a good idea to hang out with people my own age."
+  },
+  {
+    "id": 1317,
+    "question": "depende",
+    "answer": "Depends on"
+  },
+  {
+    "id": 1318,
+    "question": "escuchando",
+    "questionDetails": "Mi espada está escuchando.",
+    "answer": "listening, hearing, Iistening",
+    "answerDetails": "My sword is listening."
+  },
+  {
+    "id": 1319,
+    "question": "interesante",
+    "questionDetails": "Será muy interesante ver lo que vienen con.",
+    "answer": "interesting",
+    "answerDetails": "It will be very interesting to see what they come up with."
+  },
+  {
+    "id": 1320,
+    "question": "toques",
+    "questionDetails": "Vete a la parte de atrás y no toques nada.",
+    "answer": "touch, hints, curfews",
+    "answerDetails": "Get in the back and don’t touch anything."
+  },
+  {
+    "id": 1321,
+    "question": "obra",
+    "questionDetails": "La obra de arte en la chaqueta de polvo se repite en la cubierta.",
+    "answer": "artwork, construction, building site",
+    "answerDetails": "The artwork on the dust jacket is repeated on the cover."
+  },
+  {
+    "id": 1322,
+    "question": "deseo",
+    "questionDetails": "Que se aferraban juntos en el deseo feroz.",
+    "answer": "desire",
+    "answerDetails": "They were clinging together in fierce desire."
+  },
+  {
+    "id": 1323,
+    "question": "ocurra",
+    "questionDetails": "Que esto les ocurra a dos miembros del equipo.",
+    "answer": "happen, occur, dare",
+    "answerDetails": "For this to happen to two members of the team."
+  },
+  {
+    "id": 1324,
+    "question": "sal",
+    "questionDetails": "Sales de baño.",
+    "answer": "salt",
+    "answerDetails": "(bath) salts."
+  },
+  {
+    "id": 1325,
+    "question": "piernas",
+    "questionDetails": "Y tengo las piernas lo bastante largas.",
+    "answer": "legs, Iegs, lap",
+    "answerDetails": "And my legs are quite long enough."
+  },
+  {
+    "id": 1326,
+    "question": "uh",
+    "questionDetails": "Tengo se, uh, se declaración aquí mismo.",
+    "answer": "uh",
+    "answerDetails": "I have her, uh, statement right here."
+  },
+  {
+    "id": 1327,
+    "question": "malas",
+    "questionDetails": "Las películas fueron malas.",
+    "answer": "bad, evil, poor",
+    "answerDetails": "The movies were bad."
+  },
+  {
+    "id": 1328,
+    "question": "modo",
+    "questionDetails": "No lo vemos de ese modo.",
+    "answer": "way",
+    "answerDetails": "We do not see it that way."
+  },
+  {
+    "id": 1329,
+    "question": "olvidar",
+    "questionDetails": "Puedes olvidar tu viaje al parque de atracciones.",
+    "answer": "forget",
+    "answerDetails": "You can forget your trip to the amusement park."
+  },
+  {
+    "id": 1330,
+    "question": "solución",
+    "questionDetails": "¿Cómo llegaste a la solución del problema?",
+    "answer": "solution",
+    "answerDetails": "How did you arrive at the solution to the problem?"
+  },
+  {
+    "id": 1331,
+    "question": "mover",
+    "questionDetails": "Los libreros deben poder fácilmente mover esta biografía de Lincoln.",
+    "answer": "move, wiggle",
+    "answerDetails": "Booksellers should easily be able to move this biography of Lincoln."
+  },
+  {
+    "id": 1332,
+    "question": "santo",
+    "questionDetails": "Ven en nuestra presencia como testigo de este santo matrimonio.",
+    "answer": "holy",
+    "answerDetails": "Come into our presence and witness this holy matrimony."
+  },
+  {
+    "id": 1333,
+    "question": "vieron",
+    "questionDetails": "¿Qué hicieron anoche?-Vieron una película.",
+    "answer": "they watched",
+    "answerDetails": "What did they do last night?-They watched a movie."
+  },
+  {
+    "id": 1334,
+    "question": "oído",
+    "questionDetails": "Les entra por un oído y sale por el otro.",
+    "answer": "ear",
+    "answerDetails": "In one ear and out the other."
+  },
+  {
+    "id": 1335,
+    "question": "intención",
+    "questionDetails": "Negó el incendio intencional con la intención de poner en peligro la vida.",
+    "answer": "intent",
+    "answerDetails": "He denied arson with intent to endanger life."
+  },
+  {
+    "id": 1336,
+    "question": "diferentes",
+    "questionDetails": "El proletariado pasa por diferentes etapas de desarrollo.",
+    "answer": "various",
+    "answerDetails": "The proletariat goes through various stages of development."
+  },
+  {
+    "id": 1337,
+    "question": "posición",
+    "questionDetails": "Dejó muy clara su posición al comienzo del debate.",
+    "answer": "position, setting",
+    "answerDetails": "He made his position very clear at the beginning of the debate."
+  },
+  {
+    "id": 1338,
+    "question": "estuvimos",
+    "questionDetails": "Nunca sabrán que estuvimos aquí.",
+    "answer": "were, stayed",
+    "answerDetails": "Hunters will never know we were here."
+  },
+  {
+    "id": 1339,
+    "question": "enseguida",
+    "questionDetails": "Si me mandas un email por la mañana, te responderé enseguida.",
+    "answer": "straightaway, presently",
+    "answerDetails": "If you send me an email in the morning, I’ll respond straightaway."
+  },
+  {
+    "id": 1340,
+    "question": "interior",
+    "questionDetails": "Limpie el interior del parabrisas.",
+    "answer": "inside, inner, internal",
+    "answerDetails": "Wipe the inside of the windscreen."
+  },
+  {
+    "id": 1341,
+    "question": "agradezco",
+    "answer": "i am grateful"
+  },
+  {
+    "id": 1342,
+    "question": "traes",
+    "questionDetails": "Si me traes su cabeza.",
+    "answer": "bring",
+    "answerDetails": "Bring me his head."
+  },
+  {
+    "id": 1343,
+    "question": "director",
+    "questionDetails": "El director del estudio.",
+    "answer": "head",
+    "answerDetails": "The head of the whole studio."
+  },
+  {
+    "id": 1344,
+    "question": "obviamente",
+    "questionDetails": "Ella era, obviamente, poco bien.",
+    "answer": "obviously",
+    "answerDetails": "She was obviously unwell."
+  },
+  {
+    "id": 1345,
+    "question": "esperanza",
+    "questionDetails": "Tener (Grandes) esperanzas de hacer algo.",
+    "answer": "hope, expectation",
+    "answerDetails": "To have (high) hopes of doing something."
+  },
+  {
+    "id": 1346,
+    "question": "culpable",
+    "questionDetails": "Ella era culpable de un grave error de juicio.",
+    "answer": "guilty",
+    "answerDetails": "She was guilty of a serious error of judgement."
+  },
+  {
+    "id": 1347,
+    "question": "sepas",
+    "questionDetails": "Realmente no creo que sepas.",
+    "answer": "know",
+    "answerDetails": "I really don’t think you know."
+  },
+  {
+    "id": 1348,
+    "question": "inteligente",
+    "questionDetails": "Ella era una mujer joven muy inteligente y estudioso.",
+    "answer": "clever",
+    "answerDetails": "She was an extremely clever and studious young woman."
+  },
+  {
+    "id": 1349,
+    "question": "hermoso",
+    "questionDetails": "Habló en inglés hermoso.",
+    "answer": "beautiful, lovely, gorgeous",
+    "answerDetails": "She spoke in beautiful English."
+  },
+  {
+    "id": 1350,
+    "question": "responsabilidad",
+    "questionDetails": "El parque de atracciones no asume responsabilidad por objetos perdidos en las atracciones.",
+    "answer": "liability",
+    "answerDetails": "The amusement park does not accept liability for any objects lost on the rides."
+  },
+  {
+    "id": 1351,
+    "question": "permite",
+    "questionDetails": "Permite que los padres reduzcan sus ingresos gravables mientras ahorran para la educación universitaria de su hijo.",
+    "answer": "it allows",
+    "answerDetails": "It allows parents to reduce their taxable income while saving for their child’s college education."
+  },
+  {
+    "id": 1352,
+    "question": "pudiera",
+    "questionDetails": "Noah Viajaría más si pudiera.",
+    "answer": "he could",
+    "answerDetails": "Noah would travel more if he could."
+  },
+  {
+    "id": 1353,
+    "question": "vimos",
+    "questionDetails": "Vimos el amanecer esta mañana.",
+    "answer": "we saw, we watched",
+    "answerDetails": "We saw the sunrise this morning."
+  },
+  {
+    "id": 1354,
+    "question": "tira",
+    "questionDetails": "Abróchate las tiras de tus zapatos o te tropezarás en los adoquines.",
+    "answer": "strap",
+    "answerDetails": "Fasten the straps on your shoes or you’ll trip on the cobblestones."
+  },
+  {
+    "id": 1355,
+    "question": "embargo",
+    "questionDetails": "Finalmente, levantó el embargo sobre la gelatina.",
+    "answer": "embargo, lien, seizure",
+    "answerDetails": "Then it lifted the embargo on gelatine."
+  },
+  {
+    "id": 1356,
+    "question": "caminar",
+    "questionDetails": "Caminar regularmente es bueno para la salud cardiovascular.",
+    "answer": "walking",
+    "answerDetails": "Walking regularly is good for cardiovascular health."
+  },
+  {
+    "id": 1357,
+    "question": "despierta",
+    "questionDetails": "La gente dice que despierta tan renovada.",
+    "answer": "wake up, awake, wakes",
+    "answerDetails": "People say they wake up so refreshed."
+  },
+  {
+    "id": 1358,
+    "question": "campo",
+    "questionDetails": "En el escudo de armas de nuestra familia aparece una flor de lis sobre un campo azul celeste.",
+    "answer": "field, course, countryside",
+    "answerDetails": "Our family coat of arms shows a fleur-de-lis on a field of Azure blue."
+  },
+  {
+    "id": 1359,
+    "question": "intentando",
+    "questionDetails": "Todo este tiempo han estado intentando mostrarnos algo.",
+    "answer": "trying, tryingto, attempting",
+    "answerDetails": "All this time have been trying show us something."
+  },
+  {
+    "id": 1360,
+    "question": "empecé",
+    "questionDetails": "Empecé de ama de llaves en un hotel.",
+    "answer": "started, began",
+    "answerDetails": "Started by housekeeping in a hotel."
+  },
+  {
+    "id": 1361,
+    "question": "barrio",
+    "questionDetails": "Construyeron el barrio sobre puro campo.",
+    "answer": "neighbourhood, quarter",
+    "answerDetails": "The neighbourhood was built in open countryside."
+  },
+  {
+    "id": 1362,
+    "question": "preocupa",
+    "questionDetails": "Todo eso me preocupa.",
+    "answer": "worries, ‘m worried about, worried",
+    "answerDetails": "It all just worries me."
+  },
+  {
+    "id": 1363,
+    "question": "muchísimas",
+    "questionDetails": "Has entrevistado a muchísimas mujeres para este libro.",
+    "answer": "many",
+    "answerDetails": "You have interviewed many, many women for this book."
+  },
+  {
+    "id": 1364,
+    "question": "opinión",
+    "questionDetails": "Mi opinión es que siempre se debe dar por lo menos 15 por ciento de propina.",
+    "answer": "view, say, opinion",
+    "answerDetails": "My view is that you should always tip at least 15 percent."
+  },
+  {
+    "id": 1365,
+    "question": "vean",
+    "questionDetails": "Vean si tiene pulso femoral.",
+    "answer": "see",
+    "answerDetails": "See if you can get a femoral pulse."
+  },
+  {
+    "id": 1366,
+    "question": "aviso",
+    "questionDetails": "Los bomberos les dieron un aviso a los vecinos para que se marcharan de sus pisos.",
+    "answer": "warning",
+    "answerDetails": "The fire department gave the neighbors a warning to leave their apartments."
+  },
+  {
+    "id": 1367,
+    "question": "consejo",
+    "questionDetails": "Una prohibición de los autobuses escolares que utilizan la carretera fue impuesta por el Consejo del Condado.",
+    "answer": "council, board, advice",
+    "answerDetails": "A ban on school buses using the road was imposed by the County Council."
+  },
+  {
+    "id": 1368,
+    "question": "mueve",
+    "questionDetails": "Venga, mueve la mano.",
+    "answer": "move, shake, drives",
+    "answerDetails": "Now then, move your hand."
+  },
+  {
+    "id": 1369,
+    "question": "tomo",
+    "questionDetails": "… había reunido los conocimientos de este reino en un tomo.",
+    "answer": "tome, take, volume",
+    "answerDetails": "… knowledge of the fantastical realm been assembled in one tome."
+  },
+  {
+    "id": 1370,
+    "question": "izquierda",
+    "questionDetails": "Siempre he dicho que las opiniones de ese periodista son muy de la Izquierda.",
+    "answer": "left",
+    "answerDetails": "I have always said that that reporter’s views are far to the left."
+  },
+  {
+    "id": 1371,
+    "question": "romper",
+    "questionDetails": "Tenga cuidado de no romper el vidrio.",
+    "answer": "crack",
+    "answerDetails": "Take care not to crack the glass."
+  },
+  {
+    "id": 1372,
+    "question": "alrededor",
+    "questionDetails": "Irá alrededor del perímetro.",
+    "answer": "around",
+    "answerDetails": "This will go all around the perimeter."
+  },
+  {
+    "id": 1373,
+    "question": "especie",
+    "questionDetails": "Un mazo es una especie de martillo.",
+    "answer": "kind, sort",
+    "answerDetails": "A Mallet is a kind of hammer."
+  },
+  {
+    "id": 1374,
+    "question": "permitir",
+    "questionDetails": "Este software permitirá un tiempo de respuesta más rápido.",
+    "answer": "enable",
+    "answerDetails": "This software will enable quicker response times."
+  },
+  {
+    "id": 1375,
+    "question": "fíjate",
+    "questionDetails": "Fíjate en el servicio.",
+    "answer": "look",
+    "answerDetails": "Look at the service."
+  },
+  {
+    "id": 1376,
+    "question": "disculpa",
+    "questionDetails": "Me dio una disculpa por haber llegado tarde.",
+    "answer": "excuse, apology",
+    "answerDetails": "He gave me an excuse for arriving late."
+  },
+  {
+    "id": 1377,
+    "question": "bar",
+    "questionDetails": "Yo nunca hago eso, ir a un bar solo.",
+    "answer": "bar, pub, snack bar",
+    "answerDetails": "I never do that, go to a bar alone."
+  },
+  {
+    "id": 1378,
+    "question": "recuperar",
+    "questionDetails": "Me enviaron a recuperar las pelotas de su jardín.",
+    "answer": "retrieve, regain",
+    "answerDetails": "I was sent to retrieve the balls from his garden."
+  },
+  {
+    "id": 1379,
+    "question": "estudiar",
+    "questionDetails": "Se inclinó la cabeza para estudiar los planes.",
+    "answer": "study",
+    "answerDetails": "She bent her head to study the plans."
+  },
+  {
+    "id": 1380,
+    "question": "mantener",
+    "questionDetails": "Todo lo que podía mantener abajo era el agua.",
+    "answer": "keep, maintain, hold",
+    "answerDetails": "All I could keep down was water."
+  },
+  {
+    "id": 1381,
+    "question": "compromiso",
+    "questionDetails": "Gracias por la invitación, pero tengo un compromiso previo.",
+    "answer": "commitment, engagement, compromise",
+    "answerDetails": "Thanks for the invitation, but I have a prior commitment."
+  },
+  {
+    "id": 1382,
+    "question": "clases",
+    "questionDetails": "A algunos padres les parece injusto que no todos los estudiantes reciban clases extraescolares, porque se pueden quedar rezagados.",
+    "answer": "coaching",
+    "answerDetails": "Some parents feel that it’s unfair that not all students receive extracurricular coaching, because they can fall behind."
+  },
+  {
+    "id": 1383,
+    "question": "pareció",
+    "answer": "Found"
+  },
+  {
+    "id": 1384,
+    "question": "alguno",
+    "questionDetails": "¿Hay alguno de los nuevos videos disponibles?",
+    "answer": "any",
+    "answerDetails": "Are any of the new videos available?"
+  },
+  {
+    "id": 1385,
+    "question": "español",
+    "answer": "Spaniard"
+  },
+  {
+    "id": 1386,
+    "question": "irte",
+    "questionDetails": "Quizá quieras irte a casa y tomar un baño.",
+    "answer": "go, leave, walk away",
+    "answerDetails": "You should probably just go home and draw a bath."
+  },
+  {
+    "id": 1387,
+    "question": "gustado",
+    "questionDetails": "Me gusta haberte gustado.",
+    "answer": "liked",
+    "answerDetails": "I like that you liked me."
+  },
+  {
+    "id": 1388,
+    "question": "creía",
+    "questionDetails": "Hobbes fue un filósofo inglés. Creía que la religión debía estar divorciada de la política.",
+    "answer": "he believed",
+    "answerDetails": "Hobbes was an English philosopher. He believed that religion should be divorced from politics."
+  },
+  {
+    "id": 1389,
+    "question": "amigas",
+    "questionDetails": "¿Dónde está mamá?-Salió con sus amigas.",
+    "answer": "girls",
+    "answerDetails": "Where’s Mom?-She went out with the girls."
+  },
+  {
+    "id": 1390,
+    "question": "obvio",
+    "questionDetails": "Era obvio que una tormenta venía en.",
+    "answer": "obvious",
+    "answerDetails": "It was obvious a storm was coming in."
+  },
+  {
+    "id": 1391,
+    "question": "partido",
+    "questionDetails": "Punto M de partido.",
+    "answer": "match, party, game",
+    "answerDetails": "Match point."
+  },
+  {
+    "id": 1392,
+    "question": "guardia",
+    "questionDetails": "Trabajo como guardia de seguridad en un centro comercial.",
+    "answer": "guard, duty",
+    "answerDetails": "I work as a security guard at a mall."
+  },
+  {
+    "id": 1393,
+    "question": "listos",
+    "questionDetails": "Ya están casi listos para la lucha.",
+    "answer": "ready, smart, clever",
+    "answerDetails": "Now they are almost ready for the clash."
+  },
+  {
+    "id": 1394,
+    "question": "banco",
+    "questionDetails": "El banco nos concedió una hipoteca a un tipo de interés bajo.",
+    "answer": "bank, bench",
+    "answerDetails": "The bank gave us a mortgage at a low interest rate."
+  },
+  {
+    "id": 1395,
+    "question": "vengas",
+    "questionDetails": "Necesito que vengas a la boda.",
+    "answer": "come",
+    "answerDetails": "I just want you to come to the wedding."
+  },
+  {
+    "id": 1396,
+    "question": "necesitar",
+    "questionDetails": "Esperaba que pudieras necesitar transporte.",
+    "answer": "need",
+    "answerDetails": "I was hoping you might need a ride."
+  },
+  {
+    "id": 1397,
+    "question": "sacó",
+    "questionDetails": "Quiero decir, que sacó gente conmigo.",
+    "answer": "pulled, drew",
+    "answerDetails": "I mean, he pulled bodies with me."
+  },
+  {
+    "id": 1398,
+    "question": "preciosa",
+    "questionDetails": "Preciosa confunde inercia con romance.",
+    "answer": "precious, beautiful, lovely",
+    "answerDetails": "Precious has inertia confused with romance."
+  },
+  {
+    "id": 1399,
+    "question": "faltaba",
+    "questionDetails": "Lo que nos faltaba era una interfaz centralizada.",
+    "answer": "lacked, missing",
+    "answerDetails": "What we lacked was a centralized interface."
+  },
+  {
+    "id": 1400,
+    "question": "cansado",
+    "questionDetails": "Fisher se frotó los ojos cansados.",
+    "answer": "tired, weary",
+    "answerDetails": "Fisher rubbed his tired eyes."
+  }
+]

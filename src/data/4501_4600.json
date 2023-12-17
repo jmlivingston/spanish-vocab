@@ -1,0 +1,676 @@
+[
+  {
+    "id": 4501,
+    "question": "tomás",
+    "answer": "Thomas, Tomas"
+  },
+  {
+    "id": 4502,
+    "question": "mexicana",
+    "answer": "Mexican"
+  },
+  {
+    "id": 4503,
+    "question": "bruja",
+    "questionDetails": "La bruja hizo una poción mágica.",
+    "answer": "sorceress",
+    "answerDetails": "The sorceress brewed a magic potion."
+  },
+  {
+    "id": 4504,
+    "question": "mexicanos",
+    "answer": "Mexican"
+  },
+  {
+    "id": 4505,
+    "question": "bodega",
+    "questionDetails": "La escotilla de la bodega está abierta.",
+    "answer": "cellar",
+    "answerDetails": "The cellar hatch is open."
+  },
+  {
+    "id": 4506,
+    "question": "ingeniero",
+    "questionDetails": "Un ingeniero de autos.",
+    "answer": "engineer",
+    "answerDetails": "An engineer of a car."
+  },
+  {
+    "id": 4507,
+    "question": "rodríguez",
+    "answer": "Rodriguez"
+  },
+  {
+    "id": 4508,
+    "question": "videos",
+    "questionDetails": "Veo videos, como todo el mundo.",
+    "answer": "videos, tapes",
+    "answerDetails": "I watch videos, like everyone else."
+  },
+  {
+    "id": 4509,
+    "question": "cagar",
+    "questionDetails": "¡ Apúrate en el baño! ¡ Tengo que cagar y ya no aguanto!.",
+    "answer": "crap",
+    "answerDetails": "Hurry up in the bathroom! I have to crap and I can’t wait any longer!."
+  },
+  {
+    "id": 4510,
+    "question": "suelte",
+    "questionDetails": "Quiero que suelte a mi hijo.",
+    "answer": "release, drop, loosen",
+    "answerDetails": "I want you to release my son."
+  },
+  {
+    "id": 4511,
+    "question": "advertí",
+    "questionDetails": "Le advertí que no viniera.",
+    "answer": "warned",
+    "answerDetails": "I warned him not to come."
+  },
+  {
+    "id": 4512,
+    "question": "bienes",
+    "questionDetails": "China exporta billones de dólares de bienes cada año.",
+    "answer": "goods",
+    "answerDetails": "China exports billions of dollars’ worth of goods every year."
+  },
+  {
+    "id": 4513,
+    "question": "cayeron",
+    "questionDetails": "Cayeron de las nubes, por la noche.",
+    "answer": "fell, dropped, tumbled",
+    "answerDetails": "It fell from the clouds, at night."
+  },
+  {
+    "id": 4514,
+    "question": "entregue",
+    "questionDetails": "Quiero que entregue esto.",
+    "answer": "deliver",
+    "answerDetails": "I want you to deliver this."
+  },
+  {
+    "id": 4515,
+    "question": "cansé",
+    "questionDetails": "Me cansé de llevarla.",
+    "answer": "tired",
+    "answerDetails": "I get tired of it."
+  },
+  {
+    "id": 4516,
+    "question": "p",
+    "questionDetails": "Mirada de p como este.",
+    "answer": "p, Q, fr",
+    "answerDetails": "The p’s look like this."
+  },
+  {
+    "id": 4517,
+    "question": "construcción",
+    "questionDetails": "50.000 más puestos de trabajo van desde la construcción.",
+    "answer": "construction",
+    "answerDetails": "50,000 more jobs will go from construction."
+  },
+  {
+    "id": 4518,
+    "question": "traicionó",
+    "questionDetails": "Él es el hombre que te traicionó.",
+    "answer": "betrayed",
+    "answerDetails": "He is the man who betrayed you."
+  },
+  {
+    "id": 4519,
+    "question": "recompensa",
+    "questionDetails": "Jeff ofreció una recompensa por recuperar a su perro.",
+    "answer": "reward, bounty, recompense",
+    "answerDetails": "Jeff offered a reward for the return of his dog."
+  },
+  {
+    "id": 4520,
+    "question": "prométeme",
+    "questionDetails": "Prométeme que me ayudarás a averiguarlo.",
+    "answer": "promise",
+    "answerDetails": "Promise me you’ll help me find out."
+  },
+  {
+    "id": 4521,
+    "question": "agradecerle",
+    "questionDetails": "Debemos agradecerle al tío.",
+    "answer": "thank",
+    "answerDetails": "We should thank our uncle."
+  },
+  {
+    "id": 4522,
+    "question": "homicidio",
+    "questionDetails": "No negó dispararle a Will, pero afirma que fue en defensa propia y no homicidio.",
+    "answer": "homicide, murder",
+    "answerDetails": "He didn’t deny shooting Will, but he claims it was self-defense and not homicide."
+  },
+  {
+    "id": 4523,
+    "question": "comentarios",
+    "answer": "Guest reviews, comments, opinions"
+  },
+  {
+    "id": 4524,
+    "question": "conversar",
+    "questionDetails": "Era una persona de amplia cultura, capaz de conversar con facilidad sobre infinidad de temas.",
+    "answer": "converse",
+    "answerDetails": "She was widely read and could converse on any number of subjects with ease."
+  },
+  {
+    "id": 4525,
+    "question": "asqueroso",
+    "questionDetails": "Es una fruta con un olor asqueroso, pero parece gustarles en ese país.",
+    "answer": "gross, foul, lousy",
+    "answerDetails": "It is a gross smelling fruit, but they seem to appreciate it in that country."
+  },
+  {
+    "id": 4526,
+    "question": "damas",
+    "questionDetails": "¿Preferirías jugar al ajedrez o a las damas?",
+    "answer": "checkers",
+    "answerDetails": "Would you prefer to play checkers or chess?"
+  },
+  {
+    "id": 4527,
+    "question": "presos",
+    "questionDetails": "Hasta los presos son tranquilos.",
+    "answer": "prisoners, inmates, convicts",
+    "answerDetails": "Even the prisoners are quiet."
+  },
+  {
+    "id": 4528,
+    "question": "the",
+    "questionDetails": "Let’s give the winners a Big Hand!.",
+    "answer": "las",
+    "answerDetails": "¡Un aplauso Para Las Ganadoras!."
+  },
+  {
+    "id": 4529,
+    "question": "rezar",
+    "questionDetails": "Nunca aprendiste a rezar.",
+    "answer": "pray",
+    "answerDetails": "You never learned to pray."
+  },
+  {
+    "id": 4530,
+    "question": "crema",
+    "questionDetails": "Crema de tomate or.",
+    "answer": "cream, crème, lotion",
+    "answerDetails": "Cream of tomato/chicken soup."
+  },
+  {
+    "id": 4531,
+    "question": "soltero",
+    "questionDetails": "El príncipe es uno de los solteros más cotizados de europa.",
+    "answer": "bachelor",
+    "answerDetails": "The prince is one of Europe’s most eligible bachelors."
+  },
+  {
+    "id": 4532,
+    "question": "muestro",
+    "questionDetails": "Muestro el poder más grande cuando quiera a.",
+    "answer": "show, sampling",
+    "answerDetails": "It show the biggest power at any time."
+  },
+  {
+    "id": 4533,
+    "question": "pretende",
+    "questionDetails": "Pretende que lo sabes y di que sí.",
+    "answer": "pretend, aims, intended",
+    "answerDetails": "Pretend you do and say yes."
+  },
+  {
+    "id": 4534,
+    "question": "invertir",
+    "questionDetails": "Tenemos que invertir la polaridad de las bobinas de plasma.",
+    "answer": "reverse",
+    "answerDetails": "We need to reverse polarity on the plasma coils."
+  },
+  {
+    "id": 4535,
+    "question": "claros",
+    "questionDetails": "No hay más mensajes claros en este mundo.",
+    "answer": "clear, clearings, glades",
+    "answerDetails": "There are no more clear messages in this world."
+  },
+  {
+    "id": 4536,
+    "question": "encargó",
+    "questionDetails": "Nuestra espías debe encargó determinar estos.",
+    "answer": "commissioned, instructed, entrusted",
+    "answerDetails": "Our spies must be commissioned to ascertain these."
+  },
+  {
+    "id": 4537,
+    "question": "poderosa",
+    "questionDetails": "No muy sofisticada, pero sí muy poderosa.",
+    "answer": "powerful, mighty, forceful",
+    "answerDetails": "Not very sophisticated, but very powerful."
+  },
+  {
+    "id": 4538,
+    "question": "agradecerte",
+    "questionDetails": "Tiene que agradecerte por ello.",
+    "answer": "thank",
+    "answerDetails": "He has you to thank for that."
+  },
+  {
+    "id": 4539,
+    "question": "comedor",
+    "questionDetails": "Ella celebraba con frecuencia cenas en el comedor de la casa solariega.",
+    "answer": "dining hall, eating",
+    "answerDetails": "She regularly hosted dinner parties in the estate’s huge dining hall."
+  },
+  {
+    "id": 4540,
+    "question": "déjanos",
+    "questionDetails": "Jenny, ¡ déjanos conocer a tu nuevo novio!.",
+    "answer": "let us",
+    "answerDetails": "Jenny, let us meet your new boyfriend!."
+  },
+  {
+    "id": 4541,
+    "question": "apetece",
+    "questionDetails": "No me apetece la idea un poco.",
+    "answer": "fancy, want, craving",
+    "answerDetails": "I didn’t fancy the idea a bit."
+  },
+  {
+    "id": 4542,
+    "question": "apuesta",
+    "questionDetails": "Perdió mucho dinero en su última apuesta.",
+    "answer": "bet, gamble, ante",
+    "answerDetails": "He lost a lot of money on his last bet."
+  },
+  {
+    "id": 4543,
+    "question": "pónganse",
+    "questionDetails": "Bien, vamos, chicos, pónganse los abrigos.",
+    "answer": "get",
+    "answerDetails": "Come on, kids, get your coats on."
+  },
+  {
+    "id": 4544,
+    "question": "acepté",
+    "questionDetails": "Y yo acepté este principio.",
+    "answer": "accepted",
+    "answerDetails": "I accepted the principle of it."
+  },
+  {
+    "id": 4545,
+    "question": "criatura",
+    "questionDetails": "Que criatura tan noble.",
+    "answer": "creature",
+    "answerDetails": "Such a noble creature."
+  },
+  {
+    "id": 4546,
+    "question": "clarito",
+    "answer": "Clarita"
+  },
+  {
+    "id": 4547,
+    "question": "escondida",
+    "questionDetails": "Escondida en tu habitación.",
+    "answer": "hidden, stashed, tucked away",
+    "answerDetails": "Hidden in your room."
+  },
+  {
+    "id": 4548,
+    "question": "merecemos",
+    "questionDetails": "Y nos lo merecemos.",
+    "answer": "deserve",
+    "answerDetails": "And we deserve it."
+  },
+  {
+    "id": 4549,
+    "question": "traigas",
+    "questionDetails": "Mientras traigas la comida.",
+    "answer": "bring",
+    "answerDetails": "As long as you bring the food."
+  },
+  {
+    "id": 4550,
+    "question": "tragar",
+    "answer": "stomach"
+  },
+  {
+    "id": 4551,
+    "question": "trajimos",
+    "questionDetails": "Trajimos bebidas a la fiesta.",
+    "answer": "we brought",
+    "answerDetails": "We brought drinks to the party."
+  },
+  {
+    "id": 4552,
+    "question": "paguen",
+    "questionDetails": "Mientras paguen por todo.",
+    "answer": "pay",
+    "answerDetails": "As long as you pay for it."
+  },
+  {
+    "id": 4553,
+    "question": "administración",
+    "questionDetails": "Hoy en día, muchas universidades ofrecen licenciaturas en Administración de Empresas.",
+    "answer": "management, administration",
+    "answerDetails": "Nowadays, many universities offer degrees in Business Management."
+  },
+  {
+    "id": 4554,
+    "question": "pareciera",
+    "questionDetails": "Pareciera que hay alguien más aparte de nosotros.",
+    "answer": "seems",
+    "answerDetails": "There seems to be someone else apart from us."
+  },
+  {
+    "id": 4555,
+    "question": "produce",
+    "answer": "Produces"
+  },
+  {
+    "id": 4556,
+    "question": "necesidades",
+    "answer": "business"
+  },
+  {
+    "id": 4557,
+    "question": "plantas",
+    "questionDetails": "Sin las plantas, no tendríamos la posibilidad de existir en este planeta.",
+    "answer": "plant life",
+    "answerDetails": "Without plant life, we could never hope to exist on this planet."
+  },
+  {
+    "id": 4558,
+    "question": "aceptarlo",
+    "questionDetails": "La reacción humana es aceptarlo y adaptarse.",
+    "answer": "accept",
+    "answerDetails": "The human response is to accept and adapt."
+  },
+  {
+    "id": 4559,
+    "question": "técnico",
+    "questionDetails": "Un técnico del hospital.",
+    "answer": "technician",
+    "answerDetails": "Technician at the hospital."
+  },
+  {
+    "id": 4560,
+    "question": "venda",
+    "questionDetails": "Sus captores le quitaron la venda una vez que lo hubieron atado.",
+    "answer": "blindfold",
+    "answerDetails": "Once his captors had tied him up, they removed the blindfold."
+  },
+  {
+    "id": 4561,
+    "question": "joya",
+    "questionDetails": "Me encanta leer sus historias porque están llenas de joyas.",
+    "answer": "gem",
+    "answerDetails": "I love reading her stories because they are full of gems."
+  },
+  {
+    "id": 4562,
+    "question": "sitios",
+    "questionDetails": "Esta página muestra la lista de sitios que se aprobaron.",
+    "answer": "sites, places, websites",
+    "answerDetails": "This page lists the sites that were approved."
+  },
+  {
+    "id": 4563,
+    "question": "corbata",
+    "questionDetails": "Para eventos formales, normalmente lleva traje y corbata.",
+    "answer": "tie",
+    "answerDetails": "For formal events, he usually wears a suit and tie."
+  },
+  {
+    "id": 4564,
+    "question": "decírmelo",
+    "questionDetails": "Tienes que decírmelo ahora mismo.",
+    "answer": "tell me",
+    "answerDetails": "You need to tell me right now."
+  },
+  {
+    "id": 4565,
+    "question": "riendo",
+    "questionDetails": "Se miraron a los ojos del otro, riendo.",
+    "answer": "laughing, chuckling, laughingly",
+    "answerDetails": "They looked into each other’s eyes, laughing."
+  },
+  {
+    "id": 4566,
+    "question": "pegué",
+    "questionDetails": "Le pegué en la cabeza.",
+    "answer": "hit, pasted",
+    "answerDetails": "I hit him over the head."
+  },
+  {
+    "id": 4567,
+    "question": "refería",
+    "questionDetails": "Me refería a las ‘otras’ versiones de nosotros.",
+    "answer": "meant, referring, talking about",
+    "answerDetails": "I meant the ‘other’ versions of us."
+  },
+  {
+    "id": 4568,
+    "question": "toco",
+    "questionDetails": "Yo toco a otros para hacerlos sentirse bien.",
+    "answer": "touch",
+    "answerDetails": "I touch other people to make them feel better."
+  },
+  {
+    "id": 4569,
+    "question": "ciudades",
+    "questionDetails": "Y las ciudades se abandonan cuando las civilizaciones caen.",
+    "answer": "cities, towns",
+    "answerDetails": "Cities are usually abandoned when civilisations fall."
+  },
+  {
+    "id": 4570,
+    "question": "duerma",
+    "questionDetails": "Dile que duerma con un ojo abierto.",
+    "answer": "sleep, fall asleep, asleep",
+    "answerDetails": "Tell him, sleep with one eye open."
+  },
+  {
+    "id": 4571,
+    "question": "abrimos",
+    "answer": "Open"
+  },
+  {
+    "id": 4572,
+    "question": "mental",
+    "questionDetails": "La salud mental es muy importante.",
+    "answer": "mental, mentally, mind",
+    "answerDetails": "Mental health is so important."
+  },
+  {
+    "id": 4573,
+    "question": "comentar",
+    "answer": "annotate"
+  },
+  {
+    "id": 4574,
+    "question": "realizar",
+    "questionDetails": "Finalmente pude realizar el pago del seguro.",
+    "answer": "carry out",
+    "answerDetails": "I could finally carry out the insurance payment."
+  },
+  {
+    "id": 4575,
+    "question": "doloroso",
+    "questionDetails": "La cicatriz de su mano izquierda era un recordatorio doloroso de su terrible experiencia.",
+    "answer": "painful",
+    "answerDetails": "The scar on her left hand was a painful reminder of her ordeal."
+  },
+  {
+    "id": 4576,
+    "question": "vigilar",
+    "questionDetails": "Tendrás que vigilar tu peso si sigues trabajando en esa pastelería.",
+    "answer": "watch, police",
+    "answerDetails": "You’ll need to watch your weight if you go on working at that cake shop."
+  },
+  {
+    "id": 4577,
+    "question": "generar",
+    "questionDetails": "Pero el que llevo adentro puede generar miles más.",
+    "answer": "generate",
+    "answerDetails": "But the one inside of me can generate thousands more."
+  },
+  {
+    "id": 4578,
+    "question": "herramientas",
+    "questionDetails": "Creo que me he traído todas las herramientas que necesito para arreglarte el ordenador.",
+    "answer": "equipment",
+    "answerDetails": "I think I have brought with me all the equipment I need to fix your computer."
+  },
+  {
+    "id": 4579,
+    "question": "sueltes",
+    "questionDetails": "Dije que la sueltes.",
+    "answer": "drop",
+    "answerDetails": "I told you to drop it."
+  },
+  {
+    "id": 4580,
+    "question": "considera",
+    "questionDetails": "Cuando considera lo que han conseguido sus hijos, se siente orgulloso.",
+    "answer": "he looks at",
+    "answerDetails": "When he looks at what his children have all achieved, he feels a sense of pride."
+  },
+  {
+    "id": 4581,
+    "question": "normales",
+    "questionDetails": "Tiroides normales, no es hepatitis.",
+    "answer": "normal, regular, ordinary",
+    "answerDetails": "Normal thyroid means no hepatitis."
+  },
+  {
+    "id": 4582,
+    "question": "mañanas",
+    "questionDetails": "Siempre tomo una copa en las mañanas.",
+    "answer": "morning, tomorrows",
+    "answerDetails": "I always take a glass in the morning."
+  },
+  {
+    "id": 4583,
+    "question": "podrido",
+    "questionDetails": "Solíamos enviarle algo podrido.",
+    "answer": "rotten, rotting",
+    "answerDetails": "We used to send him up something rotten."
+  },
+  {
+    "id": 4584,
+    "question": "conforme",
+    "questionDetails": "Conforme a tus instrucciones, pintamos la casa de rojo.",
+    "answer": "compliance, agreed",
+    "answerDetails": "In compliance with your instructions, we painted the house red."
+  },
+  {
+    "id": 4585,
+    "question": "hablaban",
+    "questionDetails": "Cuando tus tíos estaban vivos, hablaban constantemente.",
+    "answer": "they talked",
+    "answerDetails": "When your uncles were alive, they talked constantly."
+  },
+  {
+    "id": 4586,
+    "question": "entorno",
+    "questionDetails": "Esta parte del libro describe el entorno del cuento.",
+    "answer": "setting, surroundings",
+    "answerDetails": "This part of the book describes the setting of the story."
+  },
+  {
+    "id": 4587,
+    "question": "crece",
+    "questionDetails": "Sólo entonces, realmente crece en ti.",
+    "answer": "grows, grow up",
+    "answerDetails": "Only then, does it truly grows in you."
+  },
+  {
+    "id": 4588,
+    "question": "acababa",
+    "questionDetails": "Yo acababa de encontrar esa cinta.",
+    "answer": "just, ended up",
+    "answerDetails": "I just found that tape."
+  },
+  {
+    "id": 4589,
+    "question": "enseña",
+    "questionDetails": "Doug está orgulloso de su colección de sellos y se los enseña a todos sus amigos.",
+    "answer": "he shows",
+    "answerDetails": "Doug is proud of his stamp collection, and he shows them to all of his friends."
+  },
+  {
+    "id": 4590,
+    "question": "acordaba",
+    "questionDetails": "Durante el juicio se acordaba.",
+    "answer": "remembered",
+    "answerDetails": "He remembered them correctly in court."
+  },
+  {
+    "id": 4591,
+    "question": "castillo",
+    "questionDetails": "El castillo tiene 2 torres y un foso que lo rodea.",
+    "answer": "castle",
+    "answerDetails": "The castle has two towers and is surrounded by a moat."
+  },
+  {
+    "id": 4592,
+    "question": "cuénteme",
+    "questionDetails": "Pase a mi oficina, cuénteme todo.",
+    "answer": "tell me",
+    "answerDetails": "Come to my office and tell me all about it."
+  },
+  {
+    "id": 4593,
+    "question": "concha",
+    "questionDetails": "El sonido de la concha que pasa, seguido por la explosión.",
+    "answer": "shell",
+    "answerDetails": "The sound of the shell passing over, followed by the explosion."
+  },
+  {
+    "id": 4594,
+    "question": "carajos",
+    "answer": "Damn"
+  },
+  {
+    "id": 4595,
+    "question": "cantante",
+    "answer": "singing"
+  },
+  {
+    "id": 4596,
+    "question": "bendiga",
+    "questionDetails": "Los bendiga a todos por haberme permitido vivir.",
+    "answer": "bless, blessings",
+    "answerDetails": "Bless you all for permitting me to live it."
+  },
+  {
+    "id": 4597,
+    "question": "leal",
+    "questionDetails": "Solo los seguidores más leales del candidato votaron en las pasadas elecciones.",
+    "answer": "loyal, fair",
+    "answerDetails": "Only the most loyal supporters of the candidate voted in the last election."
+  },
+  {
+    "id": 4598,
+    "question": "directora",
+    "questionDetails": "La directora les dijo a los maestros que debían ser más estrictos en la aplicación de la hora de acostarse.",
+    "answer": "headmistress",
+    "answerDetails": "The headmistress told the teachers that they needed to be stricter in the enforcement of bedtime."
+  },
+  {
+    "id": 4599,
+    "question": "atrapar",
+    "questionDetails": "Solía atrapar gusanos y jugar con ellos.",
+    "answer": "catch",
+    "answerDetails": "I used to catch worms and play with them."
+  },
+  {
+    "id": 4600,
+    "question": "chile",
+    "questionDetails": "Sólo le puse un Chile a la sopa para que no estuviera demasiado picante.",
+    "answer": "chili",
+    "answerDetails": "I only added one chili to the soup so it wouldn’t be too spicy."
+  }
+]

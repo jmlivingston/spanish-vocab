@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1101,
+    "question": "salimos",
+    "answer": "We"
+  },
+  {
+    "id": 1102,
+    "question": "lados",
+    "questionDetails": "Hay salidas por los cuatro lados de la iglesia.",
+    "answer": "sides, sided",
+    "answerDetails": "There are exits on all four sides of the church."
+  },
+  {
+    "id": 1103,
+    "question": "cambiado",
+    "questionDetails": "Me encontré con Fernando y lo vi muy cambiado desde el accidente.",
+    "answer": "changed",
+    "answerDetails": "I ran into Fernando and he has changed a lot since the accident."
+  },
+  {
+    "id": 1104,
+    "question": "espacio",
+    "questionDetails": "Se invirtió fuera del espacio de estacionamiento.",
+    "answer": "space, room, area",
+    "answerDetails": "He reversed out of the parking space."
+  },
+  {
+    "id": 1105,
+    "question": "pruebas",
+    "questionDetails": "Leyó el informe de pruebas.",
+    "answer": "evidence",
+    "answerDetails": "You read the evidence report."
+  },
+  {
+    "id": 1106,
+    "question": "ponga",
+    "questionDetails": "Ponga su mano sobre la mesa.",
+    "answer": "put, place, lay",
+    "answerDetails": "Put your hand on the table."
+  },
+  {
+    "id": 1107,
+    "question": "vengan",
+    "questionDetails": "Diles que vengan a la mesa.",
+    "answer": "come",
+    "answerDetails": "Then go tell them to come to the table."
+  },
+  {
+    "id": 1108,
+    "question": "pesar",
+    "questionDetails": "Sentimos un gran pesar cuando nuestro perro murió el mes pasado.",
+    "answer": "sorrow",
+    "answerDetails": "We felt great sorrow when our dog died last month."
+  },
+  {
+    "id": 1109,
+    "question": "suya",
+    "questionDetails": "Con permiso, señor. La chaqueta que está en la silla, ¿es la suya?",
+    "answer": "yours, hers, theirs",
+    "answerDetails": "Excuse me, sir. Is that jacket on the chair yours?"
+  },
+  {
+    "id": 1110,
+    "question": "verme",
+    "answer": "watch me"
+  },
+  {
+    "id": 1111,
+    "question": "cumpleaños",
+    "questionDetails": "El cumpleaños de mi madre es mañana.",
+    "answer": "birthday",
+    "answerDetails": "My mother’s birthday is tomorrow."
+  },
+  {
+    "id": 1112,
+    "question": "darte",
+    "answer": "Give"
+  },
+  {
+    "id": 1113,
+    "question": "acaban",
+    "questionDetails": "En lugares como el que acaban de destruir.",
+    "answer": "just",
+    "answerDetails": "At sites like the one you just destroyed."
+  },
+  {
+    "id": 1114,
+    "question": "experiencia",
+    "questionDetails": "Usted debe tener la experiencia necesaria en la gestión de la salud.",
+    "answer": "experience",
+    "answerDetails": "You should have the necessary experience in health management."
+  },
+  {
+    "id": 1115,
+    "question": "dejamos",
+    "questionDetails": "Usamos lo que queremos y dejamos el resto.",
+    "answer": "leave",
+    "answerDetails": "We take what we want and leave the rest."
+  },
+  {
+    "id": 1116,
+    "question": "termina",
+    "answer": "Ends"
+  },
+  {
+    "id": 1117,
+    "question": "damos",
+    "questionDetails": "Nos damos toda la prisa que podemos.",
+    "answer": "we",
+    "answerDetails": "We have all the haste we can."
+  },
+  {
+    "id": 1118,
+    "question": "leer",
+    "questionDetails": "Me encanta leer sobre culturas extranjeras.",
+    "answer": "read",
+    "answerDetails": "I love reading about foreign cultures."
+  },
+  {
+    "id": 1119,
+    "question": "cierra",
+    "questionDetails": "Cierra la puerta o entra.",
+    "answer": "close, shut, shuts down",
+    "answerDetails": "Either close the door or come in."
+  },
+  {
+    "id": 1120,
+    "question": "metió",
+    "answer": "Got"
+  },
+  {
+    "id": 1121,
+    "question": "diste",
+    "questionDetails": "Vendió la propiedad que le diste.",
+    "answer": "gave",
+    "answerDetails": "He sold the villa you gave him."
+  },
+  {
+    "id": 1122,
+    "question": "quedas",
+    "questionDetails": "Si trabajas, te quedas.",
+    "answer": "stay",
+    "answerDetails": "You work out, you stay."
+  },
+  {
+    "id": 1123,
+    "question": "contado",
+    "questionDetails": "Sus días al mando de la empresa están contados.",
+    "answer": "numbered",
+    "answerDetails": "His days as the head of the company are numbered."
+  },
+  {
+    "id": 1124,
+    "question": "vuelto",
+    "answer": "change"
+  },
+  {
+    "id": 1125,
+    "question": "llevan",
+    "questionDetails": "Sólo tipos así llevan semejantes estuches.",
+    "answer": "carry, lead, bear",
+    "answerDetails": "Only creeps carry such big cases."
+  },
+  {
+    "id": 1126,
+    "question": "quizá",
+    "questionDetails": "Quizá no se crean lo que oyen.",
+    "answer": "maybe",
+    "answerDetails": "Maybe they don’t believe what they hear."
+  },
+  {
+    "id": 1127,
+    "question": "ponen",
+    "questionDetails": "Lo ponen en el congelador una hora.",
+    "answer": "put, lay",
+    "answerDetails": "Put it in the freezer for an hour."
+  },
+  {
+    "id": 1128,
+    "question": "preparado",
+    "questionDetails": "Después de 2 meses de clases, creo que estoy preparado para tomar el examen de conducir.",
+    "answer": "ready, preparation, poised",
+    "answerDetails": "After two months of lessons, I think I’m ready to take the driving test."
+  },
+  {
+    "id": 1129,
+    "question": "aquel",
+    "questionDetails": "¿De qué vestido hablas?-Aquel que está en la vidriera.",
+    "answer": "that one",
+    "answerDetails": "Which dress are you talking about?-That one in the window."
+  },
+  {
+    "id": 1130,
+    "question": "quiso",
+    "questionDetails": "Yo quise salir, pero ella quiso quedarse en casa.",
+    "answer": "she wanted, he loved",
+    "answerDetails": "I wanted to go out, but she wanted to stay home."
+  },
+  {
+    "id": 1131,
+    "question": "salida",
+    "questionDetails": "El amplificador tiene una salida de 40 megavatios.",
+    "answer": "output, exit, departure",
+    "answerDetails": "The amplifier has an output of 40 megawatts."
+  },
+  {
+    "id": 1132,
+    "question": "ayúdame",
+    "answer": "Help me"
+  },
+  {
+    "id": 1133,
+    "question": "quita",
+    "questionDetails": "Quita la venda y ve.",
+    "answer": "removes",
+    "answerDetails": "It removes the bandage and you go."
+  },
+  {
+    "id": 1134,
+    "question": "dejaste",
+    "questionDetails": "¿Dejaste tu cartera en el trabajo?",
+    "answer": "did you leave, you dropped",
+    "answerDetails": "Did you leave your wallet at work?"
+  },
+  {
+    "id": 1135,
+    "question": "culo",
+    "questionDetails": "Fue operado el culo.",
+    "answer": "ass, arse, butt",
+    "answerDetails": "He had ass surgery."
+  },
+  {
+    "id": 1136,
+    "question": "llegando",
+    "questionDetails": "El tren ya está llegando.",
+    "answer": "arriving, coming, reaching",
+    "answerDetails": "The train is arriving."
+  },
+  {
+    "id": 1137,
+    "question": "bienvenido",
+    "questionDetails": "Organizamos un marco de actividades que usted es Bienvenido a unirse.",
+    "answer": "welcome",
+    "answerDetails": "We arrange a framework of activities which you are welcome to join."
+  },
+  {
+    "id": 1138,
+    "question": "pregunto",
+    "questionDetails": "Me pregunto como de lejos está el cielo.",
+    "answer": "wonder, ask",
+    "answerDetails": "I wonder how far this sky goes."
+  },
+  {
+    "id": 1139,
+    "question": "mete",
+    "questionDetails": "Nadie se mete conmigo.",
+    "answer": "messes, stuffs, tuck",
+    "answerDetails": "Nobody messes with me!"
+  },
+  {
+    "id": 1140,
+    "question": "entera",
+    "questionDetails": "Una alfombra entera de ellos.",
+    "answer": "entire, whole, learns",
+    "answerDetails": "An entire carpet of them."
+  },
+  {
+    "id": 1141,
+    "question": "destino",
+    "questionDetails": "No creo en el destino. Creo que tomamos nuestras propias decisiones.",
+    "answer": "fate, destiny",
+    "answerDetails": "I don’t believe in fate. I think we make our own choices."
+  },
+  {
+    "id": 1142,
+    "question": "últimos",
+    "questionDetails": "Estos son sus últimos recuerdos.",
+    "answer": "latest, last, past",
+    "answerDetails": "These are her latest memories."
+  },
+  {
+    "id": 1143,
+    "question": "mandó",
+    "questionDetails": "Esto es lo que me mandó.",
+    "answer": "sent, commanded, instructed",
+    "answerDetails": "These are what he sent me."
+  },
+  {
+    "id": 1144,
+    "question": "tratando",
+    "questionDetails": "Estaba tratando de parar a mi amigo.",
+    "answer": "trying, dealing, treating",
+    "answerDetails": "I was trying stop my friend."
+  },
+  {
+    "id": 1145,
+    "question": "miren",
+    "questionDetails": "Miren en el balcón.",
+    "answer": "look, looky",
+    "answerDetails": "Look up in the balcony."
+  },
+  {
+    "id": 1146,
+    "question": "completamente",
+    "questionDetails": "Queremos cosas completamente distintas de nuestras vidas.",
+    "answer": "completely, entirely, thoroughly",
+    "answerDetails": "We want completely different things out of life."
+  },
+  {
+    "id": 1147,
+    "question": "nerviosa",
+    "questionDetails": "Estaba nerviosa por la noche.",
+    "answer": "nervous, nerve, jumpy",
+    "answerDetails": "She was nervous at night."
+  },
+  {
+    "id": 1148,
+    "question": "puedas",
+    "questionDetails": "Que al menos, tú puedas dormir.",
+    "answer": "can",
+    "answerDetails": "You can sleep, at least."
+  },
+  {
+    "id": 1149,
+    "question": "hacerme",
+    "answer": "make me"
+  },
+  {
+    "id": 1150,
+    "question": "vuelvas",
+    "questionDetails": "Esperan que vuelvas muy pronto.",
+    "answer": "come back, again",
+    "answerDetails": "They hope you come back real soon."
+  },
+  {
+    "id": 1151,
+    "question": "parado",
+    "questionDetails": "La Avenida parece un estacionamiento. El tráfico está completamente parado.",
+    "answer": "stopped",
+    "answerDetails": "The avenue looks like a parking lot. Traffic is completely stopped."
+  },
+  {
+    "id": 1152,
+    "question": "unidos",
+    "answer": "United, attached, together"
+  },
+  {
+    "id": 1153,
+    "question": "libertad",
+    "questionDetails": "Tener libertad para hacer algo.",
+    "answer": "freedom, liberty",
+    "answerDetails": "To have the freedom to do something."
+  },
+  {
+    "id": 1154,
+    "question": "san",
+    "answer": "San, St, Saint"
+  },
+  {
+    "id": 1155,
+    "question": "hubieras",
+    "questionDetails": "Si te hubieras ido.",
+    "answer": "had",
+    "answerDetails": "If you had let go."
+  },
+  {
+    "id": 1156,
+    "question": "haz",
+    "questionDetails": "El granjero esparció una haz de paja para que se acostara la vaca.",
+    "answer": "bundle",
+    "answerDetails": "The farmer spread out a bundle of straw for the cow to lie down on."
+  },
+  {
+    "id": 1157,
+    "question": "hayas",
+    "questionDetails": "Cuando hayas escuchado el rugido de las olas .",
+    "answer": "beeches, you",
+    "answerDetails": "Where beeches listen to the roar of waves."
+  },
+  {
+    "id": 1158,
+    "question": "necesitaba",
+    "questionDetails": "Stephanie fue al supermercado porque necesitaba comprar papel higiénico.",
+    "answer": "she needed",
+    "answerDetails": "Stephanie went to the supermarket because she needed to Buy Toilet Paper."
+  },
+  {
+    "id": 1159,
+    "question": "complicado",
+    "questionDetails": "Un sistema estéreo complicado.",
+    "answer": "complicated, tricky",
+    "answerDetails": "A complicated stereo system."
+  },
+  {
+    "id": 1160,
+    "question": "honor",
+    "questionDetails": "Tengo el honor de presentarles al premio Nobel de Medicina.",
+    "answer": "honour",
+    "answerDetails": "It is my honour to introduce the Nobel Prize winner for Medicine."
+  },
+  {
+    "id": 1161,
+    "question": "vueltas",
+    "questionDetails": "Los coches están dando las últimas vueltas de entrenamiento.",
+    "answer": "laps, turns, spins",
+    "answerDetails": "The cars are now on their final laps of practice."
+  },
+  {
+    "id": 1162,
+    "question": "perdió",
+    "questionDetails": "Jugué al ajedrez con Sandra. Naturalmente, perdió.",
+    "answer": "she lost",
+    "answerDetails": "I played chess with Sandra. Naturally, she lost."
+  },
+  {
+    "id": 1163,
+    "question": "genial",
+    "questionDetails": "El concierto estuvo genial. Deberías haber venido con nosotros.",
+    "answer": "great, terrific, brilliant",
+    "answerDetails": "The concert was great. You should have come along."
+  },
+  {
+    "id": 1164,
+    "question": "respuesta",
+    "questionDetails": "Existe una considerable variación de especies en la respuesta del estómago al alcohol.",
+    "answer": "response, answer, reply",
+    "answerDetails": "There is considerable species variation in the stomach’s response to alcohol."
+  },
+  {
+    "id": 1165,
+    "question": "espalda",
+    "questionDetails": "Nunca te daré la espalda.",
+    "answer": "back",
+    "answerDetails": "I will never turn my back on you."
+  },
+  {
+    "id": 1166,
+    "question": "toque",
+    "questionDetails": "El chef añadió su toque especial.",
+    "answer": "touch, tap, hint",
+    "answerDetails": "The chef added his special touch."
+  },
+  {
+    "id": 1167,
+    "question": "pasamos",
+    "questionDetails": "Pasamos una hora en el hotel.",
+    "answer": "spent, had",
+    "answerDetails": "We just spent an hour at the hotel."
+  },
+  {
+    "id": 1168,
+    "question": "línea",
+    "questionDetails": "Suprima la segunda línea del tercer párrafo.",
+    "answer": "line",
+    "answerDetails": "Delete the second line of the third paragraph."
+  },
+  {
+    "id": 1169,
+    "question": "bebé",
+    "questionDetails": "Cuando lo tienes, lo logras, bebé.",
+    "answer": "baby",
+    "answerDetails": "You either got it or you don’t, baby."
+  },
+  {
+    "id": 1170,
+    "question": "arma",
+    "questionDetails": "Echa un vistazo a mi nueva arma.",
+    "answer": "weapon",
+    "answerDetails": "Check out my new weapon."
+  },
+  {
+    "id": 1171,
+    "question": "muerta",
+    "answer": "dead person"
+  },
+  {
+    "id": 1172,
+    "question": "vestido",
+    "questionDetails": "No me siento nada elegante, porque no me di cuenta de que debía llevar vestido para este evento.",
+    "answer": "gown",
+    "answerDetails": "I feel so underdressed because I did not realize that I had to wear a gown to this event."
+  },
+  {
+    "id": 1173,
+    "question": "visita",
+    "questionDetails": "Tu hijo me hizo una visita la semana pasada.",
+    "answer": "visit, tour",
+    "answerDetails": "I had a visit from your son last week."
+  },
+  {
+    "id": 1174,
+    "question": "imagínate",
+    "questionDetails": "Imagínate si lo hiciéramos juntos.",
+    "answer": "imagine",
+    "answerDetails": "Imagine if we hosted it together."
+  },
+  {
+    "id": 1175,
+    "question": "muertos",
+    "questionDetails": "Los muertos me han dado sus respuestas.",
+    "answer": "dead, dead ones, killed",
+    "answerDetails": "The dead have given me their answers."
+  },
+  {
+    "id": 1176,
+    "question": "cumplir",
+    "questionDetails": "Todos los muebles de segunda mano deben cumplir con las nuevas regulaciones.",
+    "answer": "comply, fulfill, satisfy",
+    "answerDetails": "All second-hand furniture must comply with the new regulations."
+  },
+  {
+    "id": 1177,
+    "question": "hacerte",
+    "questionDetails": "Solo era una broma; no quise hacerte llorar.",
+    "answer": "make you",
+    "answerDetails": "It was just a joke; I didn’t mean to make you cry."
+  },
+  {
+    "id": 1178,
+    "question": "darme",
+    "answer": "Me"
+  },
+  {
+    "id": 1179,
+    "question": "terrible",
+    "questionDetails": "Vinimos corriendo apenas supimos de la terrible noticia.",
+    "answer": "dreadful, awful, appalling",
+    "answerDetails": "We came running as soon as we heard the dreadful news."
+  },
+  {
+    "id": 1180,
+    "question": "ponte",
+    "questionDetails": "Ponte en el suelo.",
+    "answer": "get",
+    "answerDetails": "Get on the floor."
+  },
+  {
+    "id": 1181,
+    "question": "nacional",
+    "questionDetails": "Esta política puede haber sido en el interés nacional.",
+    "answer": "national, domestic, nationwide",
+    "answerDetails": "This policy may have been in the national interest."
+  },
+  {
+    "id": 1182,
+    "question": "memoria",
+    "questionDetails": "Es necesario destruir la memoria en el arte.",
+    "answer": "memory",
+    "answerDetails": "It is necessary to destroy memory in art."
+  },
+  {
+    "id": 1183,
+    "question": "peso",
+    "questionDetails": "Continúa llevando el peso del mundo sobre sus hombros.",
+    "answer": "weight",
+    "answerDetails": "He continues to carry the weight of the world on his shoulders."
+  },
+  {
+    "id": 1184,
+    "question": "dura",
+    "answer": "Hard"
+  },
+  {
+    "id": 1185,
+    "question": "tuviera",
+    "questionDetails": "Podía saltar como si tuviera fuego en los pies.",
+    "answer": "had",
+    "answerDetails": "She could skip like she had fire in her toes."
+  },
+  {
+    "id": 1186,
+    "question": "conocen",
+    "questionDetails": "Lo conocen por las canciones que compuso.",
+    "answer": "know, familiar",
+    "answerDetails": "You all know him from the songs he’s written."
+  },
+  {
+    "id": 1187,
+    "question": "calor",
+    "questionDetails": "El calor feroz del sol.",
+    "answer": "heat, hot, warmth",
+    "answerDetails": "The fierce heat of the sun."
+  },
+  {
+    "id": 1188,
+    "question": "plata",
+    "questionDetails": "El oro es más valioso que la Plata.",
+    "answer": "silver",
+    "answerDetails": "Gold is more valuable than silver."
+  },
+  {
+    "id": 1189,
+    "question": "muchachos",
+    "questionDetails": "El sargento convierte a los muchachos en soldados.",
+    "answer": "young men",
+    "answerDetails": "The sergeant turns young men into soldiers."
+  },
+  {
+    "id": 1190,
+    "question": "muchacho",
+    "questionDetails": "Pasamos la noche fuera con los muchachos.",
+    "answer": "boy",
+    "answerDetails": "We spent the night out with the boys."
+  },
+  {
+    "id": 1191,
+    "question": "sigues",
+    "questionDetails": "Sigues en el mismo canal.",
+    "answer": "still",
+    "answerDetails": "Still the same channel."
+  },
+  {
+    "id": 1192,
+    "question": "hagamos",
+    "questionDetails": "Depende de lo que hagamos con ella.",
+    "answer": "do",
+    "answerDetails": "It depends what we do with it."
+  },
+  {
+    "id": 1193,
+    "question": "canción",
+    "questionDetails": "La canción de Hiawatha.",
+    "answer": "song",
+    "answerDetails": "The Song of Hiawatha."
+  },
+  {
+    "id": 1194,
+    "question": "hablemos",
+    "questionDetails": "Yo digo que hablemos con el director.",
+    "answer": "talk",
+    "answerDetails": "I say we talk to the warden."
+  },
+  {
+    "id": 1195,
+    "question": "ley",
+    "questionDetails": "El Parlamento aprobó la ley.",
+    "answer": "act, legislation, statute",
+    "answerDetails": "The act was approved by Parliament."
+  },
+  {
+    "id": 1196,
+    "question": "guapa",
+    "questionDetails": "Me han dicho que es muy guapa.",
+    "answer": "pretty, beautiful, cute",
+    "answerDetails": "They say she’s very pretty."
+  },
+  {
+    "id": 1197,
+    "question": "veas",
+    "answer": "see"
+  },
+  {
+    "id": 1198,
+    "question": "hables",
+    "questionDetails": "Quiero que me hables o que escuches.",
+    "answer": "talk, speak",
+    "answerDetails": "I want you to talk or listen."
+  },
+  {
+    "id": 1199,
+    "question": "presentar",
+    "questionDetails": "Se les ordenó a los soldados que presentaran armas.",
+    "answer": "present, submit, introduce",
+    "answerDetails": "The soldiers were commanded to present arms."
+  },
+  {
+    "id": 1200,
+    "question": "escucho",
+    "questionDetails": "De vez en cuando escucho sobre cómo te está yendo.",
+    "answer": "hear, listen",
+    "answerDetails": "I once in a while hear how you are doing."
+  }
+]

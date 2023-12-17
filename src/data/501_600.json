@@ -1,0 +1,688 @@
+[
+  {
+    "id": 501,
+    "question": "pena",
+    "questionDetails": "¡ Qué pena que no tuvieran este vestido en mi talla!.",
+    "answer": "shame, sentence, pity",
+    "answerDetails": "It’s a shame that they didn’t have this dress in my size."
+  },
+  {
+    "id": 502,
+    "question": "pueda",
+    "questionDetails": "Lo más que pueda.",
+    "answer": "can",
+    "answerDetails": "As much as you can."
+  },
+  {
+    "id": 503,
+    "question": "única",
+    "questionDetails": "He buscado la camiseta blanca perfecta por una eternidad, y ésta es la única.",
+    "answer": "only one",
+    "answerDetails": "I’ve searched forever for the perfect white T-shirt, and this is the only one."
+  },
+  {
+    "id": 504,
+    "question": "gustaría",
+    "questionDetails": "Me gustaría que tuvieras compañía.",
+    "answer": "wish, ‘d, would",
+    "answerDetails": "I wish you had company."
+  },
+  {
+    "id": 505,
+    "question": "puta",
+    "questionDetails": "Es puta por naturaleza.",
+    "answer": "whore, bitch, fucking",
+    "answerDetails": "She is whore by nature."
+  },
+  {
+    "id": 506,
+    "question": "pienso",
+    "questionDetails": "Les damos a nuestros pollos solamente pienso orgánico.",
+    "answer": "feed, fodder, dry dog food",
+    "answerDetails": "We give our chickens only organic feed."
+  },
+  {
+    "id": 507,
+    "question": "acaba",
+    "questionDetails": "Me lo acaba de decir.",
+    "answer": "just, ends, finish",
+    "answerDetails": "It just told me."
+  },
+  {
+    "id": 508,
+    "question": "queremos",
+    "answer": "Want"
+  },
+  {
+    "id": 509,
+    "question": "estaban",
+    "answer": "they were"
+  },
+  {
+    "id": 510,
+    "question": "lejos",
+    "questionDetails": "Pero ya estabas lejos.",
+    "answer": "far",
+    "answerDetails": "But you were already far."
+  },
+  {
+    "id": 511,
+    "question": "palabra",
+    "questionDetails": "Lo dijiste palabra por palabra.",
+    "answer": "word",
+    "answerDetails": "It was quoted word by word."
+  },
+  {
+    "id": 512,
+    "question": "puesto",
+    "questionDetails": "Deberías solicitar ese puesto.",
+    "answer": "post, position",
+    "answerDetails": "You should apply for that post."
+  },
+  {
+    "id": 513,
+    "question": "luz",
+    "questionDetails": "Bailamos a la luz de la luna.",
+    "answer": "light, power",
+    "answerDetails": "We danced by the light of the moon."
+  },
+  {
+    "id": 514,
+    "question": "viste",
+    "questionDetails": "¿Pepe tiene novia nueva?-¡ No sé! ¿Con quién estaba cuando lo viste?",
+    "answer": "you saw him, did you see, you watched",
+    "answerDetails": "Does Pepe have a new girlfriend?-I don’t know! Who was he with when you saw him?"
+  },
+  {
+    "id": 515,
+    "question": "adónde",
+    "questionDetails": "¿Adónde va este tren?",
+    "answer": "where",
+    "answerDetails": "Where is this train headed?"
+  },
+  {
+    "id": 516,
+    "question": "vivo",
+    "questionDetails": "El color rojo vivo de su logo atrae la atención.",
+    "answer": "vivid",
+    "answerDetails": "The vivid red color of your logo catches the eye."
+  },
+  {
+    "id": 517,
+    "question": "normal",
+    "questionDetails": "Él es un tipo normal, no un gatito glamour.",
+    "answer": "regular",
+    "answerDetails": "He’s a regular guy, not a glamour puss."
+  },
+  {
+    "id": 518,
+    "question": "vienen",
+    "questionDetails": "¿Has hablado con los Robinson?-Sí, vienen esta noche.",
+    "answer": "they are coming",
+    "answerDetails": "Have you heard from the Robinsons?-Yes, they are coming tonight."
+  },
+  {
+    "id": 519,
+    "question": "raro",
+    "questionDetails": "Es raro que 1 niño de su edad tenga tanta habilidad natural para tocar jazz.",
+    "answer": "uncommon",
+    "answerDetails": "It’s uncommon for a child of his age to have so much natural ability to play jazz."
+  },
+  {
+    "id": 520,
+    "question": "ido",
+    "questionDetails": "Es como si no estuvieras aquí. Pareces estar ido.",
+    "answer": "miles away",
+    "answerDetails": "It’s as if you weren’t here. You seem to be miles away."
+  },
+  {
+    "id": 521,
+    "question": "tuyo",
+    "questionDetails": "Sabes, la gente está diciendo que es tuyo.",
+    "answer": "yours",
+    "answerDetails": "You know, folks are saying he’s yours."
+  },
+  {
+    "id": 522,
+    "question": "dime",
+    "questionDetails": "Dime lo que quieres hacer.",
+    "answer": "tell me",
+    "answerDetails": "Tell me what you want to do."
+  },
+  {
+    "id": 523,
+    "question": "quieras",
+    "questionDetails": "Podemos comprar lo que quieras.",
+    "answer": "want",
+    "answerDetails": "We can get whatever you want, you know?"
+  },
+  {
+    "id": 524,
+    "question": "seas",
+    "questionDetails": "Quiero que no seas infeliz.",
+    "answer": "be",
+    "answerDetails": "I want you not to be unhappy."
+  },
+  {
+    "id": 525,
+    "question": "hablamos",
+    "questionDetails": "Hablamos acerca de Antonio, y nos damos cuenta que nosotros 2 habíamos salido con él.",
+    "answer": "we talked",
+    "answerDetails": "We talked about Antonio, and we realized we had both dated him."
+  },
+  {
+    "id": 526,
+    "question": "meter",
+    "questionDetails": "Los empleados pueden meter un porcentaje de su salario previo a impuestos.",
+    "answer": "tuck, cram, squeeze",
+    "answerDetails": "Employees can tuck away a percentage of their pretax salary."
+  },
+  {
+    "id": 527,
+    "question": "niños",
+    "questionDetails": "Unos Niños aprenden más rápido que otros.",
+    "answer": "some kids",
+    "answerDetails": "Some kids learn faster than others."
+  },
+  {
+    "id": 528,
+    "question": "allí",
+    "questionDetails": "Estaré allí en como una hora. ¿Traigo algo?",
+    "answer": "over",
+    "answerDetails": "I’ll be over in about an hour. Should I bring anything?"
+  },
+  {
+    "id": 529,
+    "question": "mayor",
+    "questionDetails": "El mayor océano del mundo es el Pacífico.",
+    "answer": "largest, major, biggest",
+    "answerDetails": "The world’s largest ocean is the Pacific Ocean."
+  },
+  {
+    "id": 530,
+    "question": "oportunidad",
+    "questionDetails": "Aprovecha la oportunidad de estudiar en el extranjero.",
+    "answer": "opportunity",
+    "answerDetails": "Take the opportunity to study abroad."
+  },
+  {
+    "id": 531,
+    "question": "trabajando",
+    "questionDetails": "Es un sistema unificado trabajando unido.",
+    "answer": "working, workin’, laboring",
+    "answerDetails": "It is a unified system working together."
+  },
+  {
+    "id": 532,
+    "question": "calle",
+    "questionDetails": "Plano de calles.",
+    "answer": "street",
+    "answerDetails": "Street map."
+  },
+  {
+    "id": 533,
+    "question": "baño",
+    "questionDetails": "Se dieron un baño en Ik Kil, un cenote en la Riviera Maya.",
+    "answer": "swim, water closet",
+    "answerDetails": "They went for a swim in Ik Kil, a natural sinkhole in the Mayan Riviera."
+  },
+  {
+    "id": 534,
+    "question": "tema",
+    "questionDetails": "¿Podemos cambiar el tema? No quiero hablar más de eso.",
+    "answer": "topic, subject, issue",
+    "answerDetails": "Can we change the topic? I don’t want to talk about that anymore."
+  },
+  {
+    "id": 535,
+    "question": "sino",
+    "questionDetails": "No una vez sino 2.",
+    "answer": "but, fate",
+    "answerDetails": "Not once but twice."
+  },
+  {
+    "id": 536,
+    "question": "darle",
+    "questionDetails": "Es la primera vez que Charlie hace este trabajo. Tenemos que darle tiempo para adaptarse.",
+    "answer": "give him",
+    "answerDetails": "Charlie is new to the job. We need to give him time to adjust."
+  },
+  {
+    "id": 537,
+    "question": "demasiado",
+    "questionDetails": "Conducía demasiado rápido.",
+    "answer": "too, overly",
+    "answerDetails": "He was driving too fast."
+  },
+  {
+    "id": 538,
+    "question": "atención",
+    "questionDetails": "Prestar atención a algo/alguien.",
+    "answer": "attention, care, service",
+    "answerDetails": "To pay attention to something/somebody."
+  },
+  {
+    "id": 539,
+    "question": "mire",
+    "questionDetails": "Y mire lo que le pasó.",
+    "answer": "look, watch",
+    "answerDetails": "Look what happened to him."
+  },
+  {
+    "id": 540,
+    "question": "vámonos",
+    "questionDetails": "Dejemos el resto y vámonos.",
+    "answer": "go",
+    "answerDetails": "We should abandon the rest and go."
+  },
+  {
+    "id": 541,
+    "question": "posible",
+    "questionDetails": "Cuando/donde sea posible.",
+    "answer": "possible, potential",
+    "answerDetails": "Whenever/wherever possible."
+  },
+  {
+    "id": 542,
+    "question": "par",
+    "questionDetails": "La baronesa es un par que vive a poca distancia de la Casa de los Lores.",
+    "answer": "peer",
+    "answerDetails": "The Baroness is a peer living within walking distance of the House of Lords."
+  },
+  {
+    "id": 543,
+    "question": "hombres",
+    "questionDetails": "Los hombres están pidiendo más que antes.",
+    "answer": "men, Mens, guys",
+    "answerDetails": "The men’s asking for more than they did before."
+  },
+  {
+    "id": 544,
+    "question": "permiso",
+    "questionDetails": "Dar a alguien permiso para hacer algo.",
+    "answer": "permission, leave, license",
+    "answerDetails": "To give somebody permission to do something."
+  },
+  {
+    "id": 545,
+    "question": "matar",
+    "questionDetails": "Sabía que me iba a matar.",
+    "answer": "kill",
+    "answerDetails": "I knew he would kill me."
+  },
+  {
+    "id": 546,
+    "question": "muerte",
+    "questionDetails": "Incluso en la muerte, ella era hermosa.",
+    "answer": "death, killing",
+    "answerDetails": "Even in death, she was beautiful."
+  },
+  {
+    "id": 547,
+    "question": "mala",
+    "questionDetails": "Tuve la misma mala sensación antes de esa operación también.",
+    "answer": "bad, poor, ill",
+    "answerDetails": "I had the same bad feeling before that op too."
+  },
+  {
+    "id": 548,
+    "question": "estuve",
+    "questionDetails": "Yo no estuve nunca en esa escalera.",
+    "answer": "was, stayed",
+    "answerDetails": "I was never in that stairwell."
+  },
+  {
+    "id": 549,
+    "question": "joven",
+    "questionDetails": "Espero que no sea demasiado joven.",
+    "answer": "young, young man, youth",
+    "answerDetails": "Hope she’s not too young for you."
+  },
+  {
+    "id": 550,
+    "question": "toca",
+    "answer": "he plays"
+  },
+  {
+    "id": 551,
+    "question": "tuvo",
+    "questionDetails": "¿Tuvo una reunión esta mañana?-No, fue cancelada.",
+    "answer": "did you have",
+    "answerDetails": "Did you have a meeting this morning?-No, it was cancelled."
+  },
+  {
+    "id": 552,
+    "question": "viaje",
+    "questionDetails": "Un viaje en tren/avión/barco.",
+    "answer": "journey, ride, voyage",
+    "answerDetails": "A train/plane/boat journey."
+  },
+  {
+    "id": 553,
+    "question": "dejo",
+    "questionDetails": "Abro la puerta y dejo la bandeja.",
+    "answer": "leave, let",
+    "answerDetails": "I open the door and leave the tray."
+  },
+  {
+    "id": 554,
+    "question": "entender",
+    "questionDetails": "Para usted es un hombre que puede entender.",
+    "answer": "understand",
+    "answerDetails": "For you are a man that can understand."
+  },
+  {
+    "id": 555,
+    "question": "e",
+    "questionDetails": "El era rico e inteligente.",
+    "answer": "and",
+    "answerDetails": "He was rich and smart."
+  },
+  {
+    "id": 556,
+    "question": "siete",
+    "questionDetails": "Animales fueron ofrecidos para el sacrificio en sietes.",
+    "answer": "seven",
+    "answerDetails": "Animals were offered for sacrifice in sevens."
+  },
+  {
+    "id": 557,
+    "question": "adiós",
+    "questionDetails": "¡ Adiós! Te veo la semana que viene.",
+    "answer": "goodbye",
+    "answerDetails": "Goodbye! See you next week."
+  },
+  {
+    "id": 558,
+    "question": "foto",
+    "questionDetails": "Álbu M de fotos.",
+    "answer": "photo, picture, shot",
+    "answerDetails": "Photo album."
+  },
+  {
+    "id": 559,
+    "question": "dijeron",
+    "questionDetails": "Dijeron que vendrían, pero después cambiaron de idea.",
+    "answer": "they said, they told, you told",
+    "answerDetails": "They said they would come, but then they changed their minds."
+  },
+  {
+    "id": 560,
+    "question": "dan",
+    "questionDetails": "Yo soy uno de los tantos que le dan información.",
+    "answer": "give",
+    "answerDetails": "I am one of many who give him information."
+  },
+  {
+    "id": 561,
+    "question": "solamente",
+    "questionDetails": "Solamente soy un asistente. Mi jefe toma esas decisiones.",
+    "answer": "only, alone, solely",
+    "answerDetails": "I’m only an assistant. My boss makes those decisions."
+  },
+  {
+    "id": 562,
+    "question": "necesita",
+    "questionDetails": "¿Necesita algo más, señor?",
+    "answer": "do you need, it needs",
+    "answerDetails": "Do you need anything else, sir?"
+  },
+  {
+    "id": 563,
+    "question": "pagar",
+    "questionDetails": "Se empeñó en pagarlo de su propio dinero or costeárselo él mismo.",
+    "answer": "pay",
+    "answerDetails": "He insisted on paying his way."
+  },
+  {
+    "id": 564,
+    "question": "salió",
+    "answer": "Left"
+  },
+  {
+    "id": 565,
+    "question": "viejo",
+    "questionDetails": "Se quejó de ser viejo más allá de sus años.",
+    "answer": "old, ancient",
+    "answerDetails": "He complained of being old beyond his years."
+  },
+  {
+    "id": 566,
+    "question": "viendo",
+    "questionDetails": "Ya deberíamos estar viendo estrellas.",
+    "answer": "seeing, watching, viewing",
+    "answerDetails": "We should be seeing stars by now."
+  },
+  {
+    "id": 567,
+    "question": "morir",
+    "questionDetails": "Morir de las heridas recibidas.",
+    "answer": "die",
+    "answerDetails": "To die from or of one’s wounds."
+  },
+  {
+    "id": 568,
+    "question": "imposible",
+    "questionDetails": "Es imposible saber cuándo terminaremos.",
+    "answer": "impossible, difficult",
+    "answerDetails": "It’s impossible to say when we’ll finish."
+  },
+  {
+    "id": 569,
+    "question": "hiciste",
+    "questionDetails": "¿Hiciste bien en el examen?",
+    "answer": "did you do, you made it, you did it",
+    "answerDetails": "Did you do well on your test?"
+  },
+  {
+    "id": 570,
+    "question": "estuvo",
+    "questionDetails": "¿Ayer estuvo soleado?",
+    "answer": "was it",
+    "answerDetails": "Was it sunny yesterday?"
+  },
+  {
+    "id": 571,
+    "question": "déjame",
+    "questionDetails": "¿Tienen otros ejemplares de este libro?-No Estoy seguro. Déjame ver.",
+    "answer": "let me",
+    "answerDetails": "Do you have any more copies of this book?-I’m not sure. Let me check."
+  },
+  {
+    "id": 572,
+    "question": "vayas",
+    "questionDetails": "No vayas a salir así a la calle.",
+    "answer": "go, ‘re going",
+    "answerDetails": "Do not go out into the street looking so."
+  },
+  {
+    "id": 573,
+    "question": "vive",
+    "answer": "Lives"
+  },
+  {
+    "id": 574,
+    "question": "fiesta",
+    "questionDetails": "Voy a celebrar los 30 con una fiesta.",
+    "answer": "party, feast, festival",
+    "answerDetails": "I’m going to have a party for my 30th birthday."
+  },
+  {
+    "id": 575,
+    "question": "quiera",
+    "questionDetails": "Cuando usted quiera que esto termine.",
+    "answer": "want, pleases, wish",
+    "answerDetails": "When you want this to stop."
+  },
+  {
+    "id": 576,
+    "question": "edad",
+    "questionDetails": "Para esa edad, están muy metidos en el juego.",
+    "answer": "age",
+    "answerDetails": "By that age, they’re deep in the game."
+  },
+  {
+    "id": 577,
+    "question": "adentro",
+    "questionDetails": "Dejé algo aquí adentro.",
+    "answer": "in, inside",
+    "answerDetails": "I left something in here."
+  },
+  {
+    "id": 578,
+    "question": "comida",
+    "questionDetails": "El desayuno es la comida más importante del día.",
+    "answer": "meal, lunch",
+    "answerDetails": "Breakfast is the most important meal of the Day."
+  },
+  {
+    "id": 579,
+    "question": "nuestras",
+    "questionDetails": "Es muy difícil coordinar nuestras actividades.",
+    "answer": "our",
+    "answerDetails": "Coordinating our schedules is difficult."
+  },
+  {
+    "id": 580,
+    "question": "policía",
+    "questionDetails": "El policía me puso una multa por exceso de velocidad.",
+    "answer": "officer, policeman",
+    "answerDetails": "The officer issued me a speeding fine."
+  },
+  {
+    "id": 581,
+    "question": "bonito",
+    "questionDetails": "El vestido es elegante y bonito.",
+    "answer": "beautiful, lovely",
+    "answerDetails": "The dress is elegant and beautiful."
+  },
+  {
+    "id": 582,
+    "question": "piensa",
+    "questionDetails": "Piensa mucho en sus opciones antes de tomar una decisión.",
+    "answer": "he thinks, do you think",
+    "answerDetails": "He thinks a lot about his options before making a decision."
+  },
+  {
+    "id": 583,
+    "question": "boca",
+    "questionDetails": "Pensó que Francis era toda la boca.",
+    "answer": "mouth",
+    "answerDetails": "He thought Francis was all mouth."
+  },
+  {
+    "id": 584,
+    "question": "traje",
+    "questionDetails": "Todos los miembros del equipo llevaron trajes a juego para la ceremonia.",
+    "answer": "suit, costume, clothes",
+    "answerDetails": "All of the team members wore matching suits to the ceremony."
+  },
+  {
+    "id": 585,
+    "question": "querer",
+    "answer": "To want"
+  },
+  {
+    "id": 586,
+    "question": "jugar",
+    "questionDetails": "Jugar por or con dinero.",
+    "answer": "play",
+    "answerDetails": "To play for money."
+  },
+  {
+    "id": 587,
+    "question": "duro",
+    "questionDetails": "El cordero estaba duro y soso.",
+    "answer": "tough, rough",
+    "answerDetails": "The Lamb was tough and flavorless."
+  },
+  {
+    "id": 588,
+    "question": "conocer",
+    "questionDetails": "Quiero conocer el sudeste asiático este verano.",
+    "answer": "to go to",
+    "answerDetails": "I want to go to Southeast Asia this summer."
+  },
+  {
+    "id": 589,
+    "question": "pido",
+    "questionDetails": "Sólo le pido que saque las conclusiones adecuadas.",
+    "answer": "ask, beg, urge",
+    "answerDetails": "I only ask that you draw the proper conclusions."
+  },
+  {
+    "id": 590,
+    "question": "vuelve",
+    "questionDetails": "Dile a Rolando que fui a la tienda si vuelve.",
+    "answer": "he comes back, be back",
+    "answerDetails": "Tell Rolando that I went to the store if he comes back."
+  },
+  {
+    "id": 591,
+    "question": "juro",
+    "answer": "i promise"
+  },
+  {
+    "id": 592,
+    "question": "ciudad",
+    "questionDetails": "El personal estaba en la agitación-que era la ciudad pánico.",
+    "answer": "city",
+    "answerDetails": "The staff were in turmoil—it was Panic City."
+  },
+  {
+    "id": 593,
+    "question": "decirle",
+    "questionDetails": "TIenes que decirle que ya no lo amas.",
+    "answer": "tell him",
+    "answerDetails": "You need to tell him that you don’t love him anymore."
+  },
+  {
+    "id": 594,
+    "question": "aún",
+    "questionDetails": "Codiciaba aún más poder.",
+    "answer": "still, yet, even",
+    "answerDetails": "He lusted after still greater power."
+  },
+  {
+    "id": 595,
+    "question": "salud",
+    "questionDetails": "La fábrica presenta un peligro para la salud pública.",
+    "answer": "health",
+    "answerDetails": "The factory poses a public health risk."
+  },
+  {
+    "id": 596,
+    "question": "malo",
+    "questionDetails": "¡ Eres tan malo! ¡ Te pasas el día criticándome!.",
+    "answer": "mean",
+    "answerDetails": "You’re so mean! All you ever do is criticize me!."
+  },
+  {
+    "id": 597,
+    "question": "debería",
+    "questionDetails": "¿Reiniciaste el ordenador? Debería funcionar ahora.",
+    "answer": "it should, you ought to",
+    "answerDetails": "Did you restart the computer? It should work now."
+  },
+  {
+    "id": 598,
+    "question": "conoce",
+    "questionDetails": "No sé quién es Fernando.-Qué raro. Él dice que lo conoce a usted.",
+    "answer": "he knows you, he meets, you know him",
+    "answerDetails": "I don’t know who Fernando is.-That’s weird. He says he knows you."
+  },
+  {
+    "id": 599,
+    "question": "chica",
+    "questionDetails": "La chica que trabaja para nosotros de niñera tiene 16 años.",
+    "answer": "girl, chick, gal",
+    "answerDetails": "The girl who babysits for us is 16 years old."
+  },
+  {
+    "id": 600,
+    "question": "afuera",
+    "questionDetails": "No me gusta dormir afuera. Siempre me pican los mosquitos.",
+    "answer": "outdoors",
+    "answerDetails": "I don’t like to sleep outdoors. I always get bitten by mosquitos."
+  }
+]

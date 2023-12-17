@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1001,
+    "question": "estén",
+    "answer": "are"
+  },
+  {
+    "id": 1002,
+    "question": "peligroso",
+    "questionDetails": "Es peligroso condenar en su evidencia.",
+    "answer": "dangerous, hazardous, perilous",
+    "answerDetails": "It is dangerous to convict on his evidence."
+  },
+  {
+    "id": 1003,
+    "question": "bailar",
+    "questionDetails": "Tenía que permanecer en su mejor comportamiento y bailar a su melodía.",
+    "answer": "dance, dancing",
+    "answerDetails": "She had to stay on her best behaviour and dance to his tune."
+  },
+  {
+    "id": 1004,
+    "question": "ten",
+    "questionDetails": "Ve, y ten cuidado.",
+    "answer": "be, bear",
+    "answerDetails": "Go and be careful."
+  },
+  {
+    "id": 1005,
+    "question": "podrías",
+    "questionDetails": "¿Me podrías llamar cuando llegues a casa?",
+    "answer": "could you",
+    "answerDetails": "Could you please call me when you get home?"
+  },
+  {
+    "id": 1006,
+    "question": "diría",
+    "questionDetails": "Llama a tu antiguo jefe. Diría algo bueno sobre ti si le pides una recomendación.",
+    "answer": "he would say, i would say",
+    "answerDetails": "Call your old boss. He would say something nice about you if you asked him for a reference."
+  },
+  {
+    "id": 1007,
+    "question": "alta",
+    "questionDetails": "El médico le confirmó el alta y saldrá del hospital el Viernes.",
+    "answer": "discharge",
+    "answerDetails": "The doctor confirmed her discharge and she’ll be leaving the hospital on Friday."
+  },
+  {
+    "id": 1008,
+    "question": "saca",
+    "answer": "Get"
+  },
+  {
+    "id": 1009,
+    "question": "veía",
+    "questionDetails": "Veía que allí no era bien recibido.",
+    "answer": "i could see, she watched",
+    "answerDetails": "I could see I wasn’t welcome there."
+  },
+  {
+    "id": 1010,
+    "question": "suelo",
+    "questionDetails": "La mejor manera de jugar es pasar la pelota en el suelo.",
+    "answer": "floor, soil, ground",
+    "answerDetails": "The best way to play is to pass the ball on the floor."
+  },
+  {
+    "id": 1011,
+    "question": "general",
+    "answer": "main"
+  },
+  {
+    "id": 1012,
+    "question": "tranquilos",
+    "questionDetails": "Hasta los presos son tranquilos.",
+    "answer": "quiet, calm, tranquil",
+    "answerDetails": "Even the prisoners are quiet."
+  },
+  {
+    "id": 1013,
+    "question": "contó",
+    "questionDetails": "Entonces, nadie te contó.",
+    "answer": "told, counted, recounted",
+    "answerDetails": "Then no one has told you."
+  },
+  {
+    "id": 1014,
+    "question": "dejes",
+    "questionDetails": "Es mejor que lo dejes escuchar.",
+    "answer": "let, leave",
+    "answerDetails": "You might as well let him listen."
+  },
+  {
+    "id": 1015,
+    "question": "poniendo",
+    "questionDetails": "Poniendo a todos los agentes bajo vigilancia.",
+    "answer": "putting, getting, laying",
+    "answerDetails": "Putting everyone in law enforcement under a microscope."
+  },
+  {
+    "id": 1016,
+    "question": "tantos",
+    "questionDetails": "¡ Mira todos estos sabores! Hay tantos que no puedo escoger solo uno.",
+    "answer": "so many, as many",
+    "answerDetails": "Look at all these flavors! There are so many it’s hard for me to just pick one."
+  },
+  {
+    "id": 1017,
+    "question": "cámara",
+    "questionDetails": "¿Nos puedes tomar una foto con mi cámara?",
+    "answer": "camera, chamber, house",
+    "answerDetails": "Can you take our picture with my camera?"
+  },
+  {
+    "id": 1018,
+    "question": "encontrado",
+    "questionDetails": "Habrían encontrado a alguien más.",
+    "answer": "found",
+    "answerDetails": "They could have found somebody else."
+  },
+  {
+    "id": 1019,
+    "question": "muere",
+    "answer": "Dies"
+  },
+  {
+    "id": 1020,
+    "question": "papel",
+    "questionDetails": "Le dieron el papel del rey Lear en la obra de Shakespeare.",
+    "answer": "role, paper",
+    "answerDetails": "He was cast in the role of King Lear in Shakespeare’s play."
+  },
+  {
+    "id": 1021,
+    "question": "siéntate",
+    "questionDetails": "Por tu propia seguridad, siéntate.",
+    "answer": "sit down, sit",
+    "answerDetails": "For your own safety, you need to sit down."
+  },
+  {
+    "id": 1022,
+    "question": "extraño",
+    "questionDetails": "Odio ser el extraño entre amigos que son todas las parejas.",
+    "answer": "odd, bizarre, queer",
+    "answerDetails": "I hate being the odd one out among friends who are all couples."
+  },
+  {
+    "id": 1023,
+    "question": "carrera",
+    "questionDetails": "Miguel ganó la carrera.",
+    "answer": "race",
+    "answerDetails": "Miguel won the race."
+  },
+  {
+    "id": 1024,
+    "question": "aparece",
+    "questionDetails": "Y ahora se aparece a otros en persona.",
+    "answer": "appears, displayed, shown",
+    "answerDetails": "And now he appears in person."
+  },
+  {
+    "id": 1025,
+    "question": "vender",
+    "questionDetails": "Vender algo a alguien.",
+    "answer": "sell",
+    "answerDetails": "To sell somebody something, to sell something to somebody."
+  },
+  {
+    "id": 1026,
+    "question": "dejas",
+    "questionDetails": "No me dejas alternativa como juegas.",
+    "answer": "leave",
+    "answerDetails": "You leave me no choice, the way you play."
+  },
+  {
+    "id": 1027,
+    "question": "cuestión",
+    "questionDetails": "La cuestión de su retiro es delicada.",
+    "answer": "issue, matter, case",
+    "answerDetails": "The issue of his retirement is a touchy one."
+  },
+  {
+    "id": 1028,
+    "question": "importantes",
+    "questionDetails": "Tengo cosas más importantes en la mente.",
+    "answer": "important, major, significant",
+    "answerDetails": "I have more important things on my mind."
+  },
+  {
+    "id": 1029,
+    "question": "presente",
+    "questionDetails": "La palabra voy en español está en el tiempo presente.",
+    "answer": "present",
+    "answerDetails": "The word “voy” in Spanish is in the present tense."
+  },
+  {
+    "id": 1030,
+    "question": "amo",
+    "questionDetails": "El amo de la plantación tenía más de 100 esclavos.",
+    "answer": "master",
+    "answerDetails": "The master of the plantation owned over 100 slaves."
+  },
+  {
+    "id": 1031,
+    "question": "cuidar",
+    "answer": "take care of"
+  },
+  {
+    "id": 1032,
+    "question": "absolutamente",
+    "questionDetails": "Tomar un descanso de las noticias de vez en cuando es absolutamente necesario para mi salud mental.",
+    "answer": "absolutely, quite",
+    "answerDetails": "Taking a break from the news now and then is absolutely necessary for my mental health."
+  },
+  {
+    "id": 1033,
+    "question": "quizás",
+    "questionDetails": "Quizás nos veamos pronto, quizás no.",
+    "answer": "perhaps",
+    "answerDetails": "Perhaps we’ll see each other soon, perhaps we won’t."
+  },
+  {
+    "id": 1034,
+    "question": "nervioso",
+    "questionDetails": "Si ya estás tan nervioso.",
+    "answer": "nervous",
+    "answerDetails": "If you’re this nervous already."
+  },
+  {
+    "id": 1035,
+    "question": "evitar",
+    "questionDetails": "Esta situación se puede evitar proveyendo más información de Antemano.",
+    "answer": "prevent, help",
+    "answerDetails": "This situation can be prevented by providing more information beforehand."
+  },
+  {
+    "id": 1036,
+    "question": "llaman",
+    "questionDetails": "Lo llaman Batman porque, cuando era niño, le tenía miedo a los murciélagos.",
+    "answer": "he is called",
+    "answerDetails": "He is called Batman because, as a child, he was afraid of bats."
+  },
+  {
+    "id": 1037,
+    "question": "chicas",
+    "questionDetails": "Sería una de las chicas más populares.",
+    "answer": "girls, chicks, gals",
+    "answerDetails": "I would be one of the popular girls."
+  },
+  {
+    "id": 1038,
+    "question": "noticias",
+    "questionDetails": "En Radio Amor siempre comienzan con las noticias positivas.",
+    "answer": "news",
+    "answerDetails": "On Radio Amor they always start with the positive news."
+  },
+  {
+    "id": 1039,
+    "question": "estuviera",
+    "questionDetails": "Parecía que se me estuviera derritiendo la cara.",
+    "answer": "was",
+    "answerDetails": "It felt like my face was melting off."
+  },
+  {
+    "id": 1040,
+    "question": "pones",
+    "questionDetails": "Coges un globo y lo pones en medio.",
+    "answer": "put",
+    "answerDetails": "You take balloon and put in between."
+  },
+  {
+    "id": 1041,
+    "question": "feo",
+    "questionDetails": "Pasó una etapa de ser feo en el colegio.",
+    "answer": "ugly",
+    "answerDetails": "He went through an ugly phase in high school."
+  },
+  {
+    "id": 1042,
+    "question": "perdí",
+    "questionDetails": "Y lo perdí todo.",
+    "answer": "lost, missed",
+    "answerDetails": "And lost it all."
+  },
+  {
+    "id": 1043,
+    "question": "verás",
+    "questionDetails": "¡ No te atreverías a ir a la policía!-¡ Ya verás!.",
+    "answer": "watch me",
+    "answerDetails": "You wouldn’t dare go to the police!-Just watch me!."
+  },
+  {
+    "id": 1044,
+    "question": "tendrá",
+    "questionDetails": "¿Mañana tendrá tiempo para hablar del tema conmigo?",
+    "answer": "will you have, you will have, he will have",
+    "answerDetails": "Will you have time to discuss the matter with me tomorrow?"
+  },
+  {
+    "id": 1045,
+    "question": "déjalo",
+    "questionDetails": "Ese tipo no te merece. ¡ Déjalo!.",
+    "answer": "leave him",
+    "answerDetails": "That guy doesn’t deserve you. Leave him!."
+  },
+  {
+    "id": 1046,
+    "question": "familiar",
+    "questionDetails": "Solo los familiares están autorizados a visitar a los pacientes en la unidad de cuidados intensivos.",
+    "answer": "relative",
+    "answerDetails": "Only relatives are allowed to visit patients in the intensive care unit."
+  },
+  {
+    "id": 1047,
+    "question": "salen",
+    "questionDetails": "que salen en esa misión en el marco del",
+    "answer": "depart, leave, emerging",
+    "answerDetails": "you to depart on that errand under the"
+  },
+  {
+    "id": 1048,
+    "question": "joder",
+    "questionDetails": "No Vamos a joder en nuestra primera cita.",
+    "answer": "screw, damn",
+    "answerDetails": "We’re not going to screw on our first date."
+  },
+  {
+    "id": 1049,
+    "question": "andar",
+    "questionDetails": "Andar en una zona de construcción sin equipo de seguridad es peligroso.",
+    "answer": "walking, gait",
+    "answerDetails": "Walking in a construction site without safety equipment is dangerous."
+  },
+  {
+    "id": 1050,
+    "question": "entendido",
+    "questionDetails": "Zulu David Seis Nueve, está autorizado para rodar por la pista.-¡ Entendido!.",
+    "answer": "roger",
+    "answerDetails": "Zulu David 6 9, you are cleared to taxi.-Roger!."
+  },
+  {
+    "id": 1051,
+    "question": "llegue",
+    "questionDetails": "Si hay buen dinero que llegue.",
+    "answer": "arrive, reaches, comes",
+    "answerDetails": "If there is good money to arrive."
+  },
+  {
+    "id": 1052,
+    "question": "posibilidad",
+    "questionDetails": "¿Hay alguna posibilidad de que estés en casa hoy más tarde?",
+    "answer": "possibility, chance, option",
+    "answerDetails": "Is there any possibility that you’ll be home later today?"
+  },
+  {
+    "id": 1053,
+    "question": "tras",
+    "questionDetails": "Los manifestantes han venido día tras día durante semanas buscando justicia.",
+    "answer": "after, following, behind",
+    "answerDetails": "The Protesters have come day after day for weeks, seeking justice."
+  },
+  {
+    "id": 1054,
+    "question": "blanco",
+    "questionDetails": "La terminal del aeropuerto era el blanco de una bomba.",
+    "answer": "target",
+    "answerDetails": "The airport terminal was the target of a bomb."
+  },
+  {
+    "id": 1055,
+    "question": "carajo",
+    "questionDetails": "¡ Carajo! Me machuqué el dedo con la puerta.",
+    "answer": "damn",
+    "answerDetails": "Damn! I got my finger caught in the door."
+  },
+  {
+    "id": 1056,
+    "question": "encargo",
+    "questionDetails": "Parece un encargo difícil.",
+    "answer": "assignment",
+    "answerDetails": "A difficult assignment seems."
+  },
+  {
+    "id": 1057,
+    "question": "hablé",
+    "questionDetails": "Hablé con el propietario.",
+    "answer": "talked, spoke",
+    "answerDetails": "Talked to the landlord."
+  },
+  {
+    "id": 1058,
+    "question": "descansar",
+    "questionDetails": "Necesitamos descansar un rato antes de seguir.",
+    "answer": "rest, relax",
+    "answerDetails": "We need to rest for a while before continuing."
+  },
+  {
+    "id": 1059,
+    "question": "decirme",
+    "questionDetails": "¿Podría decirme cómo se llega a la estación?",
+    "answer": "tell me",
+    "answerDetails": "Could you tell me the way to the station, please?"
+  },
+  {
+    "id": 1060,
+    "question": "contacto",
+    "questionDetails": "Tiene muchos contactos.",
+    "answer": "contact",
+    "answerDetails": "He has lots of contacts."
+  },
+  {
+    "id": 1061,
+    "question": "pongas",
+    "questionDetails": "Que pongas un rastreador en su teléfono.",
+    "answer": "put",
+    "answerDetails": "Put a tap on his phone."
+  },
+  {
+    "id": 1062,
+    "question": "triste",
+    "questionDetails": "Un día triste para todos nosotros.",
+    "answer": "sad, dismal, sorrowful",
+    "answerDetails": "A sad day for us all."
+  },
+  {
+    "id": 1063,
+    "question": "habló",
+    "questionDetails": "Peter cuenta con nuestro apoyo. Habló en nombre de todos nosotros en la reunión.",
+    "answer": "he talked, he spoke",
+    "answerDetails": "Peter has our support. He talked on behalf of us all at the meeting."
+  },
+  {
+    "id": 1064,
+    "question": "llegaron",
+    "questionDetails": "Supongo que las fotos ya llegaron.",
+    "answer": "arrived, came, reached",
+    "answerDetails": "I guess the photos already arrived."
+  },
+  {
+    "id": 1065,
+    "question": "trajo",
+    "answer": "Brought"
+  },
+  {
+    "id": 1066,
+    "question": "salí",
+    "answer": "Left"
+  },
+  {
+    "id": 1067,
+    "question": "probar",
+    "questionDetails": "Tenemos que probar la seguridad del vehículo antes de rentarlo de nuevo.",
+    "answer": "test, try, prove",
+    "answerDetails": "We have to test the safety of the vehicle before renting it out again."
+  },
+  {
+    "id": 1068,
+    "question": "necesario",
+    "questionDetails": "¿Estás preparado para hacer lo necesario para conseguir el objetivo?",
+    "answer": "necessary, required",
+    "answerDetails": "Are you prepared to do the necessary to achieve the goal?"
+  },
+  {
+    "id": 1069,
+    "question": "mandar",
+    "questionDetails": "Tuve que mandar comprar unas esposas baratas.",
+    "answer": "send",
+    "answerDetails": "I had to send out for novelty handcuffs."
+  },
+  {
+    "id": 1070,
+    "question": "merece",
+    "questionDetails": "Will merece la oportunidad.",
+    "answer": "deserves, worth, deserving",
+    "answerDetails": "Will deserves this chance."
+  },
+  {
+    "id": 1071,
+    "question": "verla",
+    "answer": "See"
+  },
+  {
+    "id": 1072,
+    "question": "bravo",
+    "answer": "Bravo, brave"
+  },
+  {
+    "id": 1073,
+    "question": "digamos",
+    "questionDetails": "Ellos quieren que digamos algo.",
+    "answer": "say",
+    "answerDetails": "I think they want us to say something."
+  },
+  {
+    "id": 1074,
+    "question": "cual",
+    "answer": "what"
+  },
+  {
+    "id": 1075,
+    "question": "tuvimos",
+    "questionDetails": "Tuvimos un coche que alquilamos por una semana durante las vacaciones.",
+    "answer": "we had",
+    "answerDetails": "We had a car that we rented for a week during the vacation."
+  },
+  {
+    "id": 1076,
+    "question": "alegría",
+    "questionDetails": "La alegría de estar vivo.",
+    "answer": "joy, mirth, glee",
+    "answerDetails": "The joy of being alive."
+  },
+  {
+    "id": 1077,
+    "question": "cerrar",
+    "questionDetails": "Si se congeló la imagen, tendrás que cerrar YouTube y empezar de nuevo.",
+    "answer": "quit",
+    "answerDetails": "If the image is frozen, you’ll have to quit YouTube and start again."
+  },
+  {
+    "id": 1078,
+    "question": "mirar",
+    "questionDetails": "Mirar vivo por ahí Robbie!.",
+    "answer": "look",
+    "answerDetails": "Look alive out there Robbie!."
+  },
+  {
+    "id": 1079,
+    "question": "pide",
+    "questionDetails": "Siempre que mi papá va a Paesano, pide la ternera parmesana.",
+    "answer": "he orders",
+    "answerDetails": "Whenever my dad goes to Paesano, he orders the veal parmesan."
+  },
+  {
+    "id": 1080,
+    "question": "juan",
+    "questionDetails": "Juan soñaba que viajaba montado a un bisonte volador.",
+    "answer": "john",
+    "answerDetails": "John was dreaming that he was riding on the back of a sky bison."
+  },
+  {
+    "id": 1081,
+    "question": "maría",
+    "answer": "Mary"
+  },
+  {
+    "id": 1082,
+    "question": "millones",
+    "questionDetails": "Cerca de seis millones de euros.",
+    "answer": "million, billions",
+    "answerDetails": "About six million euros."
+  },
+  {
+    "id": 1083,
+    "question": "peligro",
+    "questionDetails": "En/fuera de peligro.",
+    "answer": "danger, hazard, risk",
+    "answerDetails": "In/out of danger."
+  },
+  {
+    "id": 1084,
+    "question": "debes",
+    "questionDetails": "Creo que le debes una disculpa.",
+    "answer": "owe, must",
+    "answerDetails": "I think you owe her an apology."
+  },
+  {
+    "id": 1085,
+    "question": "huevos",
+    "questionDetails": "Mi sobrino menor me dio un puñetazo en los huevos.",
+    "answer": "nuts",
+    "answerDetails": "My youngest nephew punched me in the nuts."
+  },
+  {
+    "id": 1086,
+    "question": "ayudo",
+    "questionDetails": "Yo te ayudo con todos tus concursos.",
+    "answer": "help",
+    "answerDetails": "I help you with all your tests."
+  },
+  {
+    "id": 1087,
+    "question": "servicio",
+    "questionDetails": "Millones están involucrados en el servicio voluntario.",
+    "answer": "service, use",
+    "answerDetails": "Millions are involved in voluntary service."
+  },
+  {
+    "id": 1088,
+    "question": "recuerda",
+    "answer": "Remember"
+  },
+  {
+    "id": 1089,
+    "question": "ocurrió",
+    "answer": "Happened"
+  },
+  {
+    "id": 1090,
+    "question": "pasé",
+    "questionDetails": "Me pasé semanas preparando esa expedición.",
+    "answer": "spent",
+    "answerDetails": "I spent weeks preparing that expedition."
+  },
+  {
+    "id": 1091,
+    "question": "conocemos",
+    "questionDetails": "Creo que es alguien que conocemos.",
+    "answer": "know",
+    "answerDetails": "I think it’s someone we know."
+  },
+  {
+    "id": 1092,
+    "question": "dígame",
+    "questionDetails": "Escuche y dígame qué le parece.",
+    "answer": "tell me",
+    "answerDetails": "You listen and tell me what you think."
+  },
+  {
+    "id": 1093,
+    "question": "simplemente",
+    "questionDetails": "Habló simplemente y desde el corazón.",
+    "answer": "simply, just, merely",
+    "answerDetails": "She spoke simply and from the heart."
+  },
+  {
+    "id": 1094,
+    "question": "acabar",
+    "questionDetails": "Yo tengo claro que esta historia va a acabar mal.",
+    "answer": "end",
+    "answerDetails": "It’s clear to me that the story is going to end badly."
+  },
+  {
+    "id": 1095,
+    "question": "colegio",
+    "questionDetails": "Tenemos que regresar al colegio a finales de Agosto.",
+    "answer": "school, institution",
+    "answerDetails": "We have to go back to school at the end of August."
+  },
+  {
+    "id": 1096,
+    "question": "horrible",
+    "questionDetails": "He hecho un tonto horrible de mí mismo.",
+    "answer": "awful, hideous, horrific",
+    "answerDetails": "I’ve made an awful fool of myself."
+  },
+  {
+    "id": 1097,
+    "question": "encontramos",
+    "questionDetails": "Quizá no sepa que lo encontramos.",
+    "answer": "found, met, encountered",
+    "answerDetails": "Maybe he doesn’t know that it was found."
+  },
+  {
+    "id": 1098,
+    "question": "mar",
+    "questionDetails": "El mar se fue sin aviso.",
+    "answer": "sea",
+    "answerDetails": "The sea just left without warning."
+  },
+  {
+    "id": 1099,
+    "question": "irse",
+    "answer": "leave"
+  },
+  {
+    "id": 1100,
+    "question": "creen",
+    "questionDetails": "Ellos creen que estará fuera.",
+    "answer": "believe, think",
+    "answerDetails": "They believe you’ll be out of town."
+  }
+]

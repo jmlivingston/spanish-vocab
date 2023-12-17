@@ -1,0 +1,680 @@
+[
+  {
+    "id": 4101,
+    "question": "cruzado",
+    "questionDetails": "Deposité el cheque cruzado en mi cuenta bancaria.",
+    "answer": "crossed, crossbred",
+    "answerDetails": "I deposited the crossed check into my bank account."
+  },
+  {
+    "id": 4102,
+    "question": "intentamos",
+    "questionDetails": "Nadie puede decir que no lo intentamos.",
+    "answer": "try",
+    "answerDetails": "No one can say we didn’t try."
+  },
+  {
+    "id": 4103,
+    "question": "sonreír",
+    "questionDetails": "Usted sólo tendrá que sonreír y soportarlo.",
+    "answer": "grin",
+    "answerDetails": "You’ll just have to grin and bear it."
+  },
+  {
+    "id": 4104,
+    "question": "repite",
+    "answer": "Repeated"
+  },
+  {
+    "id": 4105,
+    "question": "lana",
+    "questionDetails": "La Lana de una oveja domesticada tiene que esquilarse con regularidad.",
+    "answer": "fleece",
+    "answerDetails": "A Domesticated Sheep’s fleece needs to be sheared on a regular basis."
+  },
+  {
+    "id": 4106,
+    "question": "rapidito",
+    "questionDetails": "Podriamos tener un rapidito.",
+    "answer": "quickie",
+    "answerDetails": "We could have a quickie."
+  },
+  {
+    "id": 4107,
+    "question": "oso",
+    "questionDetails": "Ayer vi un oso en una jaula.",
+    "answer": "bear",
+    "answerDetails": "I saw a bear in a cage yesterday."
+  },
+  {
+    "id": 4108,
+    "question": "soldado",
+    "questionDetails": "Los soldados vivían en trincheras durante la guerra.",
+    "answer": "soldier, trooper",
+    "answerDetails": "Soldiers quartered in trenches during the war."
+  },
+  {
+    "id": 4109,
+    "question": "sopa",
+    "questionDetails": "He perdido el dinero, estoy en la sopa.",
+    "answer": "soup",
+    "answerDetails": "I’ve lost the money—I’m in the Soup."
+  },
+  {
+    "id": 4110,
+    "question": "mentirosa",
+    "questionDetails": "La mentirosa era yo.",
+    "answer": "liar",
+    "answerDetails": "I was the liar."
+  },
+  {
+    "id": 4111,
+    "question": "jugo",
+    "questionDetails": "Añadir el jugo de un limón.",
+    "answer": "juice",
+    "answerDetails": "Add the juice of a lemon."
+  },
+  {
+    "id": 4112,
+    "question": "funeral",
+    "questionDetails": "Su funeral es hoy.",
+    "answer": "funeral, burial, memorial",
+    "answerDetails": "Their funeral one is today."
+  },
+  {
+    "id": 4113,
+    "question": "reunir",
+    "questionDetails": "El foro para la estrategia económica de la ciudad reunirá a políticos y empresarios locales.",
+    "answer": "bring together, muster, reunite",
+    "answerDetails": "The forum on the city’s Economic Outlook will bring together local politicians and business owners."
+  },
+  {
+    "id": 4114,
+    "question": "herencia",
+    "questionDetails": "Mi padre no me dejó herencia en su testamento.",
+    "answer": "legacy, estate",
+    "answerDetails": "My father left me no legacy in his will."
+  },
+  {
+    "id": 4115,
+    "question": "fiebre",
+    "questionDetails": "La quinina se utilizó para reducir la fiebre palúdica.",
+    "answer": "fever, rush",
+    "answerDetails": "Quinine was used to reduce malarial fever."
+  },
+  {
+    "id": 4116,
+    "question": "comentario",
+    "questionDetails": "Sin comentarios.",
+    "answer": "comment, remark",
+    "answerDetails": "No comment."
+  },
+  {
+    "id": 4117,
+    "question": "mismísimo",
+    "questionDetails": "Con este mismísimo cuchillo.",
+    "answer": "very",
+    "answerDetails": "With this very knife."
+  },
+  {
+    "id": 4118,
+    "question": "preocupación",
+    "questionDetails": "El Ministro de Sanidad expresó su preocupación por el nuevo brote de cólera en el país.",
+    "answer": "concern, preoccupation",
+    "answerDetails": "The Minister of Health expressed his concern about the country’s new cholera outbreak."
+  },
+  {
+    "id": 4119,
+    "question": "panza",
+    "questionDetails": "Se recostó en la silla con las manos sobre la panza.",
+    "answer": "tummy, paunch, rumen",
+    "answerDetails": "She SAT back in her chair with her hands on her tummy."
+  },
+  {
+    "id": 4120,
+    "question": "líos",
+    "questionDetails": "Intenta no meterte en líos.",
+    "answer": "trouble, messes, scrapes",
+    "answerDetails": "Try and stay out of trouble."
+  },
+  {
+    "id": 4121,
+    "question": "peleas",
+    "questionDetails": "No hubo peleas en el partido de fútbol esta vez.",
+    "answer": "fighting, bickering",
+    "answerDetails": "There was no fighting at the soccer match this time."
+  },
+  {
+    "id": 4122,
+    "question": "logré",
+    "questionDetails": "Luego sólo yo logré escapar.",
+    "answer": "managed",
+    "answerDetails": "I alone managed to escape."
+  },
+  {
+    "id": 4123,
+    "question": "paren",
+    "questionDetails": "Paren de mirarme de ese modo.",
+    "answer": "stop",
+    "answerDetails": "Stop looking at me like that."
+  },
+  {
+    "id": 4124,
+    "question": "veneno",
+    "questionDetails": "Se piensa que el veneno de un áspid provocó la muerte de Cleopatra.",
+    "answer": "venom",
+    "answerDetails": "The venom of an ASP is thought to have brought about Cleopatra’s death."
+  },
+  {
+    "id": 4125,
+    "question": "molestando",
+    "questionDetails": "Esta suciedad realmente me está molestando.",
+    "answer": "bothering, bugging, pestering",
+    "answerDetails": "This dirt is really bothering me."
+  },
+  {
+    "id": 4126,
+    "question": "trabajadores",
+    "questionDetails": "Las empresas no pueden encontrar suficientes trabajadores capacitados para cubrir los puestos de trabajo.",
+    "answer": "labor",
+    "answerDetails": "Companies can’t find enough skilled labor to fill jobs."
+  },
+  {
+    "id": 4127,
+    "question": "engañando",
+    "questionDetails": "Engañando y robando a los hombres.",
+    "answer": "cheating, fooling, deceiving",
+    "answerDetails": "Cheating men and robbing them."
+  },
+  {
+    "id": 4128,
+    "question": "merecía",
+    "questionDetails": "En mi opinión, tuvo lo que se merecía.",
+    "answer": "deserved, merited",
+    "answerDetails": "He got what he deserved, in my opinion."
+  },
+  {
+    "id": 4129,
+    "question": "llévame",
+    "answer": "Take me"
+  },
+  {
+    "id": 4130,
+    "question": "excusas",
+    "questionDetails": "Ed y Jean nos presentaron sus excusas. No pueden asistir a la reunión porque están de vacaciones.",
+    "answer": "apologies, regrets",
+    "answerDetails": "We have had apologies from Ed and Jean. They can’t come to the meeting because they’re on vacation."
+  },
+  {
+    "id": 4131,
+    "question": "escucharon",
+    "answer": "Heard"
+  },
+  {
+    "id": 4132,
+    "question": "salsa",
+    "questionDetails": "Todos los domingos, mi abuela hace un asado con salsa y guisantes para toda la familia.",
+    "answer": "gravy, dip",
+    "answerDetails": "Every Sunday, my grandmother makes a roast with gravy and peas for the whole family."
+  },
+  {
+    "id": 4133,
+    "question": "negativo",
+    "questionDetails": "Ella respondió en el negativo.",
+    "answer": "negative",
+    "answerDetails": "She replied in the negative."
+  },
+  {
+    "id": 4134,
+    "question": "ausencia",
+    "questionDetails": "En tu ausencia entregué los informes financieros mensuales.",
+    "answer": "absence, lack",
+    "answerDetails": "I submitted the monthly financial reports in your absence."
+  },
+  {
+    "id": 4135,
+    "question": "crean",
+    "questionDetails": "Bancos privados crean dinero de la nada.",
+    "answer": "create, believe",
+    "answerDetails": "Private banks create money out of nothing."
+  },
+  {
+    "id": 4136,
+    "question": "reaccionar",
+    "questionDetails": "Reaccionaron contra la música de élite del arte de su tiempo.",
+    "answer": "react",
+    "answerDetails": "They reacted against the elite art music of their time."
+  },
+  {
+    "id": 4137,
+    "question": "reacciona",
+    "questionDetails": "Reacciona cuando la pintura llega a los sensores.",
+    "answer": "reacts, responds",
+    "answerDetails": "It reacts when the spray hits the sensors."
+  },
+  {
+    "id": 4138,
+    "question": "sentirme",
+    "answer": "feel me"
+  },
+  {
+    "id": 4139,
+    "question": "tormenta",
+    "questionDetails": "Los meteorólogos dicen que la tormenta debería llegar a la zona por la tarde.",
+    "answer": "storm",
+    "answerDetails": "Meteorologists say that the storm should arrive in the area in the late afternoon."
+  },
+  {
+    "id": 4140,
+    "question": "tecnología",
+    "questionDetails": "La tecnología ambiental es un mercado emergente que está evolucionando constantemente.",
+    "answer": "tech",
+    "answerDetails": "Clean tech is an emerging market that is constantly evolving."
+  },
+  {
+    "id": 4141,
+    "question": "ayudé",
+    "questionDetails": "Yo le ayudé a enterrar el cuerpo.",
+    "answer": "helped",
+    "answerDetails": "I helped him bury the body."
+  },
+  {
+    "id": 4142,
+    "question": "saludo",
+    "questionDetails": "¡ Mándale saludos a tu padre!.",
+    "answer": "greeting, salute, salutation",
+    "answerDetails": "Send greetings to your father!."
+  },
+  {
+    "id": 4143,
+    "question": "confundido",
+    "questionDetails": "El sonido de una especie de martilleo confundido y gritando.",
+    "answer": "confused",
+    "answerDetails": "The sound of a sort of confused hammering and shouting."
+  },
+  {
+    "id": 4144,
+    "question": "quisieron",
+    "questionDetails": "Los chicos han tenido muchos niñeros. Quisieron a Jack más que a nadie.",
+    "answer": "they loved",
+    "answerDetails": "The boys have had many babysitters. They loved Jack the most."
+  },
+  {
+    "id": 4145,
+    "question": "recibiendo",
+    "questionDetails": "He estado recibiendo estos extraños paquetes.",
+    "answer": "receiving, getting, picking up",
+    "answerDetails": "I started receiving these strange packages."
+  },
+  {
+    "id": 4146,
+    "question": "ladrones",
+    "questionDetails": "Y el robo hace ladrones.",
+    "answer": "thieves, robbers, burglars",
+    "answerDetails": "And theft makes thieves."
+  },
+  {
+    "id": 4147,
+    "question": "breve",
+    "questionDetails": "Ser breve y no hablar más de lo necesario.",
+    "answer": "brief, short",
+    "answerDetails": "Be brief and don’t talk for longer than is necessary."
+  },
+  {
+    "id": 4148,
+    "question": "creías",
+    "questionDetails": "Tú también creías, que nunca más ibas a andar.",
+    "answer": "thought",
+    "answerDetails": "You also thought, you’d never walk again."
+  },
+  {
+    "id": 4149,
+    "question": "económica",
+    "questionDetails": "Se trata de conseguir una mayor integración política y económica.",
+    "answer": "economic, financial, economically",
+    "answerDetails": "It is all about further political and economic integration’."
+  },
+  {
+    "id": 4150,
+    "question": "pedirles",
+    "answer": "ask them"
+  },
+  {
+    "id": 4151,
+    "question": "ríes",
+    "questionDetails": "Luego te ríes de eso.",
+    "answer": "laugh",
+    "answerDetails": "And then you laugh about it."
+  },
+  {
+    "id": 4152,
+    "question": "cuantas",
+    "questionDetails": "Es sólo de hace unas cuantas semanas.",
+    "answer": "few",
+    "answerDetails": "Just a few weeks."
+  },
+  {
+    "id": 4153,
+    "question": "escuchan",
+    "questionDetails": "Así que me escuchan.",
+    "answer": "listen, hear",
+    "answerDetails": "So listen to me."
+  },
+  {
+    "id": 4154,
+    "question": "vivió",
+    "questionDetails": "Ella vivió sus mejores tragedias.",
+    "answer": "lived",
+    "answerDetails": "She lived her finest tragedy."
+  },
+  {
+    "id": 4155,
+    "question": "engañado",
+    "questionDetails": "Estás engañado si crees que está motivada por el altruismo.",
+    "answer": "deluded",
+    "answerDetails": "You’re deluded if you think she’s motivated by altruism."
+  },
+  {
+    "id": 4156,
+    "question": "demasiados",
+    "answer": "Too much"
+  },
+  {
+    "id": 4157,
+    "question": "esperanzas",
+    "questionDetails": "Nada más que el sonido de sus esperanzas caídas.",
+    "answer": "hopes, hopeful, expectations",
+    "answerDetails": "Nothing but the sound of their fallen hopes."
+  },
+  {
+    "id": 4158,
+    "question": "cabezas",
+    "questionDetails": "Sus cabezas se dedican a tareas intelectuales sin el cuerpo.",
+    "answer": "heads",
+    "answerDetails": "Their heads engage in intellectual pursuits away from the body."
+  },
+  {
+    "id": 4159,
+    "question": "impecable",
+    "questionDetails": "Como era un hombre de gusto impecable, su casa estaba llena de magníficas obras de arte.",
+    "answer": "impeccable, flawless, spotless",
+    "answerDetails": "Being a man of impeccable taste, his house was full of remarkable pieces of art."
+  },
+  {
+    "id": 4160,
+    "question": "pierden",
+    "questionDetails": "Se pierden perros todos los días.",
+    "answer": "lose, loose",
+    "answerDetails": "Kids lose dogs every day."
+  },
+  {
+    "id": 4161,
+    "question": "truco",
+    "questionDetails": "El truco es poner un esquí hacia adelante y arrodíllese.",
+    "answer": "trick, gimmick",
+    "answerDetails": "The trick is to put one ski forward and kneel."
+  },
+  {
+    "id": 4162,
+    "question": "ciencia",
+    "questionDetails": "La ciencia ha realizado grandes avances en los últimos 5 años.",
+    "answer": "science, knowledge",
+    "answerDetails": "Science has made great advancements in the last five years."
+  },
+  {
+    "id": 4163,
+    "question": "acompañarnos",
+    "questionDetails": "Vamos al cine si quieres acompañarnos.",
+    "answer": "join us",
+    "answerDetails": "We’re going to the movies if you want to join us."
+  },
+  {
+    "id": 4164,
+    "question": "indica",
+    "answer": "it states"
+  },
+  {
+    "id": 4165,
+    "question": "apagar",
+    "questionDetails": "Asegúrate de apagar la hoguera como se debe para no causar un incendio forestal.",
+    "answer": "quench",
+    "answerDetails": "Make sure to quench the campfire adequately so you don’t start a forest fire."
+  },
+  {
+    "id": 4166,
+    "question": "cierro",
+    "questionDetails": "Yo cierro la tienda cuando está el partido.",
+    "answer": "close",
+    "answerDetails": "I like to close shop during the game."
+  },
+  {
+    "id": 4167,
+    "question": "recorrido",
+    "questionDetails": "Hicimos un recorrido a pie por la ciudad.",
+    "answer": "tour, route, journey",
+    "answerDetails": "We took a walking tour of the city."
+  },
+  {
+    "id": 4168,
+    "question": "elige",
+    "questionDetails": "Elige una imagen de fondo del boceto.",
+    "answer": "choose, pick, select",
+    "answerDetails": "Choose a background image of the sketch."
+  },
+  {
+    "id": 4169,
+    "question": "humana",
+    "questionDetails": "La mente humana jamás descansa.",
+    "answer": "human",
+    "answerDetails": "The human mind is never at rest."
+  },
+  {
+    "id": 4170,
+    "question": "paran",
+    "questionDetails": "Aquí paran muchos coches.",
+    "answer": "stop",
+    "answerDetails": "Many cars stop here."
+  },
+  {
+    "id": 4171,
+    "question": "daniel",
+    "answer": "Daniel"
+  },
+  {
+    "id": 4172,
+    "question": "hum",
+    "questionDetails": "… canción que cantaba hum, hum.",
+    "answer": "hum, Humph, uhm",
+    "answerDetails": "… tune he sang that went hum, hum."
+  },
+  {
+    "id": 4173,
+    "question": "martín",
+    "answer": "Martin"
+  },
+  {
+    "id": 4174,
+    "question": "hacés",
+    "answer": "you do"
+  },
+  {
+    "id": 4175,
+    "question": "mexicano",
+    "answer": "Mexican"
+  },
+  {
+    "id": 4176,
+    "question": "fuga",
+    "questionDetails": "Uno de los empleados era responsable de la fuga.",
+    "answer": "leak, escape, flight",
+    "answerDetails": "One of the employees was responsible for the leak."
+  },
+  {
+    "id": 4177,
+    "question": "coraje",
+    "questionDetails": "El coraje de elegir, por ejemplo.",
+    "answer": "courage",
+    "answerDetails": "The courage of choosing, for example."
+  },
+  {
+    "id": 4178,
+    "question": "zorra",
+    "questionDetails": "Sé que estás ahí, zorra.",
+    "answer": "bitch, slut, vixen",
+    "answerDetails": "I know you’re in here, you bitch."
+  },
+  {
+    "id": 4179,
+    "question": "cafecito",
+    "questionDetails": "Te doy tu cafecito, mi vida.",
+    "answer": "coffee",
+    "answerDetails": "I give you your coffee, life of mine."
+  },
+  {
+    "id": 4180,
+    "question": "joyas",
+    "questionDetails": "¿Dónde sueles comprar tus joyas?",
+    "answer": "jewelry",
+    "answerDetails": "Where do you usually buy your jewelry?"
+  },
+  {
+    "id": 4181,
+    "question": "re",
+    "questionDetails": "Deberías pensar en re etiquetar algunos.",
+    "answer": "re",
+    "answerDetails": "You might think about re labeling some of them."
+  },
+  {
+    "id": 4182,
+    "question": "vestidos",
+    "questionDetails": "Sus vestidos están listos.",
+    "answer": "dresses, apparel, gowns",
+    "answerDetails": "Your dresses are done."
+  },
+  {
+    "id": 4183,
+    "question": "caballos",
+    "questionDetails": "Tenemos muchos caballos que podrían interesarle.",
+    "answer": "horses, HP, ponies",
+    "answerDetails": "We have several horses that might interest you."
+  },
+  {
+    "id": 4184,
+    "question": "demanda",
+    "questionDetails": "Una depresión reciente en la demanda.",
+    "answer": "demand, market, lawsuit",
+    "answerDetails": "A recent slump in demand."
+  },
+  {
+    "id": 4185,
+    "question": "grabación",
+    "questionDetails": "Ésta es una grabación.",
+    "answer": "recording",
+    "answerDetails": "This is a recording."
+  },
+  {
+    "id": 4186,
+    "question": "callada",
+    "questionDetails": "Y tu nunca estas tan callada.",
+    "answer": "quiet, silent, quietly",
+    "answerDetails": "And youhave never been so quiet."
+  },
+  {
+    "id": 4187,
+    "question": "ojitos",
+    "questionDetails": "Este ya abrió los ojitos.",
+    "answer": "eyes, eyeball",
+    "answerDetails": "This one has already opened his eyes."
+  },
+  {
+    "id": 4188,
+    "question": "renuncia",
+    "questionDetails": "El acusado declaró que su renuncia al derecho a juicio con jurado no fue voluntaria.",
+    "answer": "waiver, resignation, renunciation",
+    "answerDetails": "The defendant claimed that his waiver of his right to a jury trial had not been voluntary."
+  },
+  {
+    "id": 4189,
+    "question": "encontrarla",
+    "questionDetails": "Pueden encontrarla en la sección de deportes.",
+    "answer": "find",
+    "answerDetails": "You can find this in the sporting goods department."
+  },
+  {
+    "id": 4190,
+    "question": "audiencia",
+    "questionDetails": "Podrás explicar tu versión de la historia en la audiencia.",
+    "answer": "hearing, court",
+    "answerDetails": "You will be able to explain your side of the story at the hearing."
+  },
+  {
+    "id": 4191,
+    "question": "propiedades",
+    "questionDetails": "Crea una colección de proyectos sin propiedades globales ni registradores.",
+    "answer": "properties, real estate",
+    "answerDetails": "Creates a project collection with no global properties or loggers."
+  },
+  {
+    "id": 4192,
+    "question": "consiga",
+    "questionDetails": "Entonces consiga una orden.",
+    "answer": "get",
+    "answerDetails": "Then get a warrant."
+  },
+  {
+    "id": 4193,
+    "question": "pacto",
+    "questionDetails": "En 1996, los dos países firmaron un pacto en materia de derechos económicos, sociales y culturales.",
+    "answer": "covenant",
+    "answerDetails": "In 1996, the two countries signed a covenant on economic, social, and cultural rights."
+  },
+  {
+    "id": 4194,
+    "question": "delitos",
+    "questionDetails": "Para evitar los delitos hay que aumentar la concienciación.",
+    "answer": "crimes, offences, felonies",
+    "answerDetails": "In order to prevent crimes, one must increase awareness."
+  },
+  {
+    "id": 4195,
+    "question": "terminaste",
+    "questionDetails": "Creo que ya terminaste.",
+    "answer": "finished",
+    "answerDetails": "I think you finished."
+  },
+  {
+    "id": 4196,
+    "question": "hundir",
+    "questionDetails": "Lo volvemos a hundir en la miseria.",
+    "answer": "plunge",
+    "answerDetails": "We plunge him into misery again."
+  },
+  {
+    "id": 4197,
+    "question": "contrató",
+    "questionDetails": "Tu padre contrató a mi empresa.",
+    "answer": "hired, contracted, recruited",
+    "answerDetails": "Your dad hired the firm."
+  },
+  {
+    "id": 4198,
+    "question": "actor",
+    "questionDetails": "El actor hizo una magnífica representación.",
+    "answer": "player, performer",
+    "answerDetails": "The player performed superbly."
+  },
+  {
+    "id": 4199,
+    "question": "juegos",
+    "questionDetails": "Los juegos se celebrarán en África el próximo año.",
+    "answer": "games",
+    "answerDetails": "The games are being held in Africa next year."
+  },
+  {
+    "id": 4200,
+    "question": "mintió",
+    "questionDetails": "Sarah dijo que eras soltero.-Mintió. Soy casado.",
+    "answer": "she lied",
+    "answerDetails": "Sarah said you’re single.-She lied. I’m married."
+  }
+]

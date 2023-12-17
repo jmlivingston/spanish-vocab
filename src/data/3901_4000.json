@@ -1,0 +1,682 @@
+[
+  {
+    "id": 3901,
+    "question": "trabajó",
+    "questionDetails": "Mi papá trabajó para él.",
+    "answer": "worked, labored",
+    "answerDetails": "My dad worked for him."
+  },
+  {
+    "id": 3902,
+    "question": "hablarlo",
+    "questionDetails": "Podemos hablarlo con ellos.",
+    "answer": "talk",
+    "answerDetails": "We can talk to them about this."
+  },
+  {
+    "id": 3903,
+    "question": "violento",
+    "questionDetails": "Tiene fama de ser violento. No lo fastidiaría.",
+    "answer": "violent",
+    "answerDetails": "He’s known for being violent. I wouldn’t anger him."
+  },
+  {
+    "id": 3904,
+    "question": "resistencia",
+    "questionDetails": "Oponer or ofrecer resistencia.",
+    "answer": "resistance, strength, stamina",
+    "answerDetails": "To put up or offer resistance."
+  },
+  {
+    "id": 3905,
+    "question": "avanzar",
+    "questionDetails": "Es casi imposible avanzar por la ciudad en esta lluvia torrencial.",
+    "answer": "progress, proceed",
+    "answerDetails": "It is almost impossible to progress through town in this driving rain."
+  },
+  {
+    "id": 3906,
+    "question": "paró",
+    "questionDetails": "Mi compañero paró para ayudar a una dama en peligro.",
+    "answer": "stopped, quit",
+    "answerDetails": "My partner stopped to help a damsel in distress."
+  },
+  {
+    "id": 3907,
+    "question": "volvía",
+    "questionDetails": "Mientras alguien volvía a mi vida alguien más se iba.",
+    "answer": "returned",
+    "answerDetails": "As someone returned to my life someone left."
+  },
+  {
+    "id": 3908,
+    "question": "alberto",
+    "answer": "Alberto"
+  },
+  {
+    "id": 3909,
+    "question": "carmen",
+    "answer": "Carmen"
+  },
+  {
+    "id": 3910,
+    "question": "cabrones",
+    "questionDetails": "Esos cabrones me lo robaron.",
+    "answer": "bastards, fuckers, motherfuckers",
+    "answerDetails": "Those bastards stole it from me."
+  },
+  {
+    "id": 3911,
+    "question": "ángeles",
+    "questionDetails": "Pero no había bebés ni ángeles.",
+    "answer": "angels, la",
+    "answerDetails": "But there weren’t any babies or any angels."
+  },
+  {
+    "id": 3912,
+    "question": "tantito",
+    "answer": "little bit"
+  },
+  {
+    "id": 3913,
+    "question": "cálmese",
+    "questionDetails": "Su majestad, cálmese.",
+    "answer": "calm down",
+    "answerDetails": "Your majesty, calm down."
+  },
+  {
+    "id": 3914,
+    "question": "coca",
+    "questionDetails": "Chris fue encarcelado por vender coca a estudiantes.",
+    "answer": "coke",
+    "answerDetails": "Chris went to jail for selling Coke to students."
+  },
+  {
+    "id": 3915,
+    "question": "parís",
+    "answer": "Paris"
+  },
+  {
+    "id": 3916,
+    "question": "enojado",
+    "questionDetails": "¿por qué estás enojado conmigo?",
+    "answer": "angry",
+    "answerDetails": "Why are you angry with me?"
+  },
+  {
+    "id": 3917,
+    "question": "advierto",
+    "questionDetails": "Le advierto que no me toque.",
+    "answer": "warn",
+    "answerDetails": "I warn you not to touch me."
+  },
+  {
+    "id": 3918,
+    "question": "mas",
+    "questionDetails": "Mas a tu izquierda.",
+    "answer": "more, most, plus",
+    "answerDetails": "More to your left."
+  },
+  {
+    "id": 3919,
+    "question": "disparó",
+    "questionDetails": "Vi quien me disparó.",
+    "answer": "shot, fired, shooter",
+    "answerDetails": "I saw who shot me."
+  },
+  {
+    "id": 3920,
+    "question": "casita",
+    "questionDetails": "Vivo en una casita en un pueblo que se enclava en las montañas.",
+    "answer": "little house",
+    "answerDetails": "I live in a little house in a town that is nestled in the mountains."
+  },
+  {
+    "id": 3921,
+    "question": "arriesgar",
+    "questionDetails": "¿De veras arriesgarías este puesto por el que has trabajado tan duro involucrándote en un escándalo así?",
+    "answer": "hazard, jeopardize",
+    "answerDetails": "Would you really hazard this job you’ve worked so hard for by getting involved in a scandal like that?"
+  },
+  {
+    "id": 3922,
+    "question": "amores",
+    "questionDetails": "Sus manos, rostros, sus amores y temores.",
+    "answer": "loves, sweethearts, amours",
+    "answerDetails": "Their hands, faces, their loves and fears."
+  },
+  {
+    "id": 3923,
+    "question": "piscina",
+    "questionDetails": "Nadamos en la piscina todos los sábados.",
+    "answer": "pool",
+    "answerDetails": "We swim at the pool every Saturday."
+  },
+  {
+    "id": 3924,
+    "question": "balas",
+    "questionDetails": "Las balas entran en los cañones.",
+    "answer": "bullets, bales, slugs",
+    "answerDetails": "The bullets go into the barrels."
+  },
+  {
+    "id": 3925,
+    "question": "institución",
+    "answer": "establishment"
+  },
+  {
+    "id": 3926,
+    "question": "preocupar",
+    "questionDetails": "Se van a preocupar si no.",
+    "answer": "worry",
+    "answerDetails": "Are going to worry if not."
+  },
+  {
+    "id": 3927,
+    "question": "cementerio",
+    "questionDetails": "Tatiana no quería vivir en una casa al lado de un cementerio porque le daba escalofríos.",
+    "answer": "graveyard",
+    "answerDetails": "Tatiana didn’t want to live in a house right next to a graveyard because it gave her the creeps."
+  },
+  {
+    "id": 3928,
+    "question": "mandamos",
+    "questionDetails": "Quieres dinero, y nosotros te lo mandamos.",
+    "answer": "send",
+    "answerDetails": "You want money and we send it."
+  },
+  {
+    "id": 3929,
+    "question": "queréis",
+    "questionDetails": "Bueno, supongo que queréis la verdad.",
+    "answer": "want, ye",
+    "answerDetails": "I suppose you want the truth."
+  },
+  {
+    "id": 3930,
+    "question": "unidad",
+    "questionDetails": "Juan recibió un premio por vender el mayor número de unidades este año fiscal.",
+    "answer": "unit",
+    "answerDetails": "Juan received a prize for selling the most units this fiscal year."
+  },
+  {
+    "id": 3931,
+    "question": "creyendo",
+    "questionDetails": "Déjalos seguir creyendo eso.",
+    "answer": "believing, fancying, thinking",
+    "answerDetails": "Let them go on believing it."
+  },
+  {
+    "id": 3932,
+    "question": "ofreciendo",
+    "questionDetails": "Sólo estaba ofreciendo reparar el techo.",
+    "answer": "offering, providing, featuring",
+    "answerDetails": "I was just offering to fix this roof here."
+  },
+  {
+    "id": 3933,
+    "question": "empresario",
+    "questionDetails": "El empresario como demandado dispone de la …",
+    "answer": "employer",
+    "answerDetails": "The employer as defendant has the …"
+  },
+  {
+    "id": 3934,
+    "question": "fuentes",
+    "questionDetails": "Quiero fabricante, fecha y posibles fuentes.",
+    "answer": "sources, fonts, fountains",
+    "answerDetails": "I want the maker, date, possible sources."
+  },
+  {
+    "id": 3935,
+    "question": "aparecido",
+    "questionDetails": "Ha aparecido una moneda caida del cielo.",
+    "answer": "appeared, popped up, surfaced",
+    "answerDetails": "A fallen currency has appeared of the one sky."
+  },
+  {
+    "id": 3936,
+    "question": "pedazos",
+    "questionDetails": "Y otros dos pedazos de esta increíble tarta.",
+    "answer": "pieces, chunks, bits",
+    "answerDetails": "And two more pieces of this incredible pie."
+  },
+  {
+    "id": 3937,
+    "question": "arruinar",
+    "questionDetails": "No quiero quiero arruinar tu actuación.",
+    "answer": "spoil",
+    "answerDetails": "Not want to spoil your performance."
+  },
+  {
+    "id": 3938,
+    "question": "recibí",
+    "questionDetails": "Recibí una carta de mi hijo hoy.",
+    "answer": "i received",
+    "answerDetails": "I received a letter from my son today."
+  },
+  {
+    "id": 3939,
+    "question": "discutiendo",
+    "questionDetails": "Necesitamos saber lo que estaban discutiendo.",
+    "answer": "discussing, arguing, quarrelling",
+    "answerDetails": "We need to know what they were discussing."
+  },
+  {
+    "id": 3940,
+    "question": "comportamiento",
+    "questionDetails": "El comportamiento de Jimmy mejoraba cuando su papá estaba en casa.",
+    "answer": "behavior, behaviour, performance",
+    "answerDetails": "Jimmy’s behavior improved when his father was home."
+  },
+  {
+    "id": 3941,
+    "question": "echas",
+    "questionDetails": "Sé que le echas de menos.",
+    "answer": "miss",
+    "answerDetails": "I know you miss him."
+  },
+  {
+    "id": 3942,
+    "question": "acusado",
+    "questionDetails": "El acusado fue ordenado a ser juzgado por una serie de cargos.",
+    "answer": "accused",
+    "answerDetails": "The accused was ordered to stand trial on a number of charges."
+  },
+  {
+    "id": 3943,
+    "question": "acabando",
+    "questionDetails": "Sólo seríamos dos personas acabando una conversación.",
+    "answer": "finishing, ending, busting",
+    "answerDetails": "All we’d be is two people finishing a conversation."
+  },
+  {
+    "id": 3944,
+    "question": "borrar",
+    "questionDetails": "Voy a borrar todas las fotos de mi computadora porque ocupan demasiado espacio.",
+    "answer": "delete, wipe",
+    "answerDetails": "I’m going to delete all the photos from my computer because they take up too much space."
+  },
+  {
+    "id": 3945,
+    "question": "inocentes",
+    "questionDetails": "Ayuda a salvar vidas inocentes.",
+    "answer": "innocent",
+    "answerDetails": "Helps save innocent lives."
+  },
+  {
+    "id": 3946,
+    "question": "rutina",
+    "questionDetails": "Diseñamos vacaciones para gente que busca romper con la Rutina.",
+    "answer": "routine, rut",
+    "answerDetails": "We tailor vacations for people looking for a break from routine."
+  },
+  {
+    "id": 3947,
+    "question": "expliqué",
+    "questionDetails": "Ya te expliqué que fue por agotamiento.",
+    "answer": "explained",
+    "answerDetails": "I explained it was for exhaustion."
+  },
+  {
+    "id": 3948,
+    "question": "llora",
+    "answer": "Cries"
+  },
+  {
+    "id": 3949,
+    "question": "pagas",
+    "questionDetails": "Si rompes las reglas, lo pagas.",
+    "answer": "pay, paychecks",
+    "answerDetails": "You break the rules, you pay."
+  },
+  {
+    "id": 3950,
+    "question": "tíos",
+    "questionDetails": "¿Quiénes son Antonio y Marcos?-Son mis tíos por parte de madre.",
+    "answer": "uncles",
+    "answerDetails": "Who are Antonio and Marcos?-They’re my uncles on my mom’s side."
+  },
+  {
+    "id": 3951,
+    "question": "formal",
+    "questionDetails": "Necesitamos una declaración formal.",
+    "answer": "formal, formally",
+    "answerDetails": "We need a formal statement."
+  },
+  {
+    "id": 3952,
+    "question": "objeto",
+    "questionDetails": "El Instituto se abrió con el objeto de promover el estudio científico.",
+    "answer": "object, subject, purpose",
+    "answerDetails": "The Institute was opened with the object of promoting scientific study."
+  },
+  {
+    "id": 3953,
+    "question": "inconsciente",
+    "questionDetails": "“¿Qué es?”, dijo de nuevo, inconsciente de la repetición.",
+    "answer": "unconscious",
+    "answerDetails": "‘What is it?’ he said again, unconscious of the repetition."
+  },
+  {
+    "id": 3954,
+    "question": "quiten",
+    "questionDetails": "Quiten esta mochila de aquí.",
+    "answer": "remove",
+    "answerDetails": "Remove the bag from here."
+  },
+  {
+    "id": 3955,
+    "question": "sonríe",
+    "questionDetails": "La cara de Paula se ilumina cuando sonríe.",
+    "answer": "she smiles",
+    "answerDetails": "Paula’s face lights up when she smiles."
+  },
+  {
+    "id": 3956,
+    "question": "dudar",
+    "questionDetails": "Nunca debo dudar de mí mismo.",
+    "answer": "doubt",
+    "answerDetails": "I should never doubt myself."
+  },
+  {
+    "id": 3957,
+    "question": "llevarse",
+    "answer": "get away with"
+  },
+  {
+    "id": 3958,
+    "question": "letras",
+    "questionDetails": "El erudito era un hombre de letras.",
+    "answer": "letters, lettering",
+    "answerDetails": "The scholar was a man of letters."
+  },
+  {
+    "id": 3959,
+    "question": "caos",
+    "questionDetails": "Cuando se apagaron las luces en el instituto correccional, estalló el caos.",
+    "answer": "mayhem",
+    "answerDetails": "When the lights went out in the correctional institute, mayhem broke out."
+  },
+  {
+    "id": 3960,
+    "question": "botón",
+    "questionDetails": "El botón del brillo está al costado.",
+    "answer": "control, button",
+    "answerDetails": "The brightness control is on the side."
+  },
+  {
+    "id": 3961,
+    "question": "llevarle",
+    "answer": "take him"
+  },
+  {
+    "id": 3962,
+    "question": "fines",
+    "answer": "finnish"
+  },
+  {
+    "id": 3963,
+    "question": "tomaron",
+    "questionDetails": "Tomaron sus libros y se mudaron a otra mesa.",
+    "answer": "they took, they drank",
+    "answerDetails": "They took their books and moved to another table."
+  },
+  {
+    "id": 3964,
+    "question": "elementos",
+    "questionDetails": "De los 4 elementos el fuego es el que más me llama la atención.",
+    "answer": "elements",
+    "answerDetails": "Of the fours elements, fire is the one I relate to most."
+  },
+  {
+    "id": 3965,
+    "question": "mueren",
+    "questionDetails": "Los que mueren con violencia permanecen.",
+    "answer": "die",
+    "answerDetails": "Those who die violently remain tortured."
+  },
+  {
+    "id": 3966,
+    "question": "alternativa",
+    "questionDetails": "La otra alternativa está aquí.",
+    "answer": "alternative",
+    "answerDetails": "The second alternative is here."
+  },
+  {
+    "id": 3967,
+    "question": "fechas",
+    "questionDetails": "Ya tiene todos los nombres y fechas en su cabeza.",
+    "answer": "dates",
+    "answerDetails": "All the names and dates are inside your head."
+  },
+  {
+    "id": 3968,
+    "question": "física",
+    "questionDetails": "Porque es la ley de la física.",
+    "answer": "physics",
+    "answerDetails": "Because it’s the law of physics."
+  },
+  {
+    "id": 3969,
+    "question": "repartir",
+    "questionDetails": "Baraja las cartas antes de repartirlas.",
+    "answer": "deal",
+    "answerDetails": "Shuffle the cards before dealing."
+  },
+  {
+    "id": 3970,
+    "question": "llegará",
+    "questionDetails": "Sin mí, el proyecto no llegará a ninguna parte.",
+    "answer": "will",
+    "answerDetails": "Without me, the project will go nowhere."
+  },
+  {
+    "id": 3971,
+    "question": "clásico",
+    "questionDetails": "Hiciste el error clásico de las películas.",
+    "answer": "classic",
+    "answerDetails": "You made the classic movie mistake."
+  },
+  {
+    "id": 3972,
+    "question": "contaba",
+    "questionDetails": "Lo que contaba era la interpretación dramática.",
+    "answer": "counted, reckoned, had",
+    "answerDetails": "It was more a dramatic interpretation that counted."
+  },
+  {
+    "id": 3973,
+    "question": "pensábamos",
+    "questionDetails": "Los dos pensábamos que se había acabado todo.",
+    "answer": "thought",
+    "answerDetails": "We both thought it was all over."
+  },
+  {
+    "id": 3974,
+    "question": "iremos",
+    "questionDetails": "Y ahora iremos a dar un paseo tranquilo.",
+    "answer": "we ‘re going",
+    "answerDetails": "And now we’re going to take a nice quiet walk."
+  },
+  {
+    "id": 3975,
+    "question": "sufre",
+    "questionDetails": "Todo lobo sufre sus pulgas.",
+    "answer": "suffers, undergoes, sufferer",
+    "answerDetails": "Every wolf suffers fleas."
+  },
+  {
+    "id": 3976,
+    "question": "daban",
+    "questionDetails": "Ellos simplemente te daban cosas.",
+    "answer": "gave",
+    "answerDetails": "They just gave you things."
+  },
+  {
+    "id": 3977,
+    "question": "apunta",
+    "questionDetails": "Le apunta con cuidado.",
+    "answer": "aims, points, targets",
+    "answerDetails": "He aims real careful."
+  },
+  {
+    "id": 3978,
+    "question": "hágame",
+    "questionDetails": "Y hágame saber cómo van las cosas en el reino.",
+    "answer": "let me",
+    "answerDetails": "And let me know how things go in the kingdom."
+  },
+  {
+    "id": 3979,
+    "question": "muñeca",
+    "questionDetails": "Le regalaron una muñeca por su cumpleaños.",
+    "answer": "doll",
+    "answerDetails": "She got a doll for her birthday."
+  },
+  {
+    "id": 3980,
+    "question": "ramón",
+    "questionDetails": "Ramón asiste a la escuela de la esquina.",
+    "answer": "raymond",
+    "answerDetails": "Raymond attends the school on the corner."
+  },
+  {
+    "id": 3981,
+    "question": "secuestro",
+    "questionDetails": "Cuando se llevó al bebé equivocado de la guardería, fue acusado de secuestro.",
+    "answer": "kidnapping, abduction, hijacking",
+    "answerDetails": "When he took the wrong baby from the nursery, he was charged with kidnapping."
+  },
+  {
+    "id": 3982,
+    "question": "políticos",
+    "questionDetails": "Espero que nosotros como políticos también lo estemos.",
+    "answer": "politicians, political",
+    "answerDetails": "I hope that we as politicians are too."
+  },
+  {
+    "id": 3983,
+    "question": "producción",
+    "questionDetails": "La producción de ciertas hormonas bajo estrés.",
+    "answer": "output, yield, production",
+    "answerDetails": "The output of certain hormones under stress."
+  },
+  {
+    "id": 3984,
+    "question": "empresas",
+    "questionDetails": "Las empresas serias nunca las garantizan ni prometen.",
+    "answer": "companies, enterprises, businesses",
+    "answerDetails": "Legitimate companies never guarantee or promise scholarships."
+  },
+  {
+    "id": 3985,
+    "question": "cuidadito",
+    "answer": "Cuidadito"
+  },
+  {
+    "id": 3986,
+    "question": "auxilio",
+    "questionDetails": "El salvavidas acudió en su auxilio cuando se cayó en el océano.",
+    "answer": "aid",
+    "answerDetails": "The lifejacket came to his aid when he fell into the ocean."
+  },
+  {
+    "id": 3987,
+    "question": "actriz",
+    "questionDetails": "Mi hermana es una actriz famosa.",
+    "answer": "actor",
+    "answerDetails": "My sister is a well-known actor."
+  },
+  {
+    "id": 3988,
+    "question": "afortunadamente",
+    "questionDetails": "Afortunadamente, no se dispararon disparos y nadie resultó herido.",
+    "answer": "fortunately, happily",
+    "answerDetails": "Fortunately, no shots were fired and no one was hurt."
+  },
+  {
+    "id": 3989,
+    "question": "confíe",
+    "questionDetails": "Confíe en algunos o en todos nuestros servicios integrados …",
+    "answer": "rely, trust, confide",
+    "answerDetails": "Rely on a few, or all of our integrated services …"
+  },
+  {
+    "id": 3990,
+    "question": "deudas",
+    "questionDetails": "Son deudas que nunca se pagan.",
+    "answer": "debts, dues, bills",
+    "answerDetails": "These are debts that can never be repaid."
+  },
+  {
+    "id": 3991,
+    "question": "hueco",
+    "questionDetails": "Vincent esconde efectivo en un hueco en la pared detrás del sofá.",
+    "answer": "hollow, hole, recess",
+    "answerDetails": "Vincent hides cash in a hollow in the wall behind the sofa."
+  },
+  {
+    "id": 3992,
+    "question": "avisarle",
+    "questionDetails": "Tengo que avisarle al mundo.",
+    "answer": "warn, notify, tell",
+    "answerDetails": "I have to warn the world."
+  },
+  {
+    "id": 3993,
+    "question": "informado",
+    "questionDetails": "Ella es muy bien informado sobre el ganado y pedigres.",
+    "answer": "knowledgeable",
+    "answerDetails": "She is very knowledgeable about livestock and pedigrees."
+  },
+  {
+    "id": 3994,
+    "question": "explícame",
+    "questionDetails": "Explícame porque ni siquiera hablas de eso.",
+    "answer": "explain",
+    "answerDetails": "Explain because neither even talk about that."
+  },
+  {
+    "id": 3995,
+    "question": "dueños",
+    "questionDetails": "Espero que los dueños estén fuera.",
+    "answer": "owners, property owners, masters",
+    "answerDetails": "Hope the owners are out."
+  },
+  {
+    "id": 3996,
+    "question": "armó",
+    "questionDetails": "Y también lo armó con una cota de malla.",
+    "answer": "armed",
+    "answerDetails": "Also he armed him with a coat of mail."
+  },
+  {
+    "id": 3997,
+    "question": "perdono",
+    "questionDetails": "También te perdono por eso.",
+    "answer": "forgive, pardon",
+    "answerDetails": "I forgive you for that, too."
+  },
+  {
+    "id": 3998,
+    "question": "putos",
+    "questionDetails": "Mírame a los putos ojos.",
+    "answer": "fucking, fuckers, faggots",
+    "answerDetails": "Look at my fucking eyes."
+  },
+  {
+    "id": 3999,
+    "question": "favores",
+    "questionDetails": "Mientras ella se desvestía, Elliot se preguntaba cómo habría tenido la suerte de que esta belleza le otorgara sus favores.",
+    "answer": "favors",
+    "answerDetails": "As she disrobed, Elliot wondered how he had been fortunate enough to have this beauty bestow her favors upon him."
+  },
+  {
+    "id": 4000,
+    "question": "cueste",
+    "questionDetails": "De veras espero que esto no nos cueste la competencia.",
+    "answer": "cost",
+    "answerDetails": "I really hope that this doesn’t cost us the competition."
+  }
+]

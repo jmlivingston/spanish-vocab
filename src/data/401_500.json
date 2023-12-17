@@ -1,0 +1,692 @@
+[
+  {
+    "id": 401,
+    "question": "gusto",
+    "questionDetails": "Las aves no tienen un sentido del gusto muy desarrollado.",
+    "answer": "taste, pleasure, flavor",
+    "answerDetails": "Birds do not have a highly developed sense of taste."
+  },
+  {
+    "id": 402,
+    "question": "haya",
+    "questionDetails": "Base de madera de haya laminada y curvada.",
+    "answer": "beech",
+    "answerDetails": "Base in laminated and curved beech."
+  },
+  {
+    "id": 403,
+    "question": "buscando",
+    "answer": "in search of"
+  },
+  {
+    "id": 404,
+    "question": "peor",
+    "questionDetails": "(Él) llevó la peor parte, él fue quien salió peor.",
+    "answer": "worst, worse",
+    "answerDetails": "He came off worst."
+  },
+  {
+    "id": 405,
+    "question": "meses",
+    "questionDetails": "Hemos trabajado en el túnel de viento por meses.",
+    "answer": "months",
+    "answerDetails": "You have the wind tunnel for months."
+  },
+  {
+    "id": 406,
+    "question": "hermano",
+    "questionDetails": "El hermano Rafael es el director de la abadía.",
+    "answer": "brother",
+    "answerDetails": "Brother Rafael is the abbey’s director."
+  },
+  {
+    "id": 407,
+    "question": "problemas",
+    "questionDetails": "Ella estaba demasiado preocupado con sus propios sentimientos a los problemas de Clare.",
+    "answer": "trouble",
+    "answerDetails": "She was too concerned with her own feelings to trouble about Clare’s."
+  },
+  {
+    "id": 408,
+    "question": "quien",
+    "questionDetails": "Puede que sólo sepas quien lo hizo.",
+    "answer": "who, whom",
+    "answerDetails": "Maybe just you know who did it."
+  },
+  {
+    "id": 409,
+    "question": "corazón",
+    "questionDetails": "Claro que es un corazón real.",
+    "answer": "heart",
+    "answerDetails": "Of course it was a real heart."
+  },
+  {
+    "id": 410,
+    "question": "anda",
+    "answer": "well"
+  },
+  {
+    "id": 411,
+    "question": "ayuda",
+    "questionDetails": "Caminó con la ayuda de un marco de Zimmer.",
+    "answer": "aid, support, assistance",
+    "answerDetails": "She walked with the aid of a Zimmer frame."
+  },
+  {
+    "id": 412,
+    "question": "lleva",
+    "questionDetails": "Ella solo lleva ropa negra porque está de luto.",
+    "answer": "she wears, she brings, he carries",
+    "answerDetails": "She wears only black because she’s in mourning."
+  },
+  {
+    "id": 413,
+    "question": "primer",
+    "questionDetails": "Ella está en sus primeros años 50.",
+    "answer": "early",
+    "answerDetails": "She’s in her early fifties."
+  },
+  {
+    "id": 414,
+    "question": "contra",
+    "questionDetails": "Nadar contra corriente del río exige mucho esfuerzo.",
+    "answer": "against, on",
+    "answerDetails": "Swimming against the current of the river takes much effort."
+  },
+  {
+    "id": 415,
+    "question": "conozco",
+    "questionDetails": "¿Quiénes son esos muchachos?-Oh, yo los conozco. Son mis vecinos.",
+    "answer": "i know them",
+    "answerDetails": "Who are those boys over there?-Oh, I know them. They’re my neighbors."
+  },
+  {
+    "id": 416,
+    "question": "diciendo",
+    "questionDetails": "La directora abrió la rueda de prensa diciendo que estaba encantada con el galardón.",
+    "answer": "by saying",
+    "answerDetails": "The director opened the press conference by saying she was delighted with the award."
+  },
+  {
+    "id": 417,
+    "question": "dices",
+    "questionDetails": "Lo que dices no tiene sentido.",
+    "answer": "say, tell",
+    "answerDetails": "What you say doesn’t make sense."
+  },
+  {
+    "id": 418,
+    "question": "encima",
+    "questionDetails": "El espejo está encima de la silla.",
+    "answer": "above, on me",
+    "answerDetails": "The mirror is above the chair."
+  },
+  {
+    "id": 419,
+    "question": "di",
+    "questionDetails": "Mamá, ¿viste mis llaves?-¡ Te las di hace 2 minutos!.",
+    "answer": "i gave",
+    "answerDetails": "Mom, did you see my keys?-I gave them to you two minutes ago!."
+  },
+  {
+    "id": 420,
+    "question": "das",
+    "questionDetails": "Solamente si me das una buena razón.",
+    "answer": "give",
+    "answerDetails": "If you give me a good reason."
+  },
+  {
+    "id": 421,
+    "question": "tranquila",
+    "questionDetails": "Era una tranquila velada en casa.",
+    "answer": "quiet, calm, peaceful",
+    "answerDetails": "Just having a quiet evening at home."
+  },
+  {
+    "id": 422,
+    "question": "mía",
+    "questionDetails": "No es mía, no se la puedo dar.",
+    "answer": "mine",
+    "answerDetails": "She is not mine to give."
+  },
+  {
+    "id": 423,
+    "question": "nueva",
+    "questionDetails": "Hemos entrado en una nueva era.",
+    "answer": "new",
+    "answerDetails": "We are in a new era."
+  },
+  {
+    "id": 424,
+    "question": "cambiar",
+    "questionDetails": "Necesitamos cambiar las opiniones de la gente si vamos a ganar esta campaña.",
+    "answer": "shift",
+    "answerDetails": "We need to shift people’s opinions if we are going to win this campaign."
+  },
+  {
+    "id": 425,
+    "question": "listo",
+    "questionDetails": "El asesino sabía que el mazo estaría listo para la mano.",
+    "answer": "ready, done, smart",
+    "answerDetails": "The murderer knew that the Mallet would be ready to hand."
+  },
+  {
+    "id": 426,
+    "question": "feliz",
+    "questionDetails": "Tenía la destreza feliz de hacer que la gente como él.",
+    "answer": "happy, merry",
+    "answerDetails": "He had the happy knack of making people like him."
+  },
+  {
+    "id": 427,
+    "question": "tuve",
+    "questionDetails": "Le tuve que invitar.",
+    "answer": "had",
+    "answerDetails": "I had to invite him."
+  },
+  {
+    "id": 428,
+    "question": "perfecto",
+    "questionDetails": "496 es un número perfecto.",
+    "answer": "perfect",
+    "answerDetails": "496 is a perfect number."
+  },
+  {
+    "id": 429,
+    "question": "ojos",
+    "questionDetails": "El pelo de Casey está muy largo y no se le ven los ojos.",
+    "answer": "her eyes, his eyes",
+    "answerDetails": "Casey’s hair is too long, and you can’t see her eyes."
+  },
+  {
+    "id": 430,
+    "question": "cambio",
+    "questionDetails": "El cambio de un nómada a una sociedad agrícola.",
+    "answer": "change, shift, switch",
+    "answerDetails": "The change from a nomadic to an agricultural society."
+  },
+  {
+    "id": 431,
+    "question": "loco",
+    "questionDetails": "Javier está loco por Susana. No aguanta estar sin ella.",
+    "answer": "crazy, mad, insane",
+    "answerDetails": "Javier is crazy about Susana. He can’t bear to be without her."
+  },
+  {
+    "id": 432,
+    "question": "saben",
+    "questionDetails": "De acuerdo, gente, ya saben como funciona esto.",
+    "answer": "know, aware",
+    "answerDetails": "All right, people, you know how this works."
+  },
+  {
+    "id": 433,
+    "question": "sacar",
+    "questionDetails": "Sacar un arma y apuntar a alguien.",
+    "answer": "pull, draw",
+    "answerDetails": "To pull a gun on somebody."
+  },
+  {
+    "id": 434,
+    "question": "contar",
+    "questionDetails": "Contar Ovejitas.",
+    "answer": "count",
+    "answerDetails": "To count sheep."
+  },
+  {
+    "id": 435,
+    "question": "dado",
+    "questionDetails": "Algunos esquizofrénicos son dados a experimentar alucinaciones.",
+    "answer": "given, certain, die",
+    "answerDetails": "Some schizophrenics are given to experiencing hallucinations."
+  },
+  {
+    "id": 436,
+    "question": "último",
+    "questionDetails": "Este modelo es lo último en autos de lujo.",
+    "answer": "ultimate, past",
+    "answerDetails": "This model is the ultimate in luxury cars."
+  },
+  {
+    "id": 437,
+    "question": "preocupes",
+    "questionDetails": "No se preocupes por mí.",
+    "answer": "worry",
+    "answerDetails": "Do not worry on my account."
+  },
+  {
+    "id": 438,
+    "question": "pregunta",
+    "questionDetails": "Su lealtad es realmente más allá de la pregunta.",
+    "answer": "question",
+    "answerDetails": "Her loyalty is really beyond question."
+  },
+  {
+    "id": 439,
+    "question": "otras",
+    "questionDetails": "Las buenas relaciones con otras culturas son primordiales para nosotros.",
+    "answer": "other, further, another",
+    "answerDetails": "Good relations with other cultures is our highest priority."
+  },
+  {
+    "id": 440,
+    "question": "pronto",
+    "questionDetails": "Se fueron demasiado pronto y no vieron cuando cortamos la torta.",
+    "answer": "early, shortly",
+    "answerDetails": "You left too early and missed the cutting of the cake."
+  },
+  {
+    "id": 441,
+    "question": "país",
+    "questionDetails": "Mi padre nunca regresó al país donde nació.",
+    "answer": "land, country",
+    "answerDetails": "My father never returned to the land where he was born."
+  },
+  {
+    "id": 442,
+    "question": "creer",
+    "questionDetails": "Su junta va a creer que eres milagrosa.",
+    "answer": "think",
+    "answerDetails": "Your board’s going to think you walk on water."
+  },
+  {
+    "id": 443,
+    "question": "dijiste",
+    "questionDetails": "Necesitamos asegurarnos de que la estudiante de intercambio se sienta bienvenida aquí. ¿Le dijiste hola esta mañana?-Sí. Y la invité al baile.",
+    "answer": "did you say, you told",
+    "answerDetails": "We need to make sure that the exchange student feels welcome here. Did you say hello to her this morning?-Yes. And I invited her to the dance."
+  },
+  {
+    "id": 444,
+    "question": "hacerlo",
+    "answer": "do it"
+  },
+  {
+    "id": 445,
+    "question": "ayer",
+    "questionDetails": "Ayer fuimos al cine.",
+    "answer": "yesterday",
+    "answerDetails": "Yesterday we went to movies."
+  },
+  {
+    "id": 446,
+    "question": "cerca",
+    "questionDetails": "Odio que la gente se pare cerca de mí en el tren.",
+    "answer": "close",
+    "answerDetails": "I hate when people stand close to me on the train."
+  },
+  {
+    "id": 447,
+    "question": "abajo",
+    "questionDetails": "Ella vive 2 pisos más abajo.",
+    "answer": "down, below",
+    "answerDetails": "She lives two floors down."
+  },
+  {
+    "id": 448,
+    "question": "culpa",
+    "questionDetails": "Fue culpa mía.",
+    "answer": "fault",
+    "answerDetails": "It was my fault."
+  },
+  {
+    "id": 449,
+    "question": "sabemos",
+    "questionDetails": "Asi lo sabemos todo de ellas.",
+    "answer": "know",
+    "answerDetails": "Then we know everything about them."
+  },
+  {
+    "id": 450,
+    "question": "personas",
+    "questionDetails": "Otras personas.",
+    "answer": "people",
+    "answerDetails": "Other people."
+  },
+  {
+    "id": 451,
+    "question": "llamar",
+    "questionDetails": "Tengo que llamar por teléfono.",
+    "answer": "call",
+    "answerDetails": "I have to make a call."
+  },
+  {
+    "id": 452,
+    "question": "muerto",
+    "questionDetails": "La caricatura trajo la animación de vuelta de los muertos.",
+    "answer": "dead",
+    "answerDetails": "The cartoon brought animation back from the dead."
+  },
+  {
+    "id": 453,
+    "question": "ganas",
+    "questionDetails": "No tengo ganas de ir a cenar a un restaurante japonés.",
+    "answer": "desire, eagerness",
+    "answerDetails": "I have no desire to go to a Japanese restaurant for dinner."
+  },
+  {
+    "id": 454,
+    "question": "forma",
+    "questionDetails": "El guión no tiene nada especial en la forma de diálogo o caracterización.",
+    "answer": "way, form, shape",
+    "answerDetails": "The script has nothing special in the way of dialogue or characterization."
+  },
+  {
+    "id": 455,
+    "question": "estábamos",
+    "questionDetails": "Entonces, volviendo a lo que estábamos haciendo.",
+    "answer": "were",
+    "answerDetails": "But anyway, back to what we were doing."
+  },
+  {
+    "id": 456,
+    "question": "pedir",
+    "questionDetails": "Pedir a alguien que haga algo.",
+    "answer": "ask, seek",
+    "answerDetails": "To ask somebody to do something."
+  },
+  {
+    "id": 457,
+    "question": "rato",
+    "questionDetails": "Voy a hacer la compra. Vuelvo en un rato.",
+    "answer": "bit, awhile",
+    "answerDetails": "I’m going grocery shopping. I’ll be back in a bit."
+  },
+  {
+    "id": 458,
+    "question": "llamo",
+    "questionDetails": "Lo llamo pasar el tiempo.",
+    "answer": "call, knock",
+    "answerDetails": "I call it passing the time."
+  },
+  {
+    "id": 459,
+    "question": "otros",
+    "questionDetails": "Podría haber otros factores en juego.",
+    "answer": "other, further, another",
+    "answerDetails": "There may be other factors involved."
+  },
+  {
+    "id": 460,
+    "question": "bajo",
+    "questionDetails": "Debajo de la mesa/las escaleras.",
+    "answer": "under",
+    "answerDetails": "Under the table/the stairs."
+  },
+  {
+    "id": 461,
+    "question": "ocho",
+    "questionDetails": "Necesito dormir mis ocho horas.",
+    "answer": "eight",
+    "answerDetails": "Got to get my eight hours."
+  },
+  {
+    "id": 462,
+    "question": "hagas",
+    "questionDetails": "Para que les hagas trucos.",
+    "answer": "do, make",
+    "answerDetails": "So you’ll do tricks for them."
+  },
+  {
+    "id": 463,
+    "question": "perder",
+    "questionDetails": "Ella no le importaba perder una hora en la cama para ensuciar los caballos.",
+    "answer": "forfeit",
+    "answerDetails": "She didn’t mind forfeiting an hour in bed to muck out the horses."
+  },
+  {
+    "id": 464,
+    "question": "empezar",
+    "questionDetails": "Ella había visto a Meg empezar de repente de un matorral.",
+    "answer": "start",
+    "answerDetails": "She had seen Meg start suddenly from a thicket."
+  },
+  {
+    "id": 465,
+    "question": "doy",
+    "questionDetails": "Si te doy este libro, ¿se lo podrás dar a Phil?",
+    "answer": "i give",
+    "answerDetails": "If I give this book to you, will you please give it to Phil?"
+  },
+  {
+    "id": 466,
+    "question": "hacía",
+    "questionDetails": "Les hacía sentirse mejor.",
+    "answer": "made, did",
+    "answerDetails": "Made them feel better."
+  },
+  {
+    "id": 467,
+    "question": "vuelta",
+    "questionDetails": "Por favor, usa la vuelta de la hoja también.",
+    "answer": "back, turn, round",
+    "answerDetails": "Please use the back of the page as well."
+  },
+  {
+    "id": 468,
+    "question": "justo",
+    "questionDetails": "Tiene el tamaño justo.",
+    "answer": "just, right, fair",
+    "answerDetails": "It’s only just big enough."
+  },
+  {
+    "id": 469,
+    "question": "bastante",
+    "questionDetails": "Es bastante fuera de la cuestión.",
+    "answer": "quite, pretty, rather",
+    "answerDetails": "It’s quite out of the question."
+  },
+  {
+    "id": 470,
+    "question": "digas",
+    "questionDetails": "Quiero que me lo digas.",
+    "answer": "say, tell",
+    "answerDetails": "I want you to say it to me."
+  },
+  {
+    "id": 471,
+    "question": "noches",
+    "questionDetails": "Algo me sucedió en esas dos noches.",
+    "answer": "nights, evening",
+    "answerDetails": "Something happened to me both those nights!"
+  },
+  {
+    "id": 472,
+    "question": "camino",
+    "questionDetails": "La familia de todo el camino se unen en el argumento.",
+    "answer": "way, road, path",
+    "answerDetails": "The family from over the way were joining in the argument."
+  },
+  {
+    "id": 473,
+    "question": "llega",
+    "questionDetails": "Max no está en casa. Llega a las ocho.",
+    "answer": "he comes",
+    "answerDetails": "Max is not home yet. He comes at 8."
+  },
+  {
+    "id": 474,
+    "question": "siquiera",
+    "questionDetails": "No te puedes arriesgar, ni siquiera por mí.",
+    "answer": "even",
+    "answerDetails": "You cannot risk yourself, even for me."
+  },
+  {
+    "id": 475,
+    "question": "siendo",
+    "questionDetails": "Parece que hoy en día puedes hacerte famoso simplemente siendo estúpido.",
+    "answer": "by being",
+    "answerDetails": "It seems that these days you can become a celebrity simply by being stupid."
+  },
+  {
+    "id": 476,
+    "question": "nuestros",
+    "questionDetails": "Nuestros espíritus pueden comunicarse.",
+    "answer": "our",
+    "answerDetails": "Our spirits can commune."
+  },
+  {
+    "id": 477,
+    "question": "esté",
+    "questionDetails": "Entonces con tal de que ella esté de acuerdo.",
+    "answer": "is",
+    "answerDetails": "Then as long as she is comfortable with it."
+  },
+  {
+    "id": 478,
+    "question": "teléfono",
+    "questionDetails": "Parece haber interferencias en el teléfono.",
+    "answer": "telephone",
+    "answerDetails": "There seems to be some interference on her telephone."
+  },
+  {
+    "id": 479,
+    "question": "pase",
+    "questionDetails": "Tengo que ver su pase.",
+    "answer": "pass",
+    "answerDetails": "I needto see your pass."
+  },
+  {
+    "id": 480,
+    "question": "esperar",
+    "questionDetails": "Esperar a que ocurra algo.",
+    "answer": "wait",
+    "answerDetails": "To wait for something to happen."
+  },
+  {
+    "id": 481,
+    "question": "pensando",
+    "questionDetails": "La conversación continuó, pero sus palabras me dejaron pensando.",
+    "answer": "thinking, figuring, wondering",
+    "answerDetails": "The conversation continued, but his words left me thinking."
+  },
+  {
+    "id": 482,
+    "question": "paz",
+    "questionDetails": "La policía debe desempeñar un papel crucial en mantener la paz.",
+    "answer": "peace, la paz",
+    "answerDetails": "The police must play a crucial role in keeping the peace."
+  },
+  {
+    "id": 483,
+    "question": "dejó",
+    "answer": "it left"
+  },
+  {
+    "id": 484,
+    "question": "cuerpo",
+    "questionDetails": "El camino tomado por el cuerpo que cae.",
+    "answer": "body, corps",
+    "answerDetails": "The path taken by the falling body."
+  },
+  {
+    "id": 485,
+    "question": "realidad",
+    "questionDetails": "Se niega a enfrentar la realidad.",
+    "answer": "reality, fact",
+    "answerDetails": "He refuses to face reality."
+  },
+  {
+    "id": 486,
+    "question": "número",
+    "questionDetails": "El número de personas afectadas sigue siendo pequeña.",
+    "answer": "number, issue, size",
+    "answerDetails": "The number of people affected remains small."
+  },
+  {
+    "id": 487,
+    "question": "sentido",
+    "questionDetails": "Recobrar el conocimiento or sentido.",
+    "answer": "sense, meaning, respect",
+    "answerDetails": "To come to one’s senses."
+  },
+  {
+    "id": 488,
+    "question": "niño",
+    "questionDetails": "¿Van a tener 1 niño o una niña?",
+    "answer": "boy",
+    "answerDetails": "Are they going to have a boy or a girl?"
+  },
+  {
+    "id": 489,
+    "question": "quedó",
+    "questionDetails": "Por eso se quedó atrás.",
+    "answer": "stayed, remained, stood",
+    "answerDetails": "That is why you stayed behind."
+  },
+  {
+    "id": 490,
+    "question": "espero",
+    "questionDetails": "¿Esperas que tu equipo gane la liga?-Lo espero, desde luego.",
+    "answer": "i expect so",
+    "answerDetails": "Do you expect your team to win the league?-I expect so, of course."
+  },
+  {
+    "id": 491,
+    "question": "mierda",
+    "questionDetails": "¡ Mierda! Dejé las llaves adentro del coche.",
+    "answer": "crap, shitty, turd",
+    "answerDetails": "Crap! I left my keys in the car."
+  },
+  {
+    "id": 492,
+    "question": "cree",
+    "answer": "he thinks"
+  },
+  {
+    "id": 493,
+    "question": "mujeres",
+    "questionDetails": "La bebida y las mujeres lo destruyeron.",
+    "answer": "women",
+    "answerDetails": "Drink and women destroyed him."
+  },
+  {
+    "id": 494,
+    "question": "estabas",
+    "questionDetails": "¿Estabas manejando cuando me llamaste?-No Lo haré de nuevo.",
+    "answer": "were you, you were",
+    "answerDetails": "Were you driving when you called me?-I won’t do it again."
+  },
+  {
+    "id": 495,
+    "question": "mil",
+    "questionDetails": "Miles de personas se congregaron delante de las Naciones Unidas para manifestar su apoyo.",
+    "answer": "thousand",
+    "answerDetails": "Thousands of people gathered in front of the United Nations to demonstrate their support."
+  },
+  {
+    "id": 496,
+    "question": "fueron",
+    "questionDetails": "Claro que conozco a Alicia y Ryan. Fueron mis vecinos durante 5 años.",
+    "answer": "they were",
+    "answerDetails": "Of course I know Alicia and Ryan. They were my neighbors for five years."
+  },
+  {
+    "id": 497,
+    "question": "pone",
+    "questionDetails": "¿Por qué le pones tanta azúcar al té?",
+    "answer": "do you take",
+    "answerDetails": "Why do you take so much sugar with your tea?"
+  },
+  {
+    "id": 498,
+    "question": "demás",
+    "questionDetails": "Algunas sillas están en el jardín y las demás en la cocina.",
+    "answer": "other, everyone else, remaining",
+    "answerDetails": "Some chairs are in the garden and the others are in the kitchen."
+  },
+  {
+    "id": 499,
+    "question": "ejemplo",
+    "questionDetails": "Seguir el ejemplo de alguien.",
+    "answer": "example, instance",
+    "answerDetails": "To follow somebody’s example."
+  },
+  {
+    "id": 500,
+    "question": "decía",
+    "questionDetails": "A papá le gustaba bromear con mis amigos. Les decía las cosas más graciosas.",
+    "answer": "he would say, i told, it said",
+    "answerDetails": "Dad liked to tease my friends. He would say the funniest things to them."
+  }
+]

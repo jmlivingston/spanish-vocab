@@ -1,0 +1,676 @@
+[
+  {
+    "id": 2301,
+    "question": "paciente",
+    "questionDetails": "Un paciente puede estar ausente.",
+    "answer": "patient",
+    "answerDetails": "A patient might be missing."
+  },
+  {
+    "id": 2302,
+    "question": "gorda",
+    "questionDetails": "Siempre hablaba de lo gorda que estaba.",
+    "answer": "fat, fatso, plump",
+    "answerDetails": "She would talk about how fat she was."
+  },
+  {
+    "id": 2303,
+    "question": "tranquilízate",
+    "questionDetails": "¡ Tranquilízate ya mismo!-¡ No me voy a tranquilizar!.",
+    "answer": "calm yourself",
+    "answerDetails": "Calm yourself right now!-I will not calm myself!."
+  },
+  {
+    "id": 2304,
+    "question": "baje",
+    "questionDetails": "¿Dónde está la biblioteca?-Baje al primer piso.",
+    "answer": "go downstairs",
+    "answerDetails": "Where’s the library?-Go downstairs to the first floor."
+  },
+  {
+    "id": 2305,
+    "question": "repito",
+    "questionDetails": "No, repito, no cambio pañales.",
+    "answer": "repeat",
+    "answerDetails": "I do not, repeat, do not change diapers."
+  },
+  {
+    "id": 2306,
+    "question": "genio",
+    "questionDetails": "Juanita está aprendiendo a controlar su genio.",
+    "answer": "temper",
+    "answerDetails": "Juanita is learning to control her temper."
+  },
+  {
+    "id": 2307,
+    "question": "desapareció",
+    "answer": "he was gone"
+  },
+  {
+    "id": 2308,
+    "question": "civil",
+    "questionDetails": "Es un tribunal civil.",
+    "answer": "civil, marital, calendar",
+    "answerDetails": "This is a civil court."
+  },
+  {
+    "id": 2309,
+    "question": "explicaciones",
+    "questionDetails": "Otras tablas podrían también usar explicaciones más completas.",
+    "answer": "explanations",
+    "answerDetails": "Other charts could also use more comprehensible explanations."
+  },
+  {
+    "id": 2310,
+    "question": "acompañe",
+    "questionDetails": "Invito a la prensa a que me acompañe.",
+    "answer": "accompany, escort",
+    "answerDetails": "I invite the media to accompany me."
+  },
+  {
+    "id": 2311,
+    "question": "consiguió",
+    "questionDetails": "Me encanta su chaqueta. Creo que la consiguió en Europa.",
+    "answer": "got it, it got",
+    "answerDetails": "I love his jacket. I think he got it in Europe."
+  },
+  {
+    "id": 2312,
+    "question": "echó",
+    "questionDetails": "Pero su amiga echó atrás la cabeza.",
+    "answer": "threw, burst, cast",
+    "answerDetails": "But her friend threw back his head."
+  },
+  {
+    "id": 2313,
+    "question": "despedida",
+    "questionDetails": "Linda hizo su despedida a su familia.",
+    "answer": "farewell, parting",
+    "answerDetails": "Linda bid farewell to her family."
+  },
+  {
+    "id": 2314,
+    "question": "esperen",
+    "questionDetails": "Denle esto personalmente, y esperen.",
+    "answer": "wait, expect, await",
+    "answerDetails": "Give this to him personally, then wait."
+  },
+  {
+    "id": 2315,
+    "question": "viera",
+    "questionDetails": "Debí asegurarme de que no la viera.",
+    "answer": "see",
+    "answerDetails": "I should have made sure she didn’t see it."
+  },
+  {
+    "id": 2316,
+    "question": "preparada",
+    "questionDetails": "Yo nunca esperé que vinieras preparada.",
+    "answer": "prepared, ready, poised",
+    "answerDetails": "I never expected that, that you’d come prepared."
+  },
+  {
+    "id": 2317,
+    "question": "difíciles",
+    "questionDetails": "Tengo que hacer algunas preguntas difíciles.",
+    "answer": "difficult, hard, tough",
+    "answerDetails": "I must make some difficult questions."
+  },
+  {
+    "id": 2318,
+    "question": "lujo",
+    "questionDetails": "Un buen baño en el jacuzzi con una barra de chocolate oscuro. ¡ Qué lujo!.",
+    "answer": "luxury",
+    "answerDetails": "A soak in the hot tub with a bar of dark chocolate. What luxury!."
+  },
+  {
+    "id": 2319,
+    "question": "pata",
+    "questionDetails": "¿Prefieres la carne blanca o la pata?",
+    "answer": "leg, paw",
+    "answerDetails": "Do you prefer the white meat or the leg?"
+  },
+  {
+    "id": 2320,
+    "question": "verlos",
+    "answer": "See"
+  },
+  {
+    "id": 2321,
+    "question": "remedio",
+    "questionDetails": "Ya no tiene remedio.",
+    "answer": "remedy, choice, cure",
+    "answerDetails": "It’s past remedy."
+  },
+  {
+    "id": 2322,
+    "question": "escondido",
+    "answer": "secluded"
+  },
+  {
+    "id": 2323,
+    "question": "pasara",
+    "questionDetails": "Y en este enojo, no se que te pasara.",
+    "answer": "happen",
+    "answerDetails": "And this madness, don’t know what happen to you."
+  },
+  {
+    "id": 2324,
+    "question": "trabajas",
+    "questionDetails": "¿Trabajas en el departamento de la informática?",
+    "answer": "do you work",
+    "answerDetails": "Do you work in IT?"
+  },
+  {
+    "id": 2325,
+    "question": "tendríamos",
+    "questionDetails": "Se suponía que tendríamos una cena tranquila.",
+    "answer": "have",
+    "answerDetails": "We were supposed to have a quiet dinner."
+  },
+  {
+    "id": 2326,
+    "question": "haremos",
+    "questionDetails": "Haremos un comedero de madera para los pájaros.",
+    "answer": "we will make",
+    "answerDetails": "We will make a bird feeder out of wood."
+  },
+  {
+    "id": 2327,
+    "question": "sentar",
+    "questionDetails": "Nosotras nos vamos a sentar acá.",
+    "answer": "sit, lay, sit down",
+    "answerDetails": "We were going to sit there."
+  },
+  {
+    "id": 2328,
+    "question": "aplauso",
+    "questionDetails": "Me encanta escuchar el aplauso del público tras la actuación.",
+    "answer": "clap",
+    "answerDetails": "I love to hear the clap of the audience at the end of a performance."
+  },
+  {
+    "id": 2329,
+    "question": "diré",
+    "questionDetails": "Juro que diré la verdad.",
+    "answer": "i will tell",
+    "answerDetails": "I swear I will tell the truth."
+  },
+  {
+    "id": 2330,
+    "question": "perdida",
+    "questionDetails": "Me ha devuelto mi perdida juventud.",
+    "answer": "lost, loss, missing",
+    "answerDetails": "She has returned to me again my lost youth."
+  },
+  {
+    "id": 2331,
+    "question": "podrás",
+    "questionDetails": "Sé que podrás hacerlo.",
+    "answer": "can",
+    "answerDetails": "I know you can."
+  },
+  {
+    "id": 2332,
+    "question": "ritmo",
+    "questionDetails": "Por favor, ve más despacio. No puedo caminar a tu mismo ritmo.",
+    "answer": "pace, rhythm, beat",
+    "answerDetails": "Please, slow down. I can’t walk at your same pace."
+  },
+  {
+    "id": 2333,
+    "question": "aires",
+    "answer": "Aires"
+  },
+  {
+    "id": 2334,
+    "question": "viernes",
+    "answer": "Friday"
+  },
+  {
+    "id": 2335,
+    "question": "miguel",
+    "answer": "Miguel"
+  },
+  {
+    "id": 2336,
+    "question": "sos",
+    "answer": "SOS"
+  },
+  {
+    "id": 2337,
+    "question": "jefa",
+    "questionDetails": "La jefa les dijo que enviaran las mercancías.",
+    "answer": "boss",
+    "answerDetails": "The boss told them to deliver the goods."
+  },
+  {
+    "id": 2338,
+    "question": "ama",
+    "questionDetails": "Yo la amo, y ella me ama a mí.",
+    "answer": "she loves",
+    "answerDetails": "I love her, and she loves me."
+  },
+  {
+    "id": 2339,
+    "question": "prima",
+    "questionDetails": "Si logras tu meta de ventas durante 8 semanas consecutivas, la compañía te regala una prima de $500.",
+    "answer": "bonus",
+    "answerDetails": "If you hit your sales goal for 8 consecutive weeks, the company gives you a $500 bonus."
+  },
+  {
+    "id": 2340,
+    "question": "andan",
+    "questionDetails": "Dicen que aquí las cosas no andan bien.",
+    "answer": "are",
+    "answerDetails": "They say things are no good in this house."
+  },
+  {
+    "id": 2341,
+    "question": "capital",
+    "questionDetails": "Mi padre me dejó la mitad del capital.",
+    "answer": "capital, equity, principal",
+    "answerDetails": "My father left me half the capital."
+  },
+  {
+    "id": 2342,
+    "question": "acuérdate",
+    "questionDetails": "Acuérdate de por qué lo estamos haciendo.",
+    "answer": "remember",
+    "answerDetails": "Remember why we´re doing this."
+  },
+  {
+    "id": 2343,
+    "question": "negar",
+    "questionDetails": "Obviamente,quería negar que estaba en un casino.",
+    "answer": "deny",
+    "answerDetails": "Obviously he was tryingto deny it was a gambling house."
+  },
+  {
+    "id": 2344,
+    "question": "cuidando",
+    "questionDetails": "Me querías en casa cuidando de los niños.",
+    "answer": "taking care, caring, minding",
+    "answerDetails": "You wanted me at home taking care of the kids."
+  },
+  {
+    "id": 2345,
+    "question": "enterado",
+    "questionDetails": "Algunos críticos enterados la consideran la mejor novela del siglo.",
+    "answer": "knowledgeable",
+    "answerDetails": "Some knowledgeable critics consider it the best novel of the century."
+  },
+  {
+    "id": 2346,
+    "question": "pásame",
+    "questionDetails": "Pásame el bote de las galletas.",
+    "answer": "pass, Gimme",
+    "answerDetails": "Pass the biscuit barrel."
+  },
+  {
+    "id": 2347,
+    "question": "patas",
+    "questionDetails": "Debe tener prisa, mueve las patas rápidamente.",
+    "answer": "pins",
+    "answerDetails": "He must be in a hurry. His pins are moving fast."
+  },
+  {
+    "id": 2348,
+    "question": "volviste",
+    "questionDetails": "Porque tú te volviste un problema.",
+    "answer": "become",
+    "answerDetails": "Because you become a problem."
+  },
+  {
+    "id": 2349,
+    "question": "sigamos",
+    "questionDetails": "Prefiero que sigamos con el protocolo.",
+    "answer": "follow",
+    "answerDetails": "I prefer to follow the protocol."
+  },
+  {
+    "id": 2350,
+    "question": "pongan",
+    "questionDetails": "Pongan sus cajas a un lado.",
+    "answer": "put",
+    "answerDetails": "Put your lockers away."
+  },
+  {
+    "id": 2351,
+    "question": "soltar",
+    "questionDetails": "Activistas soltaron los chimpancés de sus jaulas.",
+    "answer": "free, drop",
+    "answerDetails": "Activists freed the chimps from their cages."
+  },
+  {
+    "id": 2352,
+    "question": "comunicación",
+    "questionDetails": "Demoler las convenciones de su comunicación.",
+    "answer": "communication",
+    "answerDetails": "To undermine the conventions of its communication."
+  },
+  {
+    "id": 2353,
+    "question": "paro",
+    "questionDetails": "El paro ha empujado a muchos jóvenes a marcharse del país.",
+    "answer": "unemployment, stoppage, strike",
+    "answerDetails": "Unemployment has driven many young people to leave the country."
+  },
+  {
+    "id": 2354,
+    "question": "invitado",
+    "questionDetails": "El Dr. Gervais será un conferenciante invitado en el congreso.",
+    "answer": "visiting",
+    "answerDetails": "Dr. Gervais will be a visiting speaker at the conference."
+  },
+  {
+    "id": 2355,
+    "question": "bola",
+    "questionDetails": "La forma en que se colocan las bolas depende del juego de billar que estés jugando.",
+    "answer": "ball, fib",
+    "answerDetails": "The way you rack the balls depends on which game of billiards you’re playing."
+  },
+  {
+    "id": 2356,
+    "question": "números",
+    "questionDetails": "Comprobamos los números de serie y coincidieron.",
+    "answer": "numbers, numerals, issues",
+    "answerDetails": "We checked the serial numbers and they matched."
+  },
+  {
+    "id": 2357,
+    "question": "desaparecido",
+    "questionDetails": "Militares enumerados como desaparecidos en acción.",
+    "answer": "missing",
+    "answerDetails": "Servicemen listed as missing in action."
+  },
+  {
+    "id": 2358,
+    "question": "pollo",
+    "questionDetails": "El pollo está delicioso.",
+    "answer": "chicken",
+    "answerDetails": "The chicken is delicious."
+  },
+  {
+    "id": 2359,
+    "question": "ocurrir",
+    "questionDetails": "No puedo creer lo que acaba de ocurrir.",
+    "answer": "happen",
+    "answerDetails": "I can’t believe what just happened."
+  },
+  {
+    "id": 2360,
+    "question": "estrellas",
+    "questionDetails": "Algunas personas vienen aquí para ser estrellas.",
+    "answer": "star",
+    "answerDetails": "Some people come here to be a star."
+  },
+  {
+    "id": 2361,
+    "question": "acordar",
+    "questionDetails": "Acordaron que había que limpiar el parque.",
+    "answer": "agree",
+    "answerDetails": "They agreed that the park needed to be cleaned up."
+  },
+  {
+    "id": 2362,
+    "question": "probable",
+    "questionDetails": "Especulación sobre el efecto probable de optar por.",
+    "answer": "likely",
+    "answerDetails": "Speculation on the likely effect of opting out."
+  },
+  {
+    "id": 2363,
+    "question": "viniendo",
+    "questionDetails": "Los buques estan viniendo por nosotros.",
+    "answer": "coming, comin’",
+    "answerDetails": "The boats are coming for us."
+  },
+  {
+    "id": 2364,
+    "question": "construir",
+    "questionDetails": "A partir de estos datos, podemos construir modelos que pronostiquen el comportamiento de las variables.",
+    "answer": "construct",
+    "answerDetails": "From this data, we can construct predictive models for the variables."
+  },
+  {
+    "id": 2365,
+    "question": "comienza",
+    "questionDetails": "Cuando Amos Le dice a Joan que la deja, ella comienza a llorar.",
+    "answer": "she begins, he starts, it begins",
+    "answerDetails": "When Amos tells Joan he’s leaving her, she begins to cry."
+  },
+  {
+    "id": 2366,
+    "question": "agente",
+    "questionDetails": "Descubrieron que era Agente Secreto del FBI.",
+    "answer": "agent, broker",
+    "answerDetails": "He was unmasked as an undercover agent for the FBI."
+  },
+  {
+    "id": 2367,
+    "question": "boda",
+    "answer": "Wedding"
+  },
+  {
+    "id": 2368,
+    "question": "ja",
+    "questionDetails": "Me dijo que el auto era suyo. ¡ Ja!, sé de buena tinta que es de su hermano.",
+    "answer": "ha",
+    "answerDetails": "He told me the car was his. Ha! I know very well that it’s his brother’s."
+  },
+  {
+    "id": 2369,
+    "question": "oigan",
+    "answer": "Hey, yo"
+  },
+  {
+    "id": 2370,
+    "question": "créeme",
+    "questionDetails": "No quieres estar cerca de Charlottle cuando está enojada. Créeme.",
+    "answer": "trust me",
+    "answerDetails": "You don’t want to be around Charlotte when she’s angry. Trust me."
+  },
+  {
+    "id": 2371,
+    "question": "madrid",
+    "answer": "Madrid"
+  },
+  {
+    "id": 2372,
+    "question": "visitar",
+    "questionDetails": "Si quieren visitar el castillo, hay que reservar con antelación.",
+    "answer": "go around",
+    "answerDetails": "If you want to go around the castle, you have to book in advance."
+  },
+  {
+    "id": 2373,
+    "question": "acepto",
+    "questionDetails": "Te acepto como eres, cariño.",
+    "answer": "accept, agree",
+    "answerDetails": "I accept you the way you are, darling."
+  },
+  {
+    "id": 2374,
+    "question": "matan",
+    "questionDetails": "Los favores matan antes que una bala.",
+    "answer": "kill",
+    "answerDetails": "Favor going to kill you faster than a bullet."
+  },
+  {
+    "id": 2375,
+    "question": "investigar",
+    "questionDetails": "Estudios futuros investigarán si el uso a largo plazo de los fármacos podría prevenir el cáncer.",
+    "answer": "investigate",
+    "answerDetails": "Future studies will investigate whether long-term use of the drugs could prevent cancer."
+  },
+  {
+    "id": 2376,
+    "question": "verá",
+    "answer": "See"
+  },
+  {
+    "id": 2377,
+    "question": "protección",
+    "questionDetails": "Cuando estoy en el taller, siempre utilizo guantes como protección para evitar accidentes.",
+    "answer": "guard, protection",
+    "answerDetails": "At the repair shop, I always wear gloves as a guard against accidents."
+  },
+  {
+    "id": 2378,
+    "question": "besos",
+    "questionDetails": "Tres besos dicen que es un vínculo amoroso.",
+    "answer": "kisses",
+    "answerDetails": "Three kisses says it’s a romantic attachment."
+  },
+  {
+    "id": 2379,
+    "question": "respetar",
+    "questionDetails": "Respetaremos sus deseos y esparciremos sus cenizas en el desierto.",
+    "answer": "respect, observe",
+    "answerDetails": "We will respect his wishes and will scatter his ashes in the desert."
+  },
+  {
+    "id": 2380,
+    "question": "pagando",
+    "questionDetails": "Ya estoy pagando por ello.",
+    "answer": "paying, payin",
+    "answerDetails": "I already am paying for it."
+  },
+  {
+    "id": 2381,
+    "question": "chino",
+    "questionDetails": "Estoy estudiando chino en la universidad.",
+    "answer": "chinese",
+    "answerDetails": "I’m studying Chinese at university."
+  },
+  {
+    "id": 2382,
+    "question": "sentimientos",
+    "questionDetails": "Me heriste mucho los sentimientos.",
+    "answer": "feelings",
+    "answerDetails": "You really hurt my feelings."
+  },
+  {
+    "id": 2383,
+    "question": "mereces",
+    "questionDetails": "Tú mereces más que eso.",
+    "answer": "deserve",
+    "answerDetails": "You deserve more than this."
+  },
+  {
+    "id": 2384,
+    "question": "sepan",
+    "questionDetails": "Quiero que sepan lo genial que puedes ser.",
+    "answer": "know",
+    "answerDetails": "I want them to know how great you can be."
+  },
+  {
+    "id": 2385,
+    "question": "sueldo",
+    "questionDetails": "Su sueldo es bastante bueno, pero gasta demasiado en su carro.",
+    "answer": "salary, wage",
+    "answerDetails": "She earns a fair salary, but she spends too much on her car."
+  },
+  {
+    "id": 2386,
+    "question": "ciento",
+    "questionDetails": "Ciento trece kilos con cincuenta gramos.",
+    "answer": "hundred",
+    "answerDetails": "A hundred and thirteen kilos and fifty grams."
+  },
+  {
+    "id": 2387,
+    "question": "escuche",
+    "questionDetails": "Entonces escuche la música, no la canción.",
+    "answer": "listen, hear",
+    "answerDetails": "Then listen to the music, not the song."
+  },
+  {
+    "id": 2388,
+    "question": "oferta",
+    "questionDetails": "Han hecho una oferta de 575 millones de dólares por la empresa.",
+    "answer": "bid, tender, sale",
+    "answerDetails": "They’ve made a bid of 575 million dollars for the company."
+  },
+  {
+    "id": 2389,
+    "question": "verdadera",
+    "questionDetails": "Y en los próximos días te probaré mi verdadera dedicación.",
+    "answer": "true, real, genuine",
+    "answerDetails": "And the next few days will prove my true devotion."
+  },
+  {
+    "id": 2390,
+    "question": "preguntarle",
+    "questionDetails": "No quiero preguntarle. Quiero averiguar la respuesta por mí mismo.",
+    "answer": "ask him",
+    "answerDetails": "I don’t want to ask him. I want to figure out the answer by myself."
+  },
+  {
+    "id": 2391,
+    "question": "descansa",
+    "questionDetails": "La mente humana jamás descansa.",
+    "answer": "rest, relies",
+    "answerDetails": "The human mind is never at rest."
+  },
+  {
+    "id": 2392,
+    "question": "encantan",
+    "questionDetails": "A las cabras les encantan las tartas.",
+    "answer": "love, enchant, adore",
+    "answerDetails": "Goats really love pie."
+  },
+  {
+    "id": 2393,
+    "question": "esconder",
+    "questionDetails": "Tampoco tenemos nada que esconder.",
+    "answer": "conceal",
+    "answerDetails": "Neither have we anything to conceal."
+  },
+  {
+    "id": 2394,
+    "question": "salgas",
+    "questionDetails": "Nunca salgas de la ciudad.",
+    "answer": "leave",
+    "answerDetails": "Never leave the city."
+  },
+  {
+    "id": 2395,
+    "question": "estudios",
+    "questionDetails": "Milena piensa seguir sus estudios en Europa.",
+    "answer": "studies, education",
+    "answerDetails": "Milena’s planning to continue her studies in Europe."
+  },
+  {
+    "id": 2396,
+    "question": "decide",
+    "answer": "Decides"
+  },
+  {
+    "id": 2397,
+    "question": "escena",
+    "questionDetails": "No Montes una escena delante de los niños.",
+    "answer": "scene",
+    "answerDetails": "Don’t make a scene in front of the children."
+  },
+  {
+    "id": 2398,
+    "question": "echo",
+    "answer": "he threw"
+  },
+  {
+    "id": 2399,
+    "question": "curso",
+    "questionDetails": "Mi decisión había parecido a ser el curso más sabio abierto a mí en el momento.",
+    "answer": "course, progress, academic year",
+    "answerDetails": "My decision had seemed to be the wisest course open to me at the time."
+  },
+  {
+    "id": 2400,
+    "question": "hacías",
+    "questionDetails": "Haz lo que hacías antes.",
+    "answer": "did",
+    "answerDetails": "Go back to what you did before."
+  }
+]

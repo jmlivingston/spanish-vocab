@@ -1,0 +1,688 @@
+[
+  {
+    "id": 3301,
+    "question": "tratan",
+    "questionDetails": "Se tratan los síntomas, pero.",
+    "answer": "treat, try, deal",
+    "answerDetails": "They treat the symptoms, but."
+  },
+  {
+    "id": 3302,
+    "question": "tocaba",
+    "questionDetails": "Tocaba el Chelo con tanta intensidad y estilo que ganó numerosos premios.",
+    "answer": "she played, he was playing",
+    "answerDetails": "She played the cello with such intensity and style that she won numerous prizes."
+  },
+  {
+    "id": 3303,
+    "question": "cayendo",
+    "questionDetails": "Es como fichas de dominó cayendo.",
+    "answer": "falling, dropping, tumbling",
+    "answerDetails": "Like domino pieces falling."
+  },
+  {
+    "id": 3304,
+    "question": "gritando",
+    "questionDetails": "Él estaba gritando muy alto.",
+    "answer": "screaming, shouting, yelling",
+    "answerDetails": "But he was just screaming so loud."
+  },
+  {
+    "id": 3305,
+    "question": "bolso",
+    "questionDetails": "Su bolso y sus zapatos se coordinan.",
+    "answer": "purse",
+    "answerDetails": "Her purse and shoes match."
+  },
+  {
+    "id": 3306,
+    "question": "conocimiento",
+    "questionDetails": "La transmisión del conocimiento.",
+    "answer": "knowledge, understanding, consciousness",
+    "answerDetails": "The transmission of knowledge."
+  },
+  {
+    "id": 3307,
+    "question": "elegido",
+    "questionDetails": "No Estoy de acuerdo con los métodos elegidos por el alguacil, pero son efectivos.",
+    "answer": "chosen, elected",
+    "answerDetails": "I don’t agree with the sheriff’s chosen methods, but they are effective."
+  },
+  {
+    "id": 3308,
+    "question": "descubrí",
+    "questionDetails": "Descubrí que mis padres fueron a Francia sin mí.",
+    "answer": "i found out, i discovered",
+    "answerDetails": "I found out that my parents went to France without me."
+  },
+  {
+    "id": 3309,
+    "question": "caminos",
+    "questionDetails": "Dejen de viajar por los caminos.",
+    "answer": "roads, paths, ways",
+    "answerDetails": "Cease traveling on the roads."
+  },
+  {
+    "id": 3310,
+    "question": "pusimos",
+    "questionDetails": "Y nosotros no la pusimos allí.",
+    "answer": "put",
+    "answerDetails": "And we did not put it there."
+  },
+  {
+    "id": 3311,
+    "question": "asustado",
+    "questionDetails": "Estar asustado (a).",
+    "answer": "scared, frightened, startled",
+    "answerDetails": "To be scared."
+  },
+  {
+    "id": 3312,
+    "question": "esperado",
+    "questionDetails": "Jamás me lo habría esperado de él.",
+    "answer": "expected",
+    "answerDetails": "I never expected that from him."
+  },
+  {
+    "id": 3313,
+    "question": "comen",
+    "questionDetails": "Los peces comen materia podrida.",
+    "answer": "eat, eaters",
+    "answerDetails": "Fish eat decomposing matter."
+  },
+  {
+    "id": 3314,
+    "question": "quinto",
+    "questionDetails": "Cuarto, puede ayudar al proceso de la revisión de la vida, y quinto, es una experiencia agradable y estimulante.",
+    "answer": "fifth",
+    "answerDetails": "Fourth, it can aid the process of life review, and fifth, it is an enjoyable and stimulating experience."
+  },
+  {
+    "id": 3315,
+    "question": "diego",
+    "questionDetails": "¡ Hola! ¡ Me llamo Diego!.",
+    "answer": "james",
+    "answerDetails": "Hi! My name is James!."
+  },
+  {
+    "id": 3316,
+    "question": "negociar",
+    "questionDetails": "Ustedes no tienen con qué negociar.",
+    "answer": "bargain",
+    "answerDetails": "You people have nothing to bargain with."
+  },
+  {
+    "id": 3317,
+    "question": "lópez",
+    "answer": "Lopez"
+  },
+  {
+    "id": 3318,
+    "question": "respeta",
+    "questionDetails": "Porque este es un grupo que respeta las buenas ideas.",
+    "answer": "respects",
+    "answerDetails": "Because this is a group that respects good ideas."
+  },
+  {
+    "id": 3319,
+    "question": "fíjese",
+    "questionDetails": "Fíjese en este pezón.",
+    "answer": "look",
+    "answerDetails": "Look at this nipple."
+  },
+  {
+    "id": 3320,
+    "question": "eche",
+    "questionDetails": "Es tiempo de que eche un vistazo.",
+    "answer": "take, pour",
+    "answerDetails": "Time for me to take in some sights."
+  },
+  {
+    "id": 3321,
+    "question": "comercial",
+    "questionDetails": "Su trabajo es demasiado comercial.",
+    "answer": "commercial, shopping, business",
+    "answerDetails": "Their work is too commercial."
+  },
+  {
+    "id": 3322,
+    "question": "autorización",
+    "questionDetails": "No podemos llevar a los alumnos de excursión sin la autorización de los padres.",
+    "answer": "approval, authorization",
+    "answerDetails": "We cannot take students on trips without parental approval."
+  },
+  {
+    "id": 3323,
+    "question": "parió",
+    "questionDetails": "¡La madre que me parió!",
+    "answer": "bore",
+    "answerDetails": "The mother who bore me!"
+  },
+  {
+    "id": 3324,
+    "question": "c",
+    "answer": "C, w"
+  },
+  {
+    "id": 3325,
+    "question": "equivocada",
+    "questionDetails": "Has tomado la vida equivocada.",
+    "answer": "wrong, mistaken, misguided",
+    "answerDetails": "You take the wrong life."
+  },
+  {
+    "id": 3326,
+    "question": "ruego",
+    "questionDetails": "El jefe escuchó los ruegos de Javier y le dio una segunda oportunidad antes de despedirlo.",
+    "answer": "plea",
+    "answerDetails": "The boss heard Javier’s pleas and gave him a second chance before firing him."
+  },
+  {
+    "id": 3327,
+    "question": "resultó",
+    "questionDetails": "¿Terminaste tu pintura?-Sí, resultó fantástica.",
+    "answer": "it turned out",
+    "answerDetails": "Did you finish your painting?-Yes, it turned out fantastic."
+  },
+  {
+    "id": 3328,
+    "question": "bestia",
+    "questionDetails": "No sé cómo soporta estar casada con ese bestia.",
+    "answer": "beast",
+    "answerDetails": "I don’t know how she stands being married to that beast."
+  },
+  {
+    "id": 3329,
+    "question": "i",
+    "answer": "I"
+  },
+  {
+    "id": 3330,
+    "question": "contarme",
+    "questionDetails": "Iba a contarme su teoría.",
+    "answer": "tell me",
+    "answerDetails": "You were about to tell me your theory."
+  },
+  {
+    "id": 3331,
+    "question": "china",
+    "answer": "China, Chinese"
+  },
+  {
+    "id": 3332,
+    "question": "pasta",
+    "questionDetails": "Mezcla el agua y el polvo hasta que formen una pasta.",
+    "answer": "paste, dough, pulp",
+    "answerDetails": "Mix the water and the powder until they form a paste."
+  },
+  {
+    "id": 3333,
+    "question": "estarías",
+    "questionDetails": "Tú también estarías cansado si hubieses cuidado al bebé todo el día.",
+    "answer": "you would be",
+    "answerDetails": "You would be tired too if you had taken care of the baby all Day."
+  },
+  {
+    "id": 3334,
+    "question": "discusión",
+    "questionDetails": "Supongamos, por el bien de la discusión, que esta es la posición legal.",
+    "answer": "argument, debate",
+    "answerDetails": "Suppose, for the sake of argument, that this is the legal position."
+  },
+  {
+    "id": 3335,
+    "question": "maestra",
+    "questionDetails": "Puedes usar esta llave maestra.",
+    "answer": "master",
+    "answerDetails": "You could use this master key."
+  },
+  {
+    "id": 3336,
+    "question": "refiere",
+    "questionDetails": "refiere el momento en el que se golpea la cuerda,",
+    "answer": "refers, relates",
+    "answerDetails": "refers to the moment in which the string is hammered,"
+  },
+  {
+    "id": 3337,
+    "question": "listas",
+    "questionDetails": "También pueden crear listas de reproducción.",
+    "answer": "lists, ready, playlists",
+    "answerDetails": "You can also create play lists."
+  },
+  {
+    "id": 3338,
+    "question": "recibo",
+    "questionDetails": "Necesito pagar el recibo de la luz al más tardar mañana o se nos cortará el servicio.",
+    "answer": "bill",
+    "answerDetails": "I need to pay the electric bill by tomorrow or our service will be cut."
+  },
+  {
+    "id": 3339,
+    "question": "ofrezco",
+    "questionDetails": "Te ofrezco la paz entre nuestros pueblos.",
+    "answer": "offer",
+    "answerDetails": "I offer peace between our people."
+  },
+  {
+    "id": 3340,
+    "question": "tomaste",
+    "questionDetails": "Tomaste me lugar.-No Deberías haberte movido.",
+    "answer": "you took",
+    "answerDetails": "You took my seat.-You shouldn’t have moved."
+  },
+  {
+    "id": 3341,
+    "question": "canto",
+    "questionDetails": "Clases de canto.",
+    "answer": "singing, chant, hymn",
+    "answerDetails": "Singing lessons."
+  },
+  {
+    "id": 3342,
+    "question": "empleado",
+    "questionDetails": "Estuve empleado en mi último trabajo por 5 años antes de renunciar.",
+    "answer": "employed",
+    "answerDetails": "I was employed with my last job for five years before I quit."
+  },
+  {
+    "id": 3343,
+    "question": "gane",
+    "questionDetails": "Tiempo de que gane.",
+    "answer": "win, earn, gain",
+    "answerDetails": "Time for me to win."
+  },
+  {
+    "id": 3344,
+    "question": "molestia",
+    "questionDetails": "Un nervio pinzado en la espalda me viene causando muchísimas molestias.",
+    "answer": "discomfort, nuisance, annoyance",
+    "answerDetails": "A pinched nerve in my back has been causing me a great deal of discomfort."
+  },
+  {
+    "id": 3345,
+    "question": "cambiaron",
+    "questionDetails": "Atributos que la cambiaron.",
+    "answer": "changed, shifted, switched",
+    "answerDetails": "Attributes that changed her."
+  },
+  {
+    "id": 3346,
+    "question": "faltó",
+    "questionDetails": "Quizá nos faltó un paso.",
+    "answer": "missed, disrespected, lacked",
+    "answerDetails": "Maybe we missed a step."
+  },
+  {
+    "id": 3347,
+    "question": "interrumpir",
+    "questionDetails": "Estamos instándoles a interrumpir el suministro de armas a las fuerzas rebeldes.",
+    "answer": "discontinue, disrupt",
+    "answerDetails": "We are urging them to discontinue the provision of arms to the rebels."
+  },
+  {
+    "id": 3348,
+    "question": "tuyas",
+    "questionDetails": "Mis opciones son mucho más limitadas que las tuyas.",
+    "answer": "yours",
+    "answerDetails": "My choices are much more limited than yours."
+  },
+  {
+    "id": 3349,
+    "question": "volvieron",
+    "questionDetails": "Justin y su familia se mudaron el año pasado pero volvieron de visita.",
+    "answer": "they returned",
+    "answerDetails": "Justin and his family moved last year, but they returned for a visit."
+  },
+  {
+    "id": 3350,
+    "question": "terminando",
+    "questionDetails": "Se está terminando, toda esta época de nuestras vidas.",
+    "answer": "ending, finishing, terminating",
+    "answerDetails": "This is all ending, this time of our lives."
+  },
+  {
+    "id": 3351,
+    "question": "quitado",
+    "questionDetails": "Todo lo que me causó dolor fue quitado.",
+    "answer": "removed",
+    "answerDetails": "All that caused me grief was removed."
+  },
+  {
+    "id": 3352,
+    "question": "coincidencia",
+    "questionDetails": "La coincidencia de interés entre las empresas mineras y ciertos políticos.",
+    "answer": "coincidence",
+    "answerDetails": "The coincidence of interest between the mining companies and certain politicians."
+  },
+  {
+    "id": 3353,
+    "question": "imaginaba",
+    "questionDetails": "Me imaginaba diferente este lugar.",
+    "answer": "imagined, figured, pictured",
+    "answerDetails": "I imagined this place differently."
+  },
+  {
+    "id": 3354,
+    "question": "gas",
+    "questionDetails": "A menos que enviemos el gas.",
+    "answer": "gas",
+    "answerDetails": "Unless we send over the gas."
+  },
+  {
+    "id": 3355,
+    "question": "parezco",
+    "questionDetails": "No me parezco a mamá en nada.",
+    "answer": "look, resemble",
+    "answerDetails": "I look nothing like my mother."
+  },
+  {
+    "id": 3356,
+    "question": "emociones",
+    "questionDetails": "Significa soltar sus emociones.",
+    "answer": "emotions, thrills, excitement",
+    "answerDetails": "To express your emotions."
+  },
+  {
+    "id": 3357,
+    "question": "haberse",
+    "questionDetails": "Debe haberse imaginado que lo entrega rías.",
+    "answer": "have",
+    "answerDetails": "He must have figured you’d turn him in."
+  },
+  {
+    "id": 3358,
+    "question": "arregla",
+    "questionDetails": "Ella trabaja para él, le arregla las reuniones.",
+    "answer": "arranges, fix, manages",
+    "answerDetails": "She takes orders for him, arranges meets."
+  },
+  {
+    "id": 3359,
+    "question": "terror",
+    "questionDetails": "Nancy tiene terror a los Aviones.",
+    "answer": "horror, dread",
+    "answerDetails": "Nancy has a horror of airplanes."
+  },
+  {
+    "id": 3360,
+    "question": "madera",
+    "questionDetails": "Nunca he, golpear a la madera, ha sido encasillado.",
+    "answer": "wood, lumber",
+    "answerDetails": "I have never, knock on wood, been typecast."
+  },
+  {
+    "id": 3361,
+    "question": "funcionan",
+    "questionDetails": "Entender cómo funcionan las cosas.",
+    "answer": "work, operate, function",
+    "answerDetails": "Understanding how things work."
+  },
+  {
+    "id": 3362,
+    "question": "dámelo",
+    "answer": "Give it to me"
+  },
+  {
+    "id": 3363,
+    "question": "verano",
+    "questionDetails": "En verano.",
+    "answer": "summer",
+    "answerDetails": "In (the) summer."
+  },
+  {
+    "id": 3364,
+    "question": "comemos",
+    "questionDetails": "Comemos en media hora.",
+    "answer": "eat",
+    "answerDetails": "We can eat in half an hour."
+  },
+  {
+    "id": 3365,
+    "question": "generación",
+    "questionDetails": "El crecimiento económico tuvo un impacto en la generación de puestos de trabajo.",
+    "answer": "generation",
+    "answerDetails": "Economic growth had an impact on the generation of jobs."
+  },
+  {
+    "id": 3366,
+    "question": "pilas",
+    "questionDetails": "Pero ellos no tienen las pilas.",
+    "answer": "batteries, piles, stacks",
+    "answerDetails": "But they don’t have the batteries."
+  },
+  {
+    "id": 3367,
+    "question": "perdóneme",
+    "questionDetails": "Perdóneme. ¿Me puede dar su hora?",
+    "answer": "pardon me",
+    "answerDetails": "Pardon me. Do you have the time?"
+  },
+  {
+    "id": 3368,
+    "question": "mataste",
+    "questionDetails": "Nunca pensé que tú lo mataste.",
+    "answer": "killed, murdered",
+    "answerDetails": "I never thought you killed him."
+  },
+  {
+    "id": 3369,
+    "question": "agencia",
+    "questionDetails": "La Agencia de Protección ambiental.",
+    "answer": "agency",
+    "answerDetails": "The Environmental Protection Agency."
+  },
+  {
+    "id": 3370,
+    "question": "chance",
+    "questionDetails": "¿Conoces a alguien en esta ciudad que haya ganado el chance?",
+    "answer": "lottery",
+    "answerDetails": "Do you know anyone in this city who has won the lottery?"
+  },
+  {
+    "id": 3371,
+    "question": "suplico",
+    "questionDetails": "Te suplico que la sigas buscando.",
+    "answer": "beg, entreat, implore",
+    "answerDetails": "I beg of you to carry on."
+  },
+  {
+    "id": 3372,
+    "question": "nieto",
+    "questionDetails": "Mi nieto no tiene más familia.",
+    "answer": "grandson",
+    "answerDetails": "My grandson only has me left."
+  },
+  {
+    "id": 3373,
+    "question": "argentina",
+    "answer": "Argentina"
+  },
+  {
+    "id": 3374,
+    "question": "vais",
+    "questionDetails": "Creo que vais a perder.",
+    "answer": "‘re going, going",
+    "answerDetails": "I think you’re going to lose."
+  },
+  {
+    "id": 3375,
+    "question": "tristeza",
+    "questionDetails": "Y es natural que la tristeza confunda los sentimientos.",
+    "answer": "sorrow",
+    "answerDetails": "It is also natural that sorrow mixes up feelings."
+  },
+  {
+    "id": 3376,
+    "question": "cuartos",
+    "questionDetails": "Los cuartos de confinamiento están justo debajo de nosotros.",
+    "answer": "quarters, rooms, fourths",
+    "answerDetails": "The confinement quarters are on the floors just below us."
+  },
+  {
+    "id": 3377,
+    "question": "vestida",
+    "questionDetails": "Y estaba vestida en túnicas de fina seda.",
+    "answer": "dressed, clothed, arrayed",
+    "answerDetails": "And she was dressed in flowing gowns of sheer silk."
+  },
+  {
+    "id": 3378,
+    "question": "fama",
+    "questionDetails": "El pueblo es el lugar de nacimiento de la señora Beeton, de la fama de la cocina.",
+    "answer": "fame",
+    "answerDetails": "The village is the birthplace of Mrs Beeton, of cookery fame."
+  },
+  {
+    "id": 3379,
+    "question": "tenerte",
+    "answer": "have you"
+  },
+  {
+    "id": 3380,
+    "question": "vigilando",
+    "questionDetails": "Vi al sheriff fuera vigilando su casa.",
+    "answer": "watching, staking out, guarding",
+    "answerDetails": "I saw the sheriff outside watching your house."
+  },
+  {
+    "id": 3381,
+    "question": "cantando",
+    "questionDetails": "Yo quería trompetas doradas y ángeles cantando.",
+    "answer": "singing, singin’, chanting",
+    "answerDetails": "I wanted golden trumpets and angels singing."
+  },
+  {
+    "id": 3382,
+    "question": "estuvieras",
+    "questionDetails": "Me gustaría que estuvieras aquí.",
+    "answer": "were",
+    "answerDetails": "I just wish you were here."
+  },
+  {
+    "id": 3383,
+    "question": "oficio",
+    "questionDetails": "Mi abuelo me enseñó el oficio tradicional de carpintería.",
+    "answer": "craft",
+    "answerDetails": "My grandfather taught me the traditional craft of woodworking."
+  },
+  {
+    "id": 3384,
+    "question": "estrés",
+    "questionDetails": "Estar sometido (a) a mucho estrés.",
+    "answer": "stress",
+    "answerDetails": "To be under a lot of stress."
+  },
+  {
+    "id": 3385,
+    "question": "confirmado",
+    "questionDetails": "Tu amigo ha confirmado tu versión.",
+    "answer": "confirmed",
+    "answerDetails": "Your friend confirmed your story."
+  },
+  {
+    "id": 3386,
+    "question": "cartera",
+    "questionDetails": "No llevo efectivo en mi cartera.",
+    "answer": "wallet, purse",
+    "answerDetails": "I don’t have any cash in my wallet."
+  },
+  {
+    "id": 3387,
+    "question": "jode",
+    "questionDetails": "Pues ahora jode con tu cabeza.",
+    "answer": "screwing, sucks, bothers",
+    "answerDetails": "Well, now he’s screwing with your head."
+  },
+  {
+    "id": 3388,
+    "question": "encontrarlo",
+    "questionDetails": "Perdí mi libro de texto.-Si no puedes encontrarlo, tendrás que comprar uno nuevo.",
+    "answer": "find it",
+    "answerDetails": "I lost my textbook.-If you can’t find it, you’ll need to buy a new one."
+  },
+  {
+    "id": 3389,
+    "question": "conoció",
+    "questionDetails": "La novia de Diego se llama Siabhon. La conoció en Irlanda.",
+    "answer": "he met her, she met him, she knew",
+    "answerDetails": "Diego’s girlfriend’s name is Siabhon. He met her in Ireland."
+  },
+  {
+    "id": 3390,
+    "question": "desesperada",
+    "questionDetails": "Ésta es nuestra hora más desesperada.",
+    "answer": "desperate, hopeless, desperately",
+    "answerDetails": "This is our most desperate hour."
+  },
+  {
+    "id": 3391,
+    "question": "coches",
+    "questionDetails": "Han movido los coches.",
+    "answer": "cars, coaches",
+    "answerDetails": "They moved the cars."
+  },
+  {
+    "id": 3392,
+    "question": "llevaste",
+    "questionDetails": "Así que lo llevaste contigo.",
+    "answer": "took",
+    "answerDetails": "So you took it with you."
+  },
+  {
+    "id": 3393,
+    "question": "adultos",
+    "questionDetails": "Una caja de arena para adultos con dinero.",
+    "answer": "adults, grownups, grown",
+    "answerDetails": "A sandbox for adults with money."
+  },
+  {
+    "id": 3394,
+    "question": "bajando",
+    "questionDetails": "Estamos bajando el escudo.",
+    "answer": "lowering, dropping, down",
+    "answerDetails": "We are lowering the shield."
+  },
+  {
+    "id": 3395,
+    "question": "hayamos",
+    "questionDetails": "No me creo que hayamos rodado aquí todo el día.",
+    "answer": "we",
+    "answerDetails": "I cannot believe we filmed here all day."
+  },
+  {
+    "id": 3396,
+    "question": "extranjero",
+    "questionDetails": "Militares que regresan desde el extranjero.",
+    "answer": "abroad, foreign",
+    "answerDetails": "Servicemen returning from abroad."
+  },
+  {
+    "id": 3397,
+    "question": "quedará",
+    "questionDetails": "En ese caso, se quedará aquí.",
+    "answer": "stay",
+    "answerDetails": "In that case, you will stay here."
+  },
+  {
+    "id": 3398,
+    "question": "mentido",
+    "questionDetails": "Has mentido a esta gente.",
+    "answer": "lied",
+    "answerDetails": "You lied to these people."
+  },
+  {
+    "id": 3399,
+    "question": "demasiadas",
+    "questionDetails": "Me temo que está asumiendo demasiadas cosas.",
+    "answer": "too much",
+    "answerDetails": "I am afraid you assumed too much."
+  },
+  {
+    "id": 3400,
+    "question": "labor",
+    "questionDetails": "La ONG ha llevado a cabo una labor humanitaria indispensable en África.",
+    "answer": "work, task, job",
+    "answerDetails": "The NGO has carried out indispensable humanitarian work in Africa."
+  }
+]

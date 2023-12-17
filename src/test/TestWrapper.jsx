@@ -1,12 +1,10 @@
 import { useState } from "react";
-import "./Test.css";
-import data from "./data/dummy.json";
+import "./TestWrapper.css";
 
-function Test() {
+function TestWrapper({ data }) {
   const [activeIndex, setActiveIndex] = useState(0);
-  const [indexes, setIndexes] = useState();
   const [isAsking, setIsAsking] = useState(true);
-  const { answer, question, id } = data[activeIndex];
+  const { answer, question } = data[activeIndex];
 
   const getIndexes = () => {
     const isFirst = 0 === activeIndex;
@@ -64,4 +62,4 @@ function Test() {
   );
 }
 
-export default Test;
+export default TestWrapper;

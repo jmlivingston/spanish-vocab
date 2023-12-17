@@ -1,0 +1,694 @@
+[
+  {
+    "id": 4701,
+    "question": "extrañas",
+    "questionDetails": "Los cuales tienen unas costumbres muy extrañas.",
+    "answer": "strange, weird, miss",
+    "answerDetails": "And they have some very strange habits."
+  },
+  {
+    "id": 4702,
+    "question": "jodida",
+    "questionDetails": "Baja tu jodida voz.",
+    "answer": "fucking, fucked, fucked up",
+    "answerDetails": "Lower your fucking voice."
+  },
+  {
+    "id": 4703,
+    "question": "demostrado",
+    "questionDetails": "Nosotros hemos demostrado rigor.",
+    "answer": "shown, demonstrated, proven",
+    "answerDetails": "We have shown rigour."
+  },
+  {
+    "id": 4704,
+    "question": "fotografías",
+    "questionDetails": "Un panorama trató de componer dos piezas de fotografías.",
+    "answer": "photographs, pictures",
+    "answerDetails": "A panorama tried to compose two pieces of photographs."
+  },
+  {
+    "id": 4705,
+    "question": "adelantar",
+    "questionDetails": "En esta carretera no se permite adelantar.",
+    "answer": "overtake",
+    "answerDetails": "You’re not allowed to overtake on this road."
+  },
+  {
+    "id": 4706,
+    "question": "restos",
+    "questionDetails": "Después del Día de Acción de Gracias, usamos los restos del pavo para hacer una sopa.",
+    "answer": "remains, wreckage, debris",
+    "answerDetails": "After Thanksgiving, we use the remains of the turkey to make a soup."
+  },
+  {
+    "id": 4707,
+    "question": "entradas",
+    "questionDetails": "Tengo entradas para el estreno para todas.",
+    "answer": "tickets, entries, inputs",
+    "answerDetails": "I got tickets for us all opening night."
+  },
+  {
+    "id": 4708,
+    "question": "to",
+    "questionDetails": "In order to achieve his aims.",
+    "answer": "para, con",
+    "answerDetails": "Para conseguir SUS propósitos."
+  },
+  {
+    "id": 4709,
+    "question": "opina",
+    "questionDetails": "Su doctor opina que usted necesita hacerse una punción lumbar …",
+    "answer": "believes, think, feels",
+    "answerDetails": "Your doctor believes you need a lumbar puncture or spinal tap …"
+  },
+  {
+    "id": 4710,
+    "question": "salte",
+    "questionDetails": "Le dijo que salte al agua.",
+    "answer": "jump, skip, springing up",
+    "answerDetails": "You told her to jump into the water."
+  },
+  {
+    "id": 4711,
+    "question": "revistas",
+    "questionDetails": "Sólo otra cara vendiendo revistas.",
+    "answer": "magazines, journals, revues",
+    "answerDetails": "Just another face selling magazines."
+  },
+  {
+    "id": 4712,
+    "question": "estable",
+    "questionDetails": "Pensé que sería mejor conseguir un trabajo estable.",
+    "answer": "steady",
+    "answerDetails": "I thought I’d better get a steady job."
+  },
+  {
+    "id": 4713,
+    "question": "importó",
+    "questionDetails": "A mí nunca me importó.",
+    "answer": "mattered, imported, cared about",
+    "answerDetails": "I never actually mattered, myself."
+  },
+  {
+    "id": 4714,
+    "question": "encuentres",
+    "questionDetails": "Espero que encuentres a alguien que encaje.",
+    "answer": "find, encounter",
+    "answerDetails": "I hope you find someone who fits in."
+  },
+  {
+    "id": 4715,
+    "question": "apagado",
+    "questionDetails": "Un vestido en tonos apagados de polvo azul y rosa polvoriento.",
+    "answer": "muted",
+    "answerDetails": "A dress in muted tones of powder blue and dusty pink."
+  },
+  {
+    "id": 4716,
+    "question": "copias",
+    "questionDetails": "Necesito copias de los cuatro vídeos.",
+    "answer": "copies, renditions, backups",
+    "answerDetails": "I need copies of all four images."
+  },
+  {
+    "id": 4717,
+    "question": "ofrecerle",
+    "questionDetails": "Deseo ofrecerle una palabra de consuelo en privado.",
+    "answer": "offer",
+    "answerDetails": "I wish to offer a word of comfort in private."
+  },
+  {
+    "id": 4718,
+    "question": "inocencia",
+    "questionDetails": "Me encanta tu inocencia.",
+    "answer": "innocence",
+    "answerDetails": "I adore your innocence!"
+  },
+  {
+    "id": 4719,
+    "question": "bienestar",
+    "questionDetails": "Un sistema sanitario centrado en el bienestar, no en la enfermedad.",
+    "answer": "wellness, welfare",
+    "answerDetails": "A healthcare system focused on wellness, not sickness."
+  },
+  {
+    "id": 4720,
+    "question": "equivocó",
+    "questionDetails": "Nadie se equivocó en intentar romper la tensión.",
+    "answer": "wrong, misspoke, screwed up",
+    "answerDetails": "No one ever went wrong breaking the tension."
+  },
+  {
+    "id": 4721,
+    "question": "nadar",
+    "questionDetails": "Los rusos fueron capaces de nadar sus portaaviones de infantería a través de.",
+    "answer": "swim",
+    "answerDetails": "The Russians were able to swim their infantry carriers across."
+  },
+  {
+    "id": 4722,
+    "question": "raza",
+    "questionDetails": "Todos somos miembros de la raza humana sea el que sea el color o credo.",
+    "answer": "race, breed",
+    "answerDetails": "We’re all members of the human race regardless of color or creed."
+  },
+  {
+    "id": 4723,
+    "question": "pegaron",
+    "questionDetails": "… limpiaba los gusanos parasitarios que se pegaron a otros peces.",
+    "answer": "stuck",
+    "answerDetails": "… cleaning the parasitic worms which stuck to other fish."
+  },
+  {
+    "id": 4724,
+    "question": "robaste",
+    "questionDetails": "Le robaste su dinero.",
+    "answer": "stole, robbed, swiped",
+    "answerDetails": "You stole their money."
+  },
+  {
+    "id": 4725,
+    "question": "compre",
+    "answer": "Buy"
+  },
+  {
+    "id": 4726,
+    "question": "encerrados",
+    "questionDetails": "Me dijeron que los pacientes estaban encerrados en sus celdas.",
+    "answer": "locked, enclosed, cooped up",
+    "answerDetails": "You told me the patients were locked in their cells."
+  },
+  {
+    "id": 4727,
+    "question": "digno",
+    "questionDetails": "Consejo digno, pero tedioso.",
+    "answer": "worthy, deserving",
+    "answerDetails": "Worthy but tedious advice."
+  },
+  {
+    "id": 4728,
+    "question": "palos",
+    "questionDetails": "El jinete se cayó cuando el caballo golpeó los palos.",
+    "answer": "rails",
+    "answerDetails": "The rider fell off when his horse hit the rails."
+  },
+  {
+    "id": 4729,
+    "question": "reventar",
+    "questionDetails": "Comimos casi hasta reventar.",
+    "answer": "burst",
+    "answerDetails": "And we ate till we nearly burst."
+  },
+  {
+    "id": 4730,
+    "question": "cambiaste",
+    "questionDetails": "Le cambiaste la vida.",
+    "answer": "changed",
+    "answerDetails": "You changed her life."
+  },
+  {
+    "id": 4731,
+    "question": "cargando",
+    "questionDetails": "Están cargando el barco.",
+    "answer": "loading, charging, carrying",
+    "answerDetails": "The boat is now loading."
+  },
+  {
+    "id": 4732,
+    "question": "preparé",
+    "questionDetails": "Ya preparé una orden.",
+    "answer": "prepared",
+    "answerDetails": "I have prepared the order."
+  },
+  {
+    "id": 4733,
+    "question": "conductor",
+    "questionDetails": "Mi padre es conductor del metro.",
+    "answer": "driver",
+    "answerDetails": "My father’s a metro driver."
+  },
+  {
+    "id": 4734,
+    "question": "convenció",
+    "questionDetails": "Y eso nos convenció a todos.",
+    "answer": "convinced, persuaded, coaxed",
+    "answerDetails": "So that convinced us all."
+  },
+  {
+    "id": 4735,
+    "question": "aniversario",
+    "questionDetails": "Mas en la víspera de mi aniversario el collar desapareció.",
+    "answer": "birthday",
+    "answerDetails": "The day before my birthday, the necklace disappeared."
+  },
+  {
+    "id": 4736,
+    "question": "fantasía",
+    "questionDetails": "No Estoy segura de que Miriam sepa la diferencia entre la realidad y la fantasía.",
+    "answer": "fancy, fantasia, fantasy",
+    "answerDetails": "I’m not convinced Miriam knows the difference between fact and fancy."
+  },
+  {
+    "id": 4737,
+    "question": "perderlo",
+    "questionDetails": "Puedo perderlo todo por esto.",
+    "answer": "lose",
+    "answerDetails": "I could lose everything over this."
+  },
+  {
+    "id": 4738,
+    "question": "preguntarme",
+    "questionDetails": "Puedes preguntarme lo que quieras.",
+    "answer": "ask me",
+    "answerDetails": "You can ask me anything you like."
+  },
+  {
+    "id": 4739,
+    "question": "triple",
+    "questionDetails": "Pero hagámoslo como una integral triple.",
+    "answer": "triple, treble, tri",
+    "answerDetails": "But let’s do it as a triple integral."
+  },
+  {
+    "id": 4740,
+    "question": "sentimental",
+    "questionDetails": "Ésa era demasiado tierna y sentimental.",
+    "answer": "sentimental, sentimentalist, sappy",
+    "answerDetails": "That was so soft and sentimental."
+  },
+  {
+    "id": 4741,
+    "question": "apoya",
+    "questionDetails": "La población apoya estas medidas.",
+    "answer": "supports, endorses, rests",
+    "answerDetails": "The public supports these measures."
+  },
+  {
+    "id": 4742,
+    "question": "regresen",
+    "questionDetails": "Regresen a la estación inmediatamente.",
+    "answer": "return, come back",
+    "answerDetails": "Return to the station immediately."
+  },
+  {
+    "id": 4743,
+    "question": "traerte",
+    "questionDetails": "Quise venir personalmente para traerte la noticia.",
+    "answer": "bring",
+    "answerDetails": "I wanted to come bring the news myself."
+  },
+  {
+    "id": 4744,
+    "question": "anuncio",
+    "questionDetails": "Va a aparecer en un anuncio para crema de rasurar.",
+    "answer": "ad, announcement, notice",
+    "answerDetails": "She’s going to appear in an ad for shaving cream."
+  },
+  {
+    "id": 4745,
+    "question": "llamara",
+    "questionDetails": "Incluso le dijeron que no llamara a su madre.",
+    "answer": "call",
+    "answerDetails": "They even told him not to call his mother."
+  },
+  {
+    "id": 4746,
+    "question": "inventó",
+    "answer": "invention"
+  },
+  {
+    "id": 4747,
+    "question": "concreto",
+    "questionDetails": "Tengo un interés concreto en la ley internacional.",
+    "answer": "particular, specific",
+    "answerDetails": "I have a particular interest in International Law."
+  },
+  {
+    "id": 4748,
+    "question": "seguirá",
+    "questionDetails": "Lo seguirá haciendo hasta que alguien lo detenga.",
+    "answer": "will",
+    "answerDetails": "He will do so until he is stopped."
+  },
+  {
+    "id": 4749,
+    "question": "injusta",
+    "questionDetails": "La vida es demasiado injusta.",
+    "answer": "unfair, unjust, wrongful",
+    "answerDetails": "Life is very unfair."
+  },
+  {
+    "id": 4750,
+    "question": "reserva",
+    "questionDetails": "Reservas.",
+    "answer": "reserves, booking, reservation",
+    "answerDetails": "Energy reserves."
+  },
+  {
+    "id": 4751,
+    "question": "celebrarlo",
+    "questionDetails": "Deberíamos salir y celebrarlo.",
+    "answer": "celebrate",
+    "answerDetails": "We should go out and celebrate."
+  },
+  {
+    "id": 4752,
+    "question": "sepamos",
+    "questionDetails": "Puede que no sepamos cómo, pero sabemos por qué.",
+    "answer": "know",
+    "answerDetails": "We may not know how, but we know why."
+  },
+  {
+    "id": 4753,
+    "question": "adecuado",
+    "questionDetails": "El nuevo presupuesto pretende asegurar niveles adecuados de personal a toda hora.",
+    "answer": "appropriate, proper",
+    "answerDetails": "The new budget seeks to ensure appropriate staffing levels at all times."
+  },
+  {
+    "id": 4754,
+    "question": "olla",
+    "questionDetails": "Metió la pasta en la olla de agua.",
+    "answer": "pot, cooker, saucepan",
+    "answerDetails": "He put the pasta in the pot of water."
+  },
+  {
+    "id": 4755,
+    "question": "avanzando",
+    "questionDetails": "El enemigo estaba avanzando.",
+    "answer": "advancing, moving forward, progressing",
+    "answerDetails": "The enemy was advancing."
+  },
+  {
+    "id": 4756,
+    "question": "cogí",
+    "questionDetails": "Cogí este número de la nada.",
+    "answer": "grabbed, took",
+    "answerDetails": "I just grabbed this number out of the blue."
+  },
+  {
+    "id": 4757,
+    "question": "altas",
+    "questionDetails": "Así que tiene amigos en las altas esferas.",
+    "answer": "high, tall, upper",
+    "answerDetails": "So he’s got friends in high places."
+  },
+  {
+    "id": 4758,
+    "question": "seremos",
+    "questionDetails": "Ni siquiera seremos mencionados.",
+    "answer": "be",
+    "answerDetails": "We will not even be mentioned."
+  },
+  {
+    "id": 4759,
+    "question": "protege",
+    "questionDetails": "Nuestros enemigos creen que les protege un viento divino.",
+    "answer": "protects, safeguards, secures",
+    "answerDetails": "Our enemies believe that a divine wind protects them."
+  },
+  {
+    "id": 4760,
+    "question": "daños",
+    "questionDetails": "Encontré daños cerebrales pero no hay golpes en la cabeza.",
+    "answer": "damage, harm, injury",
+    "answerDetails": "I found brain damage but no bruises on her scalp."
+  },
+  {
+    "id": 4761,
+    "question": "paramos",
+    "questionDetails": "Nos paramos en una curva.",
+    "answer": "stopped, moors",
+    "answerDetails": "We stopped on a corner."
+  },
+  {
+    "id": 4762,
+    "question": "abres",
+    "questionDetails": "Abres las latas de cerveza con los dientes!",
+    "answer": "open",
+    "answerDetails": "You open beer cans with your teeth!"
+  },
+  {
+    "id": 4763,
+    "question": "pudieras",
+    "questionDetails": "Quisiera que pudieras verme hoy.",
+    "answer": "could",
+    "answerDetails": "I wish you could see me tonight."
+  },
+  {
+    "id": 4764,
+    "question": "verán",
+    "questionDetails": "Los niños disfrutarán el acuario. Verán muchos animales increíbles allí.",
+    "answer": "they will see",
+    "answerDetails": "The children will enjoy the acquarium. They will see lots of incredible animals there."
+  },
+  {
+    "id": 4765,
+    "question": "héroes",
+    "questionDetails": "Necesitamos ser héroes como papá.",
+    "answer": "heroes",
+    "answerDetails": "We need to be heroes like dad."
+  },
+  {
+    "id": 4766,
+    "question": "levantado",
+    "answer": "Raised"
+  },
+  {
+    "id": 4767,
+    "question": "llevará",
+    "questionDetails": "Me llevará un par de días terminar el trabajo.",
+    "answer": "it will take",
+    "answerDetails": "It will take me a couple of days to finish the job."
+  },
+  {
+    "id": 4768,
+    "question": "suene",
+    "questionDetails": "Hace que suene demasiado simple.",
+    "answer": "sound, ring",
+    "answerDetails": "You make it sound too simple."
+  },
+  {
+    "id": 4769,
+    "question": "bajan",
+    "questionDetails": "… las burbujas suben y bajan.",
+    "answer": "fall, descend",
+    "answerDetails": "… as the bubbles continue to rise and fall."
+  },
+  {
+    "id": 4770,
+    "question": "consecuencia",
+    "questionDetails": "Como consecuencia.",
+    "answer": "consequence, result",
+    "answerDetails": "As a consequence."
+  },
+  {
+    "id": 4771,
+    "question": "seguiremos",
+    "questionDetails": "… nuestras leyes y lo seguiremos haciendo.",
+    "answer": "continue",
+    "answerDetails": "… our laws and will continue to do so."
+  },
+  {
+    "id": 4772,
+    "question": "colocar",
+    "questionDetails": "Ella finalmente dijo que no podía colocarlo.",
+    "answer": "place",
+    "answerDetails": "She eventually said she couldn’t place him."
+  },
+  {
+    "id": 4773,
+    "question": "hágale",
+    "questionDetails": "Hágale conocer sus sentimientos por él.",
+    "answer": "make",
+    "answerDetails": "Make your feelings known to him."
+  },
+  {
+    "id": 4774,
+    "question": "lucía",
+    "answer": "Lucia"
+  },
+  {
+    "id": 4775,
+    "question": "decime",
+    "questionDetails": "Decime dónde te ibas a encontrar con tus amigos.",
+    "answer": "tell me",
+    "answerDetails": "Tell me where you were going to meet your friends."
+  },
+  {
+    "id": 4776,
+    "question": "pinches",
+    "questionDetails": "Conozco las pinches reglas.",
+    "answer": "fucking",
+    "answerDetails": "I know the fucking rules."
+  },
+  {
+    "id": 4777,
+    "question": "muchachas",
+    "questionDetails": "Las muchachas están de camino.",
+    "answer": "girls, young girls, gals",
+    "answerDetails": "The girls are on their way."
+  },
+  {
+    "id": 4778,
+    "question": "euros",
+    "questionDetails": "Cerca de seis millones de euros.",
+    "answer": "euros, EUR, USD",
+    "answerDetails": "About six million euros."
+  },
+  {
+    "id": 4779,
+    "question": "infeliz",
+    "questionDetails": "Parece ser una mujer muy infeliz.",
+    "answer": "unhappy",
+    "answerDetails": "She seems to be a very unhappy woman."
+  },
+  {
+    "id": 4780,
+    "question": "cheque",
+    "questionDetails": "Me mandaron un cheque por correo.",
+    "answer": "check",
+    "answerDetails": "They sent me a check by mail."
+  },
+  {
+    "id": 4781,
+    "question": "diablos",
+    "questionDetails": "Diablos, otra vez voy a llegar tarde a mi clase de karate.",
+    "answer": "heck, bloody hell, dang",
+    "answerDetails": "Oh heck, I’m late again for my karate class."
+  },
+  {
+    "id": 4782,
+    "question": "helicóptero",
+    "questionDetails": "Los helicópteros de la policía permanecían inmóviles sobrevolando el centro de la ciudad.",
+    "answer": "chopper, helicopter",
+    "answerDetails": "Police choppers hovered over the center of town."
+  },
+  {
+    "id": 4783,
+    "question": "gay",
+    "questionDetails": "Creo que este tipo es gay.",
+    "answer": "gay, queer",
+    "answerDetails": "I think this guy’s gay."
+  },
+  {
+    "id": 4784,
+    "question": "cuídese",
+    "questionDetails": "De acuerdo, cuídese.",
+    "answer": "take care",
+    "answerDetails": "All right, take care."
+  },
+  {
+    "id": 4785,
+    "question": "corrupción",
+    "questionDetails": "La palabra ‘ adicto ‘ evoca el mal y la corrupción.",
+    "answer": "corruption",
+    "answerDetails": "The word ‘addict’ conjures up evil and corruption."
+  },
+  {
+    "id": 4786,
+    "question": "cuñada",
+    "questionDetails": "y brindo por mi nueva cuñada.",
+    "answer": "sister",
+    "answerDetails": "And here’s to my new sister."
+  },
+  {
+    "id": 4787,
+    "question": "heridos",
+    "questionDetails": "Los heridos salieron arrastrándose del autobús destrozado.",
+    "answer": "injured",
+    "answerDetails": "The injured crawled out of the wrecked bus."
+  },
+  {
+    "id": 4788,
+    "question": "ocultando",
+    "questionDetails": "Creo que están todos ocultando algo.",
+    "answer": "hiding, concealing, withholding",
+    "answerDetails": "I think they’re all hiding something."
+  },
+  {
+    "id": 4789,
+    "question": "sentencia",
+    "questionDetails": "Está previsto que dicte sentencia sobre el caso mañana.",
+    "answer": "judgment, sentence, decision",
+    "answerDetails": "He is due to pass judgment on the case tomorrow."
+  },
+  {
+    "id": 4790,
+    "question": "cañón",
+    "questionDetails": "El granjero les metió el cañón de la escopeta en la cara.",
+    "answer": "barrel",
+    "answerDetails": "The farmer thrust the barrel of the shotgun in their faces."
+  },
+  {
+    "id": 4791,
+    "question": "casó",
+    "questionDetails": "También se casó con un chico estupendo.",
+    "answer": "married, wed",
+    "answerDetails": "A really nice guy married me."
+  },
+  {
+    "id": 4792,
+    "question": "dolió",
+    "questionDetails": "Eso parece que dolió.",
+    "answer": "hurt, grieved",
+    "answerDetails": "That looked like it hurt."
+  },
+  {
+    "id": 4793,
+    "question": "échale",
+    "questionDetails": "Échale una mirada a esto.",
+    "answer": "take",
+    "answerDetails": "Take a look at this."
+  },
+  {
+    "id": 4794,
+    "question": "inconveniente",
+    "questionDetails": "El único inconveniente de mi apartamento en Nueva York era que no tenía bañera.",
+    "answer": "drawback, inconvenient, downside",
+    "answerDetails": "The only drawback to my apartment in New York was it had no bathtub."
+  },
+  {
+    "id": 4795,
+    "question": "explicarle",
+    "questionDetails": "Déjeme explicarle de dónde venimos.",
+    "answer": "explain",
+    "answerDetails": "I should explain where we come from."
+  },
+  {
+    "id": 4796,
+    "question": "invitada",
+    "questionDetails": "Saludo a nuestra invitada con palabras de bienvenida.",
+    "answer": "guest",
+    "answerDetails": "Greet our guest with words of welcome."
+  },
+  {
+    "id": 4797,
+    "question": "cuernos",
+    "questionDetails": "Y éstos son los cuernos.",
+    "answer": "horns, horned, antlers",
+    "answerDetails": "And these are the horns."
+  },
+  {
+    "id": 4798,
+    "question": "amaba",
+    "questionDetails": "Amaba su trabajo y le dedicó su vida.",
+    "answer": "she loved, he loved her",
+    "answerDetails": "She loved her work and dedicated her life to it."
+  },
+  {
+    "id": 4799,
+    "question": "españoles",
+    "questionDetails": "Los barcos españoles suelen ser lentos.",
+    "answer": "spanish",
+    "answerDetails": "Spanish ships are notoriously slow."
+  },
+  {
+    "id": 4800,
+    "question": "suicidio",
+    "questionDetails": "Sufría de depresión e incluso había considerado el suicidio.",
+    "answer": "suicide",
+    "answerDetails": "I was suffering from depression and had even contemplated suicide."
+  }
+]

@@ -1,0 +1,684 @@
+[
+  {
+    "id": 1801,
+    "question": "limpiar",
+    "questionDetails": "Francis puso 3 libras en un caballo, pensando que era hora de limpiar.",
+    "answer": "clean, wipe",
+    "answerDetails": "Francis put three quid on a horse, figuring it was about time he cleaned up."
+  },
+  {
+    "id": 1802,
+    "question": "estilo",
+    "questionDetails": "Quisiera una blusa del estilo de la que llevo.",
+    "answer": "style, design",
+    "answerDetails": "I would like a blouse in the style of the one I’m wearing."
+  },
+  {
+    "id": 1803,
+    "question": "maravilla",
+    "questionDetails": "Es una maravilla que no te hayas herido en el choque.",
+    "answer": "wonder, marvel",
+    "answerDetails": "It’s a wonder that you weren’t hurt in that crash."
+  },
+  {
+    "id": 1804,
+    "question": "actuar",
+    "questionDetails": "Lo que significaría, que podría actuar como una calculadora.",
+    "answer": "act",
+    "answerDetails": "Which would mean, it could act like a calculator."
+  },
+  {
+    "id": 1805,
+    "question": "repetir",
+    "questionDetails": "El primer equipo en 19 años para repetir como campeones de la NBA.",
+    "answer": "repeat, replay",
+    "answerDetails": "The first team in 19 years to repeat as NBA champions."
+  },
+  {
+    "id": 1806,
+    "question": "olvidado",
+    "questionDetails": "Parece que la he olvidado.",
+    "answer": "forgotten",
+    "answerDetails": "I seem to have forgotten it."
+  },
+  {
+    "id": 1807,
+    "question": "compré",
+    "questionDetails": "Yo compré la máquina de café.",
+    "answer": "bought",
+    "answerDetails": "I bought the coffee machine."
+  },
+  {
+    "id": 1808,
+    "question": "terminamos",
+    "questionDetails": "Recuerde aquí que terminamos con seis de ellos.",
+    "answer": "ended up",
+    "answerDetails": "Remember here we ended up with six of them."
+  },
+  {
+    "id": 1809,
+    "question": "pinta",
+    "questionDetails": "Me compré una pinta de helado para disfrutar después de la cena.",
+    "answer": "pint",
+    "answerDetails": "I bought a pint of ice cream to enjoy after dinner."
+  },
+  {
+    "id": 1810,
+    "question": "orgulloso",
+    "questionDetails": "Ahora eres el orgulloso dueño de una casa.",
+    "answer": "proud",
+    "answerDetails": "You are now the proud owner of a house."
+  },
+  {
+    "id": 1811,
+    "question": "domingo",
+    "questionDetails": "El concierto se celebrará el domingo.",
+    "answer": "sunday",
+    "answerDetails": "The concert will be held Sunday."
+  },
+  {
+    "id": 1812,
+    "question": "dijimos",
+    "questionDetails": "Mariela está enojada con nosotras porque le dijimos una mentira.",
+    "answer": "we told, we said",
+    "answerDetails": "Mariela is mad at us because we told her a lie."
+  },
+  {
+    "id": 1813,
+    "question": "negocios",
+    "questionDetails": "Los negocios no han ido muy bien últimamente.",
+    "answer": "business, deals",
+    "answerDetails": "Business has been a bit off lately."
+  },
+  {
+    "id": 1814,
+    "question": "guau",
+    "questionDetails": "¡ Guau! ¡ Qué fiesta!.",
+    "answer": "wow, whoa",
+    "answerDetails": "Wow! What a party!."
+  },
+  {
+    "id": 1815,
+    "question": "cliente",
+    "questionDetails": "Hay un cliente esperando en la caja siete.",
+    "answer": "customer",
+    "answerDetails": "There is a customer waiting at register 7."
+  },
+  {
+    "id": 1816,
+    "question": "celebrar",
+    "questionDetails": "Vamos a celebrar la junta en la sede.",
+    "answer": "hold",
+    "answerDetails": "We’re going to hold the meeting at the home office."
+  },
+  {
+    "id": 1817,
+    "question": "maneras",
+    "questionDetails": "Puede afrontar la derrota de dos maneras.",
+    "answer": "ways, manners, fashions",
+    "answerDetails": "You can handle defeat in two ways."
+  },
+  {
+    "id": 1818,
+    "question": "tuviste",
+    "questionDetails": "¿Tuviste suficiente comida?-Sí, gracias. Estoy lleno.",
+    "answer": "did you have",
+    "answerDetails": "Did you have enough food?-Yes, thank you. I’m full."
+  },
+  {
+    "id": 1819,
+    "question": "errores",
+    "questionDetails": "Dije que no quería errores.",
+    "answer": "errors, mistakes, bugs",
+    "answerDetails": "Trinkets that did not want to errors."
+  },
+  {
+    "id": 1820,
+    "question": "premio",
+    "questionDetails": "El premio de la carrera de niños fue un cono de helado.",
+    "answer": "prize",
+    "answerDetails": "The prize in the children’s race was an ice cream cone."
+  },
+  {
+    "id": 1821,
+    "question": "lamento",
+    "questionDetails": "Su lamento sobre el ataúd de su marido desgarraba el alma.",
+    "answer": "lament, wail",
+    "answerDetails": "Her lament over her husband’s coffin was soul shattering."
+  },
+  {
+    "id": 1822,
+    "question": "hubieran",
+    "questionDetails": "Me hubiera gustado que esos lobos te hubieran comido.",
+    "answer": "had",
+    "answerDetails": "I wish the wolves had eaten you."
+  },
+  {
+    "id": 1823,
+    "question": "vinieron",
+    "answer": "Came"
+  },
+  {
+    "id": 1824,
+    "question": "malos",
+    "answer": "bad people"
+  },
+  {
+    "id": 1825,
+    "question": "edificio",
+    "questionDetails": "El edificio de las autopistas.",
+    "answer": "building",
+    "answerDetails": "The building of motorways."
+  },
+  {
+    "id": 1826,
+    "question": "relaciones",
+    "questionDetails": "Las relaciones entre la policía y la comunidad de esta zona son buenas.",
+    "answer": "relations, dealings",
+    "answerDetails": "There are good relations between police and the community in this area."
+  },
+  {
+    "id": 1827,
+    "question": "animales",
+    "questionDetails": "Con animales salvajes esto es muy simple.",
+    "answer": "animals, pets, beasts",
+    "answerDetails": "On wild animals it is very simple."
+  },
+  {
+    "id": 1828,
+    "question": "familias",
+    "questionDetails": "Aquí solo viven unas pocas familias.",
+    "answer": "families, households",
+    "answerDetails": "Only one or two families are living here."
+  },
+  {
+    "id": 1829,
+    "question": "turno",
+    "questionDetails": "Trabajador (ORA) por Turnos.",
+    "answer": "shift",
+    "answerDetails": "Shift worker."
+  },
+  {
+    "id": 1830,
+    "question": "míos",
+    "questionDetails": "Tome uno de los míos.",
+    "answer": "mine",
+    "answerDetails": "Have one of mine."
+  },
+  {
+    "id": 1831,
+    "question": "educación",
+    "questionDetails": "Es esencial que los padres se involucren en la educación de sus hijos.",
+    "answer": "schooling, education, upbringing",
+    "answerDetails": "It is essential that parents get involved in their children’s schooling."
+  },
+  {
+    "id": 1832,
+    "question": "costó",
+    "questionDetails": "La vista me costó tres veces más que la casa.",
+    "answer": "cost, struggled",
+    "answerDetails": "That view cost me three times what the house did."
+  },
+  {
+    "id": 1833,
+    "question": "mami",
+    "questionDetails": "Ahora vete con mami.",
+    "answer": "mommy, mummy, mammy",
+    "answerDetails": "Now veto with mommy."
+  },
+  {
+    "id": 1834,
+    "question": "papás",
+    "questionDetails": "Todos tus papás te adoran.",
+    "answer": "dads, parents, daddies",
+    "answerDetails": "All your dads do."
+  },
+  {
+    "id": 1835,
+    "question": "agarrar",
+    "questionDetails": "Los frenos agarraron muy mal.",
+    "answer": "grab",
+    "answerDetails": "The brakes grabbed very badly."
+  },
+  {
+    "id": 1836,
+    "question": "infierno",
+    "questionDetails": "Pablo mantuvo su boca cerrada y miró Apologetic-tenemos el Infierno.",
+    "answer": "hell, inferno",
+    "answerDetails": "Paul kept his mouth shut and looked apologetic—we got hell."
+  },
+  {
+    "id": 1837,
+    "question": "decisiones",
+    "questionDetails": "Un quarter back toma decisiones, hace elecciones.",
+    "answer": "decisions, decision making, choices",
+    "answerDetails": "Quarterback makes decisions, makes choices."
+  },
+  {
+    "id": 1838,
+    "question": "atender",
+    "questionDetails": "Todavía puedo atender a un cliente.",
+    "answer": "serve",
+    "answerDetails": "I can still serve a customer."
+  },
+  {
+    "id": 1839,
+    "question": "cámaras",
+    "questionDetails": "Necesitaba la casa y las cámaras.",
+    "answer": "cameras, chambers, cam",
+    "answerDetails": "I needed the house and the cameras."
+  },
+  {
+    "id": 1840,
+    "question": "acompañar",
+    "questionDetails": "Me va a acompañar a la ciudad.",
+    "answer": "accompany",
+    "answerDetails": "He is to accompany me into the city."
+  },
+  {
+    "id": 1841,
+    "question": "casado",
+    "questionDetails": "Para mí, es importante estar casado.",
+    "answer": "married",
+    "answerDetails": "It means something to me to be married."
+  },
+  {
+    "id": 1842,
+    "question": "gustar",
+    "questionDetails": "Te dije que le iba a gustar.",
+    "answer": "like",
+    "answerDetails": "Told you she’d like it."
+  },
+  {
+    "id": 1843,
+    "question": "razones",
+    "answer": "rationale"
+  },
+  {
+    "id": 1844,
+    "question": "aparecer",
+    "questionDetails": "Al amanecer, el sol aparecerá por encima de las montañas.",
+    "answer": "appear",
+    "answerDetails": "At sunrise, the sun will appear above the mountains."
+  },
+  {
+    "id": 1845,
+    "question": "desayuno",
+    "questionDetails": "Quizas podamos tomar desayuno.",
+    "answer": "breakfast",
+    "answerDetails": "Maybe we can grab breakfast."
+  },
+  {
+    "id": 1846,
+    "question": "mentir",
+    "questionDetails": "Porque no tiene motivos para mentir.",
+    "answer": "lie",
+    "answerDetails": "He has no reason to lie."
+  },
+  {
+    "id": 1847,
+    "question": "maestro",
+    "questionDetails": "No eres tu propio maestro.",
+    "answer": "master",
+    "answerDetails": "You are not your own master."
+  },
+  {
+    "id": 1848,
+    "question": "hubiese",
+    "questionDetails": "Si hubiese ajustado los frenos.",
+    "answer": "had",
+    "answerDetails": "I had the brakes all fixed."
+  },
+  {
+    "id": 1849,
+    "question": "fueran",
+    "questionDetails": "Como si las palabras fueran sonidos y materia.",
+    "answer": "were",
+    "answerDetails": "Talk as if words were sounds and matter."
+  },
+  {
+    "id": 1850,
+    "question": "conseguido",
+    "questionDetails": "Me dijiste que habías conseguido un departamento.",
+    "answer": "got, managed, achieved",
+    "answerDetails": "You told me you got an apartment."
+  },
+  {
+    "id": 1851,
+    "question": "dientes",
+    "questionDetails": "Lo que importa son los dientes.",
+    "answer": "teeth",
+    "answerDetails": "The teeth are more important."
+  },
+  {
+    "id": 1852,
+    "question": "hecha",
+    "questionDetails": "Usaba ropa hecha de bolsas.",
+    "answer": "made, done",
+    "answerDetails": "She wore dresses made of feed sacks."
+  },
+  {
+    "id": 1853,
+    "question": "pensamos",
+    "questionDetails": "Sí, pensamos que habías ido al centro o algo.",
+    "answer": "thought, figured",
+    "answerDetails": "I thought you went downtown or something."
+  },
+  {
+    "id": 1854,
+    "question": "aprendí",
+    "questionDetails": "Yo aprendí de esto.",
+    "answer": "learned",
+    "answerDetails": "I learned something from it."
+  },
+  {
+    "id": 1855,
+    "question": "acto",
+    "questionDetails": "Muchas de las obras de Shakespeare se dividen en 5 actos.",
+    "answer": "act, deed",
+    "answerDetails": "Many Shakespeare plays are divided into five acts."
+  },
+  {
+    "id": 1856,
+    "question": "trabajaba",
+    "questionDetails": "Trabajaba en el aeropuerto durante años.",
+    "answer": "he worked",
+    "answerDetails": "He worked at the airport for years."
+  },
+  {
+    "id": 1857,
+    "question": "serán",
+    "answer": "will you be"
+  },
+  {
+    "id": 1858,
+    "question": "vacío",
+    "questionDetails": "Ver el enorme vacío del espacio era psicológicamente más difícil de lo que había esperado el astronauta.",
+    "answer": "emptiness, gap, vacuum",
+    "answerDetails": "Seeing the vast emptiness of space was psychologically more difficult than the astronaut had expected."
+  },
+  {
+    "id": 1859,
+    "question": "m",
+    "questionDetails": "La fila m se vería así.",
+    "answer": "m, metres, meters",
+    "answerDetails": "The m row would look like this."
+  },
+  {
+    "id": 1860,
+    "question": "cálmate",
+    "questionDetails": "Cálmate. El tipo no te quería insultar.",
+    "answer": "calm yourself",
+    "answerDetails": "Calm yourself. The guy wasn’t trying to insult you."
+  },
+  {
+    "id": 1861,
+    "question": "inocente",
+    "questionDetails": "Aunque lo hallaron con sangre en las manos, jura ser inocente.",
+    "answer": "innocent",
+    "answerDetails": "Even though he was found with blood on his hands, he swears he’s innocent."
+  },
+  {
+    "id": 1862,
+    "question": "universidad",
+    "questionDetails": "Solo una mínima parte de los estudiantes pueden pagar la universidad.",
+    "answer": "university, college, school",
+    "answerDetails": "Only a fraction of students can pay for university."
+  },
+  {
+    "id": 1863,
+    "question": "contestar",
+    "questionDetails": "Sólo tenías que contestar el teléfono.",
+    "answer": "answer",
+    "answerDetails": "All you have to do is answer the phone."
+  },
+  {
+    "id": 1864,
+    "question": "defender",
+    "questionDetails": "Estamos poniendo todo nuestro esfuerzo en defender esta causa.",
+    "answer": "champion",
+    "answerDetails": "We’re putting all our efforts into championing this cause."
+  },
+  {
+    "id": 1865,
+    "question": "lucha",
+    "questionDetails": "La lucha contra el cáncer.",
+    "answer": "fight, struggle",
+    "answerDetails": "The fight against cancer."
+  },
+  {
+    "id": 1866,
+    "question": "estudio",
+    "questionDetails": "Nuestro estudio incluyó muchas profesiones y actividades diferentes.",
+    "answer": "survey, firm",
+    "answerDetails": "Our survey looked at many different professions and activities."
+  },
+  {
+    "id": 1867,
+    "question": "consecuencias",
+    "questionDetails": "Parte de las consecuencias tras el tiroteo fue el cambio en la política de armas.",
+    "answer": "aftermath",
+    "answerDetails": "A change in the gun policy was a part of the aftermath after the shooting."
+  },
+  {
+    "id": 1868,
+    "question": "entrega",
+    "questionDetails": "Las novelas de Dickens se publicaron primero por entregas en revistas semanales o mensuales.",
+    "answer": "installment, shipment",
+    "answerDetails": "Dickens’ novels were first published in installments in weekly or monthly magazines."
+  },
+  {
+    "id": 1869,
+    "question": "pasen",
+    "questionDetails": "Sean amables y pasen esto.",
+    "answer": "pass, spend",
+    "answerDetails": "Be good and pass this."
+  },
+  {
+    "id": 1870,
+    "question": "enferma",
+    "answer": "Sick"
+  },
+  {
+    "id": 1871,
+    "question": "voluntad",
+    "questionDetails": "No sé si tengo la voluntad para terminar este proyecto.",
+    "answer": "willpower, wish, volition",
+    "answerDetails": "I don’t know if I have the willpower to finish this project."
+  },
+  {
+    "id": 1872,
+    "question": "tomamos",
+    "questionDetails": "Tomamos sándwiches al parque para hacer un picnic.",
+    "answer": "we took, we drank",
+    "answerDetails": "We took sandwiches to the park to have a picnic."
+  },
+  {
+    "id": 1873,
+    "question": "vuelves",
+    "questionDetails": "Si me las vuelves a pedir, son tuyas.",
+    "answer": "again",
+    "answerDetails": "Ask me again and it’s yours."
+  },
+  {
+    "id": 1874,
+    "question": "elegir",
+    "questionDetails": "Hay muchas versiones para elegir.",
+    "answer": "choose, select, pick",
+    "answerDetails": "There are many versions to choose from."
+  },
+  {
+    "id": 1875,
+    "question": "vecinos",
+    "answer": "townspeople"
+  },
+  {
+    "id": 1876,
+    "question": "pesado",
+    "questionDetails": "El tipo de arriba era demasiado pesado.",
+    "answer": "heavy",
+    "answerDetails": "Top guy was just too heavy."
+  },
+  {
+    "id": 1877,
+    "question": "recuerdas",
+    "questionDetails": "¿Recuerdas cuando éramos amigos?",
+    "answer": "do you remember",
+    "answerDetails": "Do you remember when we used to be friends?"
+  },
+  {
+    "id": 1878,
+    "question": "llevando",
+    "questionDetails": "Ese palomo astuto está llevando mensajes a los barcos.",
+    "answer": "carrying, taking, leading",
+    "answerDetails": "That sneaky pigeon’s been carrying messages to ships."
+  },
+  {
+    "id": 1879,
+    "question": "habido",
+    "questionDetails": "Habrá habido alguien que hayas querido ser.",
+    "answer": "been",
+    "answerDetails": "There must have been someone you wanted to be."
+  },
+  {
+    "id": 1880,
+    "question": "natural",
+    "questionDetails": "Tomamos el curso natural.",
+    "answer": "natural, nature, naturally",
+    "answerDetails": "We took the natural course."
+  },
+  {
+    "id": 1881,
+    "question": "deberían",
+    "questionDetails": "Deberían sentarse y no hacer nada.",
+    "answer": "should",
+    "answerDetails": "You should sit around and do nothing."
+  },
+  {
+    "id": 1882,
+    "question": "estando",
+    "answer": "by being"
+  },
+  {
+    "id": 1883,
+    "question": "revés",
+    "questionDetails": "El partido sufrió un serio revés en las recientes elecciones.",
+    "answer": "setback",
+    "answerDetails": "The party suffered a major setback in the recent elections."
+  },
+  {
+    "id": 1884,
+    "question": "historias",
+    "questionDetails": "Pero ninguna de estas historias era verdad.",
+    "answer": "stories, histories, tales",
+    "answerDetails": "But none of these stories were true."
+  },
+  {
+    "id": 1885,
+    "question": "treinta",
+    "questionDetails": "Treinta mil o nada.",
+    "answer": "thirty",
+    "answerDetails": "Thirty thousand or nothing."
+  },
+  {
+    "id": 1886,
+    "question": "aguanta",
+    "questionDetails": "No se desespera, sino que calla y aguanta.",
+    "answer": "enduring, hold",
+    "answerDetails": "Never despairing, but enduring it silently."
+  },
+  {
+    "id": 1887,
+    "question": "metiendo",
+    "questionDetails": "Te estabas metiendo en nuestras mentes.",
+    "answer": "messing, tucking, poking",
+    "answerDetails": "You were messing with our heads."
+  },
+  {
+    "id": 1888,
+    "question": "tipos",
+    "questionDetails": "Acá tenemos de dos tipos diferentes.",
+    "answer": "types, kinds, guys",
+    "answerDetails": "Here we have two different types."
+  },
+  {
+    "id": 1889,
+    "question": "crea",
+    "answer": "it creates"
+  },
+  {
+    "id": 1890,
+    "question": "máximo",
+    "questionDetails": "Las ventas de taquilla alcanzaron un nuevo máximo con el estreno de la película.",
+    "answer": "high, ultimate, upper",
+    "answerDetails": "Box office sales reached a new high with the opening of the movie."
+  },
+  {
+    "id": 1891,
+    "question": "energía",
+    "questionDetails": "Esos niños siempre están llenos de energía.",
+    "answer": "energy",
+    "answerDetails": "Those kids are always full of energy."
+  },
+  {
+    "id": 1892,
+    "question": "pediste",
+    "questionDetails": "Aquí tienes el periódico y un café, como pediste.",
+    "answer": "you asked",
+    "answerDetails": "Here is the newspaper and a coffee, just like you asked."
+  },
+  {
+    "id": 1893,
+    "question": "copa",
+    "questionDetails": "Jugar en la Copa es lo mejor que nunca.",
+    "answer": "cup, drink, goblet",
+    "answerDetails": "Playing in the Cup is the best thing ever."
+  },
+  {
+    "id": 1894,
+    "question": "casos",
+    "questionDetails": "En mi trabajo, hay casos muy diferentes.",
+    "answer": "cases, instances, situations",
+    "answerDetails": "In my business, you got many kind of cases."
+  },
+  {
+    "id": 1895,
+    "question": "trajiste",
+    "questionDetails": "Trajiste las bebidas, ¿verdad?",
+    "answer": "you brought",
+    "answerDetails": "You brought the drinks, right?"
+  },
+  {
+    "id": 1896,
+    "question": "dimos",
+    "answer": "Gave"
+  },
+  {
+    "id": 1897,
+    "question": "muestra",
+    "questionDetails": "Me encanta comprar en ese supermercado; siempre te dan a probar muestras de nuevos productos.",
+    "answer": "sample, example, showing",
+    "answerDetails": "I love shopping at that grocery store; they always let you taste samples of new products."
+  },
+  {
+    "id": 1898,
+    "question": "nació",
+    "questionDetails": "Le compré el elefante el día que nació.",
+    "answer": "was born, born",
+    "answerDetails": "I bought the elephant for him the day he was born."
+  },
+  {
+    "id": 1899,
+    "question": "buscan",
+    "questionDetails": "Algunos sufren y buscan la salvación.",
+    "answer": "seek, looking, searching",
+    "answerDetails": "Others suffer and seek salvation."
+  },
+  {
+    "id": 1900,
+    "question": "quedaba",
+    "questionDetails": "Sólo entonces se quedaba.",
+    "answer": "remained, stayed, was",
+    "answerDetails": "Then only she remained."
+  }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "id": 4201,
+    "question": "pistas",
+    "questionDetails": "Y ellos me prohibieron las pistas de por vida.",
+    "answer": "tracks, clues, slopes",
+    "answerDetails": "And they banned me from the tracks for life."
+  },
+  {
+    "id": 4202,
+    "question": "caes",
+    "questionDetails": "Usted no se haga daño si te caes.",
+    "answer": "fall",
+    "answerDetails": "You will hurt yourself there if you fall."
+  },
+  {
+    "id": 4203,
+    "question": "acompañarme",
+    "questionDetails": "Voy a ir al cine esta noche. ¿Quieres acompañarme?",
+    "answer": "join me",
+    "answerDetails": "I’m going to the movies tonight. Would you like to join me?"
+  },
+  {
+    "id": 4204,
+    "question": "española",
+    "answer": "Spaniard"
+  },
+  {
+    "id": 4205,
+    "question": "entrenamiento",
+    "questionDetails": "Desayunamos después del entrenamiento.",
+    "answer": "workout, coaching",
+    "answerDetails": "We had breakfast after our workout."
+  },
+  {
+    "id": 4206,
+    "question": "enamoró",
+    "questionDetails": "Él se enamoró de ella.",
+    "answer": "fell",
+    "answerDetails": "He fell for her."
+  },
+  {
+    "id": 4207,
+    "question": "acerque",
+    "questionDetails": "Que nadie se acerque.",
+    "answer": "close, anywhere near",
+    "answerDetails": "No one gets close."
+  },
+  {
+    "id": 4208,
+    "question": "busques",
+    "questionDetails": "Necesito que busques a alguien por mí.",
+    "answer": "look",
+    "answerDetails": "I need you to look someone up for me."
+  },
+  {
+    "id": 4209,
+    "question": "moneda",
+    "questionDetails": "En mi colección tengo más de 200 monedas de todo el mundo.",
+    "answer": "coin",
+    "answerDetails": "I have collected more than 200 coins from all over the world."
+  },
+  {
+    "id": 4210,
+    "question": "tarda",
+    "questionDetails": "Se tarda cinco minutos.",
+    "answer": "takes",
+    "answerDetails": "It takes five minutes."
+  },
+  {
+    "id": 4211,
+    "question": "envió",
+    "questionDetails": "Y ésta no es la persona que envió la llamada.",
+    "answer": "sent, dispatched, mailed",
+    "answerDetails": "And this isn’t the person who sent the call."
+  },
+  {
+    "id": 4212,
+    "question": "verse",
+    "answer": "be seen"
+  },
+  {
+    "id": 4213,
+    "question": "lindos",
+    "questionDetails": "Ustedes eran tan lindos.",
+    "answer": "cute",
+    "answerDetails": "You kids were so cute."
+  },
+  {
+    "id": 4214,
+    "question": "malentendido",
+    "questionDetails": "Un pequeño malentendido que será rectificado en breve.",
+    "answer": "misunderstanding",
+    "answerDetails": "A minor misunderstanding that will be rectified shortly."
+  },
+  {
+    "id": 4215,
+    "question": "esperabas",
+    "questionDetails": "Así que esperabas esto desde el inicio.",
+    "answer": "expected",
+    "answerDetails": "So you expected this from the beginning."
+  },
+  {
+    "id": 4216,
+    "question": "procedimiento",
+    "questionDetails": "El procedimiento se lleva a cabo bajo anestesia general.",
+    "answer": "procedure, proceedings",
+    "answerDetails": "The procedure is carried out under general anaesthetic."
+  },
+  {
+    "id": 4217,
+    "question": "cuerda",
+    "questionDetails": "La técnica de moverse juntos en la cuerda.",
+    "answer": "rope, string, cord",
+    "answerDetails": "The technique of moving together on the rope."
+  },
+  {
+    "id": 4218,
+    "question": "dosis",
+    "questionDetails": "Sólo puedo aguantar a la tía Terry en pequeñas dosis.",
+    "answer": "dose",
+    "answerDetails": "I can only handle aunt Terry in small doses."
+  },
+  {
+    "id": 4219,
+    "question": "presentes",
+    "questionDetails": "Todas presentes y correctas.",
+    "answer": "present, attending",
+    "answerDetails": "All present and correct."
+  },
+  {
+    "id": 4220,
+    "question": "intenso",
+    "questionDetails": "Sus ojos son de un azul intenso que parecen el cielo de la noche.",
+    "answer": "deep",
+    "answerDetails": "Her eyes are a deep blue that look like the night sky."
+  },
+  {
+    "id": 4221,
+    "question": "cabello",
+    "questionDetails": "La princesa tenía el cabello largo y rubio.",
+    "answer": "hair",
+    "answerDetails": "The princess had long blond hair."
+  },
+  {
+    "id": 4222,
+    "question": "explotar",
+    "questionDetails": "500 empresas surgieron para explotar esta nueva tecnología.",
+    "answer": "exploit, burst",
+    "answerDetails": "500 companies sprang up to exploit this new technology."
+  },
+  {
+    "id": 4223,
+    "question": "durmió",
+    "answer": "Slept"
+  },
+  {
+    "id": 4224,
+    "question": "escribí",
+    "answer": "Wrote"
+  },
+  {
+    "id": 4225,
+    "question": "exterior",
+    "questionDetails": "Registrar la fecha en el exterior del archivo.",
+    "answer": "outside, outdoor, foreign",
+    "answerDetails": "Record the date on the outside of the file."
+  },
+  {
+    "id": 4226,
+    "question": "escaleras",
+    "questionDetails": "Tomemos las escaleras para bajar a la planta Baja.",
+    "answer": "stairs",
+    "answerDetails": "Let’s take the stairs down to the ground floor."
+  },
+  {
+    "id": 4227,
+    "question": "considero",
+    "questionDetails": "Le considero mi protegida.",
+    "answer": "consider",
+    "answerDetails": "I consider her my ward."
+  },
+  {
+    "id": 4228,
+    "question": "contarles",
+    "answer": "tell them"
+  },
+  {
+    "id": 4229,
+    "question": "rendir",
+    "questionDetails": "Vino al cementerio para rendir homenaje a un héroe caído.",
+    "answer": "render",
+    "answerDetails": "She came to the cemetery to render homage to a fallen hero."
+  },
+  {
+    "id": 4230,
+    "question": "adelanto",
+    "questionDetails": "Mi abuela no se acostumbra al adelanto del teléfono inalámbrico.",
+    "answer": "advancement, breakthrough",
+    "answerDetails": "My grandmother can’t get used to the advancement of cordless phones."
+  },
+  {
+    "id": 4231,
+    "question": "dejarnos",
+    "questionDetails": "Mamá, ¿vas a dejarnos ir al concierto?",
+    "answer": "let us",
+    "answerDetails": "Mom, are you going to let us go to the concert?"
+  },
+  {
+    "id": 4232,
+    "question": "rencor",
+    "questionDetails": "Tengo miedo de hablar con él porque creo que todavía me guarda rencor.",
+    "answer": "grudge, spite, rancour",
+    "answerDetails": "I’m afraid to talk to him because I think he’s still holding a grudge against me."
+  },
+  {
+    "id": 4233,
+    "question": "metro",
+    "questionDetails": "Si tomas el metro, deberías llegar allí en menos de 15 minutos.",
+    "answer": "underground, meter, metre",
+    "answerDetails": "If you take the underground, you should be able to arrive there in less than 15 minutes."
+  },
+  {
+    "id": 4234,
+    "question": "vela",
+    "questionDetails": "Voy a empezar a practicar la vela.",
+    "answer": "sailing, candle",
+    "answerDetails": "I’m taking up sailing as a new hobby."
+  },
+  {
+    "id": 4235,
+    "question": "abriendo",
+    "questionDetails": "Test de descompresión finalizado, abriendo compuerta.",
+    "answer": "opening, unlocking, blazing",
+    "answerDetails": "Test decompression completed, opening the gate."
+  },
+  {
+    "id": 4236,
+    "question": "dejaría",
+    "answer": "i would leave"
+  },
+  {
+    "id": 4237,
+    "question": "aparentemente",
+    "questionDetails": "Una persona aparentemente competente y bien organizada.",
+    "answer": "seemingly, ostensibly",
+    "answerDetails": "A seemingly competent and well-organized person."
+  },
+  {
+    "id": 4238,
+    "question": "grabado",
+    "questionDetails": "Inés estudiará grabado este semestre, así que tiene que comprar muchas herramientas especializadas.",
+    "answer": "engraving, engraved, print",
+    "answerDetails": "Ines is going to study engraving this semester, so she has to buy a bunch of special tools."
+  },
+  {
+    "id": 4239,
+    "question": "ciertos",
+    "questionDetails": "Mi propósito es demostrar que ciertos principios son eternos.",
+    "answer": "certain",
+    "answerDetails": "My purpose is to show that certain principles are eternal."
+  },
+  {
+    "id": 4240,
+    "question": "abras",
+    "questionDetails": "Y no le abras esta puerta a nadie.",
+    "answer": "open",
+    "answerDetails": "And do not open this door for anyone."
+  },
+  {
+    "id": 4241,
+    "question": "juguetes",
+    "questionDetails": "No había juguetes por ningún lado.",
+    "answer": "toys, playthings",
+    "answerDetails": "No toys to be had anywhere."
+  },
+  {
+    "id": 4242,
+    "question": "limpieza",
+    "questionDetails": "La limpieza diaria de la cara es esencial para mantener la piel libre de imperfecciones.",
+    "answer": "cleaning, cleanliness, cleanup",
+    "answerDetails": "Cleaning your face daily is essential for maintaining clear skin."
+  },
+  {
+    "id": 4243,
+    "question": "obligado",
+    "questionDetails": "Los mineros, obligados a trabajar en estas condiciones, no tenían una vida laboral muy larga.",
+    "answer": "constrained, compulsory, obligatory",
+    "answerDetails": "The miners, constrained to work in these conditions, did not have very long working lives."
+  },
+  {
+    "id": 4244,
+    "question": "escalera",
+    "questionDetails": "Usó una escalera para colocar las luces navideñas.",
+    "answer": "ladder",
+    "answerDetails": "He used a ladder to put up the Christmas lights."
+  },
+  {
+    "id": 4245,
+    "question": "botellas",
+    "questionDetails": "Y tenemos todas estas botellas para reciclar.",
+    "answer": "bottles, cylinders, bottled",
+    "answerDetails": "And we got all these bottles to recycle."
+  },
+  {
+    "id": 4246,
+    "question": "ocasiones",
+    "questionDetails": "Y no habrá muchas ocasiones de gastar.",
+    "answer": "occasions, sometimes, times",
+    "answerDetails": "And it will not have many occasions to spend."
+  },
+  {
+    "id": 4247,
+    "question": "posibles",
+    "questionDetails": "El marido de Sofía proviene de una familia de posibles.",
+    "answer": "means",
+    "answerDetails": "Sofia’s husband comes from a family of means."
+  },
+  {
+    "id": 4248,
+    "question": "asustar",
+    "questionDetails": "Si te acercas muy rápido, asustarás al caballo.",
+    "answer": "spook",
+    "answerDetails": "If you approach too quickly, you’ll spook the horse."
+  },
+  {
+    "id": 4249,
+    "question": "controla",
+    "questionDetails": "Ajusta los niveles de serotonina, controla la ansiedad.",
+    "answer": "controls, monitors, handles",
+    "answerDetails": "It adjusts serotonin levels, controls anxiety."
+  },
+  {
+    "id": 4250,
+    "question": "mezcla",
+    "questionDetails": "Nadie entendió tu discurso porque fue una mezcla de temas inconexos.",
+    "answer": "mixture",
+    "answerDetails": "Nobody understood your speech because it was a mixture of unrelated topics."
+  },
+  {
+    "id": 4251,
+    "question": "avance",
+    "questionDetails": "La asociación con una universidad extranjera condujo a espectaculares avances en la fusión fría.",
+    "answer": "advancement, progress, forward move",
+    "answerDetails": "Our partnership with a foreign university led to spectacular advancements in cold fusion."
+  },
+  {
+    "id": 4252,
+    "question": "jugado",
+    "questionDetails": "Dijiste que nunca habías jugado a esto antes.",
+    "answer": "played, gambled",
+    "answerDetails": "You said you never played this thing before."
+  },
+  {
+    "id": 4253,
+    "question": "requiere",
+    "answer": "it needs"
+  },
+  {
+    "id": 4254,
+    "question": "abiertas",
+    "questionDetails": "Recibo al peligro con las patas abiertas.",
+    "answer": "open, unlocked",
+    "answerDetails": "Receipt to the danger with the open legs."
+  },
+  {
+    "id": 4255,
+    "question": "bebe",
+    "questionDetails": "La caravana continua porque bebe.",
+    "answer": "drinks, baby, drunk",
+    "answerDetails": "The caravan walks on because it drinks."
+  },
+  {
+    "id": 4256,
+    "question": "jueves",
+    "answer": "Thursday"
+  },
+  {
+    "id": 4257,
+    "question": "colgado",
+    "answer": "hanging"
+  },
+  {
+    "id": 4258,
+    "question": "definitiva",
+    "questionDetails": "Intente una identificación definitiva.",
+    "answer": "definitive, final, ultimate",
+    "answerDetails": "Try to get a definitive classification."
+  },
+  {
+    "id": 4259,
+    "question": "pantalón",
+    "questionDetails": "Stella diseñó un bonito pantalón entallado para combinar con la chaqueta de piel.",
+    "answer": "pant, trouser, bottoms",
+    "answerDetails": "Stella designed a lovely fitted pant to go with the leather jacket."
+  },
+  {
+    "id": 4260,
+    "question": "suele",
+    "questionDetails": "Una perspectiva más alta suele ayudar.",
+    "answer": "usually, tends, often",
+    "answerDetails": "A higher perspective usually helps."
+  },
+  {
+    "id": 4261,
+    "question": "contratado",
+    "questionDetails": "Los trabajadores de construcción contratados trabajaron mucho más rápidamente que los miembros del sindicato.",
+    "answer": "contracted",
+    "answerDetails": "The contracted construction workers worked so much faster than the members of the union."
+  },
+  {
+    "id": 4262,
+    "question": "genera",
+    "questionDetails": "Genera la ilusión de un mayor volumen de líquido.",
+    "answer": "it creates, this creates",
+    "answerDetails": "It creates the illusion of a greater volume of liquid."
+  },
+  {
+    "id": 4263,
+    "question": "mijo",
+    "questionDetails": "Sheila come pan de mijo en lugar de trigo porque es intolerante al gluten.",
+    "answer": "millet",
+    "answerDetails": "Sheila eats bread made from Millet instead of wheat because she is gluten intolerant."
+  },
+  {
+    "id": 4264,
+    "question": "fresca",
+    "questionDetails": "Si queremos evitar el calor, habrá que empezar la caminata temprano con la fresca.",
+    "answer": "cool, fresh air",
+    "answerDetails": "If we want to avoid the heat, we’ll have to start our hike early in the cool of the morning."
+  },
+  {
+    "id": 4265,
+    "question": "criminales",
+    "questionDetails": "Los huellas son de los registros criminales.",
+    "answer": "criminal, felons, criminally",
+    "answerDetails": "They got his prints from a criminal database."
+  },
+  {
+    "id": 4266,
+    "question": "dele",
+    "questionDetails": "Sólo dele un segundo.",
+    "answer": "give",
+    "answerDetails": "Just give it a second."
+  },
+  {
+    "id": 4267,
+    "question": "estupideces",
+    "questionDetails": "No esperaba oír tantas estupideces en la plática.",
+    "answer": "rubbish",
+    "answerDetails": "I didn’t expect to listen to so much rubbish at the talk."
+  },
+  {
+    "id": 4268,
+    "question": "póngase",
+    "questionDetails": "Póngase de pie y levante la mano derecha.",
+    "answer": "please",
+    "answerDetails": "Please stand and raise your right hand."
+  },
+  {
+    "id": 4269,
+    "question": "adoro",
+    "questionDetails": "Te adoro con profunda reverencia.",
+    "answer": "adore, love, worship",
+    "answerDetails": "I adore you with deep reverence."
+  },
+  {
+    "id": 4270,
+    "question": "bello",
+    "questionDetails": "La llevó a mirar el atardecer bello.",
+    "answer": "beautiful",
+    "answerDetails": "He took her to watch the beautiful sunset."
+  },
+  {
+    "id": 4271,
+    "question": "cargos",
+    "questionDetails": "El fiscal presentó cargos de malversación contra el tesorero municipal.",
+    "answer": "indictment",
+    "answerDetails": "The district attorney brought an indictment against the city treasurer for embezzlement."
+  },
+  {
+    "id": 4272,
+    "question": "lindas",
+    "questionDetails": "Pero esas también son lindas.",
+    "answer": "cute, nice, neat",
+    "answerDetails": "But those are cute, too."
+  },
+  {
+    "id": 4273,
+    "question": "puras",
+    "questionDetails": "Y sus intenciones eran puras, por supuesto.",
+    "answer": "pure",
+    "answerDetails": "And his motives were pure, of course."
+  },
+  {
+    "id": 4274,
+    "question": "sacarla",
+    "questionDetails": "Sacarla de una celda es una cosa …",
+    "answer": "out",
+    "answerDetails": "Breaking you out of a cell is one thing …"
+  },
+  {
+    "id": 4275,
+    "question": "enojar",
+    "questionDetails": "Molestarse enfadarse,, enojarse.",
+    "answer": "annoy",
+    "answerDetails": "To get annoyed."
+  },
+  {
+    "id": 4276,
+    "question": "rescate",
+    "questionDetails": "Acudir al rescate de alguien.",
+    "answer": "rescue, ransom, salvage",
+    "answerDetails": "To come to somebody’s rescue."
+  },
+  {
+    "id": 4277,
+    "question": "igualito",
+    "answer": "exactly the same"
+  },
+  {
+    "id": 4278,
+    "question": "informes",
+    "questionDetails": "Le pedí ver sus informes psiquiátricos.",
+    "answer": "reports",
+    "answerDetails": "I asked to see his psychiatric reports."
+  },
+  {
+    "id": 4279,
+    "question": "protocolo",
+    "questionDetails": "¿Cuál es el protocolo en un almuerzo inteligente si el vecino se dormita durante los discursos?",
+    "answer": "protocol, convention",
+    "answerDetails": "What is the protocol at a smart lunch if one’s neighbour dozes off during the speeches?"
+  },
+  {
+    "id": 4280,
+    "question": "soltera",
+    "questionDetails": "Te tengo que presentar a mi amiga soltera Aurora.",
+    "answer": "single, maiden, spinster",
+    "answerDetails": "I have to introduce you to my single friend, Aurora."
+  },
+  {
+    "id": 4281,
+    "question": "brindemos",
+    "answer": "Let’s toast"
+  },
+  {
+    "id": 4282,
+    "question": "locas",
+    "questionDetails": "Cuando bebes se vuelven locas.",
+    "answer": "crazy, mad, insane",
+    "answerDetails": "When they drink they get crazy."
+  },
+  {
+    "id": 4283,
+    "question": "francia",
+    "answer": "France"
+  },
+  {
+    "id": 4284,
+    "question": "escucharte",
+    "questionDetails": "No tengo por que escucharte.",
+    "answer": "listen",
+    "answerDetails": "I have to listen."
+  },
+  {
+    "id": 4285,
+    "question": "pegue",
+    "questionDetails": "Pegue los pasos en el nuevo documento de texto y …",
+    "answer": "paste, stick",
+    "answerDetails": "Paste the steps into the new text document and …"
+  },
+  {
+    "id": 4286,
+    "question": "arriesgado",
+    "questionDetails": "Manejar de noche en esta parte del mundo es arriesgado.",
+    "answer": "risky",
+    "answerDetails": "Driving at night in this part of the world is risky."
+  },
+  {
+    "id": 4287,
+    "question": "despierte",
+    "questionDetails": "Dale dos aspirinas cuando se despierte.",
+    "answer": "wakes up, wake up, wake",
+    "answerDetails": "Give her two aspirin when she wakes up."
+  },
+  {
+    "id": 4288,
+    "question": "vieras",
+    "questionDetails": "Si fuera la última vez que me vieras.",
+    "answer": "see",
+    "answerDetails": "This might be the last time you see me."
+  },
+  {
+    "id": 4289,
+    "question": "sesión",
+    "questionDetails": "Este tribunal entra en sesión.",
+    "answer": "session",
+    "answerDetails": "This court is now in session."
+  },
+  {
+    "id": 4290,
+    "question": "delicada",
+    "questionDetails": "Mi complexión es mucho más delicada.",
+    "answer": "delicate, dainty, sensitive",
+    "answerDetails": "My constitution is much more delicate."
+  },
+  {
+    "id": 4291,
+    "question": "sentada",
+    "questionDetails": "Estoy sentada dentro del marco.",
+    "answer": "sitting, seated, sittin’",
+    "answerDetails": "I am sitting within the frame."
+  },
+  {
+    "id": 4292,
+    "question": "aceite",
+    "questionDetails": "Hallaron aceite de motor en su estómago.",
+    "answer": "oil",
+    "answerDetails": "They found motor oil in his stomach."
+  },
+  {
+    "id": 4293,
+    "question": "apuesto",
+    "questionDetails": "A ella le parecieron muy apuestos todos esos hombres vestidos de esmoquin.",
+    "answer": "dashing",
+    "answerDetails": "She thought all those men very dashing in their tuxedos."
+  },
+  {
+    "id": 4294,
+    "question": "fácilmente",
+    "questionDetails": "Se subió a la montaña fácilmente.",
+    "answer": "easily, readily",
+    "answerDetails": "He climbed the mountain easily."
+  },
+  {
+    "id": 4295,
+    "question": "escape",
+    "questionDetails": "La acumulación de carbono hizo que salieran llamas del Escape.",
+    "answer": "exhaust, leak",
+    "answerDetails": "The carbon buildup caused flames to come out of the exhaust."
+  },
+  {
+    "id": 4296,
+    "question": "saques",
+    "questionDetails": "Será mejor que los saques de ahí.",
+    "answer": "get",
+    "answerDetails": "It will be better than to get there."
+  },
+  {
+    "id": 4297,
+    "question": "echen",
+    "questionDetails": "Acabas de conseguir que te echen de tu apartamento.",
+    "answer": "kicked out, take",
+    "answerDetails": "You just got yourself kicked out of your apartment."
+  },
+  {
+    "id": 4298,
+    "question": "dejarle",
+    "questionDetails": "Quiero dejarle un mensaje.",
+    "answer": "leave",
+    "answerDetails": "I want to leave a message for him."
+  },
+  {
+    "id": 4299,
+    "question": "eterno",
+    "questionDetails": "A su crédito eterno, mantuvo su dignidad a lo largo de.",
+    "answer": "eternal, everlasting, undying",
+    "answerDetails": "To his eternal credit, he maintained his dignity throughout."
+  },
+  {
+    "id": 4300,
+    "question": "entren",
+    "questionDetails": "¡ Niños, entren en casa!.",
+    "answer": "go inside",
+    "answerDetails": "Children, go inside the house!."
+  }
+]

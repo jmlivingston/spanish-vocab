@@ -1,0 +1,688 @@
+[
+  {
+    "id": 3701,
+    "question": "pongamos",
+    "questionDetails": "Pongamos un parche ahí.",
+    "answer": "put",
+    "answerDetails": "Put a bandage on it."
+  },
+  {
+    "id": 3702,
+    "question": "popular",
+    "questionDetails": "Disfrutamos escuchando música popular en vivo en nuestro viaje a la Sierra de Chiapas.",
+    "answer": "folk",
+    "answerDetails": "We enjoyed listening to live folk music on our trip to the mountains of Chiapas."
+  },
+  {
+    "id": 3703,
+    "question": "saldrá",
+    "questionDetails": "Mucha gente saldrá lastimada.",
+    "answer": "will",
+    "answerDetails": "Many people will hurt."
+  },
+  {
+    "id": 3704,
+    "question": "querría",
+    "questionDetails": "Si estuviera viviendo en una clima fría, querría ir de vacaciones en el Caribe.",
+    "answer": "i would want",
+    "answerDetails": "If I was living in a cold climate, I would want to take vacations in the Caribbean."
+  },
+  {
+    "id": 3705,
+    "question": "relacionado",
+    "questionDetails": "La policía cree que estos casos de violencia pudieran ser relacionados.",
+    "answer": "related, linked, connected",
+    "answerDetails": "Police think that these instances of violence may be related."
+  },
+  {
+    "id": 3706,
+    "question": "saltar",
+    "questionDetails": "Es una película de acción tan rápido que amenaza con saltar los rieles.",
+    "answer": "jump, leap, pounce",
+    "answerDetails": "It’s an action movie so fast it threatens to jump the rails."
+  },
+  {
+    "id": 3707,
+    "question": "pondría",
+    "questionDetails": "Yo me pondría en tu lugar cualquier día.",
+    "answer": "would",
+    "answerDetails": "I would take your seat any day."
+  },
+  {
+    "id": 3708,
+    "question": "adelantado",
+    "questionDetails": "Tienes un intelecto muy adelantado.",
+    "answer": "advanced",
+    "answerDetails": "You are a truly advanced intellect."
+  },
+  {
+    "id": 3709,
+    "question": "aproximadamente",
+    "questionDetails": "El ser humano medio está compuesto aproximadamente de un 65% de agua.",
+    "answer": "approximately, about, roughly",
+    "answerDetails": "The average human is approximately 65% water."
+  },
+  {
+    "id": 3710,
+    "question": "representa",
+    "answer": "Represents"
+  },
+  {
+    "id": 3711,
+    "question": "probado",
+    "questionDetails": "Trato de evitar comprar champús probados en animales.",
+    "answer": "tested, tried, proven",
+    "answerDetails": "I try to avoid buying shampoos tested on animals."
+  },
+  {
+    "id": 3712,
+    "question": "izquierdo",
+    "questionDetails": "Se rompió el brazo izquierdo jugando baloncesto.",
+    "answer": "left",
+    "answerDetails": "She broke her left arm playing basketball."
+  },
+  {
+    "id": 3713,
+    "question": "guía",
+    "questionDetails": "Esta guía de guitarra es una valiosa herramienta para la enseñanza y el aprendizaje de este instrumento.",
+    "answer": "companion",
+    "answerDetails": "This guitar companion is a valuable tool for teaching and learning this instrument."
+  },
+  {
+    "id": 3714,
+    "question": "colombia",
+    "answer": "Colombia, Columbia, Colombian"
+  },
+  {
+    "id": 3715,
+    "question": "oyó",
+    "questionDetails": "Oyó algo acerca de mi revisión médica?",
+    "answer": "heard, overheard",
+    "answerDetails": "Heard anything about my medical?"
+  },
+  {
+    "id": 3716,
+    "question": "podés",
+    "questionDetails": "Te podés quedar una semana.",
+    "answer": "can",
+    "answerDetails": "You can stay here one week."
+  },
+  {
+    "id": 3717,
+    "question": "marta",
+    "questionDetails": "La Marta hizo su manida en un árbol hueco.",
+    "answer": "marten",
+    "answerDetails": "The Marten made its den in a hollow tree."
+  },
+  {
+    "id": 3718,
+    "question": "cállese",
+    "questionDetails": "Muéstreme pruebas o cállese.",
+    "answer": "shut up",
+    "answerDetails": "Produce proof or shut up."
+  },
+  {
+    "id": 3719,
+    "question": "celda",
+    "questionDetails": "Tiene una estructura hexagonal, como las celdas de un panal.",
+    "answer": "cell",
+    "answerDetails": "It has a hexagonal structure, just like the cells of a honeycomb."
+  },
+  {
+    "id": 3720,
+    "question": "sobrino",
+    "questionDetails": "Mi sobrino me ha estado rogando que le consiga unas.",
+    "answer": "nephew",
+    "answerDetails": "My nephew’s been begging me for some."
+  },
+  {
+    "id": 3721,
+    "question": "delicioso",
+    "questionDetails": "El sándwich estuvo delicioso.",
+    "answer": "delicious",
+    "answerDetails": "The sandwich was delicious."
+  },
+  {
+    "id": 3722,
+    "question": "cuide",
+    "questionDetails": "No tengo a nadie que cuide de mi.",
+    "answer": "take care, babysit",
+    "answerDetails": "I have no one to take care of me."
+  },
+  {
+    "id": 3723,
+    "question": "lobo",
+    "questionDetails": "Acabo de ser devorado por un lobo.",
+    "answer": "wolf",
+    "answerDetails": "I just got eaten by a wolf."
+  },
+  {
+    "id": 3724,
+    "question": "mandaste",
+    "questionDetails": "Mandaste a mi asistente a hacer un encargo?",
+    "answer": "sent",
+    "answerDetails": "You sent my assistant on an errand?"
+  },
+  {
+    "id": 3725,
+    "question": "bajen",
+    "questionDetails": "Bien, bajen la cesta cuando estén en posición.",
+    "answer": "lower, lay down",
+    "answerDetails": "Lower the basket as soon as you’re in position."
+  },
+  {
+    "id": 3726,
+    "question": "venís",
+    "questionDetails": "Parece que venís bastante seguido estos días.",
+    "answer": "come",
+    "answerDetails": "So it seems you come often these days."
+  },
+  {
+    "id": 3727,
+    "question": "traté",
+    "questionDetails": "Traté de que cambiara de opinión.",
+    "answer": "tried, treated",
+    "answerDetails": "I have tried to change her mind."
+  },
+  {
+    "id": 3728,
+    "question": "entierro",
+    "questionDetails": "El día del entierro.",
+    "answer": "interment, grave",
+    "answerDetails": "The day of interment."
+  },
+  {
+    "id": 3729,
+    "question": "creyó",
+    "questionDetails": "Frank es un poco ingenuo. Creyó todo lo que le dijo Mary sobre su familia.",
+    "answer": "he believed",
+    "answerDetails": "Frank is a bit naive. He believed everything Mary told him about her family."
+  },
+  {
+    "id": 3730,
+    "question": "monte",
+    "questionDetails": "Las antenas de transmisión están en la cima del monte Wilson.",
+    "answer": "mount, hill, bush",
+    "answerDetails": "The transmitting antennas are atop Mount Wilson."
+  },
+  {
+    "id": 3731,
+    "question": "enamoré",
+    "questionDetails": "Me enamoré de ti.",
+    "answer": "fell",
+    "answerDetails": "I fell for you."
+  },
+  {
+    "id": 3732,
+    "question": "sucia",
+    "questionDetails": "Son gente muy sucia.",
+    "answer": "dirty, filthy, soiled",
+    "answerDetails": "These are dirty people."
+  },
+  {
+    "id": 3733,
+    "question": "ofreció",
+    "questionDetails": "Me ofreció dinero extra para contratar a una cocinera.",
+    "answer": "offered, featured, volunteered",
+    "answerDetails": "Offered to give me extra money to hire a cook."
+  },
+  {
+    "id": 3734,
+    "question": "echamos",
+    "questionDetails": "Y si echamos uno rápido, estupendo.",
+    "answer": "we",
+    "answerDetails": "And if we get a quickie in, good."
+  },
+  {
+    "id": 3735,
+    "question": "paraíso",
+    "questionDetails": "Mi idea del Paraíso es relajarse en el paseo marítimo.",
+    "answer": "paradise",
+    "answerDetails": "My idea of paradise is to relax on the seafront."
+  },
+  {
+    "id": 3736,
+    "question": "pasaporte",
+    "questionDetails": "Tenía un pasaporte falso con un nombre falso.",
+    "answer": "passport",
+    "answerDetails": "It contained a fake passport with a phony name."
+  },
+  {
+    "id": 3737,
+    "question": "decírselo",
+    "questionDetails": "Un expediente no puede decírselo todo.",
+    "answer": "tell",
+    "answerDetails": "A file can’t tell you everything."
+  },
+  {
+    "id": 3738,
+    "question": "acompañas",
+    "answer": "Join"
+  },
+  {
+    "id": 3739,
+    "question": "tremenda",
+    "questionDetails": "Esta es una ventaja tremenda.",
+    "answer": "tremendous, terrific, awful",
+    "answerDetails": "This is a tremendous advantage."
+  },
+  {
+    "id": 3740,
+    "question": "consta",
+    "questionDetails": "La caravana consta de dos partes.",
+    "answer": "consists, comprises, composed",
+    "answerDetails": "The caravan consists of two parts."
+  },
+  {
+    "id": 3741,
+    "question": "oficiales",
+    "questionDetails": "Llame a los oficiales a cubierta.",
+    "answer": "officers, official, formal",
+    "answerDetails": "Assemble the officers on the starboard deck."
+  },
+  {
+    "id": 3742,
+    "question": "prometiste",
+    "questionDetails": "Ya sabes, como lo prometiste hace una semana.",
+    "answer": "promised",
+    "answerDetails": "You know, like you promised, a week ago?"
+  },
+  {
+    "id": 3743,
+    "question": "buscó",
+    "questionDetails": "Ni siquiera buscó mi nombre.",
+    "answer": "sought, searched, hunted",
+    "answerDetails": "He never even sought my name."
+  },
+  {
+    "id": 3744,
+    "question": "pum",
+    "questionDetails": "Pum, ahí lo tienen.",
+    "answer": "boom, poum, bam",
+    "answerDetails": "Boom there it is."
+  },
+  {
+    "id": 3745,
+    "question": "helado",
+    "questionDetails": "Quiero una bola de helado de fresa.",
+    "answer": "ice cream, frosty",
+    "answerDetails": "I want a scoop of Strawberry ice cream."
+  },
+  {
+    "id": 3746,
+    "question": "palacio",
+    "answer": "centre"
+  },
+  {
+    "id": 3747,
+    "question": "actos",
+    "questionDetails": "Son los actos anormales de una juventud sin frenos.",
+    "answer": "acts, actions, deeds",
+    "answerDetails": "Those are deviant acts of reckless youth."
+  },
+  {
+    "id": 3748,
+    "question": "parejas",
+    "questionDetails": "Este es para parejas.",
+    "answer": "couples, pairs, partners",
+    "answerDetails": "This is for couples."
+  },
+  {
+    "id": 3749,
+    "question": "luchando",
+    "questionDetails": "Luchando por un mundo decente.",
+    "answer": "fighting, struggling, scrambling",
+    "answerDetails": "Fighting for a decent world."
+  },
+  {
+    "id": 3750,
+    "question": "margen",
+    "questionDetails": "Estos agricultores subsisten al margen de la economía nacional.",
+    "answer": "margin, scope, sidelines",
+    "answerDetails": "These farmers subsist on the margins of the country’s economy."
+  },
+  {
+    "id": 3751,
+    "question": "abandonó",
+    "questionDetails": "Mi hermano me abandonó.",
+    "answer": "abandoned, quitted, left",
+    "answerDetails": "My brother abandoned me."
+  },
+  {
+    "id": 3752,
+    "question": "cubrir",
+    "questionDetails": "Los helicópteros disparaban en dirección a la línea de árboles para cubrir el avance de las tropas terrestres.",
+    "answer": "cover",
+    "answerDetails": "The helicopters fired into the tree line to cover the advance of the ground troops."
+  },
+  {
+    "id": 3753,
+    "question": "tirada",
+    "questionDetails": "Este va a ser un gran número que necesitará una tirada de 5, 000 ejemplares como mínimo.",
+    "answer": "printing",
+    "answerDetails": "This is going to be a big issue that will need a printing of at least 5,000 copies."
+  },
+  {
+    "id": 3754,
+    "question": "menores",
+    "questionDetails": "Todos estos son problemas menores que son fácilmente corregidos.",
+    "answer": "minor, juvenile, smaller",
+    "answerDetails": "These are all minor problems that are easily corrected."
+  },
+  {
+    "id": 3755,
+    "question": "demuestra",
+    "questionDetails": "Nos quedamos muy impresionados con la propuesta de Samuel. Demuestra la urgencia de mejorar la disponibilidad de Internet en la zona.",
+    "answer": "it demonstrates",
+    "answerDetails": "We were very impressed with Samuel’s proposal. It demonstrates the urgency of improving Internet provision in the area."
+  },
+  {
+    "id": 3756,
+    "question": "despertó",
+    "questionDetails": "Luego, algo me despertó.",
+    "answer": "awoke, woke, woke up",
+    "answerDetails": "Then something awoke me."
+  },
+  {
+    "id": 3757,
+    "question": "humanidad",
+    "questionDetails": "Atroces crímenes contra la humanidad.",
+    "answer": "humanity, mankind",
+    "answerDetails": "Appalling crimes against humanity."
+  },
+  {
+    "id": 3758,
+    "question": "visión",
+    "questionDetails": "Mi visión no es tan buena como cuando era joven.",
+    "answer": "vision",
+    "answerDetails": "My vision is not as good as when I was younger."
+  },
+  {
+    "id": 3759,
+    "question": "once",
+    "questionDetails": "Once llamadas en la última media hora.",
+    "answer": "eleven",
+    "answerDetails": "Eleven calls in the last half hour."
+  },
+  {
+    "id": 3760,
+    "question": "función",
+    "questionDetails": "La considero cualificada para realizar esta función.",
+    "answer": "role, mode",
+    "answerDetails": "I believe her to be well qualified to carry out this role."
+  },
+  {
+    "id": 3761,
+    "question": "miran",
+    "questionDetails": "Las órdenes se miran como atar y los pagos …",
+    "answer": "regarded, look, stare",
+    "answerDetails": "Orders are regarded as binding and payments …"
+  },
+  {
+    "id": 3762,
+    "question": "importe",
+    "questionDetails": "Hemos recibido una factura por un importe de $750.",
+    "answer": "amount",
+    "answerDetails": "We have received a bill for the amount of $750."
+  },
+  {
+    "id": 3763,
+    "question": "cinturón",
+    "questionDetails": "Dijo que uno de ellos tenía que trabajar; Eddie pensó que estaba por debajo del cinturón.",
+    "answer": "belt, girdle",
+    "answerDetails": "She said one of them had to work; Eddie thought that was below the belt."
+  },
+  {
+    "id": 3764,
+    "question": "miraba",
+    "questionDetails": "Todas las noches miraba la luna y pensaba sobre su futuro.",
+    "answer": "she looked, she watched",
+    "answerDetails": "Every night she looked at the moon and thought about her future."
+  },
+  {
+    "id": 3765,
+    "question": "okay",
+    "questionDetails": "Okay, y tu nombre es.",
+    "answer": "ok",
+    "answerDetails": "Ok, and your name is."
+  },
+  {
+    "id": 3766,
+    "question": "aló",
+    "answer": "Hello"
+  },
+  {
+    "id": 3767,
+    "question": "mamita",
+    "questionDetails": "Entiendes por qué mamita está enojada, ¿verdad?",
+    "answer": "mommy, mama, mammy",
+    "answerDetails": "You do understand why Mommy was mad, don’t you?"
+  },
+  {
+    "id": 3768,
+    "question": "fernando",
+    "answer": "Fernando"
+  },
+  {
+    "id": 3769,
+    "question": "joda",
+    "answer": "None"
+  },
+  {
+    "id": 3770,
+    "question": "che",
+    "questionDetails": "Che, David, ¿dónde pusiste mis llaves?",
+    "answer": "yo",
+    "answerDetails": "Yo, David, where did you put my keys?"
+  },
+  {
+    "id": 3771,
+    "question": "hey",
+    "questionDetails": "Hey, Ana, what time are your friends coming?",
+    "answer": "che",
+    "answerDetails": "Che, Ana, ¿a qué hora llegan tus amigos?"
+  },
+  {
+    "id": 3772,
+    "question": "hermanita",
+    "questionDetails": "Esto sirve para una anulación, hermanita.",
+    "answer": "sis, sister",
+    "answerDetails": "This is grounds for annulment, sis."
+  },
+  {
+    "id": 3773,
+    "question": "hostia",
+    "questionDetails": "¡ Hostia, qué fuerte! ¿Qué tiene ese trago?",
+    "answer": "jesus",
+    "answerDetails": "Jesus, that’s strong! What’s in that drink?"
+  },
+  {
+    "id": 3774,
+    "question": "lealtad",
+    "questionDetails": "No hay lealtad más pura que la de un perro hacia su amo.",
+    "answer": "loyalty, allegiance, fealty",
+    "answerDetails": "There is no purer loyalty than that of a dog to his master."
+  },
+  {
+    "id": 3775,
+    "question": "suegra",
+    "questionDetails": "… en el coche con mi suegra.",
+    "answer": "mother",
+    "answerDetails": "… up there with her mother."
+  },
+  {
+    "id": 3776,
+    "question": "intenciones",
+    "questionDetails": "El criminal le confesó sus malas intenciones a su compañero de celda.",
+    "answer": "designs",
+    "answerDetails": "The criminal confessed his evil designs to his cellmate."
+  },
+  {
+    "id": 3777,
+    "question": "amenazando",
+    "questionDetails": "Están amenazando al jefe de la estación.",
+    "answer": "threatening, menacing",
+    "answerDetails": "So they’re threatening the station agent."
+  },
+  {
+    "id": 3778,
+    "question": "entiendas",
+    "questionDetails": "Espero que entiendas esto.",
+    "answer": "understand",
+    "answerDetails": "I hope you understand that."
+  },
+  {
+    "id": 3779,
+    "question": "correo",
+    "questionDetails": "Creo que mi abuela es la única persona que todavía corresponde por correo.",
+    "answer": "mail, post, courier",
+    "answerDetails": "I think my grandma is the only person who still corresponds via mail."
+  },
+  {
+    "id": 3780,
+    "question": "atacar",
+    "questionDetails": "Los trabajadores pueden atacar las pérdidas de empleo amenazadas.",
+    "answer": "strike",
+    "answerDetails": "Workers may strike over threatened job losses."
+  },
+  {
+    "id": 3781,
+    "question": "poderoso",
+    "questionDetails": "Caminar es un poderoso trabajo en caliente.",
+    "answer": "powerful, mighty, potent",
+    "answerDetails": "Walking is powerful hot work."
+  },
+  {
+    "id": 3782,
+    "question": "casarme",
+    "questionDetails": "Encontré alguien para casarme.",
+    "answer": "marry, get married",
+    "answerDetails": "I found someone to marry."
+  },
+  {
+    "id": 3783,
+    "question": "supiste",
+    "questionDetails": "Tú siempre supiste que era desechable.",
+    "answer": "knew",
+    "answerDetails": "You always knew it was disposable."
+  },
+  {
+    "id": 3784,
+    "question": "declaraciones",
+    "questionDetails": "Gracias por sus declaraciones.",
+    "answer": "statements, declarations, depositions",
+    "answerDetails": "Thank you for your statements."
+  },
+  {
+    "id": 3785,
+    "question": "funcionando",
+    "questionDetails": "Tengo lisina buena,y funcionando.",
+    "answer": "running, working, functioning",
+    "answerDetails": "I got lysine up and running."
+  },
+  {
+    "id": 3786,
+    "question": "provecho",
+    "questionDetails": "Intenta sacarle provecho a la situación.",
+    "answer": "advantage, profit, avail",
+    "answerDetails": "Try to take advantage of the situation."
+  },
+  {
+    "id": 3787,
+    "question": "aburrida",
+    "questionDetails": "Muy aburrida y ordinaria.",
+    "answer": "boring, bored, dull",
+    "answerDetails": "Very boring and ordinary."
+  },
+  {
+    "id": 3788,
+    "question": "mandando",
+    "questionDetails": "Esta es base, estamos mandando refuerzos.",
+    "answer": "sending, commanding",
+    "answerDetails": "This is base, we are sending reinforcements."
+  },
+  {
+    "id": 3789,
+    "question": "quitaron",
+    "questionDetails": "Me quitaron la mitad del pulmón izquierdo.",
+    "answer": "removed",
+    "answerDetails": "I removed half of my lung, my left lung."
+  },
+  {
+    "id": 3790,
+    "question": "bañar",
+    "questionDetails": "Nos vamos a bañar todos juntos.",
+    "answer": "bathing, bathe",
+    "answerDetails": "We are all bathing together."
+  },
+  {
+    "id": 3791,
+    "question": "cumpliendo",
+    "questionDetails": "Ese no soy yo cumpliendo mi destino.",
+    "answer": "fulfilling, serving, compliance",
+    "answerDetails": "This is not me fulfilling my destiny."
+  },
+  {
+    "id": 3792,
+    "question": "viuda",
+    "questionDetails": "La viuda ha sido notificado.",
+    "answer": "widow",
+    "answerDetails": "The widow has been notified."
+  },
+  {
+    "id": 3793,
+    "question": "tenerla",
+    "questionDetails": "Entonces debe tenerla él.",
+    "answer": "have",
+    "answerDetails": "Then he must have it."
+  },
+  {
+    "id": 3794,
+    "question": "miembros",
+    "questionDetails": "Nuestros miembros son bastante exclusivos.",
+    "answer": "membership",
+    "answerDetails": "Our membership is very exclusive."
+  },
+  {
+    "id": 3795,
+    "question": "decidiste",
+    "questionDetails": "Decidiste no comer hoy?",
+    "answer": "decided",
+    "answerDetails": "Decided not to eat today?"
+  },
+  {
+    "id": 3796,
+    "question": "arroz",
+    "questionDetails": "Arroz con leche.",
+    "answer": "rice",
+    "answerDetails": "Rice pudding."
+  },
+  {
+    "id": 3797,
+    "question": "arreglando",
+    "questionDetails": "Nosotros nos estabamos arreglando para salir.",
+    "answer": "fixing, arranging, mending",
+    "answerDetails": "We were just fixing to leave."
+  },
+  {
+    "id": 3798,
+    "question": "contestó",
+    "questionDetails": "Hablé con una orientadora y contestó todas mis preguntas.",
+    "answer": "she answered, she responded",
+    "answerDetails": "I talked to a counselor and she answered all my questions."
+  },
+  {
+    "id": 3799,
+    "question": "salvaste",
+    "questionDetails": "Escuchamos que salvaste el día.",
+    "answer": "saved",
+    "answerDetails": "We heard you saved the day."
+  },
+  {
+    "id": 3800,
+    "question": "sucedido",
+    "questionDetails": "Sabemos lo que te ha sucedido.",
+    "answer": "happened, succeeded, occurred",
+    "answerDetails": "We know what happened to you."
+  }
+]

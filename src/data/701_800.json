@@ -1,0 +1,692 @@
+[
+  {
+    "id": 701,
+    "question": "tío",
+    "questionDetails": "¡ Cómo mola, tío!.",
+    "answer": "man, dude, guy",
+    "answerDetails": "That’s cool, man!."
+  },
+  {
+    "id": 702,
+    "question": "querías",
+    "questionDetails": "¿Por qué me estás regalando tu reloj viejo?-Dijiste que lo querías.",
+    "answer": "you wanted it",
+    "answerDetails": "Why are you giving me your old watch?-You said you wanted it."
+  },
+  {
+    "id": 703,
+    "question": "hablas",
+    "questionDetails": "Me gusta escucharte cuando hablas.",
+    "answer": "talk, speak",
+    "answerDetails": "I like listening to your talk."
+  },
+  {
+    "id": 704,
+    "question": "murió",
+    "questionDetails": "¿Qué le pasó al monstruo?-Murió debido a las heridas.",
+    "answer": "it died",
+    "answerDetails": "What happened to the monster?-It died due to the wounds."
+  },
+  {
+    "id": 705,
+    "question": "trae",
+    "questionDetails": "¿Por qué no te agrada Ryan?-Trae caos y problemas.",
+    "answer": "he brings, it brings",
+    "answerDetails": "Why don’t you like Ryan?-He brings chaos and trouble."
+  },
+  {
+    "id": 706,
+    "question": "dejado",
+    "questionDetails": "He dejado algo de cena para tí en la nevera.",
+    "answer": "left, stopped, ceased",
+    "answerDetails": "I left some dinner for you in the fridge."
+  },
+  {
+    "id": 707,
+    "question": "cariño",
+    "questionDetails": "Te extraño, cariño.",
+    "answer": "honey, sweetheart, baby",
+    "answerDetails": "I miss you, honey."
+  },
+  {
+    "id": 708,
+    "question": "partir",
+    "questionDetails": "Pensamos partir para el aeropuerto después del almuerzo.",
+    "answer": "depart",
+    "answerDetails": "We plan to depart for the airport after lunch."
+  },
+  {
+    "id": 709,
+    "question": "daño",
+    "questionDetails": "El daño a su reputación fue considerable.",
+    "answer": "damage, harm",
+    "answerDetails": "The damage to his reputation was considerable."
+  },
+  {
+    "id": 710,
+    "question": "dando",
+    "questionDetails": "Tratáre de aclarar lo que quiero decir dando una mejor explicación de mi proyecto.",
+    "answer": "by giving",
+    "answerDetails": "I will try to clarify what I mean by giving a better explanation of my project."
+  },
+  {
+    "id": 711,
+    "question": "basta",
+    "questionDetails": "¡ Basta! No me gusta que me hagan cosquillas.",
+    "answer": "stop that",
+    "answerDetails": "Stop that! I don’t like being tickled."
+  },
+  {
+    "id": 712,
+    "question": "llegamos",
+    "questionDetails": "¿Dónde está Lucille?-Llegamos a la fiesta juntas pero ahora no sé dónde está.",
+    "answer": "we came",
+    "answerDetails": "Where’s Lucille?-We came to the party together, but I don’t know where she is now."
+  },
+  {
+    "id": 713,
+    "question": "palabras",
+    "questionDetails": "Quisiera decir unas palabras sobre nuestro amigo fallecido.",
+    "answer": "some words, utterance",
+    "answerDetails": "I would like to say some words about our departed friend."
+  },
+  {
+    "id": 714,
+    "question": "silencio",
+    "questionDetails": "Sirenas perforar el silencio de la noche.",
+    "answer": "silence, mute, hush",
+    "answerDetails": "Sirens Pierce the silence of the night."
+  },
+  {
+    "id": 715,
+    "question": "montón",
+    "questionDetails": "Tengo un montón que hacer hoy.",
+    "answer": "lots, bunch, loads",
+    "answerDetails": "I’ve got lots to do today."
+  },
+  {
+    "id": 716,
+    "question": "aire",
+    "questionDetails": "El aire en la ciudad está contaminado.",
+    "answer": "air",
+    "answerDetails": "The air in the city is polluted."
+  },
+  {
+    "id": 717,
+    "question": "señores",
+    "questionDetails": "Estos señores son cazadores de primera clase, amigo mío.",
+    "answer": "gentlemen, lords, sirs",
+    "answerDetails": "These gentlemen are fine hunters, my friend."
+  },
+  {
+    "id": 718,
+    "question": "relación",
+    "questionDetails": "Hay una relación entre la privación de sueño y la cardiopatía.",
+    "answer": "relationship, connection",
+    "answerDetails": "There is a relationship between sleep deprivation and heart disease."
+  },
+  {
+    "id": 719,
+    "question": "cuanto",
+    "questionDetails": "Pagas en base a cuantos escojas.",
+    "answer": "how many, as many as",
+    "answerDetails": "You pay depending on how many you choose."
+  },
+  {
+    "id": 720,
+    "question": "pueblo",
+    "questionDetails": "Declaraciones previas al juicio hechas por los testigos del pueblo.",
+    "answer": "people, town, country",
+    "answerDetails": "Pre-trial statements made by the People’s witnesses."
+  },
+  {
+    "id": 721,
+    "question": "gana",
+    "questionDetails": "La madre gana en lo duro.",
+    "answer": "wins, earn, gains",
+    "answerDetails": "The mother wins over the tough."
+  },
+  {
+    "id": 722,
+    "question": "tanta",
+    "questionDetails": "Alguna gente tiene tanta suerte.",
+    "answer": "so",
+    "answerDetails": "Some people are so lucky."
+  },
+  {
+    "id": 723,
+    "question": "sentir",
+    "questionDetails": "Con la primera helada, podían sentir un cambio en los días.",
+    "answer": "sense",
+    "answerDetails": "With the first frost, they could sense a change in the days."
+  },
+  {
+    "id": 724,
+    "question": "largo",
+    "questionDetails": "Tenemos un camino largo por delante para llegar a casa.",
+    "answer": "long, length",
+    "answerDetails": "We have a long way to go before we get home."
+  },
+  {
+    "id": 725,
+    "question": "algunas",
+    "questionDetails": "Cosas que fueron cosas que son y algunas.",
+    "answer": "some",
+    "answerDetails": "Things that were things that are and some things."
+  },
+  {
+    "id": 726,
+    "question": "dile",
+    "answer": "tell him"
+  },
+  {
+    "id": 727,
+    "question": "beso",
+    "questionDetails": "Dar un beso a alguien.",
+    "answer": "kiss",
+    "answerDetails": "To give somebody a kiss."
+  },
+  {
+    "id": 728,
+    "question": "café",
+    "questionDetails": "Tomé una taza de café.",
+    "answer": "coffee",
+    "answerDetails": "I had a cup of coffee."
+  },
+  {
+    "id": 729,
+    "question": "encontré",
+    "questionDetails": "Después de un examen cuidadoso de los hechos, encontré algunas incoherencias.",
+    "answer": "i found",
+    "answerDetails": "After a close examination of the facts, I found some inconsistencies."
+  },
+  {
+    "id": 730,
+    "question": "escucha",
+    "questionDetails": "La escucha es una destreza importante para trabajar en el servicio de atención al cliente.",
+    "answer": "listening",
+    "answerDetails": "Listening is an important skill for working in customer service."
+  },
+  {
+    "id": 731,
+    "question": "mes",
+    "questionDetails": "Que era el final del mes.",
+    "answer": "month",
+    "answerDetails": "It was the end of the month."
+  },
+  {
+    "id": 732,
+    "question": "entra",
+    "questionDetails": "Es el malvado de la obra. Se sabe porque la música cambia a una tonalidad menor cuando entra.",
+    "answer": "he enters, please come in, does it fit",
+    "answerDetails": "He’s the plays’ bad guy. You know because the music changes to a minor key when he enters."
+  },
+  {
+    "id": 733,
+    "question": "perro",
+    "questionDetails": "Tenemos que poner en el perro para Anne Marie.",
+    "answer": "dog",
+    "answerDetails": "We have to put on the dog for Anne Marie."
+  },
+  {
+    "id": 734,
+    "question": "hambre",
+    "questionDetails": "Ella se desmayó con el hambre.",
+    "answer": "hunger, starvation, famine",
+    "answerDetails": "She was faint with Hunger."
+  },
+  {
+    "id": 735,
+    "question": "según",
+    "questionDetails": "Según los términos del contrato, no puedes renunciar sin dar 2 semanas de aviso.",
+    "answer": "under, on, according to",
+    "answerDetails": "Under the terms of the contract, you cannot quit without giving two weeks notice."
+  },
+  {
+    "id": 736,
+    "question": "semanas",
+    "questionDetails": "Se suele quitar en un par de semanas.",
+    "answer": "weeks",
+    "answerDetails": "It usually comes off in a couple of weeks."
+  },
+  {
+    "id": 737,
+    "question": "entiende",
+    "questionDetails": "¿Entiende Mary El Español?-Sí, entiende el español.",
+    "answer": "she understands, she is understanding, be understanding",
+    "answerDetails": "Does Mary understand Spanish?-Yes, she understands Spanish."
+  },
+  {
+    "id": 738,
+    "question": "lista",
+    "questionDetails": "Siempre hago una lista de las cosas que necesito antes de viajar.",
+    "answer": "list, roster",
+    "answerDetails": "I always make a list of things that I need before I travel."
+  },
+  {
+    "id": 739,
+    "question": "debo",
+    "questionDetails": "¿Te debo dejar estudiar, o invitarte al cine?",
+    "answer": "should i",
+    "answerDetails": "Should I let you study, or invite you to the movies?"
+  },
+  {
+    "id": 740,
+    "question": "fotos",
+    "questionDetails": "Ningún documento, ni fotos de la infancia.",
+    "answer": "photos, pictures, pics",
+    "answerDetails": "No records, no childhood photos."
+  },
+  {
+    "id": 741,
+    "question": "siente",
+    "questionDetails": "Siente una patada en el costado y voltea para ver que su bebé se ha despertado.",
+    "answer": "she feels, is sorry",
+    "answerDetails": "She feels a kick in her side and turns around to see her baby has woken up."
+  },
+  {
+    "id": 742,
+    "question": "dolor",
+    "questionDetails": "Sufre del dolor de una infancia difícil.",
+    "answer": "pain, sorrow, suffering",
+    "answerDetails": "She suffers from the pain of a difficult childhood."
+  },
+  {
+    "id": 743,
+    "question": "quedo",
+    "questionDetails": "Me quedo cerca de casa.",
+    "answer": "stay",
+    "answerDetails": "I stay close to home."
+  },
+  {
+    "id": 744,
+    "question": "centro",
+    "questionDetails": "Alexandra grita al hablar porque le gusta ser el centro de Atención.",
+    "answer": "center, centre, middle",
+    "answerDetails": "Alexandra shouts when she talks because she likes being the center of attention."
+  },
+  {
+    "id": 745,
+    "question": "íbamos",
+    "answer": "Were"
+  },
+  {
+    "id": 746,
+    "question": "llamado",
+    "questionDetails": "Cenamos en un restaurante llamado “Metropol”.",
+    "answer": "called, named",
+    "answerDetails": "We dined at a restaurant called “Metropol.”."
+  },
+  {
+    "id": 747,
+    "question": "segunda",
+    "questionDetails": "La segunda, llegó tarde.",
+    "answer": "second",
+    "answerDetails": "The second time, he was late."
+  },
+  {
+    "id": 748,
+    "question": "frío",
+    "questionDetails": "Dejamos frío detrás de un turno en la escalera.",
+    "answer": "cold",
+    "answerDetails": "We stopped cold behind a turn in the staircase."
+  },
+  {
+    "id": 749,
+    "question": "ajá",
+    "questionDetails": "Habrá otro chico para mí, ajá.",
+    "answer": "aha",
+    "answerDetails": "There must be another one for me, aha."
+  },
+  {
+    "id": 750,
+    "question": "plan",
+    "questionDetails": "El gobierno municipal ideó un plan para revitalizar el centro de la ciudad.",
+    "answer": "scheme, programme",
+    "answerDetails": "The city government developed a scheme to revitalize its downtown area."
+  },
+  {
+    "id": 751,
+    "question": "respeto",
+    "questionDetails": "Es importante tener respeto por las opiniones de los demás aunque no estés de acuerdo.",
+    "answer": "respect, regard",
+    "answerDetails": "It’s important to have respect for other people’s opinions even if you don’t agree with them."
+  },
+  {
+    "id": 752,
+    "question": "muchísimo",
+    "answer": "vastly"
+  },
+  {
+    "id": 753,
+    "question": "pobre",
+    "questionDetails": "El pobre tipo en bicicleta.",
+    "answer": "poor, meager, poor fellow",
+    "answerDetails": "The poor guy on the bike."
+  },
+  {
+    "id": 754,
+    "question": "salga",
+    "questionDetails": "Dejad que el cuerpo se exprese y que salga.",
+    "answer": "exit, leave, quit",
+    "answerDetails": "Let the body expression and exit."
+  },
+  {
+    "id": 755,
+    "question": "tocar",
+    "questionDetails": "Estas pinturas son útiles para tocar áreas pequeñas en paredes o techos.",
+    "answer": "touch",
+    "answerDetails": "These paints are handy for touching up small areas on walls or ceilings."
+  },
+  {
+    "id": 756,
+    "question": "conoces",
+    "questionDetails": "Claro que me conoces.",
+    "answer": "know",
+    "answerDetails": "Of course you know me."
+  },
+  {
+    "id": 757,
+    "question": "acuerdas",
+    "questionDetails": "Hijo mío tú no te acuerdas de mí.",
+    "answer": "remember, recall",
+    "answerDetails": "My son you do not remember me."
+  },
+  {
+    "id": 758,
+    "question": "hicimos",
+    "questionDetails": "Hicimos todo los que pudimos, pero se nos acabó el tiempo.",
+    "answer": "we did",
+    "answerDetails": "We did everything we could, but we ran out of time."
+  },
+  {
+    "id": 759,
+    "question": "existe",
+    "questionDetails": "Existe en el universo.",
+    "answer": "exists, there",
+    "answerDetails": "And it exists in the universe."
+  },
+  {
+    "id": 760,
+    "question": "señorita",
+    "questionDetails": "Buenas tardes, señorita. ¿Cómo le puedo ayudar?",
+    "answer": "miss",
+    "answerDetails": "Good afternoon, miss. How may I help you?"
+  },
+  {
+    "id": 761,
+    "question": "oh",
+    "answer": "Oh, o, Ooh"
+  },
+  {
+    "id": 762,
+    "question": "tardes",
+    "questionDetails": "Nunca bebes café por las tardes.",
+    "answer": "afternoon, evening",
+    "answerDetails": "You never drink coffee in the afternoon."
+  },
+  {
+    "id": 763,
+    "question": "sueño",
+    "questionDetails": "Un sueño hecho realidad.",
+    "answer": "dream, sleepy, slumber",
+    "answerDetails": "A dream come true."
+  },
+  {
+    "id": 764,
+    "question": "quedado",
+    "questionDetails": "Debería haberme quedado en coma.",
+    "answer": "stayed, been, remained",
+    "answerDetails": "I should have stayed in the coma."
+  },
+  {
+    "id": 765,
+    "question": "fuimos",
+    "questionDetails": "¿Cómo llegaron a Londres?-Fuimos en el tren subterráneo de alta velocidad.",
+    "answer": "we rode",
+    "answerDetails": "How did you get to London?-We rode on the underground high-speed train."
+  },
+  {
+    "id": 766,
+    "question": "mitad",
+    "questionDetails": "Él no es la mitad de un tonto, ya que pensaban.",
+    "answer": "half, middle",
+    "answerDetails": "He is not half such a fool as they thought."
+  },
+  {
+    "id": 767,
+    "question": "busca",
+    "questionDetails": "Casey no puede encontrar un nuevo trabajo aunque busca uno cada día.",
+    "answer": "he looks for, pursuit",
+    "answerDetails": "Casey can’t find a new job even though he looks for one every Day."
+  },
+  {
+    "id": 768,
+    "question": "repente",
+    "questionDetails": "Algunos llegan de repente, a grandes saltos.",
+    "answer": "suddenly, sudden, abruptly",
+    "answerDetails": "Some of them come suddenly, in big jumps."
+  },
+  {
+    "id": 769,
+    "question": "bonita",
+    "questionDetails": "Su región es muy bonita.",
+    "answer": "beautiful",
+    "answerDetails": "Your land is very beautiful."
+  },
+  {
+    "id": 770,
+    "question": "ojalá",
+    "questionDetails": "“Ojalá no tuviera que ser así”. “Si los deseos eran los caballos”, suspiró David.",
+    "answer": "wish, hopefully",
+    "answerDetails": "‘I wish it didn’t have to be that way.’ ‘If wishes were horses,’ David sighed."
+  },
+  {
+    "id": 771,
+    "question": "conseguir",
+    "questionDetails": "Necesito todo el sueño que pueda conseguir.",
+    "answer": "get, obtain",
+    "answerDetails": "I need all the sleep I can get."
+  },
+  {
+    "id": 772,
+    "question": "vayan",
+    "questionDetails": "Vayan a la puerta principal.",
+    "answer": "go",
+    "answerDetails": "You go over to the main gate."
+  },
+  {
+    "id": 773,
+    "question": "pude",
+    "questionDetails": "Nunca pude conseguir un control sobre él.",
+    "answer": "could",
+    "answerDetails": "Never could get a grip on it."
+  },
+  {
+    "id": 774,
+    "question": "médico",
+    "questionDetails": "El médico ya confirmó que estabas enfermo.",
+    "answer": "doctor",
+    "answerDetails": "The doctor already confirmed you were sick."
+  },
+  {
+    "id": 775,
+    "question": "tengas",
+    "questionDetails": "Espero que tengas estómago.",
+    "answer": "have",
+    "answerDetails": "I hope you have a strong stomach."
+  },
+  {
+    "id": 776,
+    "question": "cuántas",
+    "questionDetails": "Descubrí cuántas de estas cosas funcionan vía online.",
+    "answer": "how much, many",
+    "answerDetails": "I found out how much these things are going for online."
+  },
+  {
+    "id": 777,
+    "question": "abre",
+    "answer": "Open"
+  },
+  {
+    "id": 778,
+    "question": "llamas",
+    "questionDetails": "Lo que sigue es una botella en llamas.",
+    "answer": "flaming, call, fire",
+    "answerDetails": "The following is a flaming bottle."
+  },
+  {
+    "id": 779,
+    "question": "lleno",
+    "questionDetails": "Estoy lleno a tope y no puedo comer postre.",
+    "answer": "full, packed, teeming",
+    "answerDetails": "I’m completely full and have no room for dessert."
+  },
+  {
+    "id": 780,
+    "question": "empezamos",
+    "questionDetails": "Tenemos que terminar lo que empezamos.",
+    "answer": "we started",
+    "answerDetails": "We need to finish what we started."
+  },
+  {
+    "id": 781,
+    "question": "vieja",
+    "questionDetails": "Esa es una vieja historia.",
+    "answer": "old, old lady, old woman",
+    "answerDetails": "That is an old story."
+  },
+  {
+    "id": 782,
+    "question": "seguridad",
+    "questionDetails": "La seguridad emocional de ser la única persona especial que alguien más ama.",
+    "answer": "security, safety",
+    "answerDetails": "The emotional security of being the one special person that someone else loves."
+  },
+  {
+    "id": 783,
+    "question": "anoche",
+    "questionDetails": "¿Qué hiciste anoche antes de acostarte?",
+    "answer": "yesterday evening",
+    "answerDetails": "What did you do yesterday evening before going to bed?"
+  },
+  {
+    "id": 784,
+    "question": "confianza",
+    "questionDetails": "Tengo total confianza en tu capacidad para sacar el proyecto Adelante.",
+    "answer": "trust",
+    "answerDetails": "I have every trust in your ability to get the project off the Ground."
+  },
+  {
+    "id": 785,
+    "question": "duele",
+    "questionDetails": "Cuando ves algo triste te duele el corazón.",
+    "answer": "it hurts",
+    "answerDetails": "When you witness something sad it hurts your heart."
+  },
+  {
+    "id": 786,
+    "question": "podido",
+    "questionDetails": "Nunca me lo he podido permitir hasta ahora.",
+    "answer": "could",
+    "answerDetails": "Never could afford it till now."
+  },
+  {
+    "id": 787,
+    "question": "diferente",
+    "questionDetails": "Las cosas son definitivamente diferentes de lo que eran hace un año.",
+    "answer": "different, distinct",
+    "answerDetails": "Things are definitely different than they were one year ago."
+  },
+  {
+    "id": 788,
+    "question": "mentira",
+    "questionDetails": "Me dijo una mentira para que no la castigara.",
+    "answer": "lie, bullshit",
+    "answerDetails": "She told me a lie so that I wouldn’t punish her."
+  },
+  {
+    "id": 789,
+    "question": "seguimos",
+    "questionDetails": "Medimos, nos muestran, seguimos adelante.",
+    "answer": "we",
+    "answerDetails": "We measure, we show it, we move on."
+  },
+  {
+    "id": 790,
+    "question": "pie",
+    "questionDetails": "Es muy húmedo bajo el pie en lugares.",
+    "answer": "foot, stand",
+    "answerDetails": "It is very wet under foot in places."
+  },
+  {
+    "id": 791,
+    "question": "bajar",
+    "questionDetails": "La bibliotecaria le pidió a Jonathan que bajara la voz.",
+    "answer": "lower, drop, climb down",
+    "answerDetails": "The librarian asked Jonathan to lower his voice."
+  },
+  {
+    "id": 792,
+    "question": "pequeño",
+    "questionDetails": "Cortar el okra hasta pequeño.",
+    "answer": "small, little",
+    "answerDetails": "Cut the okra up small."
+  },
+  {
+    "id": 793,
+    "question": "información",
+    "questionDetails": "No pudo recopilar toda la información necesaria para su trabajo.",
+    "answer": "information",
+    "answerDetails": "She couldn’t gather all the necessary information for her Paper."
+  },
+  {
+    "id": 794,
+    "question": "entiendes",
+    "questionDetails": "Sé que entiendes lo que digo, ¿no es así?",
+    "answer": "you understand, you know it",
+    "answerDetails": "I know you understand what I say, don’t you?"
+  },
+  {
+    "id": 795,
+    "question": "ocurre",
+    "questionDetails": "Una apoplejía puede ser fatal. Ocurre cuando el flujo sanguíneo a una zona del cerebro se interrumpe.",
+    "answer": "it occurs",
+    "answerDetails": "A stroke can be fatal. It occurs when blood flow to an area of the brain is interrupted."
+  },
+  {
+    "id": 796,
+    "question": "ganar",
+    "questionDetails": "Los dólares pueden ser colocados en el depósito y ganar interés.",
+    "answer": "earn, gain",
+    "answerDetails": "The dollars can be placed on deposit and earn interest."
+  },
+  {
+    "id": 797,
+    "question": "preguntas",
+    "questionDetails": "La policía quiere hacerte unas preguntas.",
+    "answer": "some questions",
+    "answerDetails": "The police want to ask you some questions."
+  },
+  {
+    "id": 798,
+    "question": "dieron",
+    "questionDetails": "Dieron sus estanterías a Sarah cuando se mudaron.",
+    "answer": "they gave",
+    "answerDetails": "They gave Sarah their bookshelves when they moved."
+  },
+  {
+    "id": 799,
+    "question": "sigo",
+    "questionDetails": "Yo sigo mi instinto, y eso siempre funcionó.",
+    "answer": "follow, still",
+    "answerDetails": "I follow my instincts, it’s always worked before."
+  },
+  {
+    "id": 800,
+    "question": "preguntar",
+    "questionDetails": "Sólo quiero preguntar sobre el bosque de mi padre.",
+    "answer": "ask",
+    "answerDetails": "I just want to ask about my father’s forest."
+  }
+]

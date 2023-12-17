@@ -1,0 +1,696 @@
+[
+  {
+    "id": 1,
+    "question": "que",
+    "questionDetails": "Así que respeta las limitaciones que ese sobreviviente pueda tener.",
+    "answer": "that, which, who",
+    "answerDetails": "So respect those limitations that that survivor may have."
+  },
+  {
+    "id": 2,
+    "question": "no",
+    "questionDetails": "Tratar los síntomas y no la causa.",
+    "answer": "not, does it",
+    "answerDetails": "Treating the symptoms and not the cause."
+  },
+  {
+    "id": 3,
+    "question": "a",
+    "questionDetails": "Puede ser que sea lo que me pasó a mi.",
+    "answer": "to",
+    "answerDetails": "Maybe that’s what happened to me."
+  },
+  {
+    "id": 4,
+    "question": "de",
+    "questionDetails": "Este tipo de libro.",
+    "answer": "of, to, in",
+    "answerDetails": "This type of book."
+  },
+  {
+    "id": 5,
+    "question": "la",
+    "questionDetails": "La parte superior de un autobús.",
+    "answer": "the, it",
+    "answerDetails": "The top of a bus."
+  },
+  {
+    "id": 6,
+    "question": "y",
+    "questionDetails": "Y te preocupa rías.",
+    "answer": "and",
+    "answerDetails": "And you would worry."
+  },
+  {
+    "id": 7,
+    "question": "me",
+    "questionDetails": "Voy a quitarme la chaqueta porque tengo mucho calor.",
+    "answer": "my",
+    "answerDetails": "I’m going to take off my jacket because I’m really hot."
+  },
+  {
+    "id": 8,
+    "question": "es",
+    "questionDetails": "Me gusta esta cafetera. Es fácil de usar.",
+    "answer": "it is, you are, he is",
+    "answerDetails": "I like this coffee maker. It is easy to use."
+  },
+  {
+    "id": 9,
+    "question": "lo",
+    "questionDetails": "No tengo planes establecidos y estoy abierto a lo.",
+    "answer": "what, it",
+    "answerDetails": "I have no set plans and am open to whatevs."
+  },
+  {
+    "id": 10,
+    "question": "qué",
+    "answer": "that"
+  },
+  {
+    "id": 11,
+    "question": "el",
+    "questionDetails": "Él era el prospecto de piano joven caliente en el jazz.",
+    "answer": "the",
+    "answerDetails": "He was the hot young piano prospect in jazz."
+  },
+  {
+    "id": 12,
+    "question": "en",
+    "questionDetails": "Ella está en un shock.",
+    "answer": "in, on to, with",
+    "answerDetails": "She’s in for a shock."
+  },
+  {
+    "id": 13,
+    "question": "por",
+    "questionDetails": "¿Te pagan por hora o por trabajo?",
+    "answer": "by, for, of",
+    "answerDetails": "Are you paid by the hour or by the job?"
+  },
+  {
+    "id": 14,
+    "question": "se",
+    "questionDetails": "¿Por qué están pidiendo el pago? ¡ Ya se lo di!.",
+    "answer": "them, himself",
+    "answerDetails": "Why are they asking for the payment? I already gave it to them!."
+  },
+  {
+    "id": 15,
+    "question": "con",
+    "questionDetails": "Consigo.",
+    "answer": "with, to, by",
+    "answerDetails": "With himself/herself."
+  },
+  {
+    "id": 16,
+    "question": "un",
+    "questionDetails": "Te dejé un poco de dinero.",
+    "answer": "a, an",
+    "answerDetails": "I left you a few bucks."
+  },
+  {
+    "id": 17,
+    "question": "ya",
+    "questionDetails": "La película ya está empezando.",
+    "answer": "now, anymore, yet",
+    "answerDetails": "The movie is beginning now."
+  },
+  {
+    "id": 18,
+    "question": "para",
+    "questionDetails": "Se embarcó en un avión para Santiago.",
+    "answer": "for, to, by",
+    "answerDetails": "She got on a plane for Santiago."
+  },
+  {
+    "id": 19,
+    "question": "mi",
+    "questionDetails": "Necesito volver a ordenar mi vida.",
+    "answer": "my",
+    "answerDetails": "I need to get my life back on track."
+  },
+  {
+    "id": 20,
+    "question": "una",
+    "questionDetails": "Me gustaría una manzana.",
+    "answer": "an, one",
+    "answerDetails": "I’d like an apple."
+  },
+  {
+    "id": 21,
+    "question": "está",
+    "answer": "this"
+  },
+  {
+    "id": 22,
+    "question": "los",
+    "questionDetails": "Me gustan todos los vestidos de la tienda.",
+    "answer": "the",
+    "answerDetails": "I like all the dresses in the store."
+  },
+  {
+    "id": 23,
+    "question": "si",
+    "questionDetails": "Si te gusta voy a poner en una palabra para usted.",
+    "answer": "if, whether",
+    "answerDetails": "If you like I’ll put in a word for you."
+  },
+  {
+    "id": 24,
+    "question": "las",
+    "questionDetails": "Las horas de trabajo en la herrería son inaceptables.",
+    "answer": "the",
+    "answerDetails": "The working hours at the forge are quite unacceptable."
+  },
+  {
+    "id": 25,
+    "question": "más",
+    "questionDetails": "Tendríamos que resumir la nota lo más posible, porque no va a caber en el espacio.",
+    "answer": "as much as, any longer, most",
+    "answerDetails": "We should summarize the note as much as possible, because otherwise it won’t fit in the space."
+  },
+  {
+    "id": 26,
+    "question": "del",
+    "questionDetails": "Hay muchos pájaros en las ramas del árbol.",
+    "answer": "of the, in the, from the",
+    "answerDetails": "There are many birds in the branches of the tree."
+  },
+  {
+    "id": 27,
+    "question": "yo",
+    "questionDetails": "Amo los cachorros.-Yo también.",
+    "answer": "me",
+    "answerDetails": "I love puppies.-Me, Too."
+  },
+  {
+    "id": 28,
+    "question": "pero",
+    "questionDetails": "Sólo lo he visto una vez, pero lo he escuchado muchas veces.",
+    "answer": "but, only",
+    "answerDetails": "I’ve only seen him once, but I’ve heard him many times."
+  },
+  {
+    "id": 29,
+    "question": "le",
+    "questionDetails": "Le diré a dónde ir.",
+    "answer": "you, it",
+    "answerDetails": "I’ll tell you where to go."
+  },
+  {
+    "id": 30,
+    "question": "eso",
+    "questionDetails": "Tráeme eso.",
+    "answer": "that, right on",
+    "answerDetails": "Bring me that."
+  },
+  {
+    "id": 31,
+    "question": "todo",
+    "questionDetails": "Ella era elocuente, ella era divertida-me pareció que tenía todo.",
+    "answer": "everything",
+    "answerDetails": "She was articulate, she was fun—it seemed to me she had everything."
+  },
+  {
+    "id": 32,
+    "question": "como",
+    "questionDetails": "Así que como pueden ver, es una linda máquina.",
+    "answer": "as, like, such as",
+    "answerDetails": "So as you can see, really nice machine."
+  },
+  {
+    "id": 33,
+    "question": "muy",
+    "questionDetails": "Muy bien, Sr., ¿eso será todo?",
+    "answer": "very, highly, really",
+    "answerDetails": "Very good, sir, will that be all?"
+  },
+  {
+    "id": 34,
+    "question": "su",
+    "questionDetails": "Mal humor ella la arrojó en su cara.",
+    "answer": "her",
+    "answerDetails": "Peevishly she flung her on her face."
+  },
+  {
+    "id": 35,
+    "question": "o",
+    "questionDetails": "O quizás sea al contrario.",
+    "answer": "or",
+    "answerDetails": "Or maybe it’s the other way around."
+  },
+  {
+    "id": 36,
+    "question": "al",
+    "questionDetails": "Vamos al centro comercial después de Clases.",
+    "answer": "to the, on, when",
+    "answerDetails": "We’re going to the shopping mall after class."
+  },
+  {
+    "id": 37,
+    "question": "así",
+    "questionDetails": "Hazlo así.",
+    "answer": "so, thus, that way",
+    "answerDetails": "Do it so."
+  },
+  {
+    "id": 38,
+    "question": "esta",
+    "questionDetails": "Esta vez, parece que sí.",
+    "answer": "this",
+    "answerDetails": "This time, it seems there is."
+  },
+  {
+    "id": 39,
+    "question": "son",
+    "questionDetails": "Unos Son valientes y otros son cobardes.",
+    "answer": "some are, you are, you all are",
+    "answerDetails": "Some are brave and others are cowards."
+  },
+  {
+    "id": 40,
+    "question": "te",
+    "questionDetails": "Te veré allí.",
+    "answer": "you",
+    "answerDetails": "I’ll see you there."
+  },
+  {
+    "id": 41,
+    "question": "bien",
+    "questionDetails": "¡ Bien hecho!.",
+    "answer": "well, good, okay",
+    "answerDetails": "Well done!."
+  },
+  {
+    "id": 42,
+    "question": "porque",
+    "questionDetails": "Lo hicimos porque sentimos que nuestro deber.",
+    "answer": "because",
+    "answerDetails": "We did it because we felt it our duty."
+  },
+  {
+    "id": 43,
+    "question": "nada",
+    "questionDetails": "Si usted piensa que era barro, usted no ha visto nada todavía.",
+    "answer": "nothing, anything, none",
+    "answerDetails": "If you think that was muddy, you ain’t seen nothing yet."
+  },
+  {
+    "id": 44,
+    "question": "sé",
+    "questionDetails": "Yo sé lo que tenemos que hacer.",
+    "answer": "know",
+    "answerDetails": "I know what we need to do."
+  },
+  {
+    "id": 45,
+    "question": "hacer",
+    "questionDetails": "Papá tendría que hacer con un coche viejo.",
+    "answer": "make, work, take",
+    "answerDetails": "Dad would have to make do with an old car."
+  },
+  {
+    "id": 46,
+    "question": "tiene",
+    "questionDetails": "¿Dónde está mi chaqueta?-Marcelo la tiene.",
+    "answer": "has it, you have",
+    "answerDetails": "Where’s my jacket?-Marcelo has it."
+  },
+  {
+    "id": 47,
+    "question": "hay",
+    "questionDetails": "Hay un circo en la ciudad.",
+    "answer": "there is, is there, are there any",
+    "answerDetails": "There is a circus in town."
+  },
+  {
+    "id": 48,
+    "question": "ahora",
+    "questionDetails": "Que han estado casados 4 años ahora.",
+    "answer": "now",
+    "answerDetails": "They’ve been married four years now."
+  },
+  {
+    "id": 49,
+    "question": "ser",
+    "questionDetails": "Que debe ser él en la puerta.",
+    "answer": "be, make",
+    "answerDetails": "That must be him at the door."
+  },
+  {
+    "id": 50,
+    "question": "mucho",
+    "questionDetails": "¿Vienes mucho a este café a estudiar?",
+    "answer": "much, lot, long",
+    "answerDetails": "Do you come to this cafe to study much?"
+  },
+  {
+    "id": 51,
+    "question": "cuando",
+    "questionDetails": "Cuando uno tiene sed, todo sabe mejor.",
+    "answer": "when",
+    "answerDetails": "When one is thirsty, it always tastes better."
+  },
+  {
+    "id": 52,
+    "question": "también",
+    "questionDetails": "Un lingüista brillante, también estaba interesado en la botánica.",
+    "answer": "also",
+    "answerDetails": "A brilliant linguist, he was also interested in botany."
+  },
+  {
+    "id": 53,
+    "question": "vez",
+    "questionDetails": "Espero que me perdone esto una vez.",
+    "answer": "once",
+    "answerDetails": "I hope you’ll forgive me this once."
+  },
+  {
+    "id": 54,
+    "question": "sí",
+    "questionDetails": "Yo le conocía, sí.",
+    "answer": "yes, okay, do",
+    "answerDetails": "I used to know him, yes."
+  },
+  {
+    "id": 55,
+    "question": "nos",
+    "questionDetails": "Nos permiten que el pensamiento vaya muy rápido.",
+    "answer": "us, we",
+    "answerDetails": "This allows us to think way quicker."
+  },
+  {
+    "id": 56,
+    "question": "ver",
+    "questionDetails": "Ver or véase pág. 50.",
+    "answer": "see, view, watch",
+    "answerDetails": "See page 50."
+  },
+  {
+    "id": 57,
+    "question": "esto",
+    "questionDetails": "Escucha esto.",
+    "answer": "this, uh",
+    "answerDetails": "Listen to this."
+  },
+  {
+    "id": 58,
+    "question": "este",
+    "questionDetails": "Hubo un caso judicial resultante de este incidente.",
+    "answer": "this, east",
+    "answerDetails": "There was a court case resulting from this incident."
+  },
+  {
+    "id": 59,
+    "question": "algo",
+    "questionDetails": "Preguntó si había algo que podía hacer.",
+    "answer": "anything, somewhat, rather",
+    "answerDetails": "He inquired whether there was anything he could do."
+  },
+  {
+    "id": 60,
+    "question": "ese",
+    "questionDetails": "Le permití gastar todo ese dinero en mí.",
+    "answer": "that",
+    "answerDetails": "I let him spend all that money on me."
+  },
+  {
+    "id": 61,
+    "question": "ahí",
+    "questionDetails": "Ahí estás, eso será £ 3, 80 por favor.",
+    "answer": "there",
+    "answerDetails": "There you are—that’ll be £3.80 please."
+  },
+  {
+    "id": 62,
+    "question": "mejor",
+    "questionDetails": "Usted sólo tendrá que hacer lo mejor de la situación.",
+    "answer": "best, better",
+    "answerDetails": "You’ll just have to make the best of the situation."
+  },
+  {
+    "id": 63,
+    "question": "dos",
+    "questionDetails": "Necesito comprar dos libros para mi clase de literatura.",
+    "answer": "two",
+    "answerDetails": "I need to buy two books for my literature class."
+  },
+  {
+    "id": 64,
+    "question": "cómo",
+    "questionDetails": "No sé cómo hacer esto.",
+    "answer": "how, what",
+    "answerDetails": "I don’t know how to do this."
+  },
+  {
+    "id": 65,
+    "question": "vamos",
+    "questionDetails": "¡ Vamos! ¡ Aún podemos ganar el partido!.",
+    "answer": "come on, go for it",
+    "answerDetails": "Come on! We can still win the game!."
+  },
+  {
+    "id": 66,
+    "question": "tengo",
+    "questionDetails": "Si tienes 25, ¿verdad?-¿Que si tengo 25? No, tengo 30.",
+    "answer": "am i, i am",
+    "answerDetails": "You are 25, aren’t you?-Am I 25? No, I’m 30."
+  },
+  {
+    "id": 67,
+    "question": "esa",
+    "questionDetails": "Esa es su esposa allí.",
+    "answer": "that",
+    "answerDetails": "That’s his wife over there."
+  },
+  {
+    "id": 68,
+    "question": "tiempo",
+    "questionDetails": "El aeródromo estaba en uso todo el tiempo.",
+    "answer": "time, period, day",
+    "answerDetails": "The airfield was in use all the time."
+  },
+  {
+    "id": 69,
+    "question": "día",
+    "questionDetails": "El Zorro entró en el gallinero durante el día.",
+    "answer": "daylight, daytime",
+    "answerDetails": "The Fox got into the henhouse in daylight."
+  },
+  {
+    "id": 70,
+    "question": "voy",
+    "questionDetails": "¿Dónde te entrenas?-Voy a un gimnasio nuevo cerca de mi casa.",
+    "answer": "i am going, i am coming",
+    "answerDetails": "Where do you work out?-I am going to a new gym near my house."
+  },
+  {
+    "id": 71,
+    "question": "bueno",
+    "questionDetails": "Bueno, como iba diciendo…",
+    "answer": "well, good, kind",
+    "answerDetails": "Well, as I was saying…"
+  },
+  {
+    "id": 72,
+    "question": "fue",
+    "questionDetails": "¿Quién es Alejandro?-Él fue mi primer Amor.",
+    "answer": "he was, was it, you were",
+    "answerDetails": "Who’s Alejandro?-He was my first love."
+  },
+  {
+    "id": 73,
+    "question": "puede",
+    "questionDetails": "¿Puede recomendar buenas acciones para comprar?",
+    "answer": "can you, he can, he may",
+    "answerDetails": "Can you recommend any good stocks to buy?"
+  },
+  {
+    "id": 74,
+    "question": "todos",
+    "questionDetails": "Todos los hombres.",
+    "answer": "all, everyone, everybody",
+    "answerDetails": "All men."
+  },
+  {
+    "id": 75,
+    "question": "era",
+    "questionDetails": "¿Era difícil vivir en un ambiente tan caótico?",
+    "answer": "was it, age, you were",
+    "answerDetails": "Was it hard to live in such a chaotic environment?"
+  },
+  {
+    "id": 76,
+    "question": "hace",
+    "questionDetails": "Volvió a su país hace algún tiempo.",
+    "answer": "ago, does it, makes it",
+    "answerDetails": "She returned to her country some time ago."
+  },
+  {
+    "id": 77,
+    "question": "les",
+    "questionDetails": "Espero que les guste.",
+    "answer": "them",
+    "answerDetails": "I hope you like them."
+  },
+  {
+    "id": 78,
+    "question": "va",
+    "questionDetails": "Esta es nuestra primera cita. Si va bien, nos volveremos a ver.",
+    "answer": "it goes, she is going",
+    "answerDetails": "This is our first date. If it goes well we’ll meet again."
+  },
+  {
+    "id": 79,
+    "question": "pasa",
+    "questionDetails": "Pasa mucho.",
+    "answer": "it happens, after you, raisin",
+    "answerDetails": "It happens a lot."
+  },
+  {
+    "id": 80,
+    "question": "siempre",
+    "questionDetails": "Si el matrimonio no funciona, siempre podemos divorciarnos.",
+    "answer": "always",
+    "answerDetails": "If the marriage doesn’t work out, we can always get divorced."
+  },
+  {
+    "id": 81,
+    "question": "otra",
+    "questionDetails": "Me encantan estas paletas. ¿Puedo tomar otra?",
+    "answer": "another",
+    "answerDetails": "I love these popsicles. Can I have another?"
+  },
+  {
+    "id": 82,
+    "question": "uno",
+    "questionDetails": "Sólo queda uno.",
+    "answer": "one",
+    "answerDetails": "There’s only one left."
+  },
+  {
+    "id": 83,
+    "question": "estoy",
+    "questionDetails": "¿Estás contento con el Servicio Sr. Jones?-¿Estoy sonriendo? Esto no es una sonrisa.",
+    "answer": "am i",
+    "answerDetails": "Are you happy with the service Mr. Jones?-Am I smiling? This is not a smile."
+  },
+  {
+    "id": 84,
+    "question": "quiero",
+    "questionDetails": "Lo quiero, pero no le intereso yo.",
+    "answer": "i want him, i love him, i love her",
+    "answerDetails": "I want him, but he isn’t interested in me."
+  },
+  {
+    "id": 85,
+    "question": "estar",
+    "questionDetails": "Hay que estar juntos.",
+    "answer": "be",
+    "answerDetails": "It is necessary to be together."
+  },
+  {
+    "id": 86,
+    "question": "están",
+    "answer": "some are"
+  },
+  {
+    "id": 87,
+    "question": "hasta",
+    "questionDetails": "Hasta mañana, no.",
+    "answer": "until, even, down to",
+    "answerDetails": "Not until tomorrow."
+  },
+  {
+    "id": 88,
+    "question": "estaba",
+    "questionDetails": "Cuando llegué a casa de mis padres, él estaba en la cocina preparando la cena.",
+    "answer": "he was",
+    "answerDetails": "When I arrived at my parents’, he was in the kitchen making dinner."
+  },
+  {
+    "id": 89,
+    "question": "sin",
+    "questionDetails": "Lo hizo todo sola, sin ayuda de nadie.",
+    "answer": "no",
+    "answerDetails": "She did it all on her own, with no help at all."
+  },
+  {
+    "id": 90,
+    "question": "gracias",
+    "questionDetails": "¡ Gracias por traerme a casa!.",
+    "answer": "thanks",
+    "answerDetails": "Thanks for the ride home!."
+  },
+  {
+    "id": 91,
+    "question": "él",
+    "questionDetails": "Él la escuchó con asombro.",
+    "answer": "he, him",
+    "answerDetails": "He heard her with astonishment."
+  },
+  {
+    "id": 92,
+    "question": "quién",
+    "questionDetails": "¿con quién se casó?",
+    "answer": "whom",
+    "answerDetails": "Whom did he marry?"
+  },
+  {
+    "id": 93,
+    "question": "vida",
+    "questionDetails": "Cubitos de hielo tintados en cristales. “Esta es la vida”, dijo.",
+    "answer": "life",
+    "answerDetails": "Ice cubes clinked in Crystal glasses. ‘This is the life,’ she said."
+  },
+  {
+    "id": 94,
+    "question": "dónde",
+    "questionDetails": "Dónde está él?",
+    "answer": "where",
+    "answerDetails": "Where are they now?"
+  },
+  {
+    "id": 95,
+    "question": "cosas",
+    "questionDetails": "Este fin de semana voy a recoger mis cosas de la casa de mi exnovia.",
+    "answer": "things, stuff",
+    "answerDetails": "I am going to pick up my things from my ex-girlfiend’s place this weekend."
+  },
+  {
+    "id": 96,
+    "question": "creo",
+    "questionDetails": "Mi madre dice que creo problemas en todos los sitios a los que voy.",
+    "answer": "i make, i believe you",
+    "answerDetails": "My mother says I make problems wherever I go."
+  },
+  {
+    "id": 97,
+    "question": "tenemos",
+    "questionDetails": "Tenemos problemas para obtener acceso a su cuenta. Por favor, vuelva a intentar más tarde.",
+    "answer": "we are having",
+    "answerDetails": "We are having trouble accessing your account. Please, try again later."
+  },
+  {
+    "id": 98,
+    "question": "otro",
+    "questionDetails": "¿En qué otro lugar hay una estación de tren en esta ciudad?",
+    "answer": "else",
+    "answerDetails": "Where else is there a train station in this city?"
+  },
+  {
+    "id": 99,
+    "question": "aquí",
+    "questionDetails": "Estoy en el restaurante, pero no los veo.-Estamos aquí por la barra.",
+    "answer": "over",
+    "answerDetails": "I’m at the restaurant, but I don’t see you.-We’re over here by the bar."
+  },
+  {
+    "id": 100,
+    "question": "mí",
+    "questionDetails": "No te puedes arriesgar, ni siquiera por mí.",
+    "answer": "me",
+    "answerDetails": "You cannot risk yourself, even for me."
+  }
+]

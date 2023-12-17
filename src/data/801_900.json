@@ -1,0 +1,676 @@
+[
+  {
+    "id": 801,
+    "question": "habían",
+    "questionDetails": "Ellos habían sido mis más queridos amigos.",
+    "answer": "had, ‘d",
+    "answerDetails": "They had been my dearest friends."
+  },
+  {
+    "id": 802,
+    "question": "estés",
+    "questionDetails": "Espero que lo estés pasando bien.",
+    "answer": "‘re",
+    "answerDetails": "Hope you’re having a good time."
+  },
+  {
+    "id": 803,
+    "question": "caer",
+    "questionDetails": "El costo de la matrícula no debe caer en el estudiante.",
+    "answer": "fall, drop",
+    "answerDetails": "The cost of tuition should not fall on the student."
+  },
+  {
+    "id": 804,
+    "question": "fuerza",
+    "questionDetails": "Emplear la fuerza.",
+    "answer": "force, strength, power",
+    "answerDetails": "To use force."
+  },
+  {
+    "id": 805,
+    "question": "deben",
+    "questionDetails": "Deben haber tenido una gran cosecha de opio este año.",
+    "answer": "must, should",
+    "answerDetails": "Must have been a good opium crop this year."
+  },
+  {
+    "id": 806,
+    "question": "encuentra",
+    "answer": "Find"
+  },
+  {
+    "id": 807,
+    "question": "llevas",
+    "questionDetails": "Pero siempre lo llevas contigo.",
+    "answer": "take, carry",
+    "answerDetails": "But you always take it with you."
+  },
+  {
+    "id": 808,
+    "question": "corre",
+    "questionDetails": "Corre en la playa cada mañana.",
+    "answer": "she runs",
+    "answerDetails": "She runs on the beach every morning."
+  },
+  {
+    "id": 809,
+    "question": "cállate",
+    "questionDetails": "Cállate. No quiero que nadie nos oiga.",
+    "answer": "keep quiet",
+    "answerDetails": "Keep quiet. I don’t want anyone hearing us."
+  },
+  {
+    "id": 810,
+    "question": "vienes",
+    "answer": "Come"
+  },
+  {
+    "id": 811,
+    "question": "abrir",
+    "questionDetails": "En cualquier caso, deberíamos abrir las cortinas.",
+    "answer": "open",
+    "answerDetails": "In any case we should open the curtains."
+  },
+  {
+    "id": 812,
+    "question": "cuesta",
+    "questionDetails": "Tienes que subir por esa cuesta hasta llegar a la iglesia, y entonces virar a la derecha.",
+    "answer": "slope, it costs, incline",
+    "answerDetails": "You need to go up that slope until you reach the church, and then to turn right."
+  },
+  {
+    "id": 813,
+    "question": "piensas",
+    "questionDetails": "Y en serio piensas.",
+    "answer": "think",
+    "answerDetails": "And you really think."
+  },
+  {
+    "id": 814,
+    "question": "error",
+    "questionDetails": "Tiene que haber algún error. Yo nunca he estado en Arizona.",
+    "answer": "mistake",
+    "answerDetails": "There must be some mistake. I’ve never been to Arizona."
+  },
+  {
+    "id": 815,
+    "question": "grupo",
+    "questionDetails": "Terapia de grupo.",
+    "answer": "group, pool, team",
+    "answerDetails": "Group therapy."
+  },
+  {
+    "id": 816,
+    "question": "iban",
+    "answer": "IBAN"
+  },
+  {
+    "id": 817,
+    "question": "suena",
+    "answer": "Sounds"
+  },
+  {
+    "id": 818,
+    "question": "hablado",
+    "questionDetails": "Tu padre jamás habría hablado de esta manera.",
+    "answer": "spoken",
+    "answerDetails": "Your father would never have spoken this way."
+  },
+  {
+    "id": 819,
+    "question": "piso",
+    "questionDetails": "Vivo en el cuarto piso, al lado del gimnasio.",
+    "answer": "floor, apartment",
+    "answerDetails": "I live on the fourth floor, next to the gym."
+  },
+  {
+    "id": 820,
+    "question": "parar",
+    "questionDetails": "Esto tiene que parar y tiene que parar ahora.",
+    "answer": "stop",
+    "answerDetails": "This has to stop and it has to stop now."
+  },
+  {
+    "id": 821,
+    "question": "usar",
+    "questionDetails": "Podrías usar mi nombre, si saben que trabajas para mí, podrían abrir.",
+    "answer": "use",
+    "answerDetails": "You could use my name—if they know you work for me, they might open up."
+  },
+  {
+    "id": 822,
+    "question": "nueve",
+    "questionDetails": "Las mujeres se vestían a los nueves.",
+    "answer": "nine",
+    "answerDetails": "The women were dressed to the nines."
+  },
+  {
+    "id": 823,
+    "question": "doctor",
+    "questionDetails": "Ve a ver a un doctor.",
+    "answer": "doctor, Dr, doc",
+    "answerDetails": "Go see a doctor."
+  },
+  {
+    "id": 824,
+    "question": "hospital",
+    "questionDetails": "El hospital donde trabaja está cerca de aquí.",
+    "answer": "hospital",
+    "answerDetails": "The hospital he works at is right near here."
+  },
+  {
+    "id": 825,
+    "question": "temprano",
+    "questionDetails": "Quiero terminar el trabajo temprano hoy.",
+    "answer": "early",
+    "answerDetails": "I want to finish work early today."
+  },
+  {
+    "id": 826,
+    "question": "ojo",
+    "questionDetails": "Este éxito para Manchester es uno en el ojo para Londres.",
+    "answer": "eye, keyhole",
+    "answerDetails": "This success for Manchester is one in the eye for London."
+  },
+  {
+    "id": 827,
+    "question": "estará",
+    "questionDetails": "¿Cuándo estará listo? Tenemos que irnos pronto.",
+    "answer": "will you be",
+    "answerDetails": "When will you be ready? We need to leave soon."
+  },
+  {
+    "id": 828,
+    "question": "novio",
+    "questionDetails": "Conoció a su novio en Europa y ya llevan un año juntos.",
+    "answer": "boyfriend",
+    "answerDetails": "She met her boyfriend in Europe and they’ve been together a year now."
+  },
+  {
+    "id": 829,
+    "question": "orden",
+    "questionDetails": "El Tribunal emitió una orden para conceder la petición de auto de avocación.",
+    "answer": "order, warrant",
+    "answerDetails": "The court issued an order granting the petition for a writ of certiorari."
+  },
+  {
+    "id": 830,
+    "question": "estaría",
+    "questionDetails": "El mundo estaría mejor sin ti.",
+    "answer": "be",
+    "answerDetails": "The whole world will be better off without you."
+  },
+  {
+    "id": 831,
+    "question": "metido",
+    "questionDetails": "Cualquiera que se haya metido conmigo en un salón.",
+    "answer": "messed, tucked, got",
+    "answerDetails": "Everybody who’s ever messed with me in one room."
+  },
+  {
+    "id": 832,
+    "question": "pensado",
+    "answer": "Thought"
+  },
+  {
+    "id": 833,
+    "question": "llegué",
+    "questionDetails": "Parece que llegué en un momento interesante.",
+    "answer": "arrived, got",
+    "answerDetails": "I seem to have arrived at an interesting moment."
+  },
+  {
+    "id": 834,
+    "question": "aprender",
+    "questionDetails": "Empezaron a aprender francés.",
+    "answer": "learn",
+    "answerDetails": "They’d started learning French."
+  },
+  {
+    "id": 835,
+    "question": "necesitas",
+    "answer": "Need"
+  },
+  {
+    "id": 836,
+    "question": "quedamos",
+    "answer": "Were"
+  },
+  {
+    "id": 837,
+    "question": "propia",
+    "questionDetails": "Quiero mi propia casa, mis propios amigos.",
+    "answer": "own",
+    "answerDetails": "I want my own friends."
+  },
+  {
+    "id": 838,
+    "question": "corriendo",
+    "questionDetails": "Sigue corriendo hasta que no tengas hambre.",
+    "answer": "running, rushing, hurrying",
+    "answerDetails": "Keep running until you’re not hungry."
+  },
+  {
+    "id": 839,
+    "question": "zona",
+    "questionDetails": "Hay varias zonas verdes en la ciudad.",
+    "answer": "area, district",
+    "answerDetails": "There are several green areas in the city."
+  },
+  {
+    "id": 840,
+    "question": "sabías",
+    "questionDetails": "Si sabías que era una mala idea, ¿por qué lo hicisite?",
+    "answer": "you knew, did you know",
+    "answerDetails": "If you knew that this was a bad idea, why did you do it?"
+  },
+  {
+    "id": 841,
+    "question": "mesa",
+    "questionDetails": "A la mesa.",
+    "answer": "table",
+    "answerDetails": "At table."
+  },
+  {
+    "id": 842,
+    "question": "seguramente",
+    "questionDetails": "Si no hay voluntad, entonces seguramente la casa va automáticamente a usted.",
+    "answer": "surely, probably",
+    "answerDetails": "If there is no will, then surely the house goes automatically to you."
+  },
+  {
+    "id": 843,
+    "question": "noticia",
+    "answer": "item"
+  },
+  {
+    "id": 844,
+    "question": "prefiero",
+    "answer": "i would rather"
+  },
+  {
+    "id": 845,
+    "question": "habría",
+    "questionDetails": "De destruir el prototipo, la compañía habría quebrado.",
+    "answer": "would",
+    "answerDetails": "With the destroyed archetype company would go the bankruptcy."
+  },
+  {
+    "id": 846,
+    "question": "llego",
+    "questionDetails": "El otro auto llego como hace media hora.",
+    "answer": "arrived, came",
+    "answerDetails": "The other car arrived half an hour ago."
+  },
+  {
+    "id": 847,
+    "question": "llamada",
+    "questionDetails": "Los caminantes no pueden resistir la llamada de los Cairngorms.",
+    "answer": "call",
+    "answerDetails": "Walkers can’t resist the call of the Cairngorms."
+  },
+  {
+    "id": 848,
+    "question": "pudo",
+    "questionDetails": "Hizo lo mejor que pudo, pero otro ganó.",
+    "answer": "he could, he was able, could you",
+    "answerDetails": "He did the best he could, but someone else won."
+  },
+  {
+    "id": 849,
+    "question": "cuentas",
+    "questionDetails": "Mi mamá lleva las cuentas en un despacho de abogados.",
+    "answer": "accounts",
+    "answerDetails": "My mom keeps the accounts for a law firm."
+  },
+  {
+    "id": 850,
+    "question": "cualquiera",
+    "questionDetails": "Cualquiera que quiera postularse para el puesto debe tener el doctorado.",
+    "answer": "anyone, either, whichever",
+    "answerDetails": "Anyone who wants to apply for the position must have a PhD."
+  },
+  {
+    "id": 851,
+    "question": "quedé",
+    "questionDetails": "Yo me quedé aquí.",
+    "answer": "stayed, was, stood",
+    "answerDetails": "I just stayed put myself."
+  },
+  {
+    "id": 852,
+    "question": "eras",
+    "questionDetails": "Tú eras como un hermano para mí.",
+    "answer": "were, ages",
+    "answerDetails": "You were like a brother to me."
+  },
+  {
+    "id": 853,
+    "question": "llevamos",
+    "questionDetails": "Llevamos la leña dentro porque iba a llover.",
+    "answer": "we carried",
+    "answerDetails": "We carried the firewood inside because it was going to rain."
+  },
+  {
+    "id": 854,
+    "question": "ey",
+    "answer": "Hey"
+  },
+  {
+    "id": 855,
+    "question": "equipo",
+    "questionDetails": "¿Cuál es tu equipo de fútbol preferido?",
+    "answer": "team, system, crew",
+    "answerDetails": "What’s your favorite soccer team?"
+  },
+  {
+    "id": 856,
+    "question": "pidió",
+    "questionDetails": "Tenía hambre, así que pidió una pizza.",
+    "answer": "he ordered, he asked for, you asked for",
+    "answerDetails": "He was hungry so he ordered a pizza."
+  },
+  {
+    "id": 857,
+    "question": "prueba",
+    "questionDetails": "Poner algo/a alguien a prueba.",
+    "answer": "test, proof, trial",
+    "answerDetails": "To put something/somebody to the test."
+  },
+  {
+    "id": 858,
+    "question": "funciona",
+    "answer": "Works"
+  },
+  {
+    "id": 859,
+    "question": "llorar",
+    "questionDetails": "Si quieres llorar está bien.",
+    "answer": "cry",
+    "answerDetails": "If you want to cry, it’s okay."
+  },
+  {
+    "id": 860,
+    "question": "quede",
+    "questionDetails": "Yo quizá me quede a esperar con él.",
+    "answer": "stay, is",
+    "answerDetails": "I might stay and wait with him."
+  },
+  {
+    "id": 861,
+    "question": "supongo",
+    "questionDetails": "Supongo chicos que no sabían del ascensor.",
+    "answer": "guess, I’m guessing, suppose",
+    "answerDetails": "Guess you guys didn’t know about the elevator."
+  },
+  {
+    "id": 862,
+    "question": "escuela",
+    "questionDetails": "Louis Sullivan es mi arquitecto favorito de la escuela de Chicago.",
+    "answer": "school, training",
+    "answerDetails": "Louis Sullivan is my favorite architect of the Chicago School."
+  },
+  {
+    "id": 863,
+    "question": "próxima",
+    "questionDetails": "Intenta que sea una visita más larga la próxima vez.",
+    "answer": "next, upcoming, forthcoming",
+    "answerDetails": "Plan on a longer visit next time."
+  },
+  {
+    "id": 864,
+    "question": "trabaja",
+    "answer": "Works"
+  },
+  {
+    "id": 865,
+    "question": "negro",
+    "questionDetails": "Una taza de café negro.",
+    "answer": "black, dark",
+    "answerDetails": "A mug of black coffee."
+  },
+  {
+    "id": 866,
+    "question": "ante",
+    "questionDetails": "Ante tu problema, el mío es una tontería.",
+    "answer": "compared to",
+    "answerDetails": "Compared to your problem, mine seems silly."
+  },
+  {
+    "id": 867,
+    "question": "llevó",
+    "questionDetails": "Llevó la caja abajo y la dejó junto a la puerta.",
+    "answer": "he carried, he led, he wore",
+    "answerDetails": "He carried the box downstairs and left it by the door."
+  },
+  {
+    "id": 868,
+    "question": "control",
+    "questionDetails": "Te lo juro, hay que ser ingeniero espacial para programar este control.",
+    "answer": "remote, monitoring, check",
+    "answerDetails": "I swear, you have to be a rocket scientist to program this remote."
+  },
+  {
+    "id": 869,
+    "question": "incluso",
+    "questionDetails": "Es incluso peor de lo que parece.",
+    "answer": "even, including",
+    "answerDetails": "It is even worse than it looks."
+  },
+  {
+    "id": 870,
+    "question": "imagino",
+    "questionDetails": "Me imagino que las haría.",
+    "answer": "imagine, guess, fancy",
+    "answerDetails": "I imagine it would."
+  },
+  {
+    "id": 871,
+    "question": "coche",
+    "questionDetails": "Estaba en el ascensor cuando el coche atascado.",
+    "answer": "car, coach",
+    "answerDetails": "He was in the lift when the car stuck."
+  },
+  {
+    "id": 872,
+    "question": "viva",
+    "questionDetails": "Esa gente está viva.",
+    "answer": "alive, live, vivid",
+    "answerDetails": "Those people are alive."
+  },
+  {
+    "id": 873,
+    "question": "apenas",
+    "questionDetails": "Asintió con la cabeza, apenas capaz de hablar.",
+    "answer": "barely, scarcely",
+    "answerDetails": "She nodded, barely able to speak."
+  },
+  {
+    "id": 874,
+    "question": "deberías",
+    "questionDetails": "Sólo creo que deberías tener cuidado.",
+    "answer": "should",
+    "answerDetails": "I just think you should be careful."
+  },
+  {
+    "id": 875,
+    "question": "echar",
+    "questionDetails": "Vas a echar por tierra todo lo que planeamos.",
+    "answer": "throw",
+    "answerDetails": "You going to throw out everything we planned."
+  },
+  {
+    "id": 876,
+    "question": "suyo",
+    "questionDetails": "Usted suelte el suyo.",
+    "answer": "yours",
+    "answerDetails": "You let yours go!"
+  },
+  {
+    "id": 877,
+    "question": "llamó",
+    "answer": "i call her"
+  },
+  {
+    "id": 878,
+    "question": "sean",
+    "questionDetails": "Partiendo del supuesto de que los aros sean una firma.",
+    "answer": "are",
+    "answerDetails": "Working from the assumption the rings are a signature."
+  },
+  {
+    "id": 879,
+    "question": "habíamos",
+    "questionDetails": "Hice lo que habíamos planeado.",
+    "answer": "had",
+    "answerDetails": "I did what we had planned."
+  },
+  {
+    "id": 880,
+    "question": "prometo",
+    "questionDetails": "Prometo no volver a mentir.",
+    "answer": "i promise",
+    "answerDetails": "I promise that I’ll never lie again."
+  },
+  {
+    "id": 881,
+    "question": "contrario",
+    "questionDetails": "Continuó bebiendo a pesar de Consejo médico al contrario.",
+    "answer": "contrary",
+    "answerDetails": "He continued to drink despite medical advice to the contrary."
+  },
+  {
+    "id": 882,
+    "question": "sitio",
+    "questionDetails": "El hormigón se mezcla en el sitio.",
+    "answer": "site",
+    "answerDetails": "The concrete is mixed on site."
+  },
+  {
+    "id": 883,
+    "question": "gustó",
+    "questionDetails": "Realmente me gustó tu obra.",
+    "answer": "liked, enjoyed, appreciated",
+    "answerDetails": "I really liked your play."
+  },
+  {
+    "id": 884,
+    "question": "quiénes",
+    "questionDetails": "Les dije quiénes somos.",
+    "answer": "who",
+    "answerDetails": "I told them who we are."
+  },
+  {
+    "id": 885,
+    "question": "duda",
+    "questionDetails": "Sin duda.",
+    "answer": "doubt, question",
+    "answerDetails": "No doubt."
+  },
+  {
+    "id": 886,
+    "question": "cielo",
+    "questionDetails": "Cientos de estrellas brillaban en el cielo.",
+    "answer": "sky, heaven, god",
+    "answerDetails": "Hundreds of stars were shining in the sky."
+  },
+  {
+    "id": 887,
+    "question": "tendría",
+    "questionDetails": "Le dije a Fernanda que comprara acciones de la empresa. Ahora tendría mucho dinero si lo hubiera hecho.",
+    "answer": "she would have, we would have",
+    "answerDetails": "I told Fernanda to buy shares of the company. She would have a lot of money now if she had."
+  },
+  {
+    "id": 888,
+    "question": "cayó",
+    "questionDetails": "Cayó de un andamio y fue trasladado al hospital.",
+    "answer": "he fell down",
+    "answerDetails": "He fell down from a scaffold and was taken to the hospital."
+  },
+  {
+    "id": 889,
+    "question": "varios",
+    "questionDetails": "Varios de sus amigos asistieron.",
+    "answer": "several",
+    "answerDetails": "Several of his friends attended."
+  },
+  {
+    "id": 890,
+    "question": "puse",
+    "questionDetails": "Yo la puse ahí.",
+    "answer": "put, wore, laid",
+    "answerDetails": "I put it there."
+  },
+  {
+    "id": 891,
+    "question": "pedido",
+    "questionDetails": "La entrega de su pedido está retrasado.",
+    "answer": "order",
+    "answerDetails": "The delivery of your order is delayed."
+  },
+  {
+    "id": 892,
+    "question": "partes",
+    "questionDetails": "Son dos partes separadas de su ser.",
+    "answer": "parts, parties, sides",
+    "answerDetails": "They are two separate parts of his being."
+  },
+  {
+    "id": 893,
+    "question": "esposa",
+    "questionDetails": "Quiero bailar con mi esposa.",
+    "answer": "wife, spouse, bride",
+    "answerDetails": "I want to dance with my wife."
+  },
+  {
+    "id": 894,
+    "question": "tía",
+    "questionDetails": "Entonces mi tía insistió en tener un ataúd abierto.",
+    "answer": "aunt, auntie, aunty",
+    "answerDetails": "Then my aunt insisted on having an open casket."
+  },
+  {
+    "id": 895,
+    "question": "decisión",
+    "questionDetails": "He tomado una decisión; trabajaré con mi padre.",
+    "answer": "decision, ruling",
+    "answerDetails": "I have made my decision; I’m going to work with my father."
+  },
+  {
+    "id": 896,
+    "question": "ellas",
+    "questionDetails": "Ellas son hermanas.",
+    "answer": "they",
+    "answerDetails": "They are sisters."
+  },
+  {
+    "id": 897,
+    "question": "traer",
+    "questionDetails": "Ella no podía traer a sí misma para mencionarlo.",
+    "answer": "bring, fetch",
+    "answerDetails": "She could not bring herself to mention it."
+  },
+  {
+    "id": 898,
+    "question": "sol",
+    "questionDetails": "Al sol.",
+    "answer": "sun",
+    "answerDetails": "In the sun."
+  },
+  {
+    "id": 899,
+    "question": "sientes",
+    "questionDetails": "Dile cómo te sientes.",
+    "answer": "feel",
+    "answerDetails": "Tell her how you feel."
+  },
+  {
+    "id": 900,
+    "question": "saliendo",
+    "questionDetails": "Con razón no estás saliendo con nadie.",
+    "answer": "dating, leaving, departing",
+    "answerDetails": "No wonder you’re not dating anyone."
+  }
+]

@@ -1,0 +1,690 @@
+[
+  {
+    "id": 3501,
+    "question": "escuches",
+    "questionDetails": "Quiero que me hables o que escuches.",
+    "answer": "listen",
+    "answerDetails": "I want you to talk or listen."
+  },
+  {
+    "id": 3502,
+    "question": "disposición",
+    "questionDetails": "Si no estás de acuerdo con esta disposición, no firmes el contrato.",
+    "answer": "provision, disposal, disposition",
+    "answerDetails": "If you don’t agree with this provision, you shouldn’t sign the contract."
+  },
+  {
+    "id": 3503,
+    "question": "servido",
+    "questionDetails": "Lo he servido a usted por muchos años.",
+    "answer": "served, availed, manned",
+    "answerDetails": "I have served you for many years now."
+  },
+  {
+    "id": 3504,
+    "question": "alcance",
+    "questionDetails": "Ampliamos el alcance de nuestra investigación.",
+    "answer": "scope, reach",
+    "answerDetails": "We widened the scope of our investigation."
+  },
+  {
+    "id": 3505,
+    "question": "suyos",
+    "questionDetails": "Y, a cambio, los suyos también sean míos.",
+    "answer": "yours",
+    "answerDetails": "And in turn, that yours be mine too."
+  },
+  {
+    "id": 3506,
+    "question": "llegues",
+    "questionDetails": "No llegues muy tarde.",
+    "answer": "be",
+    "answerDetails": "Try not to be too late."
+  },
+  {
+    "id": 3507,
+    "question": "misa",
+    "questionDetails": "Todos los domingos, mi abuela va a la iglesia a escuchar misa.",
+    "answer": "mass",
+    "answerDetails": "Every Sunday, my grandmother goes to church to attend mass."
+  },
+  {
+    "id": 3508,
+    "question": "atiende",
+    "questionDetails": "Atiende la puerta, como si todo estuviera bien.",
+    "answer": "attends, caters, serves",
+    "answerDetails": "Attends the door, as if everything was okay."
+  },
+  {
+    "id": 3509,
+    "question": "aceptado",
+    "questionDetails": "Quiero ser aceptado en la mejor universidad del País.",
+    "answer": "accepted",
+    "answerDetails": "I want to be accepted at the country’s best university."
+  },
+  {
+    "id": 3510,
+    "question": "cojo",
+    "questionDetails": "A pesar de su pierna cojo, huyó.",
+    "answer": "lame",
+    "answerDetails": "Despite his lame leg, he fled."
+  },
+  {
+    "id": 3511,
+    "question": "prepara",
+    "questionDetails": "Un oficial listo se prepara para una campaña larga.",
+    "answer": "prepares, readies, prep",
+    "answerDetails": "A smart officer prepares for a long campaign."
+  },
+  {
+    "id": 3512,
+    "question": "velocidad",
+    "questionDetails": "Brian recibió una bici de 7 velocidades en Navidad.",
+    "answer": "speed",
+    "answerDetails": "Brian got a 7-speed bike for Christmas."
+  },
+  {
+    "id": 3513,
+    "question": "dedica",
+    "questionDetails": "Más dedica a su trabajo que a mi.",
+    "answer": "dedicated, devoted, engaged",
+    "answerDetails": "More dedicated to his job than me."
+  },
+  {
+    "id": 3514,
+    "question": "domicilio",
+    "questionDetails": "¿Cuál es su domicilio, señor?",
+    "answer": "address, domicile, abode",
+    "answerDetails": "What is your address, sir?"
+  },
+  {
+    "id": 3515,
+    "question": "bolsas",
+    "questionDetails": "Esta crema es excelente para camuflar las bolsas bajo los ojos.",
+    "answer": "bags",
+    "answerDetails": "This cream is great for disguising undereye bags."
+  },
+  {
+    "id": 3516,
+    "question": "aventura",
+    "questionDetails": "¡ Nuestro viaje de safari en África realmente fue una aventura!.",
+    "answer": "adventure, affair, fling",
+    "answerDetails": "Our African Safari Trip was a real adventure!."
+  },
+  {
+    "id": 3517,
+    "question": "comes",
+    "questionDetails": "Eso significa que comes tu propia comida.",
+    "answer": "eat",
+    "answerDetails": "That means you eat your own food."
+  },
+  {
+    "id": 3518,
+    "question": "miente",
+    "questionDetails": "Sólo conozco el ruido que hace cuando miente.",
+    "answer": "lies",
+    "answerDetails": "I just know the sound it makes when it lies."
+  },
+  {
+    "id": 3519,
+    "question": "volvería",
+    "questionDetails": "Lo volvería a hacer por ti.",
+    "answer": "would",
+    "answerDetails": "I would do it again for you."
+  },
+  {
+    "id": 3520,
+    "question": "pensamiento",
+    "questionDetails": "El pensamiento sobre los beneficios del bilingüismo ha evolucionado mucho en los últimos años.",
+    "answer": "thinking",
+    "answerDetails": "Thinking on the benefits of bilingualism has evolved greatly in recent years."
+  },
+  {
+    "id": 3521,
+    "question": "papito",
+    "questionDetails": "Debes buscar a mi papito.",
+    "answer": "daddy",
+    "answerDetails": "You must be looking for my daddy."
+  },
+  {
+    "id": 3522,
+    "question": "billete",
+    "questionDetails": "Llevaba $100 encima en billetes de uno.",
+    "answer": "bill, fare",
+    "answerDetails": "He was carrying $100 all in $1 bills."
+  },
+  {
+    "id": 3523,
+    "question": "operativo",
+    "questionDetails": "El transmisor está operativo.",
+    "answer": "operative",
+    "answerDetails": "The transmitter is operative."
+  },
+  {
+    "id": 3524,
+    "question": "escúcheme",
+    "questionDetails": "Escúcheme usted a mí.",
+    "answer": "listen",
+    "answerDetails": "You listen to me."
+  },
+  {
+    "id": 3525,
+    "question": "imagínese",
+    "questionDetails": "Imagínese si usted quería poner el jarabe en el agua.",
+    "answer": "imagine",
+    "answerDetails": "Imagine if you wanted to put syrup in water."
+  },
+  {
+    "id": 3526,
+    "question": "frontera",
+    "questionDetails": "Laurie se hizo astronauta para tener una carrera en las fronteras del conocimiento humano.",
+    "answer": "frontier, boundary",
+    "answerDetails": "Laurie became an astronaut so she could have a career at the frontiers of human knowledge."
+  },
+  {
+    "id": 3527,
+    "question": "criminal",
+    "questionDetails": "Nadie nace siendo un criminal.",
+    "answer": "criminal, criminally, felon",
+    "answerDetails": "One is not born a criminal."
+  },
+  {
+    "id": 3528,
+    "question": "maten",
+    "questionDetails": "Tengo que estar allí cuando maten a ese hombre.",
+    "answer": "kill, slay, whacked",
+    "answerDetails": "I have to be there when they kill this man."
+  },
+  {
+    "id": 3529,
+    "question": "traidor",
+    "questionDetails": "Esa mujer traidora se me fue y me dejó con el corazón roto.",
+    "answer": "treacherous",
+    "answerDetails": "That treacherous woman ran away and left me with a broken heart."
+  },
+  {
+    "id": 3530,
+    "question": "preocupen",
+    "answer": "worry"
+  },
+  {
+    "id": 3531,
+    "question": "intereses",
+    "questionDetails": "Pablo tiene intereses en varias inmobilarias en la China.",
+    "answer": "interests",
+    "answerDetails": "Pablo has interests in various construction companies in China."
+  },
+  {
+    "id": 3532,
+    "question": "sexual",
+    "questionDetails": "La mejor experiencia sexual de mi vida.",
+    "answer": "sexual, sexually, sex",
+    "answerDetails": "Best sexual experience of my life."
+  },
+  {
+    "id": 3533,
+    "question": "regalito",
+    "questionDetails": "Ha dicho que tenía un regalito para ti.",
+    "answer": "gift",
+    "answerDetails": "He said something about a gift for you."
+  },
+  {
+    "id": 3534,
+    "question": "evidencia",
+    "questionDetails": "Los detectives no encontraron evidencia de que se tratara de un asesinato.",
+    "answer": "evidence, proof",
+    "answerDetails": "The detectives found no evidence that it was a murder."
+  },
+  {
+    "id": 3535,
+    "question": "conveniente",
+    "questionDetails": "El sitio tendría que ser conveniente para Londres.",
+    "answer": "convenient, suitable, appropriate",
+    "answerDetails": "The site would have to be convenient for London."
+  },
+  {
+    "id": 3536,
+    "question": "hablen",
+    "questionDetails": "Hablen con amigos, compañeros, el repartidor de pizza.",
+    "answer": "talk, speak",
+    "answerDetails": "Talk to friends, classmates, pizza delivery guy."
+  },
+  {
+    "id": 3537,
+    "question": "trató",
+    "questionDetails": "Un panorama trató de componer dos piezas de fotografías.",
+    "answer": "tried, treated, attempted",
+    "answerDetails": "A panorama tried to compose two pieces of photographs."
+  },
+  {
+    "id": 3538,
+    "question": "huellas",
+    "questionDetails": "Estos son dos juegos nuevos de huellas.",
+    "answer": "footprints, prints, fingerprints",
+    "answerDetails": "These are two new sets of footprints."
+  },
+  {
+    "id": 3539,
+    "question": "levante",
+    "answer": "east"
+  },
+  {
+    "id": 3540,
+    "question": "bote",
+    "questionDetails": "Remaron el bote hacia la orilla, rezando por su supervivencia.",
+    "answer": "boat, dinghy, jar",
+    "answerDetails": "They rowed the boat toward shore, praying they would survive."
+  },
+  {
+    "id": 3541,
+    "question": "hazte",
+    "questionDetails": "Hazte fanático del hockey.",
+    "answer": "become",
+    "answerDetails": "Become a hockey fan."
+  },
+  {
+    "id": 3542,
+    "question": "pagarle",
+    "questionDetails": "No tengo dinero para pagarle a nadie.",
+    "answer": "pay, repay",
+    "answerDetails": "I have no money to pay any of you."
+  },
+  {
+    "id": 3543,
+    "question": "mírate",
+    "questionDetails": "Mírame a mí, y mírate a ti.",
+    "answer": "look",
+    "answerDetails": "Look at me, and look at you."
+  },
+  {
+    "id": 3544,
+    "question": "pidas",
+    "answer": "Ask"
+  },
+  {
+    "id": 3545,
+    "question": "explique",
+    "answer": "Explain"
+  },
+  {
+    "id": 3546,
+    "question": "piedras",
+    "questionDetails": "Estaban en las piedras.",
+    "answer": "stones, rocks, pebbles",
+    "answerDetails": "You were at the stones."
+  },
+  {
+    "id": 3547,
+    "question": "prefiere",
+    "questionDetails": "Su nombre es Micaela, pero prefiere llamarse Mick.",
+    "answer": "she prefers",
+    "answerDetails": "Her name is Micaela, but she prefers to be called Mick."
+  },
+  {
+    "id": 3548,
+    "question": "merecen",
+    "questionDetails": "Realmente no merecen manejar la tienda.",
+    "answer": "deserve, deserving, merited",
+    "answerDetails": "You really don’t deserve to run the store."
+  },
+  {
+    "id": 3549,
+    "question": "cuadra",
+    "questionDetails": "Buscamos alrededor de la cuadra.",
+    "answer": "block",
+    "answerDetails": "Looked around the block."
+  },
+  {
+    "id": 3550,
+    "question": "arrepiento",
+    "questionDetails": "No me arrepiento de nada .",
+    "answer": "regret, repent",
+    "answerDetails": "I regret for nothing."
+  },
+  {
+    "id": 3551,
+    "question": "marcar",
+    "questionDetails": "Cuelga el auricular y vuelva a marcar.",
+    "answer": "dial, flag",
+    "answerDetails": "Hang up and dial again."
+  },
+  {
+    "id": 3552,
+    "question": "vendió",
+    "questionDetails": "Glenn se va a comprar un coche nuevo. Vendió el viejo la semana pasada.",
+    "answer": "he sold",
+    "answerDetails": "Glenn is going to buy a new car. He sold the old one last week."
+  },
+  {
+    "id": 3553,
+    "question": "rumbo",
+    "questionDetails": "El gobierno tuvo que cambiar el rumbo de su política de austeridad.",
+    "answer": "course, direction, bearing",
+    "answerDetails": "The government was forced to change course on its austerity policy."
+  },
+  {
+    "id": 3554,
+    "question": "asumir",
+    "questionDetails": "Él comenzó a asumir en sus ojos un aspecto romántico.",
+    "answer": "assume",
+    "answerDetails": "He began to assume in their eyes a romantic aspect."
+  },
+  {
+    "id": 3555,
+    "question": "bonitos",
+    "questionDetails": "También sus gatos son muy bonitos.",
+    "answer": "beautiful, pretty, cute",
+    "answerDetails": "His cats are beautiful too."
+  },
+  {
+    "id": 3556,
+    "question": "preocupados",
+    "questionDetails": "Sus familiares están preocupados.",
+    "answer": "worried, concerned, apprehensive",
+    "answerDetails": "Your relatives are worried."
+  },
+  {
+    "id": 3557,
+    "question": "circo",
+    "questionDetails": "El circo viaja de ciudad en Ciudad para montar su espectáculo.",
+    "answer": "circus, cirque",
+    "answerDetails": "The circus travels from city to city to put on their performance."
+  },
+  {
+    "id": 3558,
+    "question": "ciertas",
+    "questionDetails": "Hay ciertas cosas que jamás sabremos.",
+    "answer": "certain, true",
+    "answerDetails": "There are certain things we shall never know."
+  },
+  {
+    "id": 3559,
+    "question": "revisando",
+    "questionDetails": "Pongo mi navaja, revisando la graduación.",
+    "answer": "reviewing, checking, rechecking",
+    "answerDetails": "I put my knife, reviewing graduation."
+  },
+  {
+    "id": 3560,
+    "question": "descubrió",
+    "questionDetails": "Descubrió lo que había hecho Marco y lo dejó.",
+    "answer": "she found out",
+    "answerDetails": "She found out what Marco had done and left him."
+  },
+  {
+    "id": 3561,
+    "question": "grano",
+    "questionDetails": "Si el azúcar hace el grano para arriba, agregue más agua.",
+    "answer": "grain, corn, seed",
+    "answerDetails": "If the sugar does grain up, add more water."
+  },
+  {
+    "id": 3562,
+    "question": "mandas",
+    "questionDetails": "Cuando llegues a la base, me los mandas.",
+    "answer": "send",
+    "answerDetails": "When you get backto the base, send it back."
+  },
+  {
+    "id": 3563,
+    "question": "enterrar",
+    "questionDetails": "Vine ante ustedes para enterrar al hombre.",
+    "answer": "bury",
+    "answerDetails": "I come before you now to bury the man."
+  },
+  {
+    "id": 3564,
+    "question": "dirás",
+    "questionDetails": "Promete que no lo dirás.",
+    "answer": "tell",
+    "answerDetails": "Please just promise you won’t tell."
+  },
+  {
+    "id": 3565,
+    "question": "valen",
+    "questionDetails": "Diez autos no valen la pena el esfuerzo.",
+    "answer": "worth",
+    "answerDetails": "Ten cars is hardly worth the effort."
+  },
+  {
+    "id": 3566,
+    "question": "directa",
+    "questionDetails": "Puede que no sea capaz de comunicación directa.",
+    "answer": "direct",
+    "answerDetails": "It may not be capable of direct communication."
+  },
+  {
+    "id": 3567,
+    "question": "piensen",
+    "questionDetails": "Les pedimos que lo piensen.",
+    "answer": "think",
+    "answerDetails": "Asked them that they think it."
+  },
+  {
+    "id": 3568,
+    "question": "contaron",
+    "questionDetails": "Le contaron a su mamá sobre la nueva principal en la escuela.",
+    "answer": "they told",
+    "answerDetails": "They told their mother about the new principal at the school."
+  },
+  {
+    "id": 3569,
+    "question": "supieras",
+    "questionDetails": "Suenas como si supieras algo de esto.",
+    "answer": "know",
+    "answerDetails": "You sound like you know something about it."
+  },
+  {
+    "id": 3570,
+    "question": "vendido",
+    "questionDetails": "Más de la mitad de los apartamentos del edificio nuevo ya están vendidos.",
+    "answer": "sold",
+    "answerDetails": "More than half of the apartments in the new building are already sold."
+  },
+  {
+    "id": 3571,
+    "question": "abandonado",
+    "questionDetails": "Un baile salvaje y abandonado.",
+    "answer": "abandoned, derelict",
+    "answerDetails": "A wild, abandoned dance."
+  },
+  {
+    "id": 3572,
+    "question": "sufrimiento",
+    "questionDetails": "Poca gente ha padecido tanto sufrimiento como él.",
+    "answer": "suffering, distress, misery",
+    "answerDetails": "Few people have experienced such suffering as he has."
+  },
+  {
+    "id": 3573,
+    "question": "podremos",
+    "questionDetails": "Creo que podremos hacerlo.",
+    "answer": "can",
+    "answerDetails": "I think we can handle that."
+  },
+  {
+    "id": 3574,
+    "question": "jugamos",
+    "questionDetails": "Ayer, jugamos fútbol en la escuela.",
+    "answer": "we played",
+    "answerDetails": "Yesterday, we played soccer at school."
+  },
+  {
+    "id": 3575,
+    "question": "fotografía",
+    "questionDetails": "Entiendo que te interesa la fotografía.",
+    "answer": "photography",
+    "answerDetails": "I understand you have an interest in photography."
+  },
+  {
+    "id": 3576,
+    "question": "entras",
+    "questionDetails": "Abandona toda esperanza, tu que entras aquí.",
+    "answer": "enter",
+    "answerDetails": "Abandon all hope, ye who enter here."
+  },
+  {
+    "id": 3577,
+    "question": "presentado",
+    "questionDetails": "Ese asunto será presentado ante el comité de disciplina.",
+    "answer": "presented, submitted, filed",
+    "answerDetails": "This matter will be presented to the disciplinary committee."
+  },
+  {
+    "id": 3578,
+    "question": "alarma",
+    "questionDetails": "Señal de alarma.",
+    "answer": "alarm",
+    "answerDetails": "Alarm signal."
+  },
+  {
+    "id": 3579,
+    "question": "muestras",
+    "questionDetails": "Aquí tiene las muestras.",
+    "answer": "samples, signs, specimens",
+    "answerDetails": "Here it has the samples."
+  },
+  {
+    "id": 3580,
+    "question": "piezas",
+    "questionDetails": "Tengo dos grupos de piezas de metal similares.",
+    "answer": "parts, pieces, pcs",
+    "answerDetails": "I have two sets of similar metal parts."
+  },
+  {
+    "id": 3581,
+    "question": "camiseta",
+    "questionDetails": "La camiseta del equipo es blanca y azul.",
+    "answer": "shirt, jersey, tee",
+    "answerDetails": "The team shirt is white and blue."
+  },
+  {
+    "id": 3582,
+    "question": "firmes",
+    "questionDetails": "Si nos mantenemos firmes, no será el último.",
+    "answer": "firm, steady, sign",
+    "answerDetails": "If we hold firm, it won’t be the last."
+  },
+  {
+    "id": 3583,
+    "question": "harás",
+    "answer": "stud"
+  },
+  {
+    "id": 3584,
+    "question": "daré",
+    "answer": "Give"
+  },
+  {
+    "id": 3585,
+    "question": "guardo",
+    "questionDetails": "Lo guardo en el agujero.",
+    "answer": "keep",
+    "answerDetails": "Keep it in the hole."
+  },
+  {
+    "id": 3586,
+    "question": "abiertos",
+    "questionDetails": "Ojos y oídos abiertos.",
+    "answer": "open",
+    "answerDetails": "Eyes and ears open."
+  },
+  {
+    "id": 3587,
+    "question": "antecedentes",
+    "questionDetails": "Antecedentes de la exposición, patrones de excavaciones arqueológicas.",
+    "answer": "background",
+    "answerDetails": "Background of the exhibit, patrons of archaeological digs."
+  },
+  {
+    "id": 3588,
+    "question": "cambiamos",
+    "questionDetails": "Así que lo cambiamos.",
+    "answer": "switched, change, swap",
+    "answerDetails": "So we switched it out."
+  },
+  {
+    "id": 3589,
+    "question": "labios",
+    "questionDetails": "Su voz, sus ojos sus manos, sus labios.",
+    "answer": "lips",
+    "answerDetails": "Your voice, your eyes your hands, your lips."
+  },
+  {
+    "id": 3590,
+    "question": "escapa",
+    "questionDetails": "Nadie se me escapa.",
+    "answer": "escapes, run away, flees",
+    "answerDetails": "No one escapes me."
+  },
+  {
+    "id": 3591,
+    "question": "cargado",
+    "questionDetails": "Programa cargado y listo.",
+    "answer": "loaded",
+    "answerDetails": "Program loaded and ready."
+  },
+  {
+    "id": 3592,
+    "question": "mercancía",
+    "questionDetails": "Hay que asegurarse que la mercancía no se estropeé.",
+    "answer": "goods, commodity, merchandise",
+    "answerDetails": "We must ensure the goods don’t spoil."
+  },
+  {
+    "id": 3593,
+    "question": "gol",
+    "questionDetails": "Pumas le ganó a Chivas con un marcador de 3 goles a uno.",
+    "answer": "goal",
+    "answerDetails": "Pumas beat Chivas by a score of three goals to one."
+  },
+  {
+    "id": 3594,
+    "question": "fiscal",
+    "questionDetails": "El Congreso quiere reformar el sistema fiscal.",
+    "answer": "tax, prosecutor",
+    "answerDetails": "Congress wants to reform the tax system."
+  },
+  {
+    "id": 3595,
+    "question": "bronca",
+    "questionDetails": "… algún otro lugar tienes dolor y bronca.",
+    "answer": "anger",
+    "answerDetails": "… somewhere you have pain and anger."
+  },
+  {
+    "id": 3596,
+    "question": "república",
+    "questionDetails": "El resultado es una república.",
+    "answer": "republic",
+    "answerDetails": "The result to be a republic."
+  },
+  {
+    "id": 3597,
+    "question": "pobrecita",
+    "questionDetails": "Pobrecita de mi madre.",
+    "answer": "poor",
+    "answerDetails": "Poor mother of mine."
+  },
+  {
+    "id": 3598,
+    "question": "canciones",
+    "questionDetails": "Y ambos tienen canciones brillantes.",
+    "answer": "songs, tunes, tracks",
+    "answerDetails": "And you both have brilliant songs."
+  },
+  {
+    "id": 3599,
+    "question": "quietos",
+    "questionDetails": "Los árboles están muy quietos.",
+    "answer": "still, freeze",
+    "answerDetails": "The trees are so still."
+  },
+  {
+    "id": 3600,
+    "question": "amas",
+    "questionDetails": "Tienes que seguirlo, Teresa. Lo amas.",
+    "answer": "you love him",
+    "answerDetails": "You have to go after him, Teresa. You love him."
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "id": 4801,
+    "question": "compañeras",
+    "questionDetails": "Vamos, bellas compañeras.",
+    "answer": "companions, roommates, teammates",
+    "answerDetails": "Let us go, gracious companions."
+  },
+  {
+    "id": 4802,
+    "question": "permites",
+    "questionDetails": "Pero nunca permites a la energía ser pura.",
+    "answer": "allow",
+    "answerDetails": "But you never allow energy to be pure."
+  },
+  {
+    "id": 4803,
+    "question": "eches",
+    "questionDetails": "Quiero que le eches un vistazo.",
+    "answer": "take",
+    "answerDetails": "I want you to take a look."
+  },
+  {
+    "id": 4804,
+    "question": "vaca",
+    "questionDetails": "Atravesamos un campo lleno de vacas.",
+    "answer": "cow, beef",
+    "answerDetails": "We walked across a field full of cows."
+  },
+  {
+    "id": 4805,
+    "question": "envío",
+    "questionDetails": "Un envío acelerado cuesta más.",
+    "answer": "shipping, consignment, shipment",
+    "answerDetails": "Priority shipping will cost extra."
+  },
+  {
+    "id": 4806,
+    "question": "obligar",
+    "questionDetails": "Obligar a alguien a hacer algo.",
+    "answer": "compel",
+    "answerDetails": "To compel somebody to do something."
+  },
+  {
+    "id": 4807,
+    "question": "publicidad",
+    "questionDetails": "A pesar de ser instruido a tomar las señales hacia abajo, dice que no tiene intención de eliminar la publicidad.",
+    "answer": "advertising, publicity, promotion",
+    "answerDetails": "Despite being instructed to take the signs down, he says he has no intention of removing the advertising."
+  },
+  {
+    "id": 4808,
+    "question": "generoso",
+    "questionDetails": "Un generoso benefactor de la Universidad.",
+    "answer": "generous",
+    "answerDetails": "A generous benefactor to the University."
+  },
+  {
+    "id": 4809,
+    "question": "cuadras",
+    "questionDetails": "Pensé que podríamos caminar unas pocas cuadras.",
+    "answer": "blocks, stables, streets",
+    "answerDetails": "I thought we’d just walk a few blocks."
+  },
+  {
+    "id": 4810,
+    "question": "look",
+    "questionDetails": "Me gusta el nuevo look del sitio.",
+    "answer": "look, outfit",
+    "answerDetails": "I like the new look of the place."
+  },
+  {
+    "id": 4811,
+    "question": "largar",
+    "answer": "leave"
+  },
+  {
+    "id": 4812,
+    "question": "placa",
+    "questionDetails": "La placa del Océano Pacífico.",
+    "answer": "plate, board, badge",
+    "answerDetails": "The Pacific Ocean plate."
+  },
+  {
+    "id": 4813,
+    "question": "convencida",
+    "questionDetails": "Estaba convencida de que había atropellado a alguien.",
+    "answer": "convinced, persuaded",
+    "answerDetails": "She was convinced that she had run someone over."
+  },
+  {
+    "id": 4814,
+    "question": "incómodo",
+    "questionDetails": "Es incómodo tener que ir hasta allí en auto cada vez que tenemos que enviar un paquete.",
+    "answer": "inconvenient, uneasy, cumbersome",
+    "answerDetails": "It is inconvenient to drive there every time we need to send a large package."
+  },
+  {
+    "id": 4815,
+    "question": "novedades",
+    "questionDetails": "Todos sus favoritos y una o dos novedades.",
+    "answer": "novelties, news, developments",
+    "answerDetails": "All your favourites and one or two novelties."
+  },
+  {
+    "id": 4816,
+    "question": "quédense",
+    "questionDetails": "Quédense en su lugar.",
+    "answer": "stay, stick around",
+    "answerDetails": "Stay where you belong."
+  },
+  {
+    "id": 4817,
+    "question": "garantizo",
+    "questionDetails": "Le garantizo que el plan del almirante es bueno.",
+    "answer": "guarantee, assure",
+    "answerDetails": "I guarantee the admiral’s plan is sound."
+  },
+  {
+    "id": 4818,
+    "question": "serios",
+    "questionDetails": "Si realmente somos serios y nos preocupa.",
+    "answer": "serious",
+    "answerDetails": "And if we are at all serious and are concerned."
+  },
+  {
+    "id": 4819,
+    "question": "díselo",
+    "questionDetails": "Díselo al juez entonces.",
+    "answer": "tell",
+    "answerDetails": "Tell the judge that."
+  },
+  {
+    "id": 4820,
+    "question": "evitarlo",
+    "questionDetails": "Realmente deseaba evitarlo esta vez.",
+    "answer": "avoid",
+    "answerDetails": "I was really hoping to avoid that this time."
+  },
+  {
+    "id": 4821,
+    "question": "fiar",
+    "questionDetails": "… hacer desaparecer millones, y luego parecer fiar días después.",
+    "answer": "legit, trust, reliable",
+    "answerDetails": "… make millions disappear, then look legit days later."
+  },
+  {
+    "id": 4822,
+    "question": "roma",
+    "questionDetails": "Aunque Roma es famosa por ser la capital de Italia, prefiero Venecia.",
+    "answer": "rome",
+    "answerDetails": "Although Rome is famous for being the capital of Italy, I much prefer Venice."
+  },
+  {
+    "id": 4823,
+    "question": "terminen",
+    "questionDetails": "Cuando terminen, tomen sus lugares.",
+    "answer": "finish",
+    "answerDetails": "When you finish, take your place over there."
+  },
+  {
+    "id": 4824,
+    "question": "armada",
+    "questionDetails": "Se unió a la Armada en 1990.",
+    "answer": "navy",
+    "answerDetails": "She joined the Navy in 1990."
+  },
+  {
+    "id": 4825,
+    "question": "comentó",
+    "questionDetails": "Me comentó que ese espectro se …",
+    "answer": "commented, remarked, said",
+    "answerDetails": "I commented, as that spectre …"
+  },
+  {
+    "id": 4826,
+    "question": "retirarse",
+    "questionDetails": "La falta de números obligó a la fuerza británica a retirarse.",
+    "answer": "retire, retreat",
+    "answerDetails": "Lack of numbers compelled the British force to retire."
+  },
+  {
+    "id": 4827,
+    "question": "vuela",
+    "questionDetails": "Pero esto vuela más eficazmente que esto.",
+    "answer": "flies, blow, soar",
+    "answerDetails": "But this flies better than that."
+  },
+  {
+    "id": 4828,
+    "question": "tomarse",
+    "questionDetails": "Podría tomarse el día libre.",
+    "answer": "take",
+    "answerDetails": "Might take the day off!"
+  },
+  {
+    "id": 4829,
+    "question": "protagonista",
+    "questionDetails": "El protagonista principal de la novela es un oficial de inteligencia estadounidense.",
+    "answer": "protagonist",
+    "answerDetails": "The novel’s main protagonist is an American intelligence officer."
+  },
+  {
+    "id": 4830,
+    "question": "trabajador",
+    "questionDetails": "Usted no es un trabajador ferroviario.",
+    "answer": "worker",
+    "answerDetails": "You are nota railway worker."
+  },
+  {
+    "id": 4831,
+    "question": "intervenir",
+    "questionDetails": "Si los grandes poderes querían intervenir.",
+    "answer": "intervene",
+    "answerDetails": "If the great powers wanted to intervene."
+  },
+  {
+    "id": 4832,
+    "question": "tocan",
+    "questionDetails": "Mis manos te tocan, mis ojos te ven.",
+    "answer": "touch",
+    "answerDetails": "My hands touch you, my eyes see you."
+  },
+  {
+    "id": 4833,
+    "question": "temporal",
+    "questionDetails": "Me dieron una visa temporal para entrar a los Estados Unidos.",
+    "answer": "temporary",
+    "answerDetails": "I was granted a temporary visa to enter the United States."
+  },
+  {
+    "id": 4834,
+    "question": "unir",
+    "questionDetails": "Llamó al partido para unir.",
+    "answer": "unite, bind",
+    "answerDetails": "He called on the party to unite."
+  },
+  {
+    "id": 4835,
+    "question": "baños",
+    "questionDetails": "Una visita a los baños turcos seguramente será una experiencia reconstituyente.",
+    "answer": "baths",
+    "answerDetails": "A visit to the Turkish baths is sure to be a restorative experience."
+  },
+  {
+    "id": 4836,
+    "question": "explicarme",
+    "questionDetails": "Nada podría explicarme esto.",
+    "answer": "explain",
+    "answerDetails": "Nothing could explain this."
+  },
+  {
+    "id": 4837,
+    "question": "tomarte",
+    "questionDetails": "Deberías tomarte unos días.",
+    "answer": "take",
+    "answerDetails": "You should take some time off."
+  },
+  {
+    "id": 4838,
+    "question": "avisaron",
+    "answer": "Told"
+  },
+  {
+    "id": 4839,
+    "question": "internacionales",
+    "questionDetails": "Entrar como trabajadores voluntarios internacionales.",
+    "answer": "international",
+    "answerDetails": "Going in as international aid workers."
+  },
+  {
+    "id": 4840,
+    "question": "complejo",
+    "questionDetails": "Se estrenará el complejo médico más moderno del país en Enero.",
+    "answer": "center",
+    "answerDetails": "The country’s most modern medical center will open in January."
+  },
+  {
+    "id": 4841,
+    "question": "pájaro",
+    "questionDetails": "Las urracas son algunos de los pájaros más inteligentes.",
+    "answer": "bird",
+    "answerDetails": "Magpies are among the most intelligent of birds."
+  },
+  {
+    "id": 4842,
+    "question": "conocías",
+    "questionDetails": "Conocías a muchos cubanos cuando vivías en Miami, ¿cierto?",
+    "answer": "you knew",
+    "answerDetails": "You knew a lot of Cubans when you lived in Miami, right?"
+  },
+  {
+    "id": 4843,
+    "question": "actuación",
+    "questionDetails": "Después de la cuarta derrota seguida, los fanáticos comenzaron a quejarse sobre la actuación del equipo.",
+    "answer": "performance, action, gig",
+    "answerDetails": "After the fourth loss in a row, fans began to complain about the team’s performance."
+  },
+  {
+    "id": 4844,
+    "question": "cerramos",
+    "questionDetails": "Cerramos la bomba de vacío.",
+    "answer": "close",
+    "answerDetails": "Close the vacuum pump."
+  },
+  {
+    "id": 4845,
+    "question": "tapar",
+    "questionDetails": "Aumentan el precio del tabaco siempre que necesitan tapar un agujero en los ingresos fiscales.",
+    "answer": "plug",
+    "answerDetails": "They increase tobacco duties whenever they need to plug a gap in national tax."
+  },
+  {
+    "id": 4846,
+    "question": "bebida",
+    "questionDetails": "Una fiesta no es una fiesta sin bebida.",
+    "answer": "drink, booze",
+    "answerDetails": "A party isn’t a party without drinks."
+  },
+  {
+    "id": 4847,
+    "question": "enseñé",
+    "questionDetails": "Le enseñé eso hoy.",
+    "answer": "taught, showed",
+    "answerDetails": "I just taught him that today."
+  },
+  {
+    "id": 4848,
+    "question": "ganan",
+    "answer": "Win"
+  },
+  {
+    "id": 4849,
+    "question": "asegura",
+    "questionDetails": "Eso solo asegura su supervivencia.",
+    "answer": "ensures, assures, secures",
+    "answerDetails": "That alone ensures your survival."
+  },
+  {
+    "id": 4850,
+    "question": "cierren",
+    "questionDetails": "Si podemos meter a alguien antes de que cierren.",
+    "answer": "close, shut, shut down",
+    "answerDetails": "If we can get someone inside before they close it."
+  },
+  {
+    "id": 4851,
+    "question": "fallado",
+    "questionDetails": "Todos los esfuerzos por contener el núcleo han fallado.",
+    "answer": "failed, missed, ruled",
+    "answerDetails": "All attempts to contain the core have failed."
+  },
+  {
+    "id": 4852,
+    "question": "elegí",
+    "questionDetails": "Nadie me obligó: yo elegí ofrecerme como voluntaria para esta tarea.",
+    "answer": "i chose",
+    "answerDetails": "Nobody forced me: I chose to volunteer for this task."
+  },
+  {
+    "id": 4853,
+    "question": "dedicado",
+    "questionDetails": "Siempre ha sido un estudiante dedicado, así que fue raro verlo en el pub un martes por la tarde.",
+    "answer": "dedicated",
+    "answerDetails": "He has always been a dedicated student, so it was odd seeing him at the pub on a Tuesday afternoon."
+  },
+  {
+    "id": 4854,
+    "question": "enseñe",
+    "answer": "i taught"
+  },
+  {
+    "id": 4855,
+    "question": "árboles",
+    "questionDetails": "Los árboles, el agua.",
+    "answer": "trees, axles",
+    "answerDetails": "Trees and the water."
+  },
+  {
+    "id": 4856,
+    "question": "cerrando",
+    "questionDetails": "Algo la está cerrando desde afuera.",
+    "answer": "closing, shutting, shutting down",
+    "answerDetails": "Something is closing it from outside."
+  },
+  {
+    "id": 4857,
+    "question": "guantes",
+    "questionDetails": "Me gustan los guantes.",
+    "answer": "gloves, mittens",
+    "answerDetails": "I like the gloves."
+  },
+  {
+    "id": 4858,
+    "question": "perdidos",
+    "questionDetails": "Los encontramos vagando como niños perdidos.",
+    "answer": "lost, missing, stray",
+    "answerDetails": "We find them wandering like lost children."
+  },
+  {
+    "id": 4859,
+    "question": "escuchaba",
+    "questionDetails": "El hombre escuchaba y todo se hacía realidad.",
+    "answer": "listened, sounded",
+    "answerDetails": "Man listened and it became real."
+  },
+  {
+    "id": 4860,
+    "question": "cigarro",
+    "questionDetails": "Creo que tiene un cabo de cigarro dentro.",
+    "answer": "cigar",
+    "answerDetails": "I think it has a place of cigar inside."
+  },
+  {
+    "id": 4861,
+    "question": "bobo",
+    "questionDetails": "¡ No seas bobo! ¡ Sabes muy bien de lo que estoy hablando!.",
+    "answer": "daft",
+    "answerDetails": "Don’t be daft! You know exactly what I’m talking about!."
+  },
+  {
+    "id": 4862,
+    "question": "agentes",
+    "questionDetails": "Latidos detectados para todos los agentes de réplica en ejecución.",
+    "answer": "agents, actors, officers",
+    "answerDetails": "Heartbeats detected for all running replication agents."
+  },
+  {
+    "id": 4863,
+    "question": "pastel",
+    "questionDetails": "Un pastel de boda.",
+    "answer": "cake, pie",
+    "answerDetails": "A wedding cake."
+  },
+  {
+    "id": 4864,
+    "question": "muévete",
+    "questionDetails": "Muévete lentamente a esa esquina.",
+    "answer": "move",
+    "answerDetails": "Move slowly to that corner."
+  },
+  {
+    "id": 4865,
+    "question": "maricón",
+    "questionDetails": "Le dijo maricón a su compañero y lo expulsaron de la escuela.",
+    "answer": "faggot, poof",
+    "answerDetails": "She called a classmate a faggot and was expelled from school."
+  },
+  {
+    "id": 4866,
+    "question": "computadora",
+    "questionDetails": "Esos cables están probablemente conectados a la computadora.",
+    "answer": "computer",
+    "answerDetails": "Those cables are probably connected to the computer."
+  },
+  {
+    "id": 4867,
+    "question": "cruzados",
+    "questionDetails": "así que obviamente no necesitamos cruzados",
+    "answer": "crusaders, cross, folded",
+    "answerDetails": "so obviously we don’t need crusaders"
+  },
+  {
+    "id": 4868,
+    "question": "londres",
+    "answer": "London"
+  },
+  {
+    "id": 4869,
+    "question": "corra",
+    "questionDetails": "Jamás corra con buenas noticias en el terreno.",
+    "answer": "run",
+    "answerDetails": "Never run good news into the ground."
+  },
+  {
+    "id": 4870,
+    "question": "ricas",
+    "answer": "rich, wealthy"
+  },
+  {
+    "id": 4871,
+    "question": "coja",
+    "answer": "Take"
+  },
+  {
+    "id": 4872,
+    "question": "secuestrado",
+    "questionDetails": "Creemos que la han secuestrado.",
+    "answer": "kidnapped, abducted, hijacked",
+    "answerDetails": "We believe, she has been kidnapped."
+  },
+  {
+    "id": 4873,
+    "question": "micrófono",
+    "questionDetails": "Por favor hable directamente en el micrófono. Nadie lo puede oír.",
+    "answer": "mike",
+    "answerDetails": "Please speak directly into the mike. No one can hear you."
+  },
+  {
+    "id": 4874,
+    "question": "protegiendo",
+    "questionDetails": "Estaban protegiendo su lugar más vital.",
+    "answer": "protecting, guarding",
+    "answerDetails": "They were protecting their most vital spot."
+  },
+  {
+    "id": 4875,
+    "question": "metidos",
+    "questionDetails": "Son todos mis extremos metidos en?",
+    "answer": "tucked, involved",
+    "answerDetails": "Are all my ends tucked in?"
+  },
+  {
+    "id": 4876,
+    "question": "comisaría",
+    "questionDetails": "Ellos nos llevaron a la comisaría de policía.",
+    "answer": "police station, precinct",
+    "answerDetails": "They took us to the police station."
+  },
+  {
+    "id": 4877,
+    "question": "cogió",
+    "questionDetails": "Ana dejó la trompeta y entonces cogió el micrófono y empezó a cantar.",
+    "answer": "she took",
+    "answerDetails": "Ana put down the trumpet, and then she took the microphone and began to sing."
+  },
+  {
+    "id": 4878,
+    "question": "lavado",
+    "questionDetails": "Él no es feliz, pero él me asegura que todo va a salir en el lavado.",
+    "answer": "wash, laundry",
+    "answerDetails": "He’s not happy but he assures me it’ll all come out in the wash."
+  },
+  {
+    "id": 4879,
+    "question": "respondo",
+    "questionDetails": "Pero también respondo a los silbidos.",
+    "answer": "answer, respond, vouch",
+    "answerDetails": "I also answer to whistles."
+  },
+  {
+    "id": 4880,
+    "question": "sabéis",
+    "questionDetails": "Ya sabéis lo que opina vuestra madre.",
+    "answer": "know",
+    "answerDetails": "You know how your mother feels about that."
+  },
+  {
+    "id": 4881,
+    "question": "logro",
+    "questionDetails": "El logro del reconocimiento profesional.",
+    "answer": "achievement, attainment, accomplishment",
+    "answerDetails": "The achievement of professional recognition."
+  },
+  {
+    "id": 4882,
+    "question": "escritorio",
+    "questionDetails": "Siempre tiene bien ordenado su escritorio.",
+    "answer": "desk",
+    "answerDetails": "Her desk is always really organized."
+  },
+  {
+    "id": 4883,
+    "question": "varón",
+    "questionDetails": "¿El bebé es varón o hembra?",
+    "answer": "male",
+    "answerDetails": "Is the baby male or female?"
+  },
+  {
+    "id": 4884,
+    "question": "archivos",
+    "questionDetails": "Tengo acceso legal a esos archivos.",
+    "answer": "files, archives, records",
+    "answerDetails": "I have legal access to those files."
+  },
+  {
+    "id": 4885,
+    "question": "busquen",
+    "questionDetails": "Busquen a gente que sepa.",
+    "answer": "seek",
+    "answerDetails": "Seek out people who know."
+  },
+  {
+    "id": 4886,
+    "question": "leyenda",
+    "questionDetails": "Jesse Owens se convirtió en leyenda cuando ganó su primera medalla de Oro.",
+    "answer": "legend, caption",
+    "answerDetails": "Jesse Owens became a legend when he won his first gold medal."
+  },
+  {
+    "id": 4887,
+    "question": "preocupo",
+    "questionDetails": "Me preocupo por ustedes.",
+    "answer": "worry, worried, ‘m worried about",
+    "answerDetails": "I worry for you."
+  },
+  {
+    "id": 4888,
+    "question": "acusar",
+    "questionDetails": "Las autoridades de los Estados Unidos lo acusaron de espionaje.",
+    "answer": "indict",
+    "answerDetails": "The U.S. authorities indicted him on charges of espionage."
+  },
+  {
+    "id": 4889,
+    "question": "recupere",
+    "questionDetails": "El doctor teme que no se recupere.",
+    "answer": "recover, retrieve, regain",
+    "answerDetails": "The doctor’s afraid that he might not even recover."
+  },
+  {
+    "id": 4890,
+    "question": "amistades",
+    "questionDetails": "Invité a algunas amistades a cenar.",
+    "answer": "friends",
+    "answerDetails": "I invited some friends for dinner."
+  },
+  {
+    "id": 4891,
+    "question": "puros",
+    "questionDetails": "Animales salvajes con verdaderos dones y talentos puros.",
+    "answer": "pure, cigars",
+    "answerDetails": "Wild animals with true natures and pure talents."
+  },
+  {
+    "id": 4892,
+    "question": "únicamente",
+    "questionDetails": "Este año Delia ha decidido centrarse únicamente en la escritura de su novela.",
+    "answer": "solely",
+    "answerDetails": "Delia has decided to focus solely on the writing of her novel this year."
+  },
+  {
+    "id": 4893,
+    "question": "equivocas",
+    "questionDetails": "Hoy he probado que te equivocas, madre.",
+    "answer": "wrong",
+    "answerDetails": "I proved you wrong today, mother."
+  },
+  {
+    "id": 4894,
+    "question": "rubia",
+    "questionDetails": "La rubia con el pecho falso.",
+    "answer": "blonde, blondie",
+    "answerDetails": "The blonde with the false chest?"
+  },
+  {
+    "id": 4895,
+    "question": "aparato",
+    "questionDetails": "El aparato de la ciencia podría aumentar los rendimientos de los cultivos.",
+    "answer": "appliance, apparatus, equipment",
+    "answerDetails": "The appliance of science could increase crop yields."
+  },
+  {
+    "id": 4896,
+    "question": "intimidad",
+    "questionDetails": "La comunicación es muy importante para lograr intimidad en una relación o amistad.",
+    "answer": "intimacy",
+    "answerDetails": "Communication is really important to achieve intimacy in a relationship or friendship."
+  },
+  {
+    "id": 4897,
+    "question": "bandeja",
+    "questionDetails": "Trae la bandeja y así desayunamos en la cama.",
+    "answer": "tray",
+    "answerDetails": "Bring the tray here and let’s have breakfast in bed."
+  },
+  {
+    "id": 4898,
+    "question": "comunicado",
+    "questionDetails": "El gobierno publicó un comunicado para condenar las manifestaciones recientes.",
+    "answer": "release, connected, statement",
+    "answerDetails": "The government issued a release condemning the recent riots."
+  },
+  {
+    "id": 4899,
+    "question": "empleo",
+    "questionDetails": "No tener empleo, estar desempleado (a) Or.",
+    "answer": "employment, job",
+    "answerDetails": "To be without employment."
+  },
+  {
+    "id": 4900,
+    "question": "chistes",
+    "answer": "joking"
+  }
+]

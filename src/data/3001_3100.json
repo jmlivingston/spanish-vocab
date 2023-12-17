@@ -1,0 +1,688 @@
+[
+  {
+    "id": 3001,
+    "question": "maletas",
+    "questionDetails": "Solamente esas dos maletas.",
+    "answer": "suitcases, bags, luggage",
+    "answerDetails": "Just those two suitcases."
+  },
+  {
+    "id": 3002,
+    "question": "discurso",
+    "questionDetails": "La clase examinó la estructura de las oraciones en un discurso.",
+    "answer": "discourse, address",
+    "answerDetails": "The class examined sentence structures within a discourse."
+  },
+  {
+    "id": 3003,
+    "question": "supuestamente",
+    "questionDetails": "Hubo rumores de una grieta entre él y sus colegas, supuestamente porque estaban celosos de su relación con la duquesa.",
+    "answer": "supposedly, allegedly",
+    "answerDetails": "There were rumours of a rift between him and his colleagues, supposedly because they were jealous of his relationship with the Duchess."
+  },
+  {
+    "id": 3004,
+    "question": "asiento",
+    "questionDetails": "Por favor, tome asiento.",
+    "answer": "seat",
+    "answerDetails": "Please take a seat."
+  },
+  {
+    "id": 3005,
+    "question": "regalar",
+    "answer": "gift"
+  },
+  {
+    "id": 3006,
+    "question": "etapa",
+    "questionDetails": "La etapa final del viaje es hecha por el entrenador.",
+    "answer": "stage, phase",
+    "answerDetails": "The final stage of the journey is made by coach."
+  },
+  {
+    "id": 3007,
+    "question": "vehículo",
+    "questionDetails": "¿Tienes vehículo o quieres que te lleve?",
+    "answer": "transport, vehicle, conveyance",
+    "answerDetails": "Do you have transport or do you want a ride?"
+  },
+  {
+    "id": 3008,
+    "question": "puente",
+    "questionDetails": "Puedes cruzar el río a través del puente.",
+    "answer": "bridge",
+    "answerDetails": "You can cross the river using the bridge."
+  },
+  {
+    "id": 3009,
+    "question": "buscado",
+    "questionDetails": "Su amistad fue muy buscado después.",
+    "answer": "sought",
+    "answerDetails": "Their acquaintance was exceedingly sought after."
+  },
+  {
+    "id": 3010,
+    "question": "pregúntale",
+    "questionDetails": "Pregúntale cuánto quiere por su coche.",
+    "answer": "ask him, ask her",
+    "answerDetails": "Ask him how much he wants for his car."
+  },
+  {
+    "id": 3011,
+    "question": "entran",
+    "questionDetails": "Entran dos robots, sale uno.",
+    "answer": "enter",
+    "answerDetails": "Two robots enter, one robot leaves."
+  },
+  {
+    "id": 3012,
+    "question": "molesto",
+    "questionDetails": "Llamadas no solicitadas son molestos.",
+    "answer": "annoying, upset, annoyed",
+    "answerDetails": "Unsolicited calls are annoying."
+  },
+  {
+    "id": 3013,
+    "question": "estarán",
+    "questionDetails": "Ustedes también lo estarán si no se ocupan de esto.",
+    "answer": "are",
+    "answerDetails": "So are you if you don’t deal with this situation."
+  },
+  {
+    "id": 3014,
+    "question": "parto",
+    "questionDetails": "El parto fue complicado porque los pies del bebé salieron primero.",
+    "answer": "delivery, childbirth, labor",
+    "answerDetails": "The delivery was complicated because the baby’s feet came out first."
+  },
+  {
+    "id": 3015,
+    "question": "sienten",
+    "questionDetails": "Los niños quieren disculparse. Sienten haberte mentido.",
+    "answer": "they are sorry",
+    "answerDetails": "The kids want to apologize. They are sorry they lied to you."
+  },
+  {
+    "id": 3016,
+    "question": "instante",
+    "questionDetails": "El instante que entré a mi cuenta bancaria, supe que algo estaba mal.",
+    "answer": "instant, moment",
+    "answerDetails": "The instant I logged onto my bank account, I knew something was wrong."
+  },
+  {
+    "id": 3017,
+    "question": "habrás",
+    "questionDetails": "Asumo que te les habrás acercado.",
+    "answer": "‘ve",
+    "answerDetails": "I assume you’ve approached them."
+  },
+  {
+    "id": 3018,
+    "question": "cuentan",
+    "questionDetails": "Los niños del colegio de sordos no cuentan.",
+    "answer": "count, feature, have",
+    "answerDetails": "That kid at the deaf school don’t count!"
+  },
+  {
+    "id": 3019,
+    "question": "siglo",
+    "questionDetails": "El siglo XIX.",
+    "answer": "century",
+    "answerDetails": "The 19th century."
+  },
+  {
+    "id": 3020,
+    "question": "apaga",
+    "questionDetails": "Cuando dejes la carretera, apaga las luces.",
+    "answer": "turn off, off",
+    "answerDetails": "When you leave the highway, turn off all your lights."
+  },
+  {
+    "id": 3021,
+    "question": "escribe",
+    "answer": "you are writing"
+  },
+  {
+    "id": 3022,
+    "question": "subí",
+    "questionDetails": "Me subí al taxi al salir ustedes y hallé esto en …",
+    "answer": "hopped, climbed, got",
+    "answerDetails": "I hopped into the cab afteryou and found this on …"
+  },
+  {
+    "id": 3023,
+    "question": "periodista",
+    "questionDetails": "El periodista que mataste me preguntó lo mismo.",
+    "answer": "journalist",
+    "answerDetails": "The journalist asked you fired too."
+  },
+  {
+    "id": 3024,
+    "question": "descanse",
+    "questionDetails": "Quiero que usted descanse.",
+    "answer": "rest",
+    "answerDetails": "I want you to rest."
+  },
+  {
+    "id": 3025,
+    "question": "flor",
+    "questionDetails": "Desperdició la flor de la juventud francesa en sus sueños de Imperio.",
+    "answer": "flower, blossom",
+    "answerDetails": "He wasted the flower of French youth on his dreams of empire."
+  },
+  {
+    "id": 3026,
+    "question": "encerrada",
+    "questionDetails": "Estuvo encerrada en ese sitio durante mucho tiempo.",
+    "answer": "cooped up, locked, enclosed",
+    "answerDetails": "Cooped up in that place for so long."
+  },
+  {
+    "id": 3027,
+    "question": "dudo",
+    "questionDetails": "No lo dudo amigo.",
+    "answer": "doubt, doubtful",
+    "answerDetails": "No doubt my friend."
+  },
+  {
+    "id": 3028,
+    "question": "competencia",
+    "questionDetails": "La competencia de la corte ha sido aceptada para cubrir estos asuntos.",
+    "answer": "competence",
+    "answerDetails": "The Court’s competence has been accepted to cover these matters."
+  },
+  {
+    "id": 3029,
+    "question": "busque",
+    "questionDetails": "Busque actividades que lo hagan feliz.",
+    "answer": "try to find",
+    "answerDetails": "Try to find activities that make you happy."
+  },
+  {
+    "id": 3030,
+    "question": "medicina",
+    "questionDetails": "La medicina que uso para los dolores de cabeza está en el armario.",
+    "answer": "medicine, medication",
+    "answerDetails": "The medicine I use for headaches is in the cabinet."
+  },
+  {
+    "id": 3031,
+    "question": "estupidez",
+    "questionDetails": "Salir con una mujer casada fue una verdadera estupidez. Me alegro de que dejaras de verla.",
+    "answer": "stupidity, foolishness",
+    "answerDetails": "Dating a married woman was a real stupidity. I’m glad you stopped seeing her."
+  },
+  {
+    "id": 3032,
+    "question": "separar",
+    "questionDetails": "La segunda etapa del cohete no pudo separar.",
+    "answer": "separate, detach",
+    "answerDetails": "The second stage of the rocket failed to separate."
+  },
+  {
+    "id": 3033,
+    "question": "obligación",
+    "questionDetails": "Tienes la obligación de ayudar a cuidar a tu hija.",
+    "answer": "duty, obligation",
+    "answerDetails": "You have a duty to help take care of your daughter."
+  },
+  {
+    "id": 3034,
+    "question": "whisky",
+    "questionDetails": "Brian y sus amigos celebraron su jubilación con whisky escocés y puros.",
+    "answer": "whiskey",
+    "answerDetails": "Brian and his friends celebrated his retirement with Scotch whiskey and cigars."
+  },
+  {
+    "id": 3035,
+    "question": "pensarlo",
+    "questionDetails": "Quizás deba pensarlo de nuevo.",
+    "answer": "think",
+    "answerDetails": "Maybe you should think again."
+  },
+  {
+    "id": 3036,
+    "question": "amar",
+    "questionDetails": "Nos vamos a amar para siempre.",
+    "answer": "love",
+    "answerDetails": "Our love for ever and ever."
+  },
+  {
+    "id": 3037,
+    "question": "nuevamente",
+    "questionDetails": "¿Nos leerías tu poesía nuevamente?",
+    "answer": "again",
+    "answerDetails": "Can you read your poem again for us?"
+  },
+  {
+    "id": 3038,
+    "question": "pagó",
+    "questionDetails": "Ciertamente nunca le pagó ninguna a la cara.",
+    "answer": "paid",
+    "answerDetails": "He certainly never paid her any to her face."
+  },
+  {
+    "id": 3039,
+    "question": "autoridad",
+    "questionDetails": "Las fuerzas armadas tienen la autoridad legal para arrestar a los narcotraficantes.",
+    "answer": "authority",
+    "answerDetails": "Military forces have the legal authority to arrest drug traffickers."
+  },
+  {
+    "id": 3040,
+    "question": "abandonar",
+    "questionDetails": "Preferiría abandonar la nave ahora que renunciar en la vergüenza en 2 años.",
+    "answer": "abandon, forsake",
+    "answerDetails": "He would rather abandon ship now than resign in shame in two years."
+  },
+  {
+    "id": 3041,
+    "question": "dejarte",
+    "questionDetails": "A dejarte una nota.",
+    "answer": "leave",
+    "answerDetails": "To leave a note."
+  },
+  {
+    "id": 3042,
+    "question": "romántico",
+    "questionDetails": "Él es muy guapo, y tan romántico.",
+    "answer": "romantic",
+    "answerDetails": "He’s very handsome, and so romantic."
+  },
+  {
+    "id": 3043,
+    "question": "armado",
+    "questionDetails": "El sospechoso está armado y es peligroso.",
+    "answer": "armed",
+    "answerDetails": "Suspect is armed and dangerous."
+  },
+  {
+    "id": 3044,
+    "question": "sirven",
+    "questionDetails": "Ellos sirven para que nosotros no debamos hacerlo.",
+    "answer": "serve",
+    "answerDetails": "They serve so that we don’t have to."
+  },
+  {
+    "id": 3045,
+    "question": "disparo",
+    "questionDetails": "El soldado resultó herido por un disparo en el brazo.",
+    "answer": "shot",
+    "answerDetails": "The soldier was injured by a shot to the arm."
+  },
+  {
+    "id": 3046,
+    "question": "urgencia",
+    "questionDetails": "Varios delegados destacaron la urgencia de la situación.",
+    "answer": "urgency",
+    "answerDetails": "Several delegates emphasized the urgency of the situation."
+  },
+  {
+    "id": 3047,
+    "question": "suba",
+    "questionDetails": "Antes de que suba.",
+    "answer": "climb, raise, upload",
+    "answerDetails": "Before you climb out."
+  },
+  {
+    "id": 3048,
+    "question": "infarto",
+    "questionDetails": "Mi papá sufrió un infarto y lo tuvieron que operar a corazón abierto.",
+    "answer": "heart attack, cardiac",
+    "answerDetails": "My dad suffered a heart attack and had to have open-heart surgery."
+  },
+  {
+    "id": 3049,
+    "question": "sacarme",
+    "questionDetails": "Debo sacarme estas ideas negras de la cabeza.",
+    "answer": "get",
+    "answerDetails": "I must get these dark thoughts out of my head."
+  },
+  {
+    "id": 3050,
+    "question": "enviar",
+    "questionDetails": "Selecciona el archivo y luego pulsa el botón para enviar.",
+    "answer": "submit, ship",
+    "answerDetails": "Select the file and then hit the submit button."
+  },
+  {
+    "id": 3051,
+    "question": "comienzo",
+    "questionDetails": "Puedes matricularte una semana antes del comienzo del curso.",
+    "answer": "beginning, start, commencement",
+    "answerDetails": "You can register one week before the beginning of the course."
+  },
+  {
+    "id": 3052,
+    "question": "prioridad",
+    "questionDetails": "Le da prioridad a su familia sobre su trabajo.",
+    "answer": "priority",
+    "answerDetails": "She gives priority to her family over her job."
+  },
+  {
+    "id": 3053,
+    "question": "subió",
+    "questionDetails": "Al final se subió al segundo piso.",
+    "answer": "climbed, upped, ascended",
+    "answerDetails": "In the end he climbed to the second floor."
+  },
+  {
+    "id": 3054,
+    "question": "tren",
+    "questionDetails": "Una investigación está en el tren.",
+    "answer": "train, rail, gear",
+    "answerDetails": "An investigation is in train."
+  },
+  {
+    "id": 3055,
+    "question": "intentarlo",
+    "questionDetails": "Hicieron bien en no intentarlo.",
+    "answer": "try",
+    "answerDetails": "You were smart not to try."
+  },
+  {
+    "id": 3056,
+    "question": "tomen",
+    "questionDetails": "Cuando terminen, tomen sus lugares.",
+    "answer": "take, grab",
+    "answerDetails": "When you finish, take your place over there."
+  },
+  {
+    "id": 3057,
+    "question": "evidentemente",
+    "questionDetails": "Un trabajo tan evidentemente cargado de importancia.",
+    "answer": "evidently, obviously, clearly",
+    "answerDetails": "A work so evidently Laden with significance."
+  },
+  {
+    "id": 3058,
+    "question": "buscarme",
+    "answer": "me"
+  },
+  {
+    "id": 3059,
+    "question": "llevarme",
+    "answer": "Take"
+  },
+  {
+    "id": 3060,
+    "question": "pierdo",
+    "answer": "i miss"
+  },
+  {
+    "id": 3061,
+    "question": "suelto",
+    "questionDetails": "Tengo que comprar talco suelto para fijar el maquillaje.",
+    "answer": "loose",
+    "answerDetails": "I need to buy some loose talc to fix my makeup."
+  },
+  {
+    "id": 3062,
+    "question": "especiales",
+    "questionDetails": "Todos los que son especiales están bajo este techo.",
+    "answer": "special, specialty",
+    "answerDetails": "Everyone special to me is under this roof."
+  },
+  {
+    "id": 3063,
+    "question": "leyendo",
+    "questionDetails": "Mamá me estaba leyendo.",
+    "answer": "reading",
+    "answerDetails": "Mother was reading to me."
+  },
+  {
+    "id": 3064,
+    "question": "conseguimos",
+    "questionDetails": "Después de varios intentos, conseguimos la respuesta que queríamos de Ella.",
+    "answer": "we got",
+    "answerDetails": "After a few tries, we got the answer we wanted from her."
+  },
+  {
+    "id": 3065,
+    "question": "seres",
+    "questionDetails": "Y casi sin contacto con seres orgánicos.",
+    "answer": "beings, creatures",
+    "answerDetails": "And he’s had almost no interaction with organic beings."
+  },
+  {
+    "id": 3066,
+    "question": "límite",
+    "questionDetails": "Mary Ann intentó la paciencia de todos hasta el límite.",
+    "answer": "limit, ceiling, cutoff",
+    "answerDetails": "Mary Ann tried everyone’s patience to the limit."
+  },
+  {
+    "id": 3067,
+    "question": "metemos",
+    "questionDetails": "Así es como nos metemos en líos cada tres años.",
+    "answer": "get",
+    "answerDetails": "This is how we get in trouble every three years."
+  },
+  {
+    "id": 3068,
+    "question": "caen",
+    "questionDetails": "Y las ciudades se abandonan cuando las civilizaciones caen.",
+    "answer": "fall, dropping, tumble",
+    "answerDetails": "Cities are usually abandoned when civilisations fall."
+  },
+  {
+    "id": 3069,
+    "question": "sonar",
+    "questionDetails": "Oí el reloj sonar y supe que era hora de levantarme.",
+    "answer": "chime",
+    "answerDetails": "I heard the clock chime and knew it was time to get up."
+  },
+  {
+    "id": 3070,
+    "question": "descubierto",
+    "questionDetails": "El secreto descubierto impactó a todos.",
+    "answer": "exposed",
+    "answerDetails": "The exposed secret had an impact on everyone."
+  },
+  {
+    "id": 3071,
+    "question": "convierte",
+    "questionDetails": "Lo que me convierte en.",
+    "answer": "converts, turns, makes",
+    "answerDetails": "What converts me in."
+  },
+  {
+    "id": 3072,
+    "question": "divino",
+    "questionDetails": "El altar debe usarse exclusivamente para la celebración del culto divino.",
+    "answer": "divine",
+    "answerDetails": "The altar must be used exclusively for the celebration of the divine worship."
+  },
+  {
+    "id": 3073,
+    "question": "asesinato",
+    "questionDetails": "El asesinato del hombre desarmado por la policía ocasionó protestas en la ciudad.",
+    "answer": "killing",
+    "answerDetails": "The killing of the unarmed man by police spurred protests in the city."
+  },
+  {
+    "id": 3074,
+    "question": "cositas",
+    "questionDetails": "bala otras cositas acerca de que no estaba seguro de que …",
+    "answer": "tidbits, things, goodies",
+    "answerDetails": "bullet other tidbits about that i wasn’t sure you …"
+  },
+  {
+    "id": 3075,
+    "question": "flaco",
+    "answer": "feeble"
+  },
+  {
+    "id": 3076,
+    "question": "militar",
+    "questionDetails": "Academia militar.",
+    "answer": "military",
+    "answerDetails": "Military Academy."
+  },
+  {
+    "id": 3077,
+    "question": "dueña",
+    "questionDetails": "La dueña anunció que solo quedaban 5 minutos para la hora de cierre.",
+    "answer": "landlord",
+    "answerDetails": "The landlord announced that there were only five minutes left till closing time."
+  },
+  {
+    "id": 3078,
+    "question": "terapia",
+    "questionDetails": "Yolanda ha estado recibiendo terapia física 2 veces a la semana desde la cirugía.",
+    "answer": "therapy",
+    "answerDetails": "Yolanda has been receiving physical therapy twice a week since her surgery."
+  },
+  {
+    "id": 3079,
+    "question": "novedad",
+    "questionDetails": "La novedad de ser una mujer casada se desgastó.",
+    "answer": "novelty",
+    "answerDetails": "The novelty of being a married woman wore off."
+  },
+  {
+    "id": 3080,
+    "question": "apúrate",
+    "questionDetails": "¡ Apúrate!-No te preocupes. Mis amigos no se van a ir sin nosotros.",
+    "answer": "hurry",
+    "answerDetails": "Hurry!-Don’t worry. My friends won’t leave without us."
+  },
+  {
+    "id": 3081,
+    "question": "gastos",
+    "questionDetails": "La compañía pagará los gastos de viaje incurridos por los candidatos.",
+    "answer": "expenses",
+    "answerDetails": "The company will cover any travel expenses incurred by interviewees."
+  },
+  {
+    "id": 3082,
+    "question": "uf",
+    "questionDetails": "¿El arroz con mariscos cuesta $30? Uf, creo que mejor pido la hamburguesa.",
+    "answer": "oof, whew",
+    "answerDetails": "The Seafood Rice is $30? Oof, maybe I’ll just get the burger."
+  },
+  {
+    "id": 3083,
+    "question": "colgar",
+    "questionDetails": "Tengo que colgar, me llaman.",
+    "answer": "hang",
+    "answerDetails": "I have to hang, they call me."
+  },
+  {
+    "id": 3084,
+    "question": "bendición",
+    "questionDetails": "Su novela es tan grande que hasta diría que es una bendición para la humanidad.",
+    "answer": "boon",
+    "answerDetails": "Her novel is so great that I’d go so far as to call it a boon for humanity."
+  },
+  {
+    "id": 3085,
+    "question": "expediente",
+    "questionDetails": "El expediente de seguridad en el aeropuerto es de primera clase.",
+    "answer": "record, disciplinary proceedings",
+    "answerDetails": "The safety record at the airport is first class."
+  },
+  {
+    "id": 3086,
+    "question": "segundito",
+    "questionDetails": "… atrás acá en un segundito.",
+    "answer": "second",
+    "answerDetails": "… back here in just a second."
+  },
+  {
+    "id": 3087,
+    "question": "despedir",
+    "questionDetails": "Sería fácil despedirlo como todo el músculo y ningún cerebro.",
+    "answer": "dismiss",
+    "answerDetails": "It would be easy to dismiss him as all brawn and no brain."
+  },
+  {
+    "id": 3088,
+    "question": "inmediato",
+    "questionDetails": "En un futuro inmediato.",
+    "answer": "immediate",
+    "answerDetails": "In the immediate future."
+  },
+  {
+    "id": 3089,
+    "question": "brindis",
+    "questionDetails": "¡ Quiero proponer un brindis por los novios!.",
+    "answer": "toast",
+    "answerDetails": "I’d like to propose a toast to the bride and groom!."
+  },
+  {
+    "id": 3090,
+    "question": "faltar",
+    "answer": "missing"
+  },
+  {
+    "id": 3091,
+    "question": "verle",
+    "questionDetails": "Tanto tiempo sin verle.",
+    "answer": "see",
+    "answerDetails": "Long time no see."
+  },
+  {
+    "id": 3092,
+    "question": "abran",
+    "questionDetails": "Pónganse las estrellas en el pecho y abran el sobre.",
+    "answer": "open",
+    "answerDetails": "Place the stars on your chest and open the envelope."
+  },
+  {
+    "id": 3093,
+    "question": "teléfonos",
+    "questionDetails": "Tenían teléfonos de campo conectados por toda el área.",
+    "answer": "phones, telephones, handsets",
+    "answerDetails": "They had field phones strung all over the area."
+  },
+  {
+    "id": 3094,
+    "question": "metan",
+    "questionDetails": "Diles que se las metan por ahí.",
+    "answer": "shove, get",
+    "answerDetails": "You tell them they can shove it."
+  },
+  {
+    "id": 3095,
+    "question": "suceder",
+    "questionDetails": "Suceder voy a volver sólo por un tiempo.",
+    "answer": "happen",
+    "answerDetails": "Happen I’ll go back just for a while."
+  },
+  {
+    "id": 3096,
+    "question": "espectáculo",
+    "questionDetails": "Hay un espectáculo nuevo maravilloso en el teatro.",
+    "answer": "show, exhibition, spectacle",
+    "answerDetails": "There is a wonderful new show at the theater."
+  },
+  {
+    "id": 3097,
+    "question": "quitarle",
+    "questionDetails": "No quiero quitarle la vida.",
+    "answer": "take",
+    "answerDetails": "I will not take her life."
+  },
+  {
+    "id": 3098,
+    "question": "plena",
+    "questionDetails": "La plena responsabilidad se asume.",
+    "answer": "full, fully, broad",
+    "answerDetails": "Full responsibility will be assumed."
+  },
+  {
+    "id": 3099,
+    "question": "profesionales",
+    "questionDetails": "Para los temas profesionales, recurre a mí.",
+    "answer": "professional, profesionals, practitioners",
+    "answerDetails": "For your professional needs, talk to me."
+  },
+  {
+    "id": 3100,
+    "question": "tensión",
+    "questionDetails": "La tensión básica entre la libertad y el control.",
+    "answer": "tension",
+    "answerDetails": "The basic tension between freedom and control."
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "id": 4901,
+    "question": "aprovecho",
+    "questionDetails": "Aprovecho la ocasión para dar …",
+    "answer": "take",
+    "answerDetails": "I should like to take the opportunity here to give …"
+  },
+  {
+    "id": 4902,
+    "question": "fingir",
+    "questionDetails": "Desde que salí del armario, ya no tengo que fingir.",
+    "answer": "pretend",
+    "answerDetails": "Since I came out of the closet, I don’t have to pretend anymore."
+  },
+  {
+    "id": 4903,
+    "question": "localizar",
+    "questionDetails": "Los detectives están tratando de localizar el automóvil del sospechoso.",
+    "answer": "trace",
+    "answerDetails": "Detectives are trying to trace the car of the suspect."
+  },
+  {
+    "id": 4904,
+    "question": "dormí",
+    "answer": "Slept"
+  },
+  {
+    "id": 4905,
+    "question": "mantenga",
+    "questionDetails": "Dile que mantenga la línea abierta.",
+    "answer": "keep, maintain, hold",
+    "answerDetails": "Tell him to keep the line open."
+  },
+  {
+    "id": 4906,
+    "question": "tocas",
+    "questionDetails": "Quisiera que me tocas es por todas partes.",
+    "answer": "touch",
+    "answerDetails": "I want you to touch me all over."
+  },
+  {
+    "id": 4907,
+    "question": "duela",
+    "answer": "stave"
+  },
+  {
+    "id": 4908,
+    "question": "permanecer",
+    "questionDetails": "Creo que es mejor permanecer cerca de la carretera.",
+    "answer": "stay",
+    "answerDetails": "I think it is better to stay close and road."
+  },
+  {
+    "id": 4909,
+    "question": "cállense",
+    "questionDetails": "Cállense los dos y sigan buscando.",
+    "answer": "shut up",
+    "answerDetails": "Both of you shut up and keep looking."
+  },
+  {
+    "id": 4910,
+    "question": "simpático",
+    "questionDetails": "Habló en un tono simpático.",
+    "answer": "sympathetic, likeable, endearing",
+    "answerDetails": "He spoke in a sympathetic tone."
+  },
+  {
+    "id": 4911,
+    "question": "hacéis",
+    "questionDetails": "Sabéis lo que hacéis.",
+    "answer": "do",
+    "answerDetails": "You know what you do."
+  },
+  {
+    "id": 4912,
+    "question": "profundamente",
+    "questionDetails": "Encendió un cigarrillo e inhaló profundamente.",
+    "answer": "deeply, profoundly, soundly",
+    "answerDetails": "She lit a cigarette and inhaled deeply."
+  },
+  {
+    "id": 4913,
+    "question": "perseguir",
+    "questionDetails": "Perseguir ese sentimiento inicial que nunca lo recupera ras.",
+    "answer": "pursue",
+    "answerDetails": "To pursue that feeling initial that you never recovered it."
+  },
+  {
+    "id": 4914,
+    "question": "traten",
+    "questionDetails": "Traten de rastrear mi señal.",
+    "answer": "try, treat",
+    "answerDetails": "Try and home in on my signal."
+  },
+  {
+    "id": 4915,
+    "question": "conjunto",
+    "questionDetails": "Tuvimos que encontrar el conjunto de los números primos positivos de menos de 100.",
+    "answer": "set, whole, group",
+    "answerDetails": "We had to find the set of positive prime numbers less than 100."
+  },
+  {
+    "id": 4916,
+    "question": "pasemos",
+    "questionDetails": "Pero será mejor que pasemos la noche aquí.",
+    "answer": "spend",
+    "answerDetails": "But we better spend the night."
+  },
+  {
+    "id": 4917,
+    "question": "manden",
+    "questionDetails": "Mejor antes manden una postal.",
+    "answer": "send",
+    "answerDetails": "Best send a postcard first."
+  },
+  {
+    "id": 4918,
+    "question": "hablaré",
+    "questionDetails": "Hablaré contigo cuando termine mi reunión.",
+    "answer": "i will speak, i will talk",
+    "answerDetails": "I will speak with you when my meeting is over."
+  },
+  {
+    "id": 4919,
+    "question": "empiecen",
+    "questionDetails": "Empiecen con los oficiales y vayan bajando en rango.",
+    "answer": "start, begin",
+    "answerDetails": "Start with the officers and work your way down."
+  },
+  {
+    "id": 4920,
+    "question": "encanto",
+    "questionDetails": "Antes de que pudiera encender el encanto, que colgaban.",
+    "answer": "charm, allure, enchantment",
+    "answerDetails": "Before I could turn on the charm, they hung up."
+  },
+  {
+    "id": 4921,
+    "question": "levantó",
+    "answer": "he built"
+  },
+  {
+    "id": 4922,
+    "question": "fáciles",
+    "questionDetails": "Fuimos fáciles de hacer.",
+    "answer": "easy, easily",
+    "answerDetails": "We was easy to make."
+  },
+  {
+    "id": 4923,
+    "question": "sábanas",
+    "questionDetails": "¿Puedes quitar las sábanas y ponerlas en el cesto de la ropa sucia?",
+    "answer": "bedding",
+    "answerDetails": "Can you strip off the bedding and put it in the laundry hamper?"
+  },
+  {
+    "id": 4924,
+    "question": "velas",
+    "questionDetails": "Por una vez, velas en casa.",
+    "answer": "candles, sails",
+    "answerDetails": "Candles at home, for once."
+  },
+  {
+    "id": 4925,
+    "question": "productos",
+    "answer": "truck"
+  },
+  {
+    "id": 4926,
+    "question": "bicho",
+    "questionDetails": "Ese bicho me friquea.",
+    "answer": "weirdo, critter",
+    "answerDetails": "That weirdo freaks me out."
+  },
+  {
+    "id": 4927,
+    "question": "prestado",
+    "questionDetails": "No peleemos por el dinero prestado. Te daré otra semana.",
+    "answer": "borrowed",
+    "answerDetails": "Let’s not fight over the borrowed money. I will give you another week."
+  },
+  {
+    "id": 4928,
+    "question": "mueven",
+    "questionDetails": "Las señales mueven las cosas arriba y abajo.",
+    "answer": "move",
+    "answerDetails": "Signals move things up and down."
+  },
+  {
+    "id": 4929,
+    "question": "mudo",
+    "questionDetails": "Un mudo increiblemente fuerte.",
+    "answer": "mute, dumb, speechless",
+    "answerDetails": "An incredibly big mute."
+  },
+  {
+    "id": 4930,
+    "question": "acceder",
+    "questionDetails": "El veneno para ratas se debe colocar en un lugar donde no lo pueden acceder las mascotas.",
+    "answer": "get at",
+    "answerDetails": "The rat poison should be placed somewhere where pets can’t get at it."
+  },
+  {
+    "id": 4931,
+    "question": "salve",
+    "questionDetails": "Todos los soldados de la legión gritaron: “¡ Salve, Emperador!”.",
+    "answer": "hail",
+    "answerDetails": "Every soldier of the legion cried: “Hail, Emperor!”."
+  },
+  {
+    "id": 4932,
+    "question": "infantil",
+    "questionDetails": "El Partido Laborista Infantil.",
+    "answer": "infant",
+    "answerDetails": "The infant Labour Party."
+  },
+  {
+    "id": 4933,
+    "question": "separado",
+    "questionDetails": "Su madre y su padre están separados.",
+    "answer": "separate, apart",
+    "answerDetails": "Her mother and father are separated."
+  },
+  {
+    "id": 4934,
+    "question": "limpiando",
+    "questionDetails": "Uno de ustedes debe haber estado limpiando.",
+    "answer": "cleaning, wiping, swabbing",
+    "answerDetails": "One of you must have been cleaning."
+  },
+  {
+    "id": 4935,
+    "question": "escribo",
+    "questionDetails": "Yo escribo un poco.",
+    "answer": "write",
+    "answerDetails": "I write a bit."
+  },
+  {
+    "id": 4936,
+    "question": "diciembre",
+    "answer": "December"
+  },
+  {
+    "id": 4937,
+    "question": "implica",
+    "answer": "it involves"
+  },
+  {
+    "id": 4938,
+    "question": "encontrarse",
+    "questionDetails": "Los 2 yates zarparon y acordaron encontrarse 3 semanas más tarde en Ciudad del Cabo.",
+    "answer": "rendezvous",
+    "answerDetails": "The two yachts left port and arranged to rendezvous three weeks later in Cape Town."
+  },
+  {
+    "id": 4939,
+    "question": "ríe",
+    "answer": "Laugh"
+  },
+  {
+    "id": 4940,
+    "question": "crecido",
+    "answer": "tall"
+  },
+  {
+    "id": 4941,
+    "question": "envía",
+    "questionDetails": "Le envía sus disculpas.",
+    "answer": "sends, shipped, dispatches",
+    "answerDetails": "He sends his apologies."
+  },
+  {
+    "id": 4942,
+    "question": "emocional",
+    "questionDetails": "Él era un hombre joven fuertemente emocional.",
+    "answer": "emotional",
+    "answerDetails": "He was a strongly emotional young man."
+  },
+  {
+    "id": 4943,
+    "question": "impulso",
+    "questionDetails": "Todos perdimos el impulso de trabajar en el proyecto después de que oímos los comentarios despreciativos de nuestro jefe.",
+    "answer": "momentum, boost, impetus",
+    "answerDetails": "We all lost our momentum to work on the project after we heard our boss’s disparaging remarks."
+  },
+  {
+    "id": 4944,
+    "question": "mérito",
+    "questionDetails": "El cabello corto no indica ningún mérito.",
+    "answer": "merit",
+    "answerDetails": "Short hair is no indication of merit."
+  },
+  {
+    "id": 4945,
+    "question": "expresión",
+    "answer": "utterance"
+  },
+  {
+    "id": 4946,
+    "question": "notado",
+    "questionDetails": "Incluso los niños lo han notado.",
+    "answer": "noticed",
+    "answerDetails": "Even the kids have noticed."
+  },
+  {
+    "id": 4947,
+    "question": "tuvieran",
+    "questionDetails": "Como si nuestros granos de café tuvieran pedigrí.",
+    "answer": "had",
+    "answerDetails": "As if every bean in our coffee had a pedigree."
+  },
+  {
+    "id": 4948,
+    "question": "jornada",
+    "questionDetails": "La jornada comenzó con una presentación.",
+    "answer": "day",
+    "answerDetails": "The day began with an introduction."
+  },
+  {
+    "id": 4949,
+    "question": "hijita",
+    "questionDetails": "Y ahora, mi hijita está enferma.",
+    "answer": "little girl",
+    "answerDetails": "And now my little girl is sick."
+  },
+  {
+    "id": 4950,
+    "question": "andá",
+    "questionDetails": "Andá a dormir entonces.",
+    "answer": "go",
+    "answerDetails": "Go to sleep then."
+  },
+  {
+    "id": 4951,
+    "question": "fiscalía",
+    "questionDetails": "La fiscalía tiene todavía un testigo.",
+    "answer": "prosecution, procuracy, prosecutorial",
+    "answerDetails": "Prosecution has another witness."
+  },
+  {
+    "id": 4952,
+    "question": "suélteme",
+    "answer": "let me go"
+  },
+  {
+    "id": 4953,
+    "question": "nene",
+    "questionDetails": "Lo hago todo por ti, nene.",
+    "answer": "baby",
+    "answerDetails": "I do everything for you, baby."
+  },
+  {
+    "id": 4954,
+    "question": "óyeme",
+    "questionDetails": "Óyeme podríamos llevar a este …",
+    "answer": "listen",
+    "answerDetails": "Listen we could get this …"
+  },
+  {
+    "id": 4955,
+    "question": "you",
+    "questionDetails": "I’ll Order After you.",
+    "answer": "ti, os",
+    "answerDetails": "Yo pediré después de ti."
+  },
+  {
+    "id": 4956,
+    "question": "sincera",
+    "questionDetails": "Se que eres sincera y bien intencionada.",
+    "answer": "sincere, honest, heartfelt",
+    "answerDetails": "You that you are sincere and very deliberate."
+  },
+  {
+    "id": 4957,
+    "question": "regresamos",
+    "questionDetails": "Después del concierto, regresamos a mi casa.",
+    "answer": "we returned",
+    "answerDetails": "After the concert, we returned to my house."
+  },
+  {
+    "id": 4958,
+    "question": "tragos",
+    "questionDetails": "Me detuve en el camino por un par de tragos.",
+    "answer": "drinks, swigs, gulps",
+    "answerDetails": "I stopped along the way for a couple of drinks."
+  },
+  {
+    "id": 4959,
+    "question": "liberar",
+    "questionDetails": "El rey ha proclamado que liberará a todos los prisioneros de guerra.",
+    "answer": "release, liberate, unlock",
+    "answerDetails": "The King has proclaimed that he will release all prisoners of war."
+  },
+  {
+    "id": 4960,
+    "question": "vuestro",
+    "questionDetails": "Este es vuestro momento.",
+    "answer": "your",
+    "answerDetails": "This is your moment."
+  },
+  {
+    "id": 4961,
+    "question": "celulares",
+    "questionDetails": "Extraen nuestros péptidos celulares.",
+    "answer": "cellular, cell, phones",
+    "answerDetails": "They extract our cellular peptides."
+  },
+  {
+    "id": 4962,
+    "question": "ordenó",
+    "questionDetails": "Le ordenó al mesero a limpiar la mesa.",
+    "answer": "he told",
+    "answerDetails": "He told the waiter to clean up the table."
+  },
+  {
+    "id": 4963,
+    "question": "seguís",
+    "questionDetails": "O me lleváis con vosotros o me seguís allí.",
+    "answer": "follow",
+    "answerDetails": "Either take me with you or follow me there."
+  },
+  {
+    "id": 4964,
+    "question": "investigaciones",
+    "questionDetails": "Hay que llevar a cabo más investigaciones sobre la influencia de los medios sociales en nuestras vidas.",
+    "answer": "research",
+    "answerDetails": "We need to carry out more research on the influence of social media on our lives."
+  },
+  {
+    "id": 4965,
+    "question": "cometí",
+    "questionDetails": "Quizás cometí un error con las columnas.",
+    "answer": "made",
+    "answerDetails": "Maybe made a mistake with the columns."
+  },
+  {
+    "id": 4966,
+    "question": "acusando",
+    "questionDetails": "No estamos acusando a nadie.",
+    "answer": "accusing",
+    "answerDetails": "We are not accusing anyone."
+  },
+  {
+    "id": 4967,
+    "question": "horribles",
+    "questionDetails": "Me sigo acordando de cosas buenas en lugar de horribles.",
+    "answer": "horrible, awful, hideous",
+    "answerDetails": "I keep thinking of nice things instead of horrible ones."
+  },
+  {
+    "id": 4968,
+    "question": "encargue",
+    "questionDetails": "Deja que alguien más se encargue.",
+    "answer": "handle",
+    "answerDetails": "Let someone else handle it."
+  },
+  {
+    "id": 4969,
+    "question": "agarran",
+    "questionDetails": "pero ellos agarran a la presa y comienzan a hacerla girar …",
+    "answer": "seize",
+    "answerDetails": "but they seize it and start spinning …"
+  },
+  {
+    "id": 4970,
+    "question": "lastimar",
+    "questionDetails": "Nunca lastimaría a un hombre indefenso.",
+    "answer": "harm",
+    "answerDetails": "I would never harm an unarmed man."
+  },
+  {
+    "id": 4971,
+    "question": "meterle",
+    "questionDetails": "Meterle ese radio por la cabeza.",
+    "answer": "shove, put",
+    "answerDetails": "Shove that radio right through the side of his head."
+  },
+  {
+    "id": 4972,
+    "question": "borracha",
+    "questionDetails": "Yo estaba muy borracha.",
+    "answer": "drunk, drunken, lush",
+    "answerDetails": "I was so drunk."
+  },
+  {
+    "id": 4973,
+    "question": "imbéciles",
+    "questionDetails": "Imbéciles morales ante el hombre común.",
+    "answer": "imbeciles, jerks, idiots",
+    "answerDetails": "Moral imbeciles to a man."
+  },
+  {
+    "id": 4974,
+    "question": "beneficios",
+    "questionDetails": "La empresa cuestiona si podrá sostener el crecimiento de beneficios con 1$ más fuerte.",
+    "answer": "earnings, gains",
+    "answerDetails": "The company questions whether it will be able to retain its earnings growth with a stronger dollar."
+  },
+  {
+    "id": 4975,
+    "question": "impuestos",
+    "questionDetails": "Los impuestos son un hecho.",
+    "answer": "taxes, taxation, imposed",
+    "answerDetails": "Taxes are a fact."
+  },
+  {
+    "id": 4976,
+    "question": "cuenten",
+    "questionDetails": "Y ciertamente cuenten con mi apoyo.",
+    "answer": "count",
+    "answerDetails": "And indeed count on my support."
+  },
+  {
+    "id": 4977,
+    "question": "patrulla",
+    "questionDetails": "Romper a los cachorros en seises y Scouts en patrullas.",
+    "answer": "patrol",
+    "answerDetails": "Break the Cubs into sixes and Scouts into patrols."
+  },
+  {
+    "id": 4978,
+    "question": "defenderme",
+    "questionDetails": "Tengo derecho a defenderme.",
+    "answer": "defend myself",
+    "answerDetails": "I have a right to defend myself."
+  },
+  {
+    "id": 4979,
+    "question": "torta",
+    "questionDetails": "Usted no ha recibido una porción justa de la torta de la educación.",
+    "answer": "cake",
+    "answerDetails": "You have not received a fair slice of the education cake."
+  },
+  {
+    "id": 4980,
+    "question": "legales",
+    "questionDetails": "Los derechos legales de la investigación son claros.",
+    "answer": "legal, statutory, lawful",
+    "answerDetails": "The legal investigation rights are clear."
+  },
+  {
+    "id": 4981,
+    "question": "arregle",
+    "questionDetails": "Puede que arregle relojes también.",
+    "answer": "fix, straightened out",
+    "answerDetails": "He might fix clocks, too."
+  },
+  {
+    "id": 4982,
+    "question": "confesión",
+    "questionDetails": "La confesión del ladrón finalmente puso fin a la investigación.",
+    "answer": "admission, confession",
+    "answerDetails": "The thief’s admission finally brought the investigation to a close."
+  },
+  {
+    "id": 4983,
+    "question": "lotería",
+    "questionDetails": "Se sacó la lotería.",
+    "answer": "jackpot",
+    "answerDetails": "She really hit the jackpot."
+  },
+  {
+    "id": 4984,
+    "question": "regala",
+    "questionDetails": "Así que regala los dólares.",
+    "answer": "gives",
+    "answerDetails": "So it gives the dollars away."
+  },
+  {
+    "id": 4985,
+    "question": "vivas",
+    "questionDetails": "Me preocupa tanto que vivas sola.",
+    "answer": "living, alive, vivid",
+    "answerDetails": "I worry so about you living alone."
+  },
+  {
+    "id": 4986,
+    "question": "relajado",
+    "questionDetails": "Hace dos segundos estaba relajado.",
+    "answer": "relaxed",
+    "answerDetails": "I was relaxed about two seconds ago."
+  },
+  {
+    "id": 4987,
+    "question": "prometer",
+    "questionDetails": "Ella me hizo prometer no decírselo a nadie.",
+    "answer": "promise",
+    "answerDetails": "She made me promise not to tell a soul."
+  },
+  {
+    "id": 4988,
+    "question": "psicólogo",
+    "questionDetails": "Éste es el número de mi psicólogo.",
+    "answer": "psychologist",
+    "answerDetails": "This is the number of my psychologist."
+  },
+  {
+    "id": 4989,
+    "question": "alcanzó",
+    "answer": "Reached"
+  },
+  {
+    "id": 4990,
+    "question": "agarrado",
+    "questionDetails": "Ruy se corta el pelo él mismo y se niega a ir a un barbero porque es agarrado.",
+    "answer": "tightfisted",
+    "answerDetails": "Ruy cuts his own hair and refuses to see a barber because he is tightfisted."
+  },
+  {
+    "id": 4991,
+    "question": "espiando",
+    "questionDetails": "Alguien estuvo espiando el juego de cartas.",
+    "answer": "spying on, spying, peeping",
+    "answerDetails": "Someone was spying on the card game."
+  },
+  {
+    "id": 4992,
+    "question": "tomarnos",
+    "questionDetails": "Creo que todos deberíamos tomarnos un descanso ahora.",
+    "answer": "take",
+    "answerDetails": "I think maybe everyone should take a break now."
+  },
+  {
+    "id": 4993,
+    "question": "cambias",
+    "questionDetails": "Pero si lo único que cambias es la fecha.",
+    "answer": "change",
+    "answerDetails": "All you do is change the date."
+  },
+  {
+    "id": 4994,
+    "question": "interesan",
+    "questionDetails": "Ni siquiera me interesan más las mujeres.",
+    "answer": "interest, interested",
+    "answerDetails": "Even women don’t interest me any more."
+  },
+  {
+    "id": 4995,
+    "question": "intensa",
+    "questionDetails": "En un solo lugar, pero muy intensa.",
+    "answer": "intense, intensely",
+    "answerDetails": "It is localized, but very intense."
+  },
+  {
+    "id": 4996,
+    "question": "cambies",
+    "questionDetails": "Sugiero que te cambies por algo más apropiado.",
+    "answer": "change",
+    "answerDetails": "I suggest you change into something more suitable."
+  },
+  {
+    "id": 4997,
+    "question": "tomate",
+    "questionDetails": "Estos tomates se ven deliciosos.",
+    "answer": "tomato",
+    "answerDetails": "These tomatoes look delicious."
+  },
+  {
+    "id": 4998,
+    "question": "entiendan",
+    "questionDetails": "Quiero que esos convictos entiendan quién manda.",
+    "answer": "understand",
+    "answerDetails": "I want those cons to understand who owns them."
+  },
+  {
+    "id": 4999,
+    "question": "cruel",
+    "questionDetails": "Que era cruel de ella para criticar.",
+    "answer": "unkind, callous",
+    "answerDetails": "It was unkind of her to criticize."
+  },
+  {
+    "id": 5000,
+    "question": "abandonada",
+    "questionDetails": "Una aldea abandonada, sin habitantes.",
+    "answer": "abandoned, deserted, derelict",
+    "answerDetails": "An abandoned village, a ghost town."
+  }
+]

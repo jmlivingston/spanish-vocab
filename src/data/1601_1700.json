@@ -1,0 +1,686 @@
+[
+  {
+    "id": 1601,
+    "question": "abrazo",
+    "questionDetails": "Creo que lo que necesitas es un abrazo.",
+    "answer": "hug, embrace",
+    "answerDetails": "I think what you need is a hug."
+  },
+  {
+    "id": 1602,
+    "question": "vacaciones",
+    "questionDetails": "¿Qué hiciste durante tus vacaciones de verano?",
+    "answer": "holiday, vacation",
+    "answerDetails": "What did you do during your summer holidays?"
+  },
+  {
+    "id": 1603,
+    "question": "presión",
+    "questionDetails": "Siempre me sentí bajo presión en esa empresa.",
+    "answer": "pressure",
+    "answerDetails": "I always felt under pressure at that company."
+  },
+  {
+    "id": 1604,
+    "question": "tele",
+    "answer": "TV"
+  },
+  {
+    "id": 1605,
+    "question": "usa",
+    "questionDetails": "Éste es mi figura de acción favorita. Usa rayos láser para derrotar a sus enemigos.",
+    "answer": "it uses, she wears, she uses",
+    "answerDetails": "This is my favorite action figure. It uses laser beams to defeat its enemies."
+  },
+  {
+    "id": 1606,
+    "question": "vos",
+    "questionDetails": "Vos sois muy prudente al desconfiar de estos hombres, señor mío.",
+    "answer": "thou",
+    "answerDetails": "Thou art most wise to be suspicious of these men, m’lord."
+  },
+  {
+    "id": 1607,
+    "question": "regreso",
+    "questionDetails": "Tras mi regreso a Nueva York, volví a trabajar de periodista.",
+    "answer": "return, comeback",
+    "answerDetails": "Following my return to New York, I started working as a journalist again."
+  },
+  {
+    "id": 1608,
+    "question": "tocó",
+    "questionDetails": "Podemos probar a Charlotte. Tocó el bajo en una banda de Jazz.",
+    "answer": "she played, he felt",
+    "answerDetails": "We can audition Charlotte. She played bass in a jazz band."
+  },
+  {
+    "id": 1609,
+    "question": "aseguro",
+    "questionDetails": "Le aseguro que mis intenciones son nobles.",
+    "answer": "assure, swear",
+    "answerDetails": "I assure you my intentions are honorable."
+  },
+  {
+    "id": 1610,
+    "question": "novios",
+    "questionDetails": "Sus novios son la misma persona.",
+    "answer": "boyfriends, grooms, sweethearts",
+    "answerDetails": "Your boyfriends are the same person."
+  },
+  {
+    "id": 1611,
+    "question": "confía",
+    "questionDetails": "Confía en él y lo necesita.",
+    "answer": "relies, trust, entrusted",
+    "answerDetails": "He relies on him and he needs him."
+  },
+  {
+    "id": 1612,
+    "question": "cansada",
+    "questionDetails": "Estoy cansada de mentir.",
+    "answer": "tired, weary, sick",
+    "answerDetails": "I was tired of lying."
+  },
+  {
+    "id": 1613,
+    "question": "detalles",
+    "questionDetails": "Haz clic en el siguiente enlace para obtener más detalles sobre el programa del Congreso.",
+    "answer": "specifics",
+    "answerDetails": "Click on the following link to learn more about the specifics of the conference program."
+  },
+  {
+    "id": 1614,
+    "question": "actitud",
+    "questionDetails": "No me gusta tu actitud.",
+    "answer": "attitude",
+    "answerDetails": "I don’t like your attitude."
+  },
+  {
+    "id": 1615,
+    "question": "río",
+    "questionDetails": "Un río de sangre.",
+    "answer": "river",
+    "answerDetails": "A river of blood."
+  },
+  {
+    "id": 1616,
+    "question": "tonta",
+    "questionDetails": "¡ Solo estaba bromeando, tonta!.",
+    "answer": "silly, fool",
+    "answerDetails": "I was just joking, silly!."
+  },
+  {
+    "id": 1617,
+    "question": "ayudando",
+    "questionDetails": "Creía que te estábamos ayudando.",
+    "answer": "helping, assisting, aiding",
+    "answerDetails": "We thought we were helping."
+  },
+  {
+    "id": 1618,
+    "question": "datos",
+    "questionDetails": "No hay datos suficientes para reconstruir tal objeto.",
+    "answer": "data",
+    "answerDetails": "Insufficient data to reconstruct the requested object."
+  },
+  {
+    "id": 1619,
+    "question": "carne",
+    "questionDetails": "Nunca he sido uno para negar los placeres de la carne.",
+    "answer": "flesh",
+    "answerDetails": "I have never been one to deny the pleasures of the flesh."
+  },
+  {
+    "id": 1620,
+    "question": "aguantar",
+    "questionDetails": "Si no puede aguantar el dolor, podemos darle anestesia.",
+    "answer": "endure",
+    "answerDetails": "If you cannot endure the pain, we can give you an anesthetic."
+  },
+  {
+    "id": 1621,
+    "question": "cuida",
+    "questionDetails": "Su padre grita a usted porque él cuida.",
+    "answer": "cares, takes care, take care",
+    "answerDetails": "Your father yells at you because he cares."
+  },
+  {
+    "id": 1622,
+    "question": "azul",
+    "questionDetails": "Este trozo azul, es la parte letal.",
+    "answer": "blue",
+    "answerDetails": "This blue portion, that’s the deadly part."
+  },
+  {
+    "id": 1623,
+    "question": "inglés",
+    "questionDetails": "El inglés no es un idioma fácil de aprender.",
+    "answer": "english",
+    "answerDetails": "English is not an easy language to learn."
+  },
+  {
+    "id": 1624,
+    "question": "ello",
+    "questionDetails": "Nunca podría hablar de ello.",
+    "answer": "it",
+    "answerDetails": "She would never be able to talk about it."
+  },
+  {
+    "id": 1625,
+    "question": "decirlo",
+    "questionDetails": "Yo sé qué fue lo que sucedió, pero temo decirlo.",
+    "answer": "say it",
+    "answerDetails": "I know what happened, but I am afraid to say it."
+  },
+  {
+    "id": 1626,
+    "question": "llamamos",
+    "questionDetails": "Te llamamos 3 veces pero nunca contéstaste el teléfono.",
+    "answer": "we called",
+    "answerDetails": "We called you three times but you never answered the phone."
+  },
+  {
+    "id": 1627,
+    "question": "déjeme",
+    "questionDetails": "Sea amable y déjeme echarle un vistazo.",
+    "answer": "let me",
+    "answerDetails": "Do me a favour, let me take a look."
+  },
+  {
+    "id": 1628,
+    "question": "mentiras",
+    "questionDetails": "Diles algunas mentiras sobre mi ahora.",
+    "answer": "lies",
+    "answerDetails": "Tell some lies about me now."
+  },
+  {
+    "id": 1629,
+    "question": "cantar",
+    "questionDetails": "La poesía debe cantar la variedad de la raza humana.",
+    "answer": "sing",
+    "answerDetails": "Poetry should sing the variety of the human race."
+  },
+  {
+    "id": 1630,
+    "question": "juntas",
+    "questionDetails": "Juntas hemos superado la norma.",
+    "answer": "together, joints, gaskets",
+    "answerDetails": "Together we exceeded the norm."
+  },
+  {
+    "id": 1631,
+    "question": "olvide",
+    "answer": "Forget"
+  },
+  {
+    "id": 1632,
+    "question": "ayudarte",
+    "questionDetails": "Lo siento, pero no creo que pueda ayudarte con eso.",
+    "answer": "help you",
+    "answerDetails": "Sorry, but I don’t think I can help you with that."
+  },
+  {
+    "id": 1633,
+    "question": "ocupado",
+    "questionDetails": "Ojalá tuviera más tiempo para hablar, pero estoy muy ocupado planificando la conferencia.",
+    "answer": "occupied",
+    "answerDetails": "I wish I had more time to talk, but I am very occupied with planning the conference."
+  },
+  {
+    "id": 1634,
+    "question": "banda",
+    "questionDetails": "No encuentro la banda de frecuencia.",
+    "answer": "band, belt",
+    "answerDetails": "I can’t find the frequency band."
+  },
+  {
+    "id": 1635,
+    "question": "preguntando",
+    "questionDetails": "Hay gente preguntando por ti.",
+    "answer": "asking, wondering, inquiring",
+    "answerDetails": "People are asking for you."
+  },
+  {
+    "id": 1636,
+    "question": "acompaño",
+    "questionDetails": "¿Te acompaño como segundo?",
+    "answer": "accompany",
+    "answerDetails": "Shall I accompany as your second?"
+  },
+  {
+    "id": 1637,
+    "question": "llamé",
+    "questionDetails": "Le llamé para decírselo.",
+    "answer": "called, phoned, paged",
+    "answerDetails": "I called to tell him."
+  },
+  {
+    "id": 1638,
+    "question": "violencia",
+    "questionDetails": "La protesta irrumpió con violencia mientras llegaba la policía para controlar la multitud.",
+    "answer": "violence",
+    "answerDetails": "The protest erupted in violence as the police arrived to control the crowd."
+  },
+  {
+    "id": 1639,
+    "question": "fuerzas",
+    "questionDetails": "Tenemos que retirar nuestras fuerzas antes del siguiente plazo.",
+    "answer": "forces, strength",
+    "answerDetails": "We have to withdraw our forces before the next deadline."
+  },
+  {
+    "id": 1640,
+    "question": "detalle",
+    "questionDetails": "El detalle de seguridad del gobernador.",
+    "answer": "detail",
+    "answerDetails": "The governor’s security detail."
+  },
+  {
+    "id": 1641,
+    "question": "enseñar",
+    "questionDetails": "Puedes enseñar en la televisión.",
+    "answer": "teach",
+    "answerDetails": "You can teach on television."
+  },
+  {
+    "id": 1642,
+    "question": "pareces",
+    "questionDetails": "Te pareces a mamá.",
+    "answer": "seem, look",
+    "answerDetails": "You seem on mother."
+  },
+  {
+    "id": 1643,
+    "question": "limpio",
+    "questionDetails": "Mira qué limpio mantienes el bar.",
+    "answer": "clean",
+    "answerDetails": "Look how clean you keep your bar."
+  },
+  {
+    "id": 1644,
+    "question": "hará",
+    "questionDetails": "Esta es una computadora muy buena. Hará que tu trabajo sea mucho más fácil.",
+    "answer": "it will make, you will make",
+    "answerDetails": "This is a really nice computer. It will make your work much easier."
+  },
+  {
+    "id": 1645,
+    "question": "social",
+    "questionDetails": "El domicilio social de la sociedad anónima se encuentra en Dover, Delaware.",
+    "answer": "registered",
+    "answerDetails": "The corporation’s registered office is in Dover, Delaware."
+  },
+  {
+    "id": 1646,
+    "question": "pecho",
+    "questionDetails": "Mi madre me dijo que llevara un vestido más recatado que me cubriera el pecho.",
+    "answer": "bosom",
+    "answerDetails": "My mother told me to wear a more modest dress that would cover my bosoms."
+  },
+  {
+    "id": 1647,
+    "question": "juega",
+    "questionDetails": "Él juega en el mismo equipo de fútbol que yo.",
+    "answer": "he plays",
+    "answerDetails": "He plays on the same soccer team as me."
+  },
+  {
+    "id": 1648,
+    "question": "miles",
+    "questionDetails": "Hemos usado miles de ellos en estos modelos.",
+    "answer": "thousands, billions",
+    "answerDetails": "We use thousands of them in these models."
+  },
+  {
+    "id": 1649,
+    "question": "hacían",
+    "questionDetails": "Sus cascos no hacían ruido sobre el musgo.",
+    "answer": "made",
+    "answerDetails": "His hooves made no sound on the moss."
+  },
+  {
+    "id": 1650,
+    "question": "méxico",
+    "answer": "Mexico"
+  },
+  {
+    "id": 1651,
+    "question": "reina",
+    "questionDetails": "La princesa espera convertirse algún día en reina.",
+    "answer": "queen, princess",
+    "answerDetails": "The princess hopes to one day become a queen."
+  },
+  {
+    "id": 1652,
+    "question": "enterar",
+    "questionDetails": "Nadie se tiene que enterar.",
+    "answer": "know",
+    "answerDetails": "Nobody has to know."
+  },
+  {
+    "id": 1653,
+    "question": "servir",
+    "questionDetails": "Nunca es fácil servir a 2 maestros.",
+    "answer": "serve, pour",
+    "answerDetails": "It is never easy to serve two masters."
+  },
+  {
+    "id": 1654,
+    "question": "vuelo",
+    "questionDetails": "Está a 2 horas de vuelo desde Edimburgo.",
+    "answer": "flight, flying",
+    "answerDetails": "It’s two hours’ flight from Edinburgh."
+  },
+  {
+    "id": 1655,
+    "question": "personalmente",
+    "questionDetails": "Nada había ido bien personalmente o políticamente.",
+    "answer": "personally",
+    "answerDetails": "Nothing had gone well personally or politically."
+  },
+  {
+    "id": 1656,
+    "question": "pelea",
+    "questionDetails": "El paciente ingresó en el hospital con un hombro dislocado a consecuencia de una pelea.",
+    "answer": "brawl, quarrel, tussle",
+    "answerDetails": "The patient came into the hospital with a dislocated shoulder that he got during a brawl."
+  },
+  {
+    "id": 1657,
+    "question": "supe",
+    "questionDetails": "En el momento que la vi, supe que nos traería problemas.",
+    "answer": "i knew",
+    "answerDetails": "The moment I saw her, I knew she would cause us trouble."
+  },
+  {
+    "id": 1658,
+    "question": "ayudarme",
+    "questionDetails": "Si quieres ayudarme, mejora mi suero.",
+    "answer": "help",
+    "answerDetails": "You want to help, make me a better serum."
+  },
+  {
+    "id": 1659,
+    "question": "víctima",
+    "questionDetails": "La víctima de un engaño.",
+    "answer": "victim",
+    "answerDetails": "The victim of a hoax."
+  },
+  {
+    "id": 1660,
+    "question": "tomé",
+    "questionDetails": "Yo tomé esa foto.",
+    "answer": "took, tome, drank",
+    "answerDetails": "I took that picture."
+  },
+  {
+    "id": 1661,
+    "question": "corte",
+    "questionDetails": "Vivió durante 4 años en la corte del Rey Felipe.",
+    "answer": "court, cut, outage",
+    "answerDetails": "He lived for four years at the court of King Philip."
+  },
+  {
+    "id": 1662,
+    "question": "respira",
+    "questionDetails": "Vamos, respira para mi.",
+    "answer": "breathe, breath",
+    "answerDetails": "Come on, breathe for me."
+  },
+  {
+    "id": 1663,
+    "question": "motivo",
+    "questionDetails": "Dame un motivo para que me quede.",
+    "answer": "reason, ground, occasion",
+    "answerDetails": "Give me a reason to stay."
+  },
+  {
+    "id": 1664,
+    "question": "lío",
+    "questionDetails": "Rita se metió en un lío en el trabajo y tiene miedo que la despidan.",
+    "answer": "jam, mess, muddle",
+    "answerDetails": "Rita got herself into a bit of a jam at work and is worried she’ll lose her job."
+  },
+  {
+    "id": 1665,
+    "question": "suelta",
+    "answer": "let go"
+  },
+  {
+    "id": 1666,
+    "question": "calles",
+    "questionDetails": "Las calles, no la gente.",
+    "answer": "streets, blocks, roads",
+    "answerDetails": "The streets, not the people."
+  },
+  {
+    "id": 1667,
+    "question": "brazo",
+    "questionDetails": "Apoyó los codos en los brazos de la silla.",
+    "answer": "arm, boom",
+    "answerDetails": "She leaned her elbows on the arms of the chair."
+  },
+  {
+    "id": 1668,
+    "question": "mostrar",
+    "questionDetails": "Los músculos de sus mandíbulas mostraron blanco a través de la piel.",
+    "answer": "show, display",
+    "answerDetails": "The muscles of her jaws showed white through the skin."
+  },
+  {
+    "id": 1669,
+    "question": "decimos",
+    "questionDetails": "Somos los caballeros que decimos.",
+    "answer": "say, tenths",
+    "answerDetails": "We are the knights who say."
+  },
+  {
+    "id": 1670,
+    "question": "resultado",
+    "questionDetails": "Es el resultado de la votación que cuenta.",
+    "answer": "outcome",
+    "answerDetails": "It is the outcome of the vote that counts."
+  },
+  {
+    "id": 1671,
+    "question": "abierta",
+    "questionDetails": "La pregunta abierta es con quién.",
+    "answer": "open, unlocked, openly",
+    "answerDetails": "The open question is with whom."
+  },
+  {
+    "id": 1672,
+    "question": "caminando",
+    "questionDetails": "El paciente refiere que se lesionó la rodilla caminando.",
+    "answer": "while walking, by walking",
+    "answerDetails": "The patient states that she injured her knee while walking."
+  },
+  {
+    "id": 1673,
+    "question": "corto",
+    "questionDetails": "Un corto tramo de pasos.",
+    "answer": "short",
+    "answerDetails": "A short flight of steps."
+  },
+  {
+    "id": 1674,
+    "question": "kilómetros",
+    "questionDetails": "Este océano de kilómetros de agua profundas.",
+    "answer": "kilometers, km, miles",
+    "answerDetails": "This ocean of liquid water kilometers deep."
+  },
+  {
+    "id": 1675,
+    "question": "paciencia",
+    "questionDetails": "La paciencia es clave para superar cualquier dificultad.",
+    "answer": "patience, forbearance",
+    "answerDetails": "Patience is key to overcoming any difficulty."
+  },
+  {
+    "id": 1676,
+    "question": "pelear",
+    "answer": "feud"
+  },
+  {
+    "id": 1677,
+    "question": "contrato",
+    "questionDetails": "Firmamos un contrato para comenzar con la construcción el lunes.",
+    "answer": "agreement",
+    "answerDetails": "We signed an agreement to begin construction on Monday."
+  },
+  {
+    "id": 1678,
+    "question": "pura",
+    "questionDetails": "Pura esencia de vida.",
+    "answer": "pure, sheer, purely",
+    "answerDetails": "Pure essence of life."
+  },
+  {
+    "id": 1679,
+    "question": "justamente",
+    "questionDetails": "Mariano se paró y expresó justamente lo que todo estábamos pensando.",
+    "answer": "precisely, justly",
+    "answerDetails": "Mariano stood up and expressed precisely what everybody was thinking."
+  },
+  {
+    "id": 1680,
+    "question": "estuviste",
+    "questionDetails": "¿Estuviste en casa aquí todo el día o saliste?-Estuve aquí.",
+    "answer": "were you",
+    "answerDetails": "Were you here all day or did you go out?-I was here."
+  },
+  {
+    "id": 1681,
+    "question": "demostrar",
+    "questionDetails": "Tiene que demostrar que no se encontraba allí cuando se cometió el crimen.",
+    "answer": "prove, establish",
+    "answerDetails": "He has to prove that he was not there at the time the crime was committed."
+  },
+  {
+    "id": 1682,
+    "question": "objetivo",
+    "questionDetails": "Examine con el objetivo de alta potencia.",
+    "answer": "objective, goal, aim",
+    "answerDetails": "Examine with high power objective."
+  },
+  {
+    "id": 1683,
+    "question": "alegro",
+    "questionDetails": "Yo también me alegro de verte.",
+    "answer": "am glad, am pleased, glad",
+    "answerDetails": "I too am glad to see you."
+  },
+  {
+    "id": 1684,
+    "question": "fueras",
+    "questionDetails": "Fue como si fueras alguien más.",
+    "answer": "were",
+    "answerDetails": "It was like you were someone else."
+  },
+  {
+    "id": 1685,
+    "question": "privado",
+    "questionDetails": "Creo que deberíamos discutirlo en privado.",
+    "answer": "private",
+    "answerDetails": "I think we should discuss this in private."
+  },
+  {
+    "id": 1686,
+    "question": "puntos",
+    "questionDetails": "Pierdes tus tres puntos.",
+    "answer": "points, dots, spots",
+    "answerDetails": "You lose three points."
+  },
+  {
+    "id": 1687,
+    "question": "disfrutar",
+    "questionDetails": "Con dinero, podríamos disfrutar de buenas comidas.",
+    "answer": "enjoy",
+    "answerDetails": "With money, we should enjoy good meals."
+  },
+  {
+    "id": 1688,
+    "question": "reconocer",
+    "questionDetails": "El Dr. Friedman está programando su computadora para reconocer las formas de los trazos en las manos de varios escritores.",
+    "answer": "recognize",
+    "answerDetails": "Dr Friedman is programming his computer to recognize the shapes of strokes in the hands of various writers."
+  },
+  {
+    "id": 1689,
+    "question": "altura",
+    "questionDetails": "La altura del nuevo edificio es impresionante.",
+    "answer": "height",
+    "answerDetails": "The height of the new building is impressive."
+  },
+  {
+    "id": 1690,
+    "question": "orgullo",
+    "questionDetails": "El orgullo del pueblo es la piscina.",
+    "answer": "pride",
+    "answerDetails": "The pride of the village is the swimming pool."
+  },
+  {
+    "id": 1691,
+    "question": "debía",
+    "questionDetails": "Dijo que le debía un favor.",
+    "answer": "owed, should",
+    "answerDetails": "He said you owed him one."
+  },
+  {
+    "id": 1692,
+    "question": "hablaba",
+    "answer": "he talked"
+  },
+  {
+    "id": 1693,
+    "question": "doña",
+    "answer": "donut"
+  },
+  {
+    "id": 1694,
+    "question": "celular",
+    "questionDetails": "Tu celular pitó; se está quedando sin batería.",
+    "answer": "mobile",
+    "answerDetails": "Your mobile just beeped. It’s running out of juice."
+  },
+  {
+    "id": 1695,
+    "question": "niñas",
+    "questionDetails": "Unas Niñas llegaron a la casa buscando a Rebecca para salir a Jugar.",
+    "answer": "some girls",
+    "answerDetails": "Some girls came to the house looking for Rebecca to go out and play."
+  },
+  {
+    "id": 1696,
+    "question": "pendiente",
+    "questionDetails": "9 casos seguían pendientes.",
+    "answer": "pending, slope, outstanding",
+    "answerDetails": "9 cases were still pending."
+  },
+  {
+    "id": 1697,
+    "question": "suéltame",
+    "answer": "Let me"
+  },
+  {
+    "id": 1698,
+    "question": "aceptar",
+    "questionDetails": "Máquinas expendedoras que aceptaron 100 monedas de yen para latas de cerveza.",
+    "answer": "accept",
+    "answerDetails": "Vending machines that accepted 100-yen coins for cans of beer."
+  },
+  {
+    "id": 1699,
+    "question": "viniste",
+    "questionDetails": "Bienvenido, me alegra que viniste. ¡ Entra!.",
+    "answer": "you came",
+    "answerDetails": "Welcome, I’m glad you came. Come on in!."
+  },
+  {
+    "id": 1700,
+    "question": "auto",
+    "questionDetails": "Tengo un mapa, pero no en el auto.",
+    "answer": "car",
+    "answerDetails": "I have a map, but not in the car."
+  }
+]
