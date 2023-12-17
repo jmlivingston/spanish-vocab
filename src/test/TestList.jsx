@@ -15,7 +15,7 @@ function TestList() {
             key={index}
             onClick={() =>
               window.history.pushState(
-                { route: `${start + 1}-${end}` },
+                { route: `${start + 1}_${end}` },
                 undefined,
                 `${start + 1}-${end}`
               )

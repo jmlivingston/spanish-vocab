@@ -6,7 +6,7 @@ function App() {
 
   useEffect(() => {
     window.onpopstate = function (event) {
-      setRoute(event.state.route);
+      setRoute(event.state?.route || "/");
     };
 
     window.history.pushState = new Proxy(window.history.pushState, {
