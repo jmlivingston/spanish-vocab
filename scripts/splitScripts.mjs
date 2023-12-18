@@ -30,7 +30,7 @@ for (let i = 0; i < splitCount; i++) {
     `const ${fileName} = lazy(() => import("./test/items/${fileName}"));`
   );
   routes.push(route);
-  declarations.push(`      {route === "${route}" && <${fileName} />}`);
+  declarations.push(`      {route.startsWith("${route}") && <${fileName} />}`);
 
   const TestItem = `import data from "../../data/${route}.json";
   import TestWrapper from "../TestWrapper";
