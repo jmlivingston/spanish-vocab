@@ -1,17 +1,30 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { STORAGE_KEY } from "../CONSTANTS";
 import "./TestWrapper.css";
 
 const pathName = location.pathname.split("/")[1];
-const STORAGE_KEY = "SPANISH_VOCAB";
+const isReview = location.pathname.split("/")?.[2] === "review";
 
 function TestWrapper({ data }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isAsking, setIsAsking] = useState(true);
-  const { answer, id, question } = data[activeIndex];
+  const [filteredData, setFilteredData] = useState({});
+
+  useEffect(() => {
+    const storageData = localStorage.getItem(STORAGE_KEY);
+    const storage = storageData ? JSON.parse(storageData) : {};
+    // TODO: Handle review items
+    //
+    // if (!storage?.[pathName]) {
+    //   storage[pathName] = [];
+    // }
+
+    setFilteredData(isReview ? data : data);
+  }, []);
 
   const getIndexes = () => {
     const isFirst = 0 === activeIndex;
-    const isLast = data.length - 1 === activeIndex;
+    const isLast = filteredData.length - 1 === activeIndex;
     let nextIndex;
     let previousIndex;
     if (isFirst && isLast) {
@@ -19,7 +32,7 @@ function TestWrapper({ data }) {
       previousIndex = index;
     } else if (isFirst) {
       nextIndex = activeIndex + 1;
-      previousIndex = data.length - 1;
+      previousIndex = filteredData.length - 1;
     } else if (isLast) {
       nextIndex = 0;
       previousIndex = activeIndex - 1;
@@ -47,7 +60,9 @@ function TestWrapper({ data }) {
     setIsAsking(true);
   };
 
-  return (
+  const { answer, id, question } = filteredData?.[activeIndex] || {};
+
+  return filteredData.length > 0 ? (
     <div className='test-container'>
       <header>
         <button onClick={() => setActiveIndex(getIndexes().previousIndex)}>
@@ -64,7 +79,7 @@ function TestWrapper({ data }) {
           Cancel
         </button>
         <div>
-          {activeIndex + 1} of {data.length}
+          {activeIndex + 1} of {filteredData.length}
         </div>
       </header>
       <main className='content'>
@@ -77,7 +92,7 @@ function TestWrapper({ data }) {
         {!isAsking && <button onClick={() => onAnswer(false)}>NO</button>}
       </footer>
     </div>
-  );
+  ) : null;
 }
 
 export default TestWrapper;

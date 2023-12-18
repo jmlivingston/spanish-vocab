@@ -5,6 +5,7 @@ body,
 }
 
 button {
+  border-radius: 0;
   width: auto;
   display: inline-block;
 }
