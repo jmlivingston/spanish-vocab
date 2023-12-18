@@ -1,10 +1,13 @@
 import { useState } from "react";
 import "./TestWrapper.css";
 
+const pathName = location.pathname.split("/")[1];
+const STORAGE_KEY = "SPANISH_VOCAB";
+
 function TestWrapper({ data }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isAsking, setIsAsking] = useState(true);
-  const { answer, question } = data[activeIndex];
+  const { answer, id, question } = data[activeIndex];
 
   const getIndexes = () => {
     const isFirst = 0 === activeIndex;
@@ -28,9 +31,18 @@ function TestWrapper({ data }) {
   };
 
   const onAnswer = (isYes) => {
-    if (!isYes) {
-      // save to local storage
+    const storageData = localStorage.getItem(STORAGE_KEY);
+    const storage = storageData ? JSON.parse(storageData) : {};
+    if (!storage?.[pathName]) {
+      storage[pathName] = [];
     }
+    if (isYes) {
+      storage[pathName] = storage[pathName].filter((itemId) => id !== itemId);
+    } else {
+      storage[pathName].push(id);
+      storage[pathName] = [...new Set(storage[pathName])];
+    }
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(storage));
     setActiveIndex(getIndexes().nextIndex);
     setIsAsking(true);
   };
@@ -56,7 +68,7 @@ function TestWrapper({ data }) {
       <footer>
         {isAsking && <button onClick={() => setIsAsking(false)}>Check</button>}
         {!isAsking && <button onClick={() => onAnswer(true)}>YES</button>}
-        {!isAsking && <button onClick={() => onAnswer(true)}>NO</button>}
+        {!isAsking && <button onClick={() => onAnswer(false)}>NO</button>}
       </footer>
     </div>
   );

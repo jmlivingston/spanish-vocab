@@ -17,7 +17,7 @@ function TestList() {
               window.history.pushState(
                 { route: `${start + 1}_${end}` },
                 undefined,
-                `${start + 1}-${end}`
+                `${start + 1}_${end}`
               )
             }
           >{`${start + 1}-${end}`}</button>
