@@ -13,13 +13,15 @@ function TestWrapper({ data }) {
   useEffect(() => {
     const storageData = localStorage.getItem(STORAGE_KEY);
     const storage = storageData ? JSON.parse(storageData) : {};
-    // TODO: Handle review items
-    //
-    // if (!storage?.[pathName]) {
-    //   storage[pathName] = [];
-    // }
+    const reviewIds = storage?.[pathName] || [];
 
-    setFilteredData(isReview ? data : data);
+    setFilteredData(
+      isReview
+        ? data.filter(({ id }) =>
+            reviewIds.length > 0 ? reviewIds.includes(id) : true
+          )
+        : data
+    );
   }, []);
 
   const getIndexes = () => {
