@@ -56,7 +56,13 @@ function TestWrapper({ data }) {
         <button onClick={() => setActiveIndex(getIndexes().nextIndex)}>
           Next
         </button>
-        <button>Cancel</button>
+        <button
+          onClick={() =>
+            window.history.pushState({ route: "/" }, undefined, "/")
+          }
+        >
+          Cancel
+        </button>
         <div>
           {activeIndex + 1} of {data.length}
         </div>
