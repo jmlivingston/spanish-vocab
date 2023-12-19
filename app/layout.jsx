@@ -1,21 +1,16 @@
-import { Inter } from "next/font/google";
+import "@picocss/pico/css/pico.min.css";
 import "./globals.css";
+import "./normalize.css";
 
 export const metadata = {
-  title: "Vercel KV for Redis Next.js Starter",
-  description: "A simple Next.js app with Vercel KV for Redis as the database",
+  title: "Spanish Vocab",
+  description: "5,000 most commonly used words.",
 };
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-  display: "swap",
-});
 
 export default function RootLayout({ children }) {
   return (
     <html lang='en'>
-      <body className={inter.variable}>{children}</body>
+      <body>{children}</body>
     </html>
   );
 }
