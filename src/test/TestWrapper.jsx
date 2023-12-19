@@ -2,8 +2,9 @@ import { useEffect, useState } from "react";
 import { STORAGE_KEY } from "../CONSTANTS";
 import "./TestWrapper.css";
 
-const pathName = location.pathname.split("/")[1];
-const isReview = location.pathname.split("/")?.[2] === "review";
+const pathName = location.pathname.replace("/spanish-vocab/", "").split("/")[1];
+const isReview =
+  location.pathname.replace("/spanish-vocab/", "").split("/")?.[2] === "review";
 
 function TestWrapper({ data }) {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -75,7 +76,7 @@ function TestWrapper({ data }) {
         </button>
         <button
           onClick={() =>
-            window.history.pushState({ route: "/" }, undefined, "/")
+            window.history.pushState({ route: "/" }, undefined, location.href)
           }
         >
           Cancel

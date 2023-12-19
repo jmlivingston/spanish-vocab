@@ -1,8 +1,12 @@
 import { useEffect, useState } from "react";
 import Routes from "./Routes";
 
+console.log(import.meta.env);
+
 function App() {
-  const [route, setRoute] = useState(location.pathname.split("/")?.[1] || "/");
+  const [route, setRoute] = useState(
+    location.pathname.replace("/spanish-vocab/", "").split("/")?.[1] || "/"
+  );
 
   useEffect(() => {
     window.onpopstate = function (event) {
