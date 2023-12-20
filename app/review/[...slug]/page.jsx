@@ -6,8 +6,8 @@ export default async function Page({ params }) {
   return (
     <TestWrapper
       data={data}
-      test={params.slug[0]}
       reviewIds={reviewIds}
+      test={params.slug[0]}
       testIndex={Number.parseInt(params.slug[1]) - 1}
     />
   );

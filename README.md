@@ -1,4 +1,11 @@
+TODO
+
+- handle review ids when removed and if only one
+- pwa
+- cleanup ui. make buttons bigger for modal?
+
 ---
+
 name: Vercel KV for Redis Next.js Starter
 slug: kv-redis-starter
 description: Simple Next.js template that uses Vercel KV for Redis to track pageviews.
@@ -9,8 +16,10 @@ database: Vercel KV
 deployUrl: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fstorage%2Fkv-redis-starter&project-name=kv-redis-starter&repository-name=kv-redis-starter&demo-title=Vercel%20KV%20for%20Redis%20Next.js%20Starter&demo-description=Simple%20Next.js%20template%20that%20uses%20Vercel%20KV%20for%20Redis%20to%20track%20pageviews.&demo-url=https%3A%2F%2Fkv-redis-starter.vercel.app%2F&demo-image=https%3A%2F%2Fkv-redis-starter.vercel.app%2Fopengraph-image.png&stores=%5B%7B"type"%3A"kv"%7D%5D
 demoUrl: https://kv-redis-starter.vercel.app/
 relatedTemplates:
-  - blob-starter
-  - postgres-starter
+
+- blob-starter
+- postgres-starter
+
 ---
 
 # Vercel KV for Redis Next.js Starter

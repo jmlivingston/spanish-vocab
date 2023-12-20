@@ -14,6 +14,14 @@ main.content {
   justify-content: space-around;
 }
 
+main.error {
+  font-size: 36px;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
 header,
 footer {
   height: 50px;

@@ -1,9 +1,16 @@
 .test-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 8px;
+  gap: 20px 40px;
+  margin: 20px;
 }
 
 .test-list > div {
   text-align: center;
+  a {
+    width: 100%;
+    button {
+      width: 100%;
+    }
+  }
 }
