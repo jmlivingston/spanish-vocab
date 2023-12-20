@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import "./TestWrapper.css";
 
-function TestWrapper({ data, reviewIds = [], test, testIndex }) {
+function TestWrapper({ data, isReview, reviewIds = [], test, testIndex }) {
   const router = useRouter();
   const [error, setError] = useState();
   const [testAnswer, setTestAnswer] = useState();
@@ -12,8 +12,12 @@ function TestWrapper({ data, reviewIds = [], test, testIndex }) {
   const [filteredData, setFilteredData] = useState([]);
 
   useEffect(() => {
-    setFilteredData(reviewIds.length > 0 ? data.filter(({ id }) => reviewIds.includes(id)) : data);
-  }, [reviewIds]);
+    if (isReview) {
+      setFilteredData(reviewIds.length > 0 ? data.filter(({ id }) => reviewIds.includes(id)) : data);
+    } else {
+      setFilteredData(data);
+    }
+  }, [data, reviewIds]);
 
   const { answer, id, question } = filteredData?.[testIndex] || {};
 
