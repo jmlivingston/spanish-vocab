@@ -27,7 +27,11 @@ function TestWrapper({ data, reviewIds = [], test, testIndex }) {
             method: testAnswer ? "PUT" : "DELETE",
           });
           if (response.ok) {
-            router.push(`/test/${test}/${nextIndex + 1}`);
+            if (!testAnswer && previousIndex === nextIndex) {
+              router.push("/");
+            } else {
+              router.push(`/test/${test}/${nextIndex + 1}`);
+            }
           } else {
             const json = await response.json();
             throw new Error({ json, response });
@@ -45,8 +49,8 @@ function TestWrapper({ data, reviewIds = [], test, testIndex }) {
     const isFirst = 0 === testIndex;
     const isLast = filteredData.length - 1 === testIndex;
     if (isFirst && isLast) {
-      nextIndex = index;
-      previousIndex = index;
+      nextIndex = testIndex;
+      previousIndex = testIndex;
     } else if (isFirst) {
       nextIndex = testIndex + 1;
       previousIndex = filteredData.length - 1;
