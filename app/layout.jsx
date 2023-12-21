@@ -1,4 +1,6 @@
 import "@picocss/pico/css/pico.min.css";
+import { TestContextProvider } from "../components/TestContext";
+import { getUserData } from "../helpers";
 import "./globals.css";
 import "./normalize.css";
 
@@ -7,10 +9,15 @@ export const metadata = {
   description: "5,000 most commonly used words.",
 };
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
+  const { data, user } = await getUserData();
   return (
-    <html lang='en'>
-      <body>{children}</body>
+    <html lang="en">
+      <body>
+        <TestContextProvider initialData={data} user={user}>
+          {children}
+        </TestContextProvider>
+      </body>
     </html>
   );
 }

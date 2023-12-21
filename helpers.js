@@ -2,28 +2,26 @@ import { kv } from "@vercel/kv";
 import { promises as fs } from "fs";
 import { STORAGE_KEYS } from "./CONSTANTS";
 
-function getTestKey({ test, user }) {
-  return `${STORAGE_KEYS.TEST}_${user}_${test}`;
+function getTestKey({ user }) {
+  return `${STORAGE_KEYS.TEST}_${user}`;
 }
 
-async function getReviewIds({ test }) {
-  const user = await kv.get(STORAGE_KEYS.USER);
-  const reviewIds = await kv.get(getTestKey({ test, user }));
-  return reviewIds || [];
-}
-
-async function getTestData({ test }) {
-  const file = await fs.readFile(process.cwd() + `/app/data/${test}.json`, "utf8");
+async function getTestGroupData({ testGroupId }) {
+  const file = await fs.readFile(process.cwd() + `/app/data/${testGroupId}.json`, "utf8");
   const data = JSON.parse(file);
-  const user = await kv.get(STORAGE_KEYS.USER);
-  const reviewIds = await kv.get(getTestKey({ test, user }));
-  return { data, reviewIds: reviewIds?.[test] || [], reviewIds };
+  return { data };
 }
 
-async function getUserData({ test }) {
+async function getUserData() {
+  console.log("getUserData");
   const user = await kv.get(STORAGE_KEYS.USER);
-  const data = (await kv.get(getTestKey({ test, user }))) || [];
+  const data = (await kv.get(getTestKey({ user }))) || {};
   return { data, user };
 }
 
-export { getReviewIds, getTestData, getTestKey, getUserData };
+async function setUserData({ data, user }) {
+  console.log("setUserData");
+  await kv.set(getTestKey({ user }), data);
+}
+
+export { getTestGroupData, getTestKey, getUserData, setUserData };

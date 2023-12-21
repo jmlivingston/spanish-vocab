@@ -3,42 +3,56 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import "./TestWrapper.css";
+import useTest from "./useTest";
 
-function TestWrapper({ data, isReview, reviewIds = [], test, testIndex }) {
+function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
+  const { data, setData, user } = useTest();
+  const reviewIds = data?.[testGroupId] || [];
   const router = useRouter();
   const [error, setError] = useState();
+  const [isComplete, setIsComplete] = useState(false);
   const [testAnswer, setTestAnswer] = useState();
   const [isAsking, setIsAsking] = useState(true);
   const [filteredData, setFilteredData] = useState([]);
+  const link = isReview ? "review" : "test";
 
   useEffect(() => {
     if (isReview) {
-      setFilteredData(reviewIds.length > 0 ? data.filter(({ id }) => reviewIds.includes(id)) : data);
+      setFilteredData(reviewIds.length > 0 ? testGroupData.filter(({ id }) => reviewIds.includes(id)) : testGroupData);
     } else {
-      setFilteredData(data);
+      setFilteredData(testGroupData);
     }
-  }, [data, reviewIds]);
+  }, [testGroupData, reviewIds]);
 
-  const { answer, id, question } = filteredData?.[testIndex] || {};
+  useEffect(() => {
+    (async () => {
+      if (isComplete) {
+        const response = await fetch("/api/test", { method: "PUT", body: JSON.stringify({ data, user }) });
+        if (response.ok) {
+          router.push("/");
+        } else {
+          setError("Problem setting test data");
+        }
+      }
+    })();
+  }, [isComplete]);
+
+  const { answer, id, question } = filteredData?.find(({ id }) => id === testId) || {};
 
   useEffect(() => {
     (async () => {
       setError();
       if (testAnswer !== undefined) {
         try {
-          const response = await fetch(`/api/test/${id}`, {
-            body: JSON.stringify({ test }),
-            method: testAnswer ? "PUT" : "DELETE",
-          });
-          if (response.ok) {
-            if (!testAnswer && previousIndex === nextIndex) {
-              router.push("/");
-            } else {
-              router.push(`/test/${test}/${nextIndex + 1}`);
-            }
+          const newData = {
+            ...data,
+            [testGroupId]: testAnswer ? reviewIds.filter((datum) => datum !== id) : [...new Set([...reviewIds, id])],
+          };
+          setData(newData);
+          if (previousId === nextId) {
+            setIsComplete(true);
           } else {
-            const json = await response.json();
-            throw new Error({ json, response });
+            router.push(`/${link}/${testGroupId}/${nextId + 1}`);
           }
         } catch (error) {
           setError(error.message);
@@ -47,23 +61,27 @@ function TestWrapper({ data, isReview, reviewIds = [], test, testIndex }) {
     })();
   }, [testAnswer]);
 
-  let nextIndex;
-  let previousIndex;
+  let nextId;
+  let previousId;
+  let isFirst;
+  let isLast;
+  let currentIndex;
   if (filteredData?.length > 0) {
-    const isFirst = 0 === testIndex;
-    const isLast = filteredData.length - 1 === testIndex;
+    currentIndex = filteredData.findIndex(({ id }) => id === testId);
+    isFirst = 0 === currentIndex;
+    isLast = filteredData[filteredData.length - 1].id === testId;
     if (isFirst && isLast) {
-      nextIndex = testIndex;
-      previousIndex = testIndex;
+      nextId = testId;
+      previousId = testId;
     } else if (isFirst) {
-      nextIndex = testIndex + 1;
-      previousIndex = filteredData.length - 1;
+      nextId = filteredData[currentIndex + 1].id;
+      previousId = filteredData[filteredData.length - 1].id;
     } else if (isLast) {
-      nextIndex = 0;
-      previousIndex = testIndex - 1;
+      nextId = filteredData[0].id;
+      previousId = testId - 1;
     } else {
-      nextIndex = testIndex + 1;
-      previousIndex = testIndex - 1;
+      nextId = testId + 1;
+      previousId = testId - 1;
     }
   }
 
@@ -71,17 +89,15 @@ function TestWrapper({ data, isReview, reviewIds = [], test, testIndex }) {
     <div className="test-container">
       <>
         <header>
-          <Link href={`/test/${test}/${previousIndex + 1}`}>
+          <Link href={`/${link}/${testGroupId}/${previousId}`}>
             <button>Previous</button>
           </Link>
-          <Link href={`/test/${test}/${nextIndex + 1}`}>
+          <Link href={`/${link}/${testGroupId}/${nextId}`}>
             <button>Next</button>
           </Link>
-          <Link href="/">
-            <button>Cancel</button>
-          </Link>
+          <button onClick={() => setIsComplete(true)}>Cancel</button>
           <div>
-            {testIndex + 1} of {filteredData.length}
+            {currentIndex + 1} of {filteredData.length}
           </div>
         </header>
         {error ? (
