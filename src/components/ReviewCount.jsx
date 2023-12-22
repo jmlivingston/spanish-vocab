@@ -2,7 +2,7 @@
 import Link from "next/link";
 import useTest from "./useTest";
 
-function ReviewLink({ testGroupId }) {
+function ReviewCount({ testGroupId }) {
   const { data } = useTest();
   const reviewCount = data?.[testGroupId]?.length || 0;
   return (
@@ -14,4 +14,4 @@ function ReviewLink({ testGroupId }) {
   );
 }
 
-export default ReviewLink;
+export default ReviewCount;

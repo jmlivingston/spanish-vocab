@@ -3,7 +3,7 @@ import Link from "next/link";
 import TEST_GROUPS from "../TEST_GROUPS";
 import "./Home.css";
 
-const ReviewLink = dynamic(() => import("../components/ReviewCount"), { ssr: false });
+const ReviewCount = dynamic(() => import("../components/ReviewCount"), { ssr: false });
 
 export default async function Home() {
   return (
@@ -16,7 +16,7 @@ export default async function Home() {
               <Link href={`/test/${testGroupId}/${start}`}>
                 <button>All</button>
               </Link>
-              <ReviewLink testGroupId={testGroupId} />
+              <ReviewCount testGroupId={testGroupId} />
             </div>
           </div>
         );
