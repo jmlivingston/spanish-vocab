@@ -7,9 +7,9 @@ function getTestKey({ user }) {
 }
 
 async function getTestGroupData({ testGroupId }) {
-  const file = await fs.readFile(process.cwd() + `/app/data/${testGroupId}.json`, "utf8");
-  const data = JSON.parse(file);
-  return { data };
+  const file = await fs.readFile(process.cwd() + `/src/data/${testGroupId}.json`, "utf8");
+  const testGroupData = JSON.parse(file);
+  return testGroupData;
 }
 
 async function getUserData() {
