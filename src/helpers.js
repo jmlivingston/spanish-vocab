@@ -1,5 +1,5 @@
 import { kv } from "@vercel/kv";
-import fs from "fs";
+import fs from "fs/promises";
 import { join } from "path";
 import { cache } from "react";
 import { STORAGE_KEYS } from "./CONSTANTS";
@@ -9,7 +9,7 @@ const getTestKey = cache(({ user }) => {
 });
 
 const getTestGroupData = cache(async ({ testGroupId }) => {
-  const file = fs.readFileSync(join(process.cwd(), `/public/data/${testGroupId}.json`), "utf8");
+  const file = await fs.readFile(join(process.cwd(), `/public/data/${testGroupId}.json`), "utf8");
   const testGroupData = JSON.parse(file);
   return testGroupData;
 });

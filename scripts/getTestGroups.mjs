@@ -15,7 +15,7 @@ const groups = [...new Array(splitCount)].map((_, index) => {
   };
 });
 
-fs.writeFileSync("./src/TEST_GROUPS.js", `export default ${JSON.stringify(groups, null, 2)}`);
+fs.writeFileSync("./src/TEST_GROUPS.js", `const data = ${JSON.stringify(groups, null, 2)};\nexport default data;\n`);
 
 const params = [...new Array(splitCount)].reduce((acc, _, index) => {
   const start = index * splitAmount + 1;
@@ -26,4 +26,4 @@ const params = [...new Array(splitCount)].reduce((acc, _, index) => {
   return acc;
 }, []);
 
-fs.writeFileSync("./src/TEST_PARAMS.js", `export default ${JSON.stringify(params, null, 2)}`);
+fs.writeFileSync("./src/TEST_PARAMS.js", `const data = ${JSON.stringify(params, null, 2)};\nexport default data;\n`);

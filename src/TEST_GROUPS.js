@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     end: 100,
     start: 1,
@@ -250,3 +250,4 @@ export default [
     testGroupId: "4901_5000",
   },
 ];
+export default data;

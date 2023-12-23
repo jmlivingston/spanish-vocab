@@ -2,13 +2,13 @@
 "use client";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import "./TestWrapper.css";
 import useTest from "./useTest";
 
 function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
   const { data, setData, user } = useTest();
-  const reviewIds = data?.[testGroupId] || [];
+  const reviewIds = useMemo(() => data?.[testGroupId] || [], [data, testGroupId]);
   const router = useRouter();
   const [error, setError] = useState();
   const [isComplete, setIsComplete] = useState(false);
@@ -23,7 +23,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
     } else {
       setFilteredData(testGroupData);
     }
-  }, [testGroupData, reviewIds]);
+  }, [isReview, testGroupData, reviewIds]);
 
   useEffect(() => {
     (async () => {
@@ -36,7 +36,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
         }
       }
     })();
-  }, [isComplete]);
+  }, [data, router, user, isComplete]);
 
   const { answer, id, question } = filteredData?.find(({ id }) => id === testId) || {};
 
@@ -60,7 +60,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
         }
       }
     })();
-  }, [testAnswer]);
+  }, [data, id, link, nextId, previousId, reviewIds, router, setData, testGroupId, testAnswer]);
 
   let nextId;
   let previousId;

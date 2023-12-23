@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     test: ["test", "1_100", "1"],
   },
@@ -300,3 +300,4 @@ export default [
     review: ["review", "4901_5000"],
   },
 ];
+export default data;
