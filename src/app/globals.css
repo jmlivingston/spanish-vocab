@@ -4,6 +4,10 @@ body,
   height: 100%;
 }
 
+body > #__next {
+  height: 100%;
+}
+
 button {
   border-radius: 0;
   width: auto;

@@ -1,12 +1,14 @@
 // TODO: Not sure testId will work for review correctly
 "use client";
-import Link from "next/link";
+import { parseAsBoolean, parseAsInteger, useQueryState } from "next-usequerystate";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import "./TestWrapper.css";
 import useTest from "./useTest";
 
-function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
+function TestWrapper({ testGroupData, testGroupId }) {
+  const [testId, setTestId] = useQueryState("testId", parseAsInteger);
+  const [isReview] = useQueryState("isReview", parseAsBoolean);
   const { data, setData, user } = useTest();
   const reviewIds = useMemo(() => data?.[testGroupId] || [], [data, testGroupId]);
   const router = useRouter();
@@ -23,22 +25,37 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
     } else {
       setFilteredData(testGroupData);
     }
-  }, [isReview, testGroupData, reviewIds]);
+  }, [isReview]);
 
   useEffect(() => {
     (async () => {
       if (isComplete) {
-        const response = await fetch("/api/test", { method: "PUT", body: JSON.stringify({ data, user }) });
-        if (response.ok) {
-          router.push("/");
+        if (data) {
+          const response = await fetch("/api/test", { method: "PUT", body: JSON.stringify({ data, user }) });
+          if (response.ok) {
+            router.push("/");
+          } else {
+            setError("Problem setting test data");
+          }
         } else {
-          setError("Problem setting test data");
+          router.push("/");
         }
       }
     })();
   }, [data, router, user, isComplete]);
 
   const { answer, id, question } = filteredData?.find(({ id }) => id === testId) || {};
+
+  let nextId;
+  let previousId;
+  let isFirst;
+  let isLast;
+  let currentIndex;
+
+  const onLink = ({ event, id }) => {
+    event?.preventDefault();
+    setTestId(id.toString());
+  };
 
   useEffect(() => {
     (async () => {
@@ -49,24 +66,21 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
             ...data,
             [testGroupId]: testAnswer ? reviewIds.filter((datum) => datum !== id) : [...new Set([...reviewIds, id])],
           };
+          setIsAsking(true);
+          setTestAnswer();
           setData(newData);
           if (previousId === nextId) {
             setIsComplete(true);
           } else {
-            router.push(`/${link}/${testGroupId}/${nextId + 1}`);
+            onLink({ id: nextId + 1 });
           }
         } catch (error) {
           setError(error.message);
         }
       }
     })();
-  }, [data, id, link, nextId, previousId, reviewIds, router, setData, testGroupId, testAnswer]);
+  }, [testAnswer]);
 
-  let nextId;
-  let previousId;
-  let isFirst;
-  let isLast;
-  let currentIndex;
   if (filteredData?.length > 0) {
     currentIndex = filteredData.findIndex(({ id }) => id === testId);
     isFirst = 0 === currentIndex;
@@ -90,12 +104,8 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
     <div className="test-container">
       <>
         <header>
-          <Link href={`/${link}/${testGroupId}/${previousId}`}>
-            <button>Previous</button>
-          </Link>
-          <Link href={`/${link}/${testGroupId}/${nextId}`}>
-            <button>Next</button>
-          </Link>
+          <button onClick={(event) => onLink({ event, id: previousId })}>Previous</button>
+          <button onClick={(event) => onLink({ event, id: nextId })}>Next</button>
           <button onClick={() => setIsComplete(true)}>Cancel</button>
           <div>
             {currentIndex + 1} of {filteredData.length}

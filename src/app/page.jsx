@@ -1,9 +1,9 @@
-import dynamic from "next/dynamic";
+// import dynamic from "next/dynamic";
 import Link from "next/link";
 import TEST_GROUPS from "../TEST_GROUPS";
 import "./Home.css";
 
-const ReviewCount = dynamic(() => import("../components/ReviewCount"), { ssr: false });
+// const ReviewCount = dynamic(() => import("../components/ReviewCount"), { ssr: false });
 
 export default async function Home() {
   return (
@@ -13,10 +13,13 @@ export default async function Home() {
           <div key={testGroupId}>
             {`${start}-${end}`}
             <div>
-              <Link href={`/test/${testGroupId}/${start}`}>
+              <Link href={`/test/${testGroupId}?testId=${start}`}>
                 <button>All</button>
               </Link>
-              <ReviewCount testGroupId={testGroupId} />
+              <Link href={`/test/${testGroupId}?testId=${start}?isReview=true`}>
+                <button>R</button>
+              </Link>
+              {/* <ReviewCount testGroupId={testGroupId} /> */}
             </div>
           </div>
         );

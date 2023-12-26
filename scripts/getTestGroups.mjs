@@ -21,9 +21,11 @@ const params = [...new Array(splitCount)].reduce((acc, _, index) => {
   const start = index * splitAmount + 1;
   const end = index * splitAmount + splitAmount;
   const testGroupId = `${start}_${end}`;
-  acc.push({ test: ["test", testGroupId, start.toString()] });
-  acc.push({ review: ["review", testGroupId] });
+  acc.push({ params: { test: [testGroupId, start.toString()] } });
   return acc;
 }, []);
 
-fs.writeFileSync("./src/TEST_PARAMS.js", `const data = ${JSON.stringify(params, null, 2)};\nexport default data;\n`);
+fs.writeFileSync(
+  "./src/TEST_PARAMS.js",
+  `const data = { fallback: false, paths: ${JSON.stringify(params, null, 2)}\n};\nexport default data;\n`,
+);
