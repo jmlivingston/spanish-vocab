@@ -1,6 +1,10 @@
 import TEST_PARAMS from "TEST_PARAMS";
-import TestWrapper from "components/TestWrapper";
 import { getTestGroupData } from "helpers";
+import dynamic from "next/dynamic";
+
+const TestWrapper = dynamic(() => import("components/TestWrapper"), {
+  loading: () => <p>Loading...</p>,
+});
 
 export default async function Page({ params: { test } }) {
   const [testType, testGroupId, testId] = test;

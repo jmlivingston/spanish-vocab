@@ -1,8 +1,12 @@
 import "@picocss/pico/css/pico.min.css";
-import { TestContextProvider } from "../components/TestContext";
+import dynamic from "next/dynamic";
 import { getUserData } from "../helpers";
 import "./globals.css";
 import "./normalize.css";
+
+const TestContextProvider = dynamic(() => import("../components/TestContext"), {
+  loading: () => <p>Loading...</p>,
+});
 
 export const metadata = {
   title: "Spanish Vocab",

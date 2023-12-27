@@ -17,4 +17,6 @@ function TestContextProvider({ children, initialData, user }) {
   return <TestContext.Provider value={value}>{children}</TestContext.Provider>;
 }
 
+export default TestContextProvider;
+
 export { TestContext, TestContextProvider };
