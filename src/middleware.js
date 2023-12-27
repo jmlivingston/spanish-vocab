@@ -1,6 +1,6 @@
-import { kv } from "@vercel/kv";
 import { NextResponse } from "next/server";
-import { STORAGE_KEYS } from "./CONSTANTS";
+// import { STORAGE_KEYS } from "./CONSTANTS";
+// import { isMocked, kv } from "./helpers";
 
 export const config = {
   matcher: ["/", "/index"],
@@ -14,7 +14,9 @@ export function middleware(req) {
     const authValue = basicAuth.split(" ")[1];
     const [user, pwd] = atob(authValue).split(":");
     if (user === "jmlivingston" && pwd === "Kai.zen8") {
-      kv.set(`${STORAGE_KEYS.USER}`, user);
+      // if (!isMocked) {
+      //   kv.set(`${STORAGE_KEYS.USER}`, user);
+      // }
       return NextResponse.next();
     }
   }

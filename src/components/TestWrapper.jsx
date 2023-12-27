@@ -1,9 +1,7 @@
-// TODO: Not sure testId will work for review correctly
-"use client";
 import { parseAsBoolean, parseAsInteger, useQueryState } from "next-usequerystate";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
-import "./TestWrapper.css";
+import styles from "./TestWrapper.module.css";
 import useTest from "./useTest";
 
 function TestWrapper({ testGroupData, testGroupId }) {
@@ -68,7 +66,7 @@ function TestWrapper({ testGroupData, testGroupId }) {
           };
           setIsAsking(true);
           setTestAnswer();
-          setData(newData);
+          setData({ data: newData, user });
           if (previousId === nextId) {
             setIsComplete(true);
           } else {
@@ -101,9 +99,9 @@ function TestWrapper({ testGroupData, testGroupId }) {
   }
 
   return filteredData?.length > 0 ? (
-    <div className="test-container">
+    <div className={styles.testContainer}>
       <>
-        <header>
+        <header className={styles.headerFooter}>
           <button onClick={(event) => onLink({ event, id: previousId })}>Previous</button>
           <button onClick={(event) => onLink({ event, id: nextId })}>Next</button>
           <button onClick={() => setIsComplete(true)}>Cancel</button>
@@ -112,14 +110,14 @@ function TestWrapper({ testGroupData, testGroupId }) {
           </div>
         </header>
         {error ? (
-          <main className="error">Error: {error}</main>
+          <main className={styles.error}>Error: {error}</main>
         ) : (
           <>
-            <main className="content">
+            <main className={styles.content}>
               <div>{question}</div>
               <div>{!isAsking ? answer : <>&nbsp;</>}</div>
             </main>
-            <footer>
+            <footer className={styles.headerFooter}>
               {isAsking && <button onClick={() => setIsAsking(false)}>Check</button>}
               {!isAsking && <button onClick={() => setTestAnswer(true)}>YES</button>}
               {!isAsking && <button onClick={() => setTestAnswer(false)}>NO</button>}

@@ -1,4 +1,4 @@
-.test-container {
+.testContainer {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-main.content {
+.content {
   font-size: 36px;
   display: flex;
   height: 100%;
@@ -14,7 +14,7 @@ main.content {
   justify-content: space-around;
 }
 
-main.error {
+.error {
   font-size: 36px;
   display: flex;
   height: 100%;
@@ -22,18 +22,9 @@ main.error {
   margin-top: 50px;
 }
 
-header,
-footer {
+.headerFooter {
   height: 50px;
-}
-
-header,
-footer {
   margin: 0px auto;
-}
-
-header,
-footer {
   display: flex;
   gap: 10px;
   justify-content: center;

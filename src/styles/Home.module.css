@@ -1,16 +1,17 @@
-.test-list {
+.testList {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 20px 40px;
   margin: 20px;
 }
 
-.test-list > div {
+.test {
   text-align: center;
-  a {
-    width: 100%;
-    button {
-      width: 100%;
-    }
-  }
+}
+
+.link {
+  width: 100%;
+  border-radius: 0;
+  display: inline-block;
+  margin-bottom: 0;
 }

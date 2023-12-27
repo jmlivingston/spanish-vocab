@@ -1,3 +1,6 @@
+@import url("@/styles/normalize.css");
+@import url("@picocss/pico/css/pico.min.css");
+
 html,
 body,
 #root {

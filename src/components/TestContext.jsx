@@ -1,18 +1,26 @@
-"use client";
-import { createContext, useMemo } from "react";
+import { createContext, useEffect, useMemo } from "react";
 import useLocalStorage from "./useLocalStorage";
 
 const TestContext = createContext({});
 
-function TestContextProvider({ children, initialData, user }) {
-  const [data, setData] = useLocalStorage({ key: "spanish-vocab", initialValue: initialData });
+function TestContextProvider({ children }) {
+  const [data, setData] = useLocalStorage({ key: "spanish-vocab" }, {});
+
+  useEffect(() => {
+    (async () => {
+      const response = await fetch("/api/test");
+      const json = await response.json();
+      setData(json);
+    })();
+  }, []);
+
   const value = useMemo(() => {
     return {
-      data,
+      data: data?.data,
       setData,
-      user,
+      user: data?.user,
     };
-  }, [data, setData, user]);
+  }, [data, setData]);
 
   return <TestContext.Provider value={value}>{children}</TestContext.Provider>;
 }

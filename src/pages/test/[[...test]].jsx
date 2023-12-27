@@ -1,4 +1,7 @@
+// import "@picocss/pico/css/pico.min.css";
 import TEST_PARAMS from "TEST_PARAMS";
+// import "app/globals.css";
+// import "app/normalize.css";
 import TestWrapper from "components/TestWrapper";
 import fs from "fs/promises";
 
