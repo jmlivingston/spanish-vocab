@@ -1,12 +1,12 @@
-import { parseAsBoolean, parseAsInteger, useQueryState } from "next-usequerystate";
+// TODO: Not sure testId will work for review correctly
+"use client";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
-import styles from "./TestWrapper.module.css";
+import "./TestWrapper.css";
 import useTest from "./useTest";
 
-function TestWrapper({ testGroupData, testGroupId }) {
-  const [testId, setTestId] = useQueryState("testId", parseAsInteger);
-  const [isReview] = useQueryState("isReview", parseAsBoolean);
+function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
   const { data, setData, user } = useTest();
   const reviewIds = useMemo(() => data?.[testGroupId] || [], [data, testGroupId]);
   const router = useRouter();
@@ -23,37 +23,22 @@ function TestWrapper({ testGroupData, testGroupId }) {
     } else {
       setFilteredData(testGroupData);
     }
-  }, [isReview]);
+  }, [isReview, testGroupData, reviewIds]);
 
   useEffect(() => {
     (async () => {
       if (isComplete) {
-        if (data) {
-          const response = await fetch("/api/test", { method: "PUT", body: JSON.stringify({ data, user }) });
-          if (response.ok) {
-            router.push("/");
-          } else {
-            setError("Problem setting test data");
-          }
-        } else {
+        const response = await fetch("/api/test", { method: "PUT", body: JSON.stringify({ data, user }) });
+        if (response.ok) {
           router.push("/");
+        } else {
+          setError("Problem setting test data");
         }
       }
     })();
   }, [data, router, user, isComplete]);
 
   const { answer, id, question } = filteredData?.find(({ id }) => id === testId) || {};
-
-  let nextId;
-  let previousId;
-  let isFirst;
-  let isLast;
-  let currentIndex;
-
-  const onLink = ({ event, id }) => {
-    event?.preventDefault();
-    setTestId(id.toString());
-  };
 
   useEffect(() => {
     (async () => {
@@ -64,21 +49,24 @@ function TestWrapper({ testGroupData, testGroupId }) {
             ...data,
             [testGroupId]: testAnswer ? reviewIds.filter((datum) => datum !== id) : [...new Set([...reviewIds, id])],
           };
-          setIsAsking(true);
-          setTestAnswer();
-          setData({ data: newData, user });
+          setData(newData);
           if (previousId === nextId) {
             setIsComplete(true);
           } else {
-            onLink({ id: nextId + 1 });
+            router.push(`/${link}/${testGroupId}/${nextId + 1}`);
           }
         } catch (error) {
           setError(error.message);
         }
       }
     })();
-  }, [testAnswer]);
+  }, [data, id, link, nextId, previousId, reviewIds, router, setData, testGroupId, testAnswer]);
 
+  let nextId;
+  let previousId;
+  let isFirst;
+  let isLast;
+  let currentIndex;
   if (filteredData?.length > 0) {
     currentIndex = filteredData.findIndex(({ id }) => id === testId);
     isFirst = 0 === currentIndex;
@@ -99,25 +87,29 @@ function TestWrapper({ testGroupData, testGroupId }) {
   }
 
   return filteredData?.length > 0 ? (
-    <div className={styles.testContainer}>
+    <div className="test-container">
       <>
-        <header className={styles.headerFooter}>
-          <button onClick={(event) => onLink({ event, id: previousId })}>Previous</button>
-          <button onClick={(event) => onLink({ event, id: nextId })}>Next</button>
+        <header>
+          <Link href={`/${link}/${testGroupId}/${previousId}`}>
+            <button>Previous</button>
+          </Link>
+          <Link href={`/${link}/${testGroupId}/${nextId}`}>
+            <button>Next</button>
+          </Link>
           <button onClick={() => setIsComplete(true)}>Cancel</button>
           <div>
             {currentIndex + 1} of {filteredData.length}
           </div>
         </header>
         {error ? (
-          <main className={styles.error}>Error: {error}</main>
+          <main className="error">Error: {error}</main>
         ) : (
           <>
-            <main className={styles.content}>
+            <main className="content">
               <div>{question}</div>
               <div>{!isAsking ? answer : <>&nbsp;</>}</div>
             </main>
-            <footer className={styles.headerFooter}>
+            <footer>
               {isAsking && <button onClick={() => setIsAsking(false)}>Check</button>}
               {!isAsking && <button onClick={() => setTestAnswer(true)}>YES</button>}
               {!isAsking && <button onClick={() => setTestAnswer(false)}>NO</button>}

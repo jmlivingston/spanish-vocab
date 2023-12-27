@@ -14,7 +14,9 @@ const useLocalStorage = ({ key, initialValue, storageType = STORAGE_TYPES.localS
     try {
       const item = window[storageType].getItem(key);
       const returnItem = item ? JSON.parse(item) : initialValue;
-      window[storageType].setItem(key, JSON.stringify(returnItem));
+      if (typeof window !== "undefined") {
+        window[storageType].setItem(key, JSON.stringify(returnItem));
+      }
       return returnItem;
     } catch (error) {
       console.log("useLocalStorage - useState", error);
