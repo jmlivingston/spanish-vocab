@@ -43,7 +43,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
     })();
   }, [data, router, user, isComplete]);
 
-  const { answer, id, question } = filteredData?.find(({ id }) => id === testId) || {};
+  const { answer, answerDetails, id, question, questionDetails } = filteredData?.find(({ id }) => id === testId) || {};
 
   useEffect(() => {
     (async () => {
@@ -108,11 +108,30 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
             <main className="content">
               <div>{question}</div>
               <div>{!isAsking ? answer : <>&nbsp;</>}</div>
+              <div className="details">
+                {!isAsking ? (
+                  <>
+                    <div>{questionDetails}</div>
+                    <hr />
+                    <div>{answerDetails}</div>
+                  </>
+                ) : (
+                  <>&nbsp;</>
+                )}
+              </div>
             </main>
             <footer>
-              {isAsking && <button onClick={() => setIsAsking(false)}>Check</button>}
-              {!isAsking && <button onClick={() => setTestAnswer(true)}>YES</button>}
-              {!isAsking && <button onClick={() => setTestAnswer(false)}>NO</button>}
+              {isAsking && <button onClick={() => setIsAsking(false)}>CHECK</button>}
+              {!isAsking && (
+                <button className="yes" onClick={() => setTestAnswer(true)}>
+                  YES
+                </button>
+              )}
+              {!isAsking && (
+                <button className="no" onClick={() => setTestAnswer(false)}>
+                  NO
+                </button>
+              )}
             </footer>
           </>
         )}

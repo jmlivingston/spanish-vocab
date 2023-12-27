@@ -1,7 +1,7 @@
 .test-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 20px 40px;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+  gap: 20px 20px;
   margin: 20px;
 }
 
@@ -12,5 +12,11 @@
     button {
       width: 100%;
     }
+  }
+}
+
+@media (min-width: 768px) {
+  .test-list {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
 }
