@@ -16,6 +16,11 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
   const [isAsking, setIsAsking] = useState(true);
   const [filteredData, setFilteredData] = useState([]);
   const link = isReview ? "review" : "test";
+  let nextId;
+  let previousId;
+  let isFirst;
+  let isLast;
+  let currentIndex;
 
   useEffect(() => {
     if (isReview) {
@@ -23,7 +28,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
     } else {
       setFilteredData(testGroupData);
     }
-  }, [isReview, testGroupData, reviewIds]);
+  }, [isReview]);
 
   useEffect(() => {
     (async () => {
@@ -60,13 +65,8 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
         }
       }
     })();
-  }, [data, id, link, nextId, previousId, reviewIds, router, setData, testGroupId, testAnswer]);
+  }, [testAnswer]);
 
-  let nextId;
-  let previousId;
-  let isFirst;
-  let isLast;
-  let currentIndex;
   if (filteredData?.length > 0) {
     currentIndex = filteredData.findIndex(({ id }) => id === testId);
     isFirst = 0 === currentIndex;
