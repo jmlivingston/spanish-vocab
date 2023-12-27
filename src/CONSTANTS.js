@@ -1,4 +1,4 @@
-const IS_MOCKED = true;
+const IS_MOCKED = process.env.IS_MOCKED === "true";
 
 const STORAGE_ROOT_KEY = "spanish-vocab";
 
