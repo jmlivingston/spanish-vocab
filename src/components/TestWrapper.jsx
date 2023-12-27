@@ -58,7 +58,7 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
           if (previousId === nextId) {
             setIsComplete(true);
           } else {
-            router.push(`/${link}/${testGroupId}/${nextId + 1}`);
+            router.push(`/${link}/${testGroupId}/${nextId}`);
           }
         } catch (error) {
           setError(error.message);
@@ -81,8 +81,8 @@ function TestWrapper({ isReview, testGroupData, testGroupId, testId }) {
       nextId = filteredData[0].id;
       previousId = testId - 1;
     } else {
-      nextId = testId + 1;
-      previousId = testId - 1;
+      nextId = filteredData[currentIndex + 1].id;
+      previousId = filteredData[currentIndex - 1].id;
     }
   }
 
