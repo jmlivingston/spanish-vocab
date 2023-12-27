@@ -3,7 +3,9 @@ import Link from "next/link";
 import TEST_GROUPS from "../TEST_GROUPS";
 import "./Home.css";
 
-const ReviewCount = dynamic(() => import("../components/ReviewCount"), { ssr: false });
+const ReviewCount = dynamic(() => import("../components/ReviewCount"), {
+  loading: () => <p>Loading...</p>,
+});
 
 export default async function Home() {
   return (
